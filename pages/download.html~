@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-        <title></title>
+        <title>Download</title>
         <meta charset="utf-8" />
 
 
@@ -53,53 +53,59 @@
 
                 <li><a href="http://www.boris.unito.it/pages/features.html">Features</a></li>
                 <li><a href="http://www.boris.unito.it/pages/screenshots.html">Screenshots</a></li>
-                <li><a href="http://www.boris.unito.it/pages/download.html">Download</a></li>
+                <li class="active"><a href="http://www.boris.unito.it/pages/download.html">Download</a></li>
                 <li><a href="http://www.boris.unito.it/pages/documentation.html">Documentation</a></li>
                 <li><a href="http://www.boris.unito.it/pages/about.html">About BORIS...</a></li>
 
               </ul>
             </div>
 
-    <h1></h1>
+    <h1>Download</h1>
     
 
-    <img alt="microsoft windows logo" src="http://www.boris.unito.it/images/windows_logo.png" style="width: 64px;" />
-<div class="section" id="download-boris-for-microsoft-windows">
-<h2>Download BORIS for Microsoft-Windows</h2>
+    <p><strong>BORIS</strong> is a free and open-source software, and is released under the GNU <a class="reference external" href="http://www.gnu.org/copyleft/gpl.html">General Public License</a>.</p>
+
 <p>Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere:</p>
 <div class="highlight"><pre><span></span>Friard, O. and Gamba, M. (2016), BORIS: a free, versatile open-source event-logging software for video/audio coding and live observations. Methods Ecol Evol, 7: 1325–1330.
 doi:10.1111/2041-210X.12584
 </pre></div>
-<p>This version include VLC and FFmpeg, is available in 32-bit or 64-bit versions.</p>
-<div class="section" id="boris-for-windows-setup-v-4-1-4">
-<h3>BORIS for Windows Setup v.4.1.4</h3>
-<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/boris-4.1.4.win32.setup.exe">32-bit BORIS for Windows Setup v.4.1.4</a></p>
-<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/boris-4.1.4.win64.setup.exe">64-bit BORIS for Windows Setup v.4.1.4</a></p>
-<p>The default install path is located in your home directory (for example c:usersjoeBORIS)</p>
+
+<p>If you find this software useful, please send me <a class="reference external" href="http://www.boris.unito.it/pages/postcards.html">nice postcard</a> of the place where do you live.</p>
+<div class="section" id="linux-logo-download-boris-for-gnu-linux">
+<h2><a class="reference external" href="http://www.boris.unito.it/pages/download_linux.html"><img alt="Tux Linux logo" src="http://www.boris.unito.it/images/tux_128px.png" style="width: 64px;" /></a> <a class="reference external" href="http://www.boris.unito.it/pages/download_linux.html">Download BORIS for GNU/Linux</a></h2>
 </div>
-<div class="section" id="boris-for-windows-portable-v-4-1-4">
-<h3>BORIS for Windows Portable v.4.1.4</h3>
-<p>Portable means that no installation is required.</p>
-<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/boris-4.1.4.win32.zip">32-bit BORIS for Windows Portable v.4.1.4</a></p>
-<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/boris-4.1.4.win64.zip">64-bit BORIS for Windows Portable v.4.1.4</a></p>
-<p>The Portable version do not need installation and can be used from an USB drive. Just extract the archive and launch boris.exe</p>
+<div class="section" id="win-logo-download-boris-for-microsoft-windows">
+<h2><a class="reference external" href="http://www.boris.unito.it/pages/download_win_template.html"><img alt="microsoft windows logo" src="http://www.boris.unito.it/images/windows_logo.png" style="width: 58px;" /></a>  <a class="reference external" href="http://www.boris.unito.it/pages/download_win_template.html">Download BORIS for Microsoft-Windows</a></h2>
 </div>
-<div class="section" id="attention">
-<h3>Attention!</h3>
-<p>If you are using an old version of Windows (&lt;10) and have problem launching BORIS, you have to install the <strong>Update for Universal C Runtime in Windows</strong>
-See <a class="reference external" href="https://support.microsoft.com/en-us/kb/2999226">https://support.microsoft.com/en-us/kb/2999226</a></p>
+<div class="section" id="mac-logo-download-boris-for-mac">
+<h2><a class="reference external" href="http://www.boris.unito.it/pages/download_mac.html"><img alt="mac os logo" src="http://www.boris.unito.it/images/macos_logo.png" style="width: 72px;" /></a> <a class="reference external" href="http://www.boris.unito.it/pages/download_mac.html">Download BORIS for Mac</a></h2>
 </div>
-<div class="section" id="boris-debugging-version-v-4-1-4">
-<h3>BORIS debugging version v.4.1.4</h3>
-<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/boris-debug.4.1.4.win64.zip">64-bit BORIS for Windows DEBUG v.4.1.4</a> (portable version).</p>
-<p>Use this version if you want to report bug. In this case you should include screenshots or a copy of the terminal output.</p>
-<div class="section" id="checksums">
-<h4>Checksums</h4>
-<p><a class="reference external" href="https://en.wikipedia.org/wiki/Checksum">What Is a Checksum?</a></p>
-<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/md5sum.txt">MD5</a>
-<a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/sha1sum.txt">SHA1</a>
-<a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v4.1.4/sha256sum.txt">SHA256</a></p>
+<div class="section" id="android-logo-download-boris-app-for-android">
+<h2><a class="reference external" href="http://www.boris.unito.it/pages/download_android.html"><img alt="Android logo" src="http://www.boris.unito.it/images/android_logo.png" style="width: 60px;" /></a> <a class="reference external" href="http://www.boris.unito.it/pages/download_android.html">Download BORIS App for Android</a></h2>
 </div>
+<div class="section" id="previous-versions">
+<h2>Previous versions</h2>
+<p>All previous versions of BORIS are available in the <a class="reference external" href="https://drive.google.com/folderview?id=0B0KTzxkLpPJ_bE8zOUFjenFnU3c&amp;usp=sharing">BORIS archive</a>.
+Please note that the backward compatibility of a BORIS project is not guaranteed!</p>
+</div>
+<div class="section" id="test">
+<h2>Test</h2>
+<p>You can download small videos to test BORIS on your system:</p>
+<div class="line-block">
+<div class="line"><a class="reference external" href="http://www.boris.unito.it/static/archive/video1.avi">video1.avi</a></div>
+<div class="line"><a class="reference external" href="http://www.boris.unito.it/static/archive/video2.avi">video2.avi</a></div>
+</div>
+</div>
+<div class="section" id="credits">
+<h2>Credits</h2>
+<p>BORIS is developed entirely with open source software.</p>
+<div class="line-block">
+<div class="line">BORIS is developped in <a class="reference external" href="http://www.python.org">Python 3</a> using <a class="reference external" href="http://www.riverbankcomputing.com/software/pyqt/intro">PyQt5</a> for the GUI.</div>
+<div class="line">The <a class="reference external" href="https://wiki.videolan.org/Python_bindings">VLC Python binding</a> is used to play media files.</div>
+<div class="line">The <a class="reference external" href="http://matplotlib.org">matplotlib</a>  is used for plotting events and generating the spectrogram.</div>
+<div class="line">The <a class="reference external" href="https://www.ffmpeg.org">FFmpeg</a>  multimedia framework is used to extract media files parameters, in frame-by-frame mode and in spectrogram visualization.</div>
+<div class="line">The <a class="reference external" href="https://tablib.readthedocs.org">Tablib</a> Python module is used to export data in TSV, CSV, ODS and XLS formats.</div>
+<div class="line">The <a class="reference external" href="http://www.graphviz.org">Graphviz</a> graph visualization software is used (optionally) to generate transitions graph.</div>
 </div>
 </div>
 
