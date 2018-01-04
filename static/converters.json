@@ -1,0 +1,9 @@
+{
+ "BORIS converters":{
+  "HHMMSS_2_seconds":{
+   "name":"HHMMSS_2_seconds",
+   "description":"convert HH:MM:SS in seconds",
+   "code":"\nh, m, s = INPUT.split(':')\nOUTPUT = int(h) * 3600 + int(m) * 60 + int(s)\n\n"
+  }
+ }
+}
