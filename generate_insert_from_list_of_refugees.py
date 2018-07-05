@@ -1,5 +1,7 @@
-# generate a file to be inserted 
+# generate an HTML file with one entry of the '34,361 documented deaths of refugees and migrants' file
 
+import os
+import time
 import random
 
 HTML = """
@@ -24,13 +26,24 @@ Documentation by UNITED as of 5 May 2018<br>
 
 list = open("deaths_of_refugees_and_migrants.tsv").read().split("\n")
 
-person = random.choice(list).split("\t")
+while True:
 
-txt = (f"Found dead: <b>{person[0]}</b><br>"
+    person = random.choice(list).split("\t")
+
+    txt = (f"Found dead: <b>{person[0]}</b><br>"
 f"Number of person: <b>{person[1]}</b><br>"
 f"Name, gender, age: <b>{person[2]}</b><br>"
 f"Region of origin: <b>{person[3]}</b><br>"
 f"Cause of death: <b>{person[4]}</b><br>"
 f"Source: {person[5]}<br>")
 
-print(HTML.format(txt))
+    print(HTML.format(txt))
+
+    with open("death_of_refugees_and_migrants.html", "w") as f_out:
+        f_out.write(HTML.format(txt))
+    
+    os.system("git commit -a -m 'modified the_list'; git push")
+    
+    time.sleep(10)
+
+
