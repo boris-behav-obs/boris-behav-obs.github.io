@@ -44,6 +44,6 @@ f"Source: {person[5]}<br>")
     
     os.system("git commit -a -m 'modified the_list'; git push")
     
-    time.sleep(10)
+    time.sleep(120)
 
 
