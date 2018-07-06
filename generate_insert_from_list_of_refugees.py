@@ -30,20 +30,23 @@ while True:
 
     person = random.choice(list).split("\t")
 
-    txt = (f"Found dead: <b>{person[0]}</b><br>"
-f"Number of person: <b>{person[1]}</b><br>"
-f"Name, gender, age: <b>{person[2]}</b><br>"
-f"Region of origin: <b>{person[3]}</b><br>"
-f"Cause of death: <b>{person[4]}</b><br>"
-f"Source: {person[5]}<br>")
-
-    print(HTML.format(txt))
-
-    with open("death_of_refugees_and_migrants.html", "w") as f_out:
-        f_out.write(HTML.format(txt))
+    try:
+        txt = (f"Found dead: <b>{person[0]}</b><br>"
+               f"Number of person: <b>{person[1]}</b><br>"
+               f"Name, gender, age: <b>{person[2]}</b><br>"
+               f"Region of origin: <b>{person[3]}</b><br>"
+               f"Cause of death: <b>{person[4]}</b><br>"
+               f"Source: {person[5]}<br>")
     
-    os.system("git commit -a -m 'modified the_list'; git push")
+        print(HTML.format(txt))
     
-    time.sleep(120)
+        with open("death_of_refugees_and_migrants.html", "w") as f_out:
+            f_out.write(HTML.format(txt))
+
+        os.system("git commit -a -m 'modified the_list'; git push")
+        time.sleep(120)
+    except:
+        print(f"error with {person}")
+    
 
 
