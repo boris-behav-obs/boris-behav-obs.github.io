@@ -4,9 +4,10 @@
 
         <title>About BORIS...</title>
         <meta charset="utf-8" />
+        <link rel="icon" type="image/png" href="/images/new_logo.128px.png"/>
 
+        <link href="http://www.boris.unito.it/static/atom.xml" type="application/atom+xml" rel="alternate" title="BORIS Atom Feed" />
 
-        <!-- Mobile viewport optimized: j.mp/bplateviewport -->
         <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
 
         <link rel="stylesheet" type="text/css" href="http://www.boris.unito.it/theme/gumby.css" />
@@ -40,10 +41,6 @@
 
         <div class="row">
 
-          <!--
-          <header id="banner" class="body">
-                  <h1><a href="http://www.boris.unito.it/">BORIS <strong></strong></a></h1>
-          </header><!-- /#banner -->
 
             <div id="navigation" class="navbar row">
               <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
@@ -82,7 +79,8 @@
 <div class="section" id="acknowledgment">
 <h2>Acknowledgment</h2>
 <p>The authors would like to acknowledge Sergio Castellano, Valentina Matteucci and Laura Ozella for their precious help.</p>
-<p>The <a class="reference external" href="http://www.boris.unito.it/images/boris_800x671px.jpg">BORIS logo</a> was designed by Margot Friard</p>
+<p>All BORIS logo were designed by Margot Friard:
+<a class="reference external" href="http://www.boris.unito.it/images/new_logo_color.png">new logo</a>  and <a class="reference external" href="http://www.boris.unito.it/images/old_logo.jpg">old logo</a></p>
 <!-- `.. image:: {filename}/images/lemur_dolphin.png <{filename}/images/boris_800x671px.jpg>`_ -->
 <p>If you find this software useful, please send me a <a class="reference external" href="http://www.boris.unito.it/pages/postcards.html">nice postcard</a> of the place where do you live.</p>
 </div>
@@ -94,24 +92,30 @@
 <div class="section" id="bug-report">
 <h3>Bug report</h3>
 <p>Please report any bug (found in the latest BORIS version) using the <a class="reference external" href="http://https://github.com/olivierfriard/BORIS/issues">GitHub repository</a> or
-eventually by e-mail (in english, french or italian). Read the <a class="reference external" href="http://www.boris.unito.it/pages/faq.html">FAQ</a> first to check if your problem is already fixed and <strong>remember to indicate your OS, your OS version, the BORIS version you are using</strong>.</p>
+eventually by e-mail (in english, french or italian). Read the <a class="reference external" href="http://www.boris.unito.it/pages/faq.html">FAQ</a> first to check if your problem is
+already fixed and <strong>remember to indicate your OS, your OS version, the BORIS version you are using</strong>.</p>
 </div>
 <div class="section" id="feature-request">
 <h3>Feature request</h3>
-<p>For suggestion and feature request please use the <a class="reference external" href="http://https://github.com/olivierfriard/BORIS/issues">GitHub repository</a>. or
-eventually the <a class="reference external" href="https://groups.google.com/forum/?hl=en#!forum/boris-behav-obs">discussion group</a></p>
+<p>For suggestion and feature request please use the <a class="reference external" href="http://https://github.com/olivierfriard/BORIS/issues">GitHub repository</a>.</p>
+</div>
+<div class="section" id="mailing-list">
+<h3>Mailing list</h3>
+<p>If you want to be alerted by email when a new version is available send me an email.</p>
+</div>
 </div>
 <div class="section" id="credits">
-<h3>Credits</h3>
+<h2>Credits</h2>
 <p>BORIS is developed entirely with open source software.</p>
 <div class="line-block">
 <div class="line">BORIS is developped in <a class="reference external" href="http://www.python.org">Python 3.6</a> using <a class="reference external" href="http://www.riverbankcomputing.com/software/pyqt/intro">PyQt5</a> for the GUI.</div>
 <div class="line">The <a class="reference external" href="https://wiki.videolan.org/Python_bindings">VLC Python binding</a> is used to play media files.</div>
-<div class="line">The <a class="reference external" href="http://matplotlib.org">matplotlib</a>  is used for plotting events and generating the spectrogram.</div>
+<div class="line">The <a class="reference external" href="http://matplotlib.org">Matplotlib</a>  python 2D plotting library is used for plotting events and generating the spectrogram.</div>
 <div class="line">The <a class="reference external" href="https://www.ffmpeg.org">FFmpeg</a>  multimedia framework is used to extract media files parameters, in frame-by-frame mode and in spectrogram visualization.</div>
 <div class="line">The <a class="reference external" href="https://tablib.readthedocs.org">Tablib</a> Python module is used to export data in TSV, CSV, ODS, XLSX, HTML and XLS formats.</div>
 <div class="line">The <a class="reference external" href="http://www.graphviz.org">Graphviz</a> graph visualization software is used (optionally) to generate transitions graph.</div>
-</div>
+<div class="line">BORIS executable files are deployed on Windows, Mac and Linux with <a class="reference external" href="https://www.pyinstaller.org/">PyInstaller</a></div>
+<div class="line">The BORIS web site is made using <a class="reference external" href="https://blog.getpelican.com/">Pelican</a> static site generator.</div>
 </div>
 </div>
 
@@ -123,20 +127,6 @@ eventually the <a class="reference external" href="https://groups.google.com/for
        <div class="container.nopad bg">
 
         <footer id="credits" class="row">
-
-
-        <!--
-          <div class="seven columns left-center">
-
-                   <address id="about" class="vcard body">
-                    Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                    which takes great advantage of <a href="http://python.org">Python</a>.
-                    <br />
-                    Based on the <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a>
-                    </address>
-          </div>
-
-          -->
 
 
           <div class="seven columns">
@@ -153,17 +143,21 @@ eventually the <a class="reference external" href="https://groups.google.com/for
 
 <a href="https://twitter.com/BORIS_behav_obs" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/twitter.svg" width="54px" style="padding-left: 20px;" alt="Twitter"></a>
 
-<a href="http://www.facebook.com/pages/BORIS-software/318697441616743" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/facebook.svg" width="54px" style="padding-left: 20px;" alt="Facebook"></a>
+<!--<a href="http://www.facebook.com/pages/BORIS-software/318697441616743" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/facebook.svg" width="54px" style="padding-left: 20px;" alt="Facebook"></a>-->
 
 <a href="https://groups.google.com/forum/?hl=en#!forum/boris-behav-obs" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/google-plus.svg" width="54px" style="padding-left: 20px;" alt="Google Group"></a>
 
 
+<a href="https://gitter.im/BORIS_software" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/gitter.svg" width="54px" style="padding-left: 20px;" alt="Gitter"></a>
+
 <a href="https://www.linkedin.com/groups/7448012" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/linkedin.svg" width="54px" style="padding-left: 20px;" alt="LinkedIn"></a>
 
-<!--<a href="https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=15449571356090273018&scipsc=&q=&scisbd=1" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/google-scholar.png" width="64px" style="padding-left: 20px;" alt="Google Scholar"></a>-->
+<a href="https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=15449571356090273018&scipsc=&q=&scisbd=1" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/google-scholar.png" width="64px" style="padding-left: 20px;" alt="Google Scholar"></a>
 
 <a href="https://www.youtube.com/channel/UCo-Jyvzawwp0bRMEor4aLVQ" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/youtube.svg" width="54px" style="padding-left: 20px;" alt="YouTube"></a>
 
+<br>
+<a href="https://stallman.org/facebook.html"><img src="https://stallman.org/no-facebook-200x64.png" width="200px" style="padding-left: 20px;"></a>
 <ul>
 
 
