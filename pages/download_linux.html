@@ -88,11 +88,14 @@
 <p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.9.4/boris-7.9.4.linux64-18.04.tar.bz2">BORIS for Linux 64-bit v.7.9.4</a></p>
 <p>For older distributions (like Ubuntu 16.04 or Ubuntu 14.04):</p>
 <p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.9.4/boris-7.9.4.linux64-16.04.tar.bz2">BORIS for Linux 64-bit v.7.9.4 16.04</a></p>
-<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.9.4/boris-7.9.4.linux64-14.04.tar.bz2">BORIS for Linux 64-bit v.7.9.4 14.04</a></p>
+<!-- `BORIS for Linux 64-bit v.7.9.4 14.04 <https://github.com/olivierfriard/BORIS/releases/download/v7.9.4/boris-7.9.4.linux64-14.04.tar.bz2>`_ -->
 <p>Download, uncompress the archive and launch <strong>boris</strong></p>
 <p>BORIS for Linux 32-bit is no more available due to the fact that Qt is not available for 32 bits.
 If you are using Linux at 32-bit you must run BORIS from sources.</p>
-<p><strong>If you are using Ubuntu 18.04 you have to uninstall the preinstalled VLC and reinstall it typing the following command into a terminal::</strong></p>
+<p><strong>If you are using Ubuntu 18.04 and VLC is pre-installed via snap you have to uninstall it::</strong></p>
+<blockquote>
+sudo snap remove vlc</blockquote>
+<p><strong>and reinstall it typing the following command into a terminal::</strong></p>
 <blockquote>
 sudo apt-get install vlc</blockquote>
 </div>
@@ -107,20 +110,21 @@ sudo apt-get install vlc</blockquote>
 <p>the <a class="reference external" href="https://ffmpeg.org">FFmpeg</a> framework,</p>
 <p>the <a class="reference external" href="http://matplotlib.org">Matplotlib</a> Python library</p>
 <p>the <a class="reference external" href="http://docs.python-tablib.org">Tablib</a> Python library</p>
+<p>the <a class="reference external" href="https://pypi.org/project/python-intervals/">python-intervals</a> Python library</p>
 <p>If you want to generate transition flow graph you can also install the <a class="reference external" href="http://www.graphviz.org">Graphviz</a> package (but it is not required).</p>
 <p>Install these packages following the instructions relative to your distribution:</p>
-<p>Example for DEB based distributions:</p>
+<p>Example for DEB based distributions (like Debian, Ubuntu, Kubuntu, Xubuntu ...):</p>
 <p>Open a terminal and type:</p>
 <pre class="literal-block">
 su (your root password will be required)
 apt install vlc ffmpeg graphviz
-pip3 install pyqt5 numpy matplotlib tablib
+pip3 install pyqt5 numpy matplotlib tablib python-intervals
 </pre>
 <p>or:</p>
 <pre class="literal-block">
 sudo (your user password will be required)
 apt install vlc ffmpeg graphviz
-pip3 install pyqt5 numpy matplotlib tablib
+pip3 install pyqt5 numpy matplotlib tablib python-intervals
 </pre>
 <p>Download the BORIS source code:</p>
 <pre class="literal-block">
