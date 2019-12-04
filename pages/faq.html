@@ -76,7 +76,8 @@ on your system.</p>
 </div>
 <div class="section" id="my-video-does-not-play-well-with-boris">
 <h2>My video does not play (well) with BORIS</h2>
-<p>To be used with BORIS your video must play well with <a class="reference external" href="https://www.videolan.org/vlc">VLC media player</a> because BORIS used the VLC libraries (embedded).</p>
+<p>To be used with BORIS your video must play well with <a class="reference external" href="https://www.videolan.org/vlc">VLC media player</a> because BORIS used the VLC libraries.
+The VLC libaries are embedded in BORIS executable versions (except for Linux).</p>
 <p>If your video do not play with VLC, you can try to re-encode it.</p>
 <p>You can use the embedded tool in BORIS. See <strong>Tools &gt; Re-encode/resize video</strong> and the
 guide (<a class="reference external" href="http://boris.readthedocs.io/en/latest/#re-encoding-and-resizing-a-video-file">http://boris.readthedocs.io/en/latest/#re-encoding-and-resizing-a-video-file</a>)</p>
@@ -84,11 +85,17 @@ guide (<a class="reference external" href="http://boris.readthedocs.io/en/latest
 Various graphic interfaces are available: <a class="reference external" href="http://qwinff.github.io">QWinFF</a>, <a class="reference external" href="https://handbrake.fr">HandBrake</a> ...</p>
 <p>If your video plays with VLC and not in BORIS you can contact me and send me your video.</p>
 </div>
-<div class="section" id="the-program-crash-under-ubuntu-18-04-when-i-create-a-new-observation">
-<h2>The program crash under Ubuntu 18.04 when I create a new observation</h2>
-<p>You have to uninstall the preinstalled VLC and reinstall it typing the following command into a terminal:</p>
+<div class="section" id="the-program-crash-under-ubuntu-when-i-create-a-new-observation">
+<h2>The program crash under Ubuntu when I create a new observation</h2>
+<p>If VLC is preinstalled with the snap utility (check with <strong>snap list</strong>) you will have to uninstall it. Open a terminal and type:</p>
 <pre class="literal-block">
-sudo apt-get install vlc
+   sudo snap remove vlc
+   (your password will be required)
+
+VLC must be reinstalled with the apt utility. Open a terminal and type::
+
+   sudo apt install vlc
+   (your password will be required)
 </pre>
 </div>
 <div class="section" id="on-my-mac-it-is-impossible-to-manage-the-dockwidgets">
