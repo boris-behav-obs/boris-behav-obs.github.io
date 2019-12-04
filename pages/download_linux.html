@@ -121,17 +121,27 @@ sudo apt-get install vlc
 <p>If you want to generate transition flow graphs directly from BOIRS you have to install the <a class="reference external" href="http://www.graphviz.org">Graphviz</a> package (not mandatory).</p>
 <p>Install these packages following the instructions relative to your distribution:</p>
 <p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu ...:</p>
-<p>Open a terminal and type:</p>
+<p>For Debian, open a terminal and type:</p>
 <pre class="literal-block">
 su (your root password will be required)
-apt install vlc ffmpeg graphviz
-pip3 install pyqt5 numpy matplotlib tablib python-intervals
+apt install vlc ffmpeg graphviz python3-pip
 </pre>
-<p>or:</p>
+<p>For Ubuntu and Ubuntu like:</p>
 <pre class="literal-block">
-sudo (your user password will be required)
-apt install vlc ffmpeg graphviz
-pip3 install pyqt5 numpy matplotlib tablib python-intervals
+sudo apt install vlc ffmpeg graphviz python3-pip
+(your root password will be required)
+</pre>
+<p>It is recommended to create a Python virtual environment to do not interfere with the Python modules installed on your system:</p>
+<pre class="literal-block">
+pip3 -m venv boris_virtual_env
+</pre>
+<p>Activate the virtual environment:</p>
+<pre class="literal-block">
+source boris_virtual_env/bin/activate
+</pre>
+<p>Install the required Python modules with pip:</p>
+<pre class="literal-block">
+python3 -m pip install pyqt5 numpy matplotlib tablib python-intervals
 </pre>
 <p>Download the BORIS source code:</p>
 <pre class="literal-block">
