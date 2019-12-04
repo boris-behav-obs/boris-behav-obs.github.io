@@ -92,12 +92,19 @@
 <p>Download, uncompress the archive and launch <strong>boris</strong></p>
 <p>BORIS for Linux 32-bit is no more available due to the fact that Qt is not available for 32 bits.
 If you are using Linux at 32-bit you must run BORIS from sources.</p>
-<p><strong>If you are using Ubuntu 18.04 and VLC is pre-installed via snap you have to uninstall it::</strong></p>
-<blockquote>
-sudo snap remove vlc</blockquote>
-<p><strong>and reinstall it typing the following command into a terminal::</strong></p>
-<blockquote>
-sudo apt-get install vlc</blockquote>
+<p><strong>Warning</strong></p>
+<p>If you are using Ubuntu and VLC is pre-installed via snap you have to uninstall it. Open a terminal and type:</p>
+<pre class="literal-block">
+sudo snap remove vlc
+</pre>
+<p>To check if VLC is installed via snap on your system, open a terminal and type:</p>
+<pre class="literal-block">
+snap list
+</pre>
+<p>To install VLC via apt, open a terminal and type:</p>
+<pre class="literal-block">
+sudo apt-get install vlc
+</pre>
 </div>
 <div class="section" id="run-from-sources">
 <h3>Run from sources</h3>
@@ -111,9 +118,9 @@ sudo apt-get install vlc</blockquote>
 <p>the <a class="reference external" href="http://matplotlib.org">Matplotlib</a> Python library</p>
 <p>the <a class="reference external" href="http://docs.python-tablib.org">Tablib</a> Python library</p>
 <p>the <a class="reference external" href="https://pypi.org/project/python-intervals/">python-intervals</a> Python library</p>
-<p>If you want to generate transition flow graph you can also install the <a class="reference external" href="http://www.graphviz.org">Graphviz</a> package (but it is not required).</p>
+<p>If you want to generate transition flow graphs directly from BOIRS you have to install the <a class="reference external" href="http://www.graphviz.org">Graphviz</a> package (not mandatory).</p>
 <p>Install these packages following the instructions relative to your distribution:</p>
-<p>Example for DEB based distributions (like Debian, Ubuntu, Kubuntu, Xubuntu ...):</p>
+<p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu ...:</p>
 <p>Open a terminal and type:</p>
 <pre class="literal-block">
 su (your root password will be required)
