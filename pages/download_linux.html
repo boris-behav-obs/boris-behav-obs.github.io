@@ -95,25 +95,34 @@
 Download, uncompress the archive and launch **boris** -->
 <p>BORIS for Linux 32-bit is no more available due to the fact that Qt is not available for 32 bits.
 If you are using Linux at 32-bit you must run BORIS from sources.</p>
-<p><strong>Warning</strong></p>
-<p>If you are using Ubuntu and VLC is pre-installed via snap you have to uninstall it. Open a terminal and type:</p>
-<pre class="literal-block">
-sudo snap remove vlc
-</pre>
-<p>To check if VLC is installed via snap on your system, open a terminal and type:</p>
+<p><strong>Warning for VLC installation</strong></p>
+<p>If you are using Ubuntu and VLC is installed vith <strong>snap</strong> you have to uninstall it and re-install it with <strong>apt</strong>.</p>
+<p>Verify if VLC is installed with snap, open a terminal and type:</p>
 <pre class="literal-block">
 snap list
 </pre>
-<p>To install VLC via apt, open a terminal and type:</p>
+<p>if vlc is present in the list you have to uninstall it, open a terminal and type:</p>
 <pre class="literal-block">
-sudo apt-get install vlc
+sudo snap remove vlc
 </pre>
-<p><strong>Warning: additional libraries</strong></p>
-<p>On <strong>Ubuntu 20.04</strong> it can be necessary to install the following libraries:</p>
+<p>You have then to re-install VLC <strong>with apt</strong>, open a terminal and type:</p>
+<pre class="literal-block">
+sudo apt install vlc
+</pre>
+<p><strong>Warning for Ubuntu 20.04</strong></p>
+<p>If BORIS does not run it can be necessary to install the following
+libraries. Open a terminal and type:</p>
 <pre class="literal-block">
 sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
 (your root password will be required)
 </pre>
+<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal
+and type:</p>
+<pre class="literal-block">
+sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
+(your root password will be required)
+</pre>
+<p>To open a terminal on Ubuntu you can press ALT+F2 and type <tt class="docutils literal"><span class="pre">gnome-terminal</span></tt></p>
 </div>
 <div class="section" id="run-from-sources">
 <h3>Run from sources</h3>
