@@ -73,11 +73,11 @@
 <p><img alt="Ubuntu logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png" style="width: 64px;" /> <img alt="Debian logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/194px-Openlogo-debianV2.svg.png" style="width: 56px;" /></p>
 <div class="section" id="ubuntu-debian">
 <h3>Ubuntu / Debian</h3>
-<p>If you are using <strong>Ubuntu</strong> or <strong>Debian</strong> you can install BORIS using the <strong>deb package</strong>:</p>
+<p>If you are using <strong>Ubuntu 20.04+</strong> or <strong>Debian 10</strong> you can install BORIS using the <strong>deb package</strong>:</p>
 <p>Download <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.9.24/boris_7.9.24-0.deb">BORIS deb package 64-bit v.7.9.24</a></p>
 </div>
-<div class="section" id="other-distributions">
-<h3>Other distributions</h3>
+<div class="section" id="other-distributions-or-older-ubuntu-debian">
+<h3>Other distributions or older Ubuntu/Debian</h3>
 <p>For the other distributions, download the following tar.gz archive and follow the instructions:</p>
 <p>Download <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.9.24/boris-7.9.24-linux64.tar.gz">BORIS for GNU/Linux 64-bit v.7.9.24</a></p>
 <!-- For older distributions (like Ubuntu 16.04 or Ubuntu 14.04):
@@ -149,7 +149,7 @@ sudo apt install vlc ffmpeg graphviz python3-pip
 </pre>
 <p>It is recommended to create a Python virtual environment to do not interfere with the Python modules installed on your system:</p>
 <pre class="literal-block">
-pip3 -m venv boris_virtual_env
+python3 -m venv boris_virtual_env
 </pre>
 <p>Activate the virtual environment:</p>
 <pre class="literal-block">
