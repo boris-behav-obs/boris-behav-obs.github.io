@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-        <title>BORIS</title>
+        <title>BORIS with Ubuntu</title>
         <meta charset="utf-8" />
         <link rel="icon" type="image/png" href="/images/new_logo.128px.png"/>
 
@@ -58,71 +58,89 @@
               </ul>
             </div>
 
-<section id="content">
+    <h1>BORIS with Ubuntu</h1>
+    
 
+    <img alt="Ubuntu logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png" style="width: 64px;" />
+<div class="section" id="install-boris-v-7-10-3-for-ubuntu">
+<h2>Install BORIS (v.7.10.3) for Ubuntu</h2>
+<p>Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere:</p>
+<div class="highlight"><pre><span></span>Friard, O. and Gamba, M. (2016), BORIS: a free, versatile open-source event-logging software for video/audio coding and live observations. Methods Ecol Evol, 7: 1325–1330.
+</pre></div>
+<p><a class="reference external" href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract">doi:10.1111/2041-210X.12584</a></p>
+<p>The user guide is available at <a class="reference external" href="https://boris.readthedocs.io">https://boris.readthedocs.io</a></p>
+<div class="section" id="ubuntu-20-04-or-newer">
+<h3>Ubuntu 20.04 or newer</h3>
+<p>BORIS is available as a <strong>deb package</strong>.</p>
+<p>Just download it <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris_7.10.3-0.deb">BORIS deb package 64-bit v.7.10.3</a>  and use the Software Installer</p>
+<p>You should find the icon for starting BORIS in the Education menu, you do not need everything else.</p>
+</div>
+<div class="section" id="older-ubuntu-19-04">
+<h3>Older Ubuntu (&lt;= 19.04)</h3>
+<p><strong>BORIS requires the installation of the</strong> <a class="reference external" href="https://www.videolan.org/vlc/">VLC media player</a></p>
+<div class="section" id="installing-vlc-media-player">
+<h4>Installing VLC Media Player</h4>
+<ol class="arabic">
+<li><p class="first">If VLC is already installed on your system you have to check if it was installed with the <strong>snap</strong> utility. Open a terminal type:</p>
+<pre class="literal-block">
+snap list
+</pre>
+</li>
+</ol>
+<p>If VLC if on the list, you will have to remove it. Open a terminal and type:</p>
+<pre class="literal-block">
+sudo snap remove vlc
+</pre>
+<p>You have then to re-install VLC <strong>with apt</strong>, open a terminal and type:</p>
+<pre class="literal-block">
+sudo apt install vlc
+</pre>
+<p>2) If VLC is <strong>not instaleld</strong> on your system, just install it with the <strong>apt</strong> utility.
+Open a terminal type:</p>
+<pre class="literal-block">
+sudo apt install vlc
+</pre>
+</div>
+<div class="section" id="downloading-and-installing-boris">
+<h4>Downloading and installing BORIS</h4>
+<p>Download the following tar.bz2 archive:</p>
+<p>Download <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris-7.10.3-linux64.tar.bz2">BORIS for GNU/Linux 64-bit v.7.10.3</a></p>
+<!-- For older distributions (like Ubuntu 16.04 or Ubuntu 14.04):
 
-<!--
-<script src="theme/js/csi.min.js"></script>
-<div data-include="death_of_refugees_and_migrants.html"></div>
--->
+`BORIS for GNU/Linux 64-bit v.7.10.3 for older versions <https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris-7.10.3.linux64-16.04.tar.bz2>`_
 
-<!--
-<img src="images/carola-rackete.jpg" alt="Carol Rackete">
-<p>
-<span style="font-size:24px">With Carola.</span>
-</p>
--->
+.. `BORIS for Linux 64-bit v.7.10.3 14.04 <https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris-7.10.3.linux64-14.04.tar.bz2>`_
 
+Download, uncompress the archive and launch **boris** -->
+<p>BORIS for Linux 32-bit is no more available due to the fact that Qt is not available for 32 bits.
+If you are using Linux at 32-bit you must run BORIS from sources.</p>
+<p><strong>Warning for Ubuntu 20.04</strong></p>
+<p>If BORIS does not run it can be necessary to install the following
+libraries. Open a terminal and type:</p>
+<pre class="literal-block">
+sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
+(your root password will be required)
+</pre>
+<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal
+and type:</p>
+<pre class="literal-block">
+sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
+(your root password will be required)
+</pre>
+<p>To open a terminal on Ubuntu you can press ALT+F2 and type <tt class="docutils literal"><span class="pre">gnome-terminal</span></tt></p>
+<p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
+<p>If you want to report a bug, see the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
+</div>
+<div class="section" id="checksums">
+<h4>Checksums</h4>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Checksum">What Is a Checksum?</a></p>
+<p><a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/md5sum.txt">MD5</a>
+<a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/sha1sum.txt">SHA1</a>
+<a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/sha256sum.txt">SHA256</a></p>
+</div>
+</div>
+</div>
 
-<p>
-<a href="https://blacklivesmatter.com">
-<img src="images/black_lives_matter.jpg" alt="Blac lives matter" width="100%">
-</a>
-</p>
-
-
-<img src="images/new_logo.400px.png" width="300px" alt="BORIS logo" style="padding: 1em">
-
-<img src="images/dbios_unito_500px.png" alt="DBIOS Unito logo" style="padding: 1em">
-
-<br>
-
-<h2>
-<b>
-<span style="font-size:larger;margin:0">B</span>ehavioral
-<span style="font-size:larger;margin:0">O</span>bservation
-<span style="font-size:larger;margin:0">R</span>esearch
-<span style="font-size:larger;margin:0">I</span>nteractive
-<span style="font-size:larger;margin:0">S</span>oftware</h2>
-</b>
-<p>
-BORIS is an easy-to-use event logging software for video/audio coding and live observations.<br>
-BORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS X.<br>
-</p>
-<!--
-<img src="images/boris_400_citations_640.gif" width="480px" alt="BORIS 400 citations" style="padding: 1em">
--->
-
-<p>
-Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere:<br>
-<a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract">DOI: 10.1111/2041-210X.12584</a>
-</p><!-- citing -->
-
-
-<p>
-<a href="pages/download_linux.html"><img src="images/tux_128px.png" alt="tux logo" width="68px" style="padding-right:20px"></a>
-<a href="pages/download_mac.html"><img src="images/mac-os.svg" alt="mac logo logo" width="72px" style="padding-right:20px"></a>
-<a href="pages/download_win.html"><img src="images/windows_logo.svg" alt="microsoft windows logo" width="72px" style="padding-right:20px"></a>
-<a href="pages/download_android.html"><img src="images/android_logo.png" alt="android logo" width="84px" style="padding-right:20px"></a>
-</p>
-
-<h3><a href="pages/postcards.html">User testimonials</a></h3>
-
-<h3>News</h3>
-
-<b>2021-04-29: v. 7.10.3 is available</b><br>v. 7.10.3 is available. 2 bugs were fixed. See revision history: https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history<br><a href="http://www.boris.unito.it/pages/download.html">Link</a><hr><b>2021-01-27: v. 7.10.2 is available</b><br>v. 7.10.2 is available. Some improvements made and bugs fixed. See revision history: https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history<br><a href="http://www.boris.unito.it/pages/download.html">Link</a><hr><b>2020-12-20: v. 7.9.24 is available</b><br>v. 7.9.24 is available. Fixed 3 bugs. See revision history: https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history<br><a href="http://www.boris.unito.it/pages/download.html">Link</a><hr><b>2020-12-11: >400 citations!</b><br>401 citations reported by Scopus today! (www.scopus.com)<br><a href="http://www.boris.unito.it/pages/citations.html">Link</a><hr>
-
-</section><!-- /#content -->
 
        </div><!-- /.row -->
     </div><!-- /.container -->
