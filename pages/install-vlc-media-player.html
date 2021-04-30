@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-        <title>Screenshots BORIS App</title>
+        <title>Install VLC Media Player</title>
         <meta charset="utf-8" />
         <link rel="icon" type="image/png" href="/images/new_logo.128px.png"/>
 
@@ -54,25 +54,39 @@
                 <li><a href="http://www.boris.unito.it/pages/documentation.html">Documentation</a></li>
                 <li><a href="http://www.boris.unito.it/pages/other_software.html">Other software</a></li>
                 <li><a href="http://www.boris.unito.it/pages/about.html">About BORIS</a></li>
-                <li><a href="http://www.boris.unito.it/pages/install-vlc-media-player.html">Install VLC Media Player</a></li>
+                <li class="active"><a href="http://www.boris.unito.it/pages/install-vlc-media-player.html">Install VLC Media Player</a></li>
 
               </ul>
             </div>
 
-    <h1>Screenshots BORIS App</h1>
+    <h1>Install VLC Media Player</h1>
     
 
-    <img alt="Home page" src="http://www.boris.unito.it/screenshots_android/home.png" />
-<img alt="New observation" src="http://www.boris.unito.it/screenshots_android/new_observation.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/observation1.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/view_project.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/independent_variables.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/projects_list.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/download_project.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/modifiers.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/boris_project_server.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/send_observation.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/focal_subject.png" />
+    <div class="section" id="vlc-is-already-installed">
+<h2>VLC is <strong>already installed</strong></h2>
+<p>You only have to check if it was installed with the <strong>snap</strong> utility. Open a terminal type:</p>
+<pre class="literal-block">
+snap list
+</pre>
+<p>If VLC is on the list, you must remove it. Open a terminal and type:</p>
+<pre class="literal-block">
+sudo snap remove vlc
+(your password will be required)
+</pre>
+<p>You have then to re-install VLC <strong>with apt</strong>, open a terminal and type:</p>
+<pre class="literal-block">
+sudo apt install vlc
+(your password will be required)
+</pre>
+</div>
+<div class="section" id="if-vlc-is-not-installed">
+<h2>If VLC is <strong>not installed</strong></h2>
+<p>just install it with the <strong>apt</strong> utility, open a terminal and type:</p>
+<pre class="literal-block">
+sudo apt install vlc
+(your password will be required)
+</pre>
+</div>
 
 
        </div><!-- /.row -->

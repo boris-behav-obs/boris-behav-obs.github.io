@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-        <title>Download for Linux</title>
+        <title>BORIS v.7.10.3 for Linux</title>
         <meta charset="utf-8" />
         <link rel="icon" type="image/png" href="/images/new_logo.128px.png"/>
 
@@ -50,139 +50,29 @@
 
                 <li><a href="http://www.boris.unito.it/pages/features.html">Features</a></li>
                 <li><a href="http://www.boris.unito.it/pages/screenshots.html">Screenshots</a></li>
-                <li><a href="http://www.boris.unito.it/pages/download.html">Download</a></li>
+                <li><a href="http://www.boris.unito.it/pages/download.html">Download BORIS</a></li>
                 <li><a href="http://www.boris.unito.it/pages/documentation.html">Documentation</a></li>
                 <li><a href="http://www.boris.unito.it/pages/other_software.html">Other software</a></li>
-                <li><a href="http://www.boris.unito.it/pages/about.html">About BORIS...</a></li>
+                <li><a href="http://www.boris.unito.it/pages/about.html">About BORIS</a></li>
+                <li><a href="http://www.boris.unito.it/pages/install-vlc-media-player.html">Install VLC Media Player</a></li>
 
               </ul>
             </div>
 
-    <h1>Download for Linux</h1>
+    <h1>BORIS v.7.10.3 for Linux</h1>
     
 
-    <img alt="Tux Linux logo" src="http://www.boris.unito.it/images/tux_128px.png" style="width: 64px;" />
-<div class="section" id="download-boris-for-gnu-linux-64-bit-v-7-10-3">
-<h2>Download BORIS for GNU/Linux 64-bit v.7.10.3</h2>
-<div class="section" id="ubuntu-logo-ubuntu">
-<h3><img alt="Ubuntu logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png" style="width: 64px;" /> <a class="reference external" href="http://www.boris.unito.it/pages/boris_with_ubuntu.html">Ubuntu</a></h3>
+    <div class="section" id="ubuntu-logo-ubuntu">
+<h2><img alt="Ubuntu logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png" style="width: 64px;" /> <a class="reference external" href="http://www.boris.unito.it/pages/boris_with_ubuntu.html">Ubuntu</a></h2>
 </div>
 <div class="section" id="debian-logo-debian">
-<h3><img alt="Debian logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/194px-Openlogo-debianV2.svg.png" style="width: 56px;" />  Debian</h3>
-<p>If you are using <strong>Debian 10</strong> you can install BORIS using the <strong>deb package</strong>:</p>
-<p>Download <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris_7.10.3-0.deb">BORIS deb package 64-bit v.7.10.3</a></p>
+<h2><img alt="Debian logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/194px-Openlogo-debianV2.svg.png" style="width: 56px;" /> <a class="reference external" href="http://www.boris.unito.it/pages/boris_with_debian.html">Debian</a></h2>
 </div>
-<div class="section" id="other-distributions">
-<h3>Other distributions</h3>
-<p>For the other distributions, download the following tar.gz archive and follow the instructions:</p>
-<p>Download <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris-7.10.3-linux64.tar.bz2">BORIS for GNU/Linux 64-bit v.7.10.3</a></p>
-<!-- For older distributions (like Ubuntu 16.04 or Ubuntu 14.04):
-
-`BORIS for GNU/Linux 64-bit v.7.10.3 for older versions <https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris-7.10.3.linux64-16.04.tar.bz2>`_
-
-.. `BORIS for Linux 64-bit v.7.10.3 14.04 <https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/boris-7.10.3.linux64-14.04.tar.bz2>`_
-
-Download, uncompress the archive and launch **boris** -->
-<p>BORIS for Linux 32-bit is no more available due to the fact that Qt is not available for 32 bits.
-If you are using Linux at 32-bit you must run BORIS from sources.</p>
-<p><strong>BORIS requires the installation of the</strong> <a class="reference external" href="https://www.videolan.org/vlc/">VLC media player</a></p>
-<p><strong>Warning for VLC installation</strong></p>
-<p>If you are using Ubuntu and VLC is installed vith <strong>snap</strong> you have to uninstall it and re-install it with <strong>apt</strong>.</p>
-<p>Verify if VLC is installed with snap, open a terminal and type:</p>
-<pre class="literal-block">
-snap list
-</pre>
-<p>if vlc is present in the list you have to uninstall it, open a terminal and type:</p>
-<pre class="literal-block">
-sudo snap remove vlc
-</pre>
-<p>You have then to re-install VLC <strong>with apt</strong>, open a terminal and type:</p>
-<pre class="literal-block">
-sudo apt install vlc
-</pre>
-<p><strong>Warning for Ubuntu 20.04</strong></p>
-<p>If BORIS does not run it can be necessary to install the following
-libraries. Open a terminal and type:</p>
-<pre class="literal-block">
-sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
-(your root password will be required)
-</pre>
-<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal
-and type:</p>
-<pre class="literal-block">
-sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
-(your root password will be required)
-</pre>
-<p>To open a terminal on Ubuntu you can press ALT+F2 and type <tt class="docutils literal"><span class="pre">gnome-terminal</span></tt></p>
+<div class="section" id="tux-logo-other-distributions">
+<h2><img alt="Tux Linux logo" src="http://www.boris.unito.it/images/tux_128px.png" style="width: 64px;" /> <a class="reference external" href="http://www.boris.unito.it/pages/other_linux.html">Other distributions</a></h2>
 </div>
-<div class="section" id="run-from-sources">
-<h3>Run from sources</h3>
-<div class="section" id="requirement">
-<h4>Requirement</h4>
-<p>The minimal version of Python for running BORIS is <strong>3.6</strong>. Check the Python
-version installed on your system with:</p>
-<pre class="literal-block">
-python3 --version
-</pre>
-<p>If you want to generate <a class="reference external" href="http://www.boris.unito.it/screenshots/510_flow_diagram.jpg">transition flow graphs</a> directly from BORIS you have to install the <a class="reference external" href="http://www.graphviz.org">Graphviz</a> package (not mandatory).</p>
-<p>Install these packages following the instructions relative to your distribution:</p>
-<p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu ...:</p>
-<p>For Debian, open a terminal and type:</p>
-<pre class="literal-block">
-su (your root password will be required)
-apt install vlc ffmpeg graphviz python3-pip
-</pre>
-<p><strong>Attention</strong>: if VLC is installed with <strong>snap</strong> on your Linux distrabution
-you will have to uninstall it:</p>
-<pre class="literal-block">
-sudo snap remove vlc
-(your password will be required)
-</pre>
-<p>For Ubuntu and Ubuntu like:</p>
-<pre class="literal-block">
-sudo apt install vlc ffmpeg graphviz python3-pip
-(your password will be required)
-</pre>
-<p>It is recommended to create a Python virtual environment to do not interfere with the Python modules installed on your system:</p>
-<pre class="literal-block">
-python3 -m venv boris_virtual_env
-</pre>
-<p>Activate the virtual environment:</p>
-<pre class="literal-block">
-source boris_virtual_env/bin/activate
-</pre>
-<p>Install BORIS with pip:</p>
-<pre class="literal-block">
-python3 -m pip install boris-behav-obs
-</pre>
-<p>Launch BORIS:</p>
-<pre class="literal-block">
-python3 -m boris
-</pre>
-<p><strong>Warning: additional libraries</strong></p>
-<p>On <strong>Ubuntu 20.04</strong> it can be necessary to install the following libraries:</p>
-<pre class="literal-block">
-sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
-(your password will be required)
-</pre>
-<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal
-and type:</p>
-<pre class="literal-block">
-sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
-(your root password will be required)
-</pre>
-<p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
-<p>If you want to report a bug, see the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
-<!-- Checksums
-............................................................................................................................................
-
-`What Is a Checksum?  <https://en.wikipedia.org/wiki/Checksum>`_
-
-`MD5 <https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/md5sum.txt>`_
-`SHA1 <https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/sha1sum.txt>`_
-`SHA256 <https://github.com/olivierfriard/BORIS/releases/download/v7.10.3/sha256sum.txt>`_ -->
-</div>
-</div>
+<div class="section" id="id1">
+<h2><a class="reference external" href="http://www.boris.unito.it/pages/run_from_source_code.html">Run from source code</a></h2>
 </div>
 
 

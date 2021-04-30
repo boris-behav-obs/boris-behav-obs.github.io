@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-        <title>Screenshots BORIS App</title>
+        <title>Run BORIS from source code</title>
         <meta charset="utf-8" />
         <link rel="icon" type="image/png" href="/images/new_logo.128px.png"/>
 
@@ -59,20 +59,78 @@
               </ul>
             </div>
 
-    <h1>Screenshots BORIS App</h1>
+    <h1>Run BORIS from source code</h1>
     
 
-    <img alt="Home page" src="http://www.boris.unito.it/screenshots_android/home.png" />
-<img alt="New observation" src="http://www.boris.unito.it/screenshots_android/new_observation.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/observation1.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/view_project.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/independent_variables.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/projects_list.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/download_project.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/modifiers.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/boris_project_server.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/send_observation.png" />
-<img alt="A running observation" src="http://www.boris.unito.it/screenshots_android/focal_subject.png" />
+    <div class="section" id="from-the-python-package-index-pypi">
+<h2>From the Python Package Index <a class="reference external" href="https://pypi.org/">PyPI</a></h2>
+<div class="section" id="requirement">
+<h3>Requirement</h3>
+<p>The minimal version of Python for running BORIS is <strong>3.6</strong>. Check the Python
+version installed on your system with:</p>
+<pre class="literal-block">
+python3 --version
+</pre>
+<p>Install the required packages following the instructions relative to your distribution:</p>
+<p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu ...:</p>
+<p>For Debian, open a terminal and type:</p>
+<pre class="literal-block">
+su (your root password will be required)
+apt install vlc ffmpeg python3-pip
+</pre>
+<p>For Ubuntu and Ubuntu like:</p>
+<pre class="literal-block">
+sudo apt install vlc ffmpeg graphviz python3-pip
+(your password will be required)
+</pre>
+<p>If you want to generate <a class="reference external" href="http://www.boris.unito.it/screenshots/510_flow_diagram.jpg">transition flow graphs</a>
+directly from BORIS you can install the <a class="reference external" href="http://www.graphviz.org">Graphviz</a> package:</p>
+<pre class="literal-block">
+apt install graphviz
+</pre>
+<p>or:</p>
+<pre class="literal-block">
+sudo apt install graphviz
+</pre>
+<p><strong>Attention</strong>: if you are using Ubuntu and VLC is installed with the <strong>snap</strong> utility,
+you will have to uninstall it:</p>
+<pre class="literal-block">
+sudo snap remove vlc
+(your password will be required)
+</pre>
+<p>See <a class="reference external" href="http://www.boris.unito.it/pages/install-vlc-media-player.html">install VLC on Ubuntu</a> for details.</p>
+<p>It is recommended to create a Python virtual environment to do not interfere with the Python modules installed on your system:</p>
+<pre class="literal-block">
+python3 -m venv boris_virtual_env
+</pre>
+<p>Activate the virtual environment:</p>
+<pre class="literal-block">
+source boris_virtual_env/bin/activate
+</pre>
+<p>Install BORIS with pip:</p>
+<pre class="literal-block">
+python3 -m pip install boris-behav-obs
+</pre>
+<p>Launch BORIS:</p>
+<pre class="literal-block">
+python3 -m boris
+</pre>
+<p><strong>Warning: additional libraries</strong></p>
+<p>On <strong>Ubuntu 20.04</strong> it can be necessary to install the following libraries:</p>
+<pre class="literal-block">
+sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
+(your password will be required)
+</pre>
+<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal
+and type:</p>
+<pre class="literal-block">
+sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
+(your root password will be required)
+</pre>
+<p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
+<p>If you want to report a bug, see the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
+</div>
+</div>
 
 
        </div><!-- /.row -->
