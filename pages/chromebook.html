@@ -105,6 +105,31 @@ python3 -m venv boris_venv
 </pre>
 </li>
 </ul>
+<p>You should see a new directory called “boris_venv” with the command: ls -l</p>
+<p>If the directory “boris_venv” exists, you have to activate your virtual environment:</p>
+<pre class="literal-block">
+source boris_venv/bin/activate
+</pre>
+<ul>
+<li><p class="first">Install BORIS:</p>
+<pre class="literal-block">
+pip3 install boris-behav-obs
+</pre>
+</li>
+<li><p class="first">Install ffmpeg:</p>
+<pre class="literal-block">
+sudo apt install ffmpeg libpulse-mainloop-glib0
+</pre>
+</li>
+</ul>
+<p>For future BORIS launch, you will only have to activate your virtual environment:</p>
+<pre class="literal-block">
+source boris_venv/bin/activate
+</pre>
+<p>And launch Boris:</p>
+<pre class="literal-block">
+python3 -m boris
+</pre>
 <p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
 <p>If you want to report a bug, see the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
 </div>
