@@ -62,8 +62,6 @@
     
 
     <img alt="Raspberry Pi logo" src="http://www.boris.unito.it/images/raspberry_pi_logo.png" style="width: 100px;" />
-<div class="section" id="boris-on-chrome-os">
-<h2>BORIS on Chrome OS</h2>
 <p>BORIS cannot run directly on ChromeOS.</p>
 <p>It is possible to enable a “true” Linux on ChromeOS and to use Python under this Linux (BORIS
 is coded in Python) as described at:
@@ -84,9 +82,9 @@ is coded in Python) as described at:
 sudo apt update
 </pre>
 </li>
-<li><p class="first">Install VLC:</p>
+<li><p class="first">Install VLC and FFmepg:</p>
 <pre class="literal-block">
-sudo apt install vlc
+sudo apt install vlc ffmpeg libpulse-mainloop-glib0
 </pre>
 </li>
 <li><p class="first">The minimal version of Python for running Boris is 3.6. Check the Python version:</p>
@@ -94,10 +92,10 @@ sudo apt install vlc
 python3 --version
 </pre>
 </li>
-<li><p class="first">You need to install the python3-venv package</p>
-<blockquote>
-<p>sudo apt install python3-venv</p>
-</blockquote>
+<li><p class="first">You need to install the python3-venv package:</p>
+<pre class="literal-block">
+sudo apt install python3-venv
+</pre>
 </li>
 <li><p class="first">Create a virtual environment for installing BORIS:</p>
 <pre class="literal-block">
@@ -116,11 +114,6 @@ source boris_venv/bin/activate
 pip3 install boris-behav-obs
 </pre>
 </li>
-<li><p class="first">Install ffmpeg:</p>
-<pre class="literal-block">
-sudo apt install ffmpeg libpulse-mainloop-glib0
-</pre>
-</li>
 </ul>
 <p>For future BORIS launch, you will only have to activate your virtual environment:</p>
 <pre class="literal-block">
@@ -132,7 +125,6 @@ python3 -m boris
 </pre>
 <p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
 <p>If you want to report a bug, see the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
-</div>
 
 
        </div><!-- /.row -->
