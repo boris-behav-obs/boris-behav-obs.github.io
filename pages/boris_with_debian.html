@@ -60,13 +60,31 @@
     <h1>Install BORIS v.7.13.3 for Debian</h1>
     
 
-    <div class="section" id="debian-10-or-newer">
-<h2>Debian 10 or newer</h2>
+    <div class="section" id="debian-10-and-newer">
+<h2>Debian 10 and newer</h2>
 <p>BORIS is available as a <strong>deb package</strong>.</p>
-<p>Just download it <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.13.3/boris_7.13.3-0.deb">BORIS deb package 64-bit v.7.13.3</a>  and use the Software Installer</p>
+<p>Just download it <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v7.13.3/boris_7.13.3-0.deb">BORIS deb package 64-bit v.7.13.3</a>  and use the <strong>Software Installer</strong>.</p>
 <p>You should find the icon for starting BORIS in the Education menu, you do not need everything else.</p>
+<p>If the <strong>Software Installer</strong> is not available you have 2 options:</p>
+<div class="section" id="install-the-software-installer-then-install-boris">
+<h3>Install the <strong>Software installer</strong> then install BORIS</h3>
+<p>In a terminal, type:</p>
+<pre class="literal-block">
+su (you root password will be asked)
+apt install gnome-software
+</pre>
+<p>Right-click on the .deb icon and Open with &quot;Software Install&quot;</p>
+</div>
+<div class="section" id="install-boris-with-command-line">
+<h3>Install BORIS with command-line</h3>
+<p>In a terminal, type:</p>
+<pre class="literal-block">
+su (you root password will be asked)
+apt install ./boris_7.13.3-0.deb
+</pre>
 <p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
 <p>If you want to report a bug, see the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
+</div>
 </div>
 <div class="section" id="older-debian">
 <h2>Older Debian</h2>
