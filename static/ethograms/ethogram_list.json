@@ -3,5 +3,10 @@
 "file name": "lemur_catta_ethogram.boris",
 "species": "Lemur catta",
 "author": "Valentina Matteucci"
-}
+},
+{
+"file name": "laboratory_rat_from_Gaskill_and_Pritchett-Corning_2015.boris",
+"species": "Rattus",
+"author": "Gaskill and Pritchett-Corning 2015"
+},
 ]
