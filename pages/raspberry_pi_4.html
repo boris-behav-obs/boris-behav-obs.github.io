@@ -69,8 +69,10 @@
 <p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
 <p>If you want to report a bug, see the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
 </div>
+<div class="section" id="boris-v-7">
+<h2>BORIS v.7</h2>
 <div class="section" id="install-and-launch-boris-on-the-rapsberry-4-400">
-<h2>Install and launch BORIS on the Rapsberry 4 / 400</h2>
+<h3>Install and launch BORIS on the Rapsberry 4 / 400</h3>
 <p>This procedure is based on the Raspberry Pi OS (64-bit) and should also work with another OS versions.</p>
 <p>Open a terminal (Click on Raspberry icon &gt; Accessories &gt; Terminal) and type:</p>
 <pre class="literal-block">
@@ -83,13 +85,39 @@ tar xfz v7.13.7.tar.gz
 <p>You should see a directory called BORIS-7.13.7. Remember the path of this directory in order to launch BORIS.</p>
 </div>
 <div class="section" id="launch-boris">
-<h2>Launch BORIS</h2>
+<h3>Launch BORIS</h3>
 <p>Open a terminal (Click on Raspberry icon &gt; Accessories &gt; Terminal) and go in the directory where do you extracted BORIS:</p>
 <pre class="literal-block">
 cd BORIS-7.13.7
 
 python3 start_boris.py
 </pre>
+</div>
+</div>
+<div class="section" id="boris-v-8">
+<h2>BORIS v.8</h2>
+<div class="section" id="install-and-launch-boris-on-the-rapsberry-4-400-1">
+<h3>Install and launch BORIS on the Rapsberry 4 / 400</h3>
+<p>This procedure is based on the Raspberry Pi OS (64-bit) and should also work with another OS versions.</p>
+<p>Open a terminal (Click on Raspberry icon &gt; Accessories &gt; Terminal) and type:</p>
+<pre class="literal-block">
+sudo apt install python3-matplotlib, python3-pyqt5, python3-pyqt5.qtmultimedia, python3-tablib, ffmpeg, graphviz, libmpv1, python3-exifread
+
+wget https://github.com/olivierfriard/BORIS/archive/refs/tags/v8.6.2.tar.gz
+
+tar xfz v8.6.2.tar.gz
+</pre>
+<p>You should see a directory called BORIS-8.6.2. Remember the path of this directory in order to launch BORIS.</p>
+</div>
+<div class="section" id="launch-boris-1">
+<h3>Launch BORIS</h3>
+<p>Open a terminal (Click on Raspberry icon &gt; Accessories &gt; Terminal) and go in the directory where do you extracted BORIS:</p>
+<pre class="literal-block">
+cd BORIS-8.6.2
+
+python3 start_boris.py
+</pre>
+</div>
 </div>
 
 
