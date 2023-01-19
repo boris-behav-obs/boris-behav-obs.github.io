@@ -76,6 +76,11 @@
 <dd>A time offset allows to synchronize all players.</dd>
 </dl>
 </li>
+<li><dl class="first docutils">
+<dt>Many media files can be enqueue for playing</dt>
+<dd>the recorded time will be the cumulative time over all media files.</dd>
+</dl>
+</li>
 <li>Frame-by-frame mode (forward and backward).</li>
 <li><dl class="first docutils">
 <dt>Unlimited number of <a class="reference external" href="http://www.boris.unito.it/screenshots/040_ethogram.jpg">behaviors</a>.</dt>
@@ -97,19 +102,23 @@
 <dd>Variables can be of various types: <strong>text</strong>, <strong>numeric</strong>, <strong>timestamp</strong> or <strong>set of values</strong></dd>
 </dl>
 </li>
-<li>Focus video area (with a single click on video)</li>
-<li>Video transcoding functions: Re-size / re-encode, rotate</li>
+<li>Exclusion matrix for mutually exclusive behaviors definition</li>
+</ul>
+<!-- * Focus video area (with a single click on video) -->
+<ul class="simple">
 <li>The behavior coding can be done with keyboard, mouse, by using a <a class="reference external" href="http://www.boris.unito.it/screenshots/060_behaviors_coding_map.jpg">behaviors coding map</a> or a <a class="reference external" href="http://www.boris.unito.it/screenshots/080_behaviors_coding_pad.jpg">coding pad</a> (for touch screens)</li>
 <li><dl class="first docutils">
 <dt><a class="reference external" href="http://www.boris.unito.it/screenshots/011_observation_with_external_data.jpg">External data visualization</a> from plain text files (TSV, CSV ...).</dt>
 <dd>Native or <a class="reference external" href="http://www.boris.unito.it/screenshots/200_converter_writing.jpg">custom converters</a> can be used for converting external data timestamp in seconds.</dd>
 </dl>
 </li>
-<li>Availability of an Android app for live observations (<a class="reference external" href="http://www.boris.unito.it/pages/download_android.html">BORIS App</a>)</li>
-<li><a class="reference external" href="http://www.boris.unito.it/screenshots/140_spectrogram.jpg">Sound spectrogram visualization</a></li>
+</ul>
+<!-- * Availability of an Android app for live observations (`BORIS App <{filename}download_android.rst>`_) -->
+<ul class="simple">
+<li><a class="reference external" href="http://www.boris.unito.it/screenshots/140_spectrogram.jpg">Sound spectrogram and waveform visualization</a></li>
 <li><dl class="first docutils">
 <dt><a class="reference external" href="http://www.boris.unito.it/screenshots/100_geometric_measurements.jpg">Geometric measurements</a></dt>
-<dd>in frame-by-frame mode (distance, area and angle).</dd>
+<dd>(mark, distance, area and angle).</dd>
 </dl>
 </li>
 <li><dl class="first docutils">
@@ -127,15 +136,11 @@
 </dl>
 </li>
 <li><dl class="first docutils">
-<dt>More media can be enqueue for playing</dt>
-<dd>the recorded time will be the cumulative time over all media.</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
 <dt>Coded events can be exported in various formats for further analysis:</dt>
 <dd><ul class="first last">
 <li>Plain text formats (TSV, CSV and HTML)</li>
 <li>Spreadsheets (Open Document ODS, Microsoft-Excel XLSX and XLS)</li>
+<li>Pandas and R dataframes</li>
 <li>Structured Query Language (SQL)</li>
 <li>SDIS for analysis with the <a class="reference external" href="http://www2.gsu.edu/~psyrab/gseq/index.html">GSEQ</a> program.</li>
 <li><a class="reference external" href="http://www.fon.hum.uva.nl/praat/manual/TextGrid.html">Praat TextGrid</a></li>
@@ -149,12 +154,12 @@
 <dt>Time budget analysis</dt>
 <dd><ul class="first last">
 <li><dl class="first docutils">
-<dt>3 time budgets are available:</dt>
+<dt>Various time budget formats are available:</dt>
 <dd><ul class="first last">
 <li><a class="reference external" href="http://www.boris.unito.it/screenshots/180_time_budget.jpg">Time budget</a></li>
 <li>Time budget by behavioral category</li>
 <li><a class="reference external" href="http://www.boris.unito.it/screenshots/170_synthetic_time_budget.jpg">Synthetic time budget</a>.</li>
-<li></li>
+<li>Synthetic time budget with time bin</li>
 </ul>
 </dd>
 </dl>
@@ -164,6 +169,7 @@
 <dd><ul class="first last">
 <li>Plain text formats (TSV, CSV, HTML)</li>
 <li>Spreadsheets (Open Document, Microsoft-Excel XLSX and XLS)</li>
+<li>Pandas and R dataframes</li>
 </ul>
 </dd>
 </dl>
@@ -189,11 +195,13 @@
 </dd>
 </dl>
 </li>
-<li>Media snapshot</li>
+<li><a class="reference external" href="http://www.boris.unito.it/screenshots/105_video_equalizer.jpg">Video equalizer</a></li>
+<li>Extract frames or video sequences from video files (corresponding to the coded events)</li>
+<li>Media files utilities: Re-size / re-encode, rotate and merge.</li>
 <li>Creation of video subtitles based on coded events and subjects</li>
 <li>Use of open format for storing data (JSON) to allow further analysis</li>
 <li>Import of Global Definition File from <a class="reference external" href="http://www.jwatcher.ucla.edu/">JWatcher</a></li>
-<li>Import of OTX/OTB template file from <a class="reference external" href="https://www.noldus.com/human-behavior-research/products/the-observer-xt">Noldus The Observer XT</a></li>
+<li>Import of OTX/OTB template files from <a class="reference external" href="https://www.noldus.com/human-behavior-research/products/the-observer-xt">Noldus The Observer XT</a></li>
 </ul>
 
 
