@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-        <title>BORIS v.8.9.19 for Linux</title>
+        <title>BORIS with Docker</title>
         <meta charset="utf-8" />
 
         <link rel="icon" type="image/png"  sizes="32x32" href="/images/boris_logo-3.32x32.png"/>
@@ -59,28 +59,30 @@
               </ul>
             </div>
 
-    <h1>BORIS v.8.9.19 for Linux</h1>
+    <h1>BORIS with Docker</h1>
     
 
-    <div class="section" id="current-version-v-8-9-19">
-<h2>Current version: v. 8.9.19</h2>
-<div class="section" id="ubuntu-logo-ubuntu">
-<h3><img alt="Ubuntu logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png" style="width: 64px;" /> <a class="reference external" href="ubuntu">Ubuntu</a></h3>
+    <img alt="Docker logo" src="http://www.boris.unito.it/images/docker_logo.webp" />
+<p>A Docker image with BORIS already installed is available.</p>
+<div class="section" id="install-the-boris-docker-image">
+<h2>Install the BORIS Docker image</h2>
+<p>To install it, in a terminal, type:</p>
+<pre class="literal-block">
+docker pull olivierfriard/boris:latest
+</pre>
 </div>
-<div class="section" id="debian-logo-debian">
-<h3><img alt="Debian logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/194px-Openlogo-debianV2.svg.png" style="width: 56px;" /> <a class="reference external" href="debian">Debian</a></h3>
-</div>
-<div class="section" id="raspberry-logo-raspberry-pi-4">
-<h3><object data="http://www.boris.unito.it/images/raspberry_pi.svg" style="width: 64px;" type="image/svg+xml">Raspberry Pi logo</object> <a class="reference external" href="http://www.boris.unito.it/pages/raspberry_pi_4.html">Raspberry Pi 4</a></h3>
-</div>
-<div class="section" id="chromebook-logo-chromebook">
-<h3><object data="http://www.boris.unito.it/images/chrome_logo.svg" style="width: 64px;" type="image/svg+xml">Chromebook logo</object> <a class="reference external" href="http://www.boris.unito.it/pages/chromebook.html">Chromebook</a></h3>
-</div>
-<div class="section" id="tux-logo-other-distributions">
-<h3><img alt="Tux Linux logo" src="http://www.boris.unito.it/images/tux_128px.png" style="width: 64px;" /> <a class="reference external" href="http://www.boris.unito.it/pages/other_linux.html">Other distributions</a></h3>
-</div>
-<div class="section" id="github-logo-run-from-source-code">
-<h3><a class="reference external image-reference" href="https://github.com/olivierfriard/BORIS"><img alt="GitHub logo" src="http://www.boris.unito.it/images/github_logo_64px.png" style="width: 64px;" /></a> <a class="reference external" href="http://www.boris.unito.it/pages/run_from_source_code.html">Run from source code</a></h3>
+<div class="section" id="launch-boris-from-docker">
+<h2>Launch BORIS from Docker</h2>
+<div class="section" id="linux">
+<h3>Linux</h3>
+<p>in a terminal, type:</p>
+<pre class="literal-block">
+SOCK=/tmp/.X11-unix
+XAUTH=/tmp/.docker.xauth
+xauth nlist $DISPLAY | sed -e 's/^..../ffff/' | xauth -f $XAUTH nmerge -
+chmod 777 $XAUTH
+docker run --rm -ti --net=host -e DISPLAY -v ${HOME}:/home/${USER} -w /home/${USER} -v $XSOCK:$XSOCK -v $XAUTH:$XAUTH -e XAUTHORITY=$XAUTH olivierfriard/boris
+</pre>
 </div>
 </div>
 
