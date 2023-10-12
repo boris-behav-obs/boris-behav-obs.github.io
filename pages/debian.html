@@ -62,10 +62,18 @@
     <h1>Install BORIS v.8.21.8 for Debian</h1>
     
 
-    <div class="section" id="debian-11-and-newer">
-<h2>Debian 11 and newer</h2>
+    <div class="section" id="debian">
+<h2>Debian</h2>
+<div class="section" id="debian-11-bullseye">
+<h3>Debian 11 (Bullseye)</h3>
 <p>Download the <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v8.21.8/boris_8.21.8-0.deb">BORIS deb package 64-bit v.8.21.8</a>
 and use one of the following methods to install it.</p>
+</div>
+<div class="section" id="debian-12-bookworm">
+<h3>Debian 12 (Bookworm)</h3>
+<p>Download the <a class="reference external" href="https://github.com/olivierfriard/BORIS/releases/download/v8.21.8/boris_8.21.8-0_libmpv2.deb">BORIS deb package 64-bit libmpv2 v.8.21.8</a>
+and use one of the following methods to install it.</p>
+</div>
 <div class="section" id="install-boris-with-the-software-installer">
 <h3>Install BORIS with the Software Installer</h3>
 <p>Right-click on the .deb icon and click the &quot;Open with Software Install&quot; menu option.</p>
@@ -83,15 +91,28 @@ apt install gnome-software
 <pre class="literal-block">
 su (you root password will be asked)
 cd DIRECTORY_WHERE_DO_YOU_DOWNLOADED_BORIS_DEB
+</pre>
+<div class="section" id="debian-11">
+<h4>Debian 11</h4>
+<p>type:</p>
+<pre class="literal-block">
 apt install ./boris_8.21.8-0.deb
 </pre>
-<p>You should find the icon for starting BORIS in the Education menu, you do not need everything else.</p>
+</div>
+<div class="section" id="debian-12">
+<h4>Debian 12</h4>
+<p>type:</p>
+<pre class="literal-block">
+apt install ./boris_8.21.8-0_libmpv2.deb
+</pre>
+<p>You should find the icon for starting BORIS in the <strong>Education</strong> menu, you do not need everything else.</p>
 <div class="section" id="bug-report-feature-request-and-discussion">
-<h4>Bug report, feature request and discussion</h4>
+<h5>Bug report, feature request and discussion</h5>
 <p>See the <a class="reference external" href="http://www.boris.unito.it/pages/report_a_bug.html">how to report a bug</a> page.</p>
 <p><a class="reference external" href="https://github.com/olivierfriard/BORIS/issues/new?assignees=&amp;labels=feature+request&amp;template=feature_request.md&amp;title=">GitHub feature request</a>.</p>
 <p><a class="reference external" href="https://github.com/olivierfriard/BORIS/discussions">Suggestions and general discussion</a></p>
 <p>See the revision history for details: <a class="reference external" href="https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8">https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8</a></p>
+</div>
 </div>
 </div>
 </div>
