@@ -73,32 +73,26 @@ python3 --version
 </pre>
 <p>Install the required packages following the instructions relative to your distribution:</p>
 <p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu ...:</p>
-<p>For Debian, open a terminal and type:</p>
+<p>For Debian 12 (Bookworm), open a terminal and type:</p>
 <pre class="literal-block">
 su (your root password will be required)
-apt install vlc ffmpeg python3-pip
+apt install mpv libmpv2 python3 ffmpeg graphviz
 </pre>
-<p>For Ubuntu and Ubuntu like:</p>
+<p>For Debian 11 (Bullseye), open a terminal and type:</p>
 <pre class="literal-block">
-sudo apt install vlc ffmpeg graphviz python3-pip
+su (your root password will be required)
+apt install mpv libmpv1 python3 ffmpeg graphviz
+</pre>
+<p>For Ubuntu 20.04 or 22.04 and other Ubuntu like:</p>
+<pre class="literal-block">
+sudo apt install mpv libmpv1 python3 ffmpeg graphviz
 (your password will be required)
 </pre>
-<p>If you want to generate <a class="reference external" href="http://www.boris.unito.it/screenshots/510_flow_diagram.jpg">transition flow graphs</a>
-directly from BORIS you can install the <a class="reference external" href="http://www.graphviz.org">Graphviz</a> package:</p>
+<p>For Ubuntu 23.04 or 23.10 and other Ubuntu like:</p>
 <pre class="literal-block">
-apt install graphviz
-</pre>
-<p>or:</p>
-<pre class="literal-block">
-sudo apt install graphviz
-</pre>
-<p><strong>Attention</strong>: if you are using Ubuntu and VLC is installed with the <strong>snap</strong> utility,
-you will have to uninstall it:</p>
-<pre class="literal-block">
-sudo snap remove vlc
+sudo apt install mpv libmpv2 python3 ffmpeg graphviz
 (your password will be required)
 </pre>
-<p>See <a class="reference external" href="http://www.boris.unito.it/pages/vlc-media-player-installation-for-debianubuntu.html">install VLC on Ubuntu</a> for details.</p>
 <p>It is recommended to create a Python virtual environment to do not interfere with the Python modules installed on your system:</p>
 <pre class="literal-block">
 python3 -m venv boris_virtual_env
