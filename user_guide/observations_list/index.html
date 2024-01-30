@@ -479,11 +479,35 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#import-observations-from-a-project-file" class="md-nav__link">
+  <a href="#import-observations" class="md-nav__link">
     <span class="md-ellipsis">
-      Import observations from a project file
+      Import observations
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Import observations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#from-a-boris-project-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      From a BORIS project file
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#from-a-spreadsheet-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      From a spreadsheet file
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -730,52 +754,64 @@
 <h1 id="observations-list">Observations list</h1>
 <p>The <strong>Observations</strong> &gt; <strong>Observations list</strong> will show you all the
 observations contained in the current BORIS project.</p>
-<p>The following values are displayed: the observation id, the description
-of observation, the coded subjects, the observation duration (as the
-difference between the last recorded event and the first one), the
-percent of exhaustivity of the coding (as the sum of the length of the
-coded events divided by the observation duration), the media file(s) or
-LIVE in case of live observation, the values of the independent
-variables.</p>
-<p><img alt="Observations list" src="images/observations_list2.png" width="100.0%" /></p>
+<p>The following values are displayed:</p>
+<ul>
+<li>
+<p>the observation id (<strong>id</strong>)</p>
+</li>
+<li>
+<p>the <strong>description</strong> of observation</p>
+</li>
+<li>
+<p>the coded subjects (<strong>subjects</strong>)</p>
+</li>
+<li>
+<p>the <strong>observation duration</strong> (as the difference between the last recorded event and the first one)</p>
+</li>
+<li>
+<p>the percent of <strong>exhaustivity</strong> of the coding (as the sum of the length of the coded events divided by the observation duration)</p>
+</li>
+<li>
+<p>the <strong>media</strong> file path, <strong>LIVE</strong> in case of live observation, the pictures directory path in case of observation from pictures</p>
+</li>
+<li>
+<p>the values of the independent variables (if defined)</p>
+</li>
+</ul>
+<p><img alt="Observations list" src="../images/observations_list.png" /></p>
 <p>The observations can be sorted by clicking in the desired column header
 (alphabetic order ascending or descending).</p>
 <h2 id="checking-the-observations">Checking the observations</h2>
-<p>The status of observation is displayed in the first column
-(<strong>Observation id</strong>). If the background of this column is <strong>red</strong> the
-observations has one or more UNPAIRED state events. These UNPAIRED
-observations will not be analyzed. See <a href="">Fix unpaired state events</a> for
-details.</p>
-<p><img alt="Observations list with warning" src="images/observations_list_warning.png" width="100.0%" /></p>
+<p>The status of observation is displayed in the first column (<strong>id</strong>).
+If the background of this column is <strong>red</strong> the observations has one or more UNPAIRED state events.
+These UNPAIRED observations will not be analyzed. See <a href="../coding/#fix-unpaired-state">Fix unpaired state events</a> for details.</p>
+<p><img alt="Observations list with warning" src="../images/observations_list_warning.png" width="100.0%" /></p>
 <h2 id="filtering-the-observations">Filtering the observations</h2>
-<p>The observations list can be filtered selecting a field and a condition
-in the drop-list boxes.</p>
+<p>The observations list can be filtered selecting a field and a condition in the drop-list boxes.</p>
 <p>In the following example observations are filtered: only observations
 with <strong>description</strong> containing the <strong>In the pool</strong> subject are shown:</p>
 <figure>
-<p><img alt="Image title" src="../images/observations_list2_filtered.png" width="100.0%" />
+<p><img alt="Image title" src="../images/observations_list2_filtered.png" />
   </p>
 <figcaption>Observations list</figcaption>
 </figure>
 <p>Observations can be filtered with <strong>Independent variables</strong> values.</p>
 <p>The following example displays only the observations that do not contain
-\"Sunny\" in the <strong>Weather</strong> independent variable :</p>
+"Sunny" in the <strong>Weather</strong> independent variable :</p>
 <figure>
-<p><img alt="Image title" src="../images/observations_list2_filtered1.png" width="100.0%" />
+<p><img alt="Image title" src="../images/observations_list2_filtered1.png" />
   </p>
 <figcaption>Observations list</figcaption>
 </figure>
-<p>Observations with a value of <strong>Temperature</strong> independent variable
-between 18 and 22:</p>
+<p>Observations with a value of <strong>Temperature</strong> independent variable between 18 and 22:</p>
 <figure>
-<p><img alt="Image title" src="../images/observations_list2_filtered2.png" width="100.0%" />
+<p><img alt="Image title" src="../images/observations_list2_filtered2.png" />
   </p>
 <figcaption>Observations list</figcaption>
 </figure>
-<p>Observations with a value of <strong>Visitors</strong> independent variable greater
-than 1000:</p>
+<p>Observations with a value of <strong>Visitors</strong> independent variable greater than 1000:</p>
 <figure>
-<p><img alt="Image title" src="../images/observations_list2_filtered3.png" width="100.0%" />
+<p><img alt="Image title" src="../images/observations_list2_filtered3.png" />
   </p>
 <figcaption>Observations list</figcaption>
 </figure>
@@ -786,13 +822,19 @@ procedure: <strong>File</strong> &gt; <strong>Edit project</strong> &gt; <strong
 <p>Click the <strong>Remove selected observations</strong> button and confirm the
 deletion.</p>
 <p>Please note that the deletion is irreversible, the deleted observations can not be restored.</p>
-<h2 id="import-observations-from-a-project-file">Import observations from a project file</h2>
-<p>The <strong>Observations</strong> &gt; <strong>Import observations</strong> option allows to import
-observations from a BORIS project file into the current project. Choose
-the project file and then the observations to import. BORIS will check
+<h2 id="import-observations">Import observations</h2>
+<p>The <strong>Observations</strong> &gt; <strong>Import observations</strong> option allows to import observations.
+Two formats are available for importing observations:</p>
+<h3 id="from-a-boris-project-file">From a BORIS project file</h3>
+<p>Choose the BORIS project file and then the observations to import. BORIS will check
 if observations with same id are already existing in the current
 project. BORIS will also check if behaviors and/or subjects used in the
 imported observations are not defined in the current project.</p>
+<h3 id="from-a-spreadsheet-file">From a spreadsheet file</h3>
+<p>Observations can be imported from:
+- OpenDocument (ODS)
+- Microsoft-Excel (XLSX)</p>
+<p>Choose the spreadsheet file </p>
 
 
 
