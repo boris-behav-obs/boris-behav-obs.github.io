@@ -435,7 +435,16 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Behavior types">
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#set-keys-and-codes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Set keys and codes
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Set keys and codes">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -449,15 +458,6 @@
         
       </ul>
     </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#set-keys-and-codes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Set keys and codes
-    </span>
-  </a>
   
 </li>
         
@@ -507,6 +507,15 @@
   <a href="#set-the-exclusion-matrix" class="md-nav__link">
     <span class="md-ellipsis">
       Set the exclusion matrix
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#set-the-modifiers-coding-map" class="md-nav__link">
+    <span class="md-ellipsis">
+      Set the Modifiers coding map
     </span>
   </a>
   
@@ -1032,14 +1041,6 @@ above-mentioned operations must be confirmed when prompted.</p>
 <p>Behavioral codes (<strong>Code</strong> column) can be sorted alphabetically by
 checking the <strong>Alphabetical order</strong> checkbox. Alternatively they can be
 sorted manually by using the <strong>Move up</strong> and <strong>Move down</strong> buttons.</p>
-<h4 id="categories-of-behaviors">Categories of behaviors</h4>
-<p>Defining categories of behaviors can be usefull for the analysis of
-coded events (for example the time budget analysis). Click the
-<strong>Behavioral categories</strong> button and add a the categories of behaviors.
-Behaviors can then be included or not in a defined category.</p>
-<figure>
-<p><img alt="Image title" src="../images/behavioral_categories.png" width="50%" /></p>
-</figure>
 <h3 id="set-keys-and-codes">Set keys and codes</h3>
 <p>For each behavior you have to set a keyboard key (<strong>Key</strong> column) that
 will be then used to code the behavioral events. You can choose whether
@@ -1063,19 +1064,39 @@ lower case.</p>
 </div>
 <p>In the <strong>Code</strong> column, you have to add a unique code for each behavior.
 Duplicated codes are not accepted and BORIS will warn in red about
-duplicates on the bottom left of the <em>Ethogram</em> tab. The code can be an
+duplicates on the bottom left of the <strong>Ethogram</strong> tab. The code can be an
 alphanumeric string (which must not include the pipe character <strong>|</strong> ).</p>
-<p>The <strong>Category</strong> column allow you to include the behavior to a
-predefined behavioral category.</p>
 <p>The <strong>Description</strong> of your behavior is optional. The <strong>Description</strong>
 column can be useful to add information about a specific behavior, its
 characteristics (e.g. to standardise observation between different
 users) or to refer to external information (e.g. reference to a previous
 ethogram).</p>
-<p>The following three columns (<strong>Color</strong>, <strong>Modifiers</strong>, <strong>Exclusion</strong>,
-<strong>Coding map</strong>) cannot be edited from the <strong>Ethogram</strong> table.</p>
-<p>The <strong>Color</strong> column allow to sleect a color for the behavior. This
-color will be used for plotting events.</p>
+<p>The columns with a grey background (<strong>Behavior type</strong>, <strong>Color</strong>, <strong>Category</strong>, <strong>Modifiers</strong>, <strong>Exclusion</strong>,
+<strong>Modifiers coding map</strong>) cannot be edited directly. </p>
+<p>The <strong>Color</strong> column allow to select a color for the behavior. This color will be used for plotting events.
+Double-click on the cell and select the color you want to associate to the behavior.</p>
+<figure>
+<p><img alt="Color selection" src="../images/select_color.png" />
+  </p>
+<figcaption>Select the color to associate to the behavior</figcaption>
+</figure>
+<h4 id="categories-of-behaviors">Categories of behaviors</h4>
+<p>Defining categories of behaviors can be usefull for the analysis of
+coded events (for example the <a href="../analysis/#time-budget-by-behavioral-category">time budget analysis</a>).</p>
+<p>The <strong>Category</strong> column allow you to include the behavior to a predefined behavioral category.</p>
+<p>Double-click on the cell and select the behavioral category for the behavior.</p>
+<figure>
+<p><img alt="choose_behavioral_category" src="../images/choose_behavioral_category.png" />
+  </p>
+<figcaption>Choose a behavioral category for the behavior</figcaption>
+</figure>
+<p>To add, remove or rename a behavioral category, click the <strong>Behavioral categories</strong> button.
+A color can also be associated to a behavioral category.</p>
+<figure>
+<p><img alt="Behavioral categories" src="../images/behavioral_categories.png" />
+  </p>
+<figcaption>Behavioral categories manager</figcaption>
+</figure>
 <h3 id="set-the-modifiers">Set the modifiers</h3>
 <p>Modifiers can be used to add attributes to a behavior. A single behavior
 can have two or more modifiers attached (e.g. the behavior <strong>play</strong> may have
@@ -1188,8 +1209,7 @@ the variable defined in the observation.</p>
 <p>Click <strong>OK</strong> to save modifiers in the <strong>Ethogram</strong> table.</p>
 <h3 id="set-the-exclusion-matrix">Set the exclusion matrix</h3>
 <p>The occurrence of an event (State or Point) can exclude the occurrence
-of a state event. This can be set using the <strong>Behaviors exclusion
-matrix</strong> window, which can be opened clicking on the <strong>Exclusion
+of a state event. This can be set using the <strong>Exclusion matrix</strong> window, which can be opened clicking on the <strong>Exclusion
 matrix</strong> button. BORIS will ask for including <strong>Point events</strong> or not
 and a new <strong>Exclusion matrix</strong> window will open.</p>
 <p>Exclusive behavior may be selected by checking on the corresponding
@@ -1210,6 +1230,9 @@ the following behaviors: <strong>Allogroom</strong>, <strong>Breed</strong>, <st
 <strong>Chase</strong> ...</p>
 <p>During the observation, the excluding event will stop all the current
 excluded state events one millisecond before the occurence of the event.</p>
+<h3 id="set-the-modifiers-coding-map">Set the <strong>Modifiers coding map</strong></h3>
+<p>If the behavior is defined as a <strong>Point event with coding map</strong> or a <strong>State event with codinf map</strong> you can associate a
+<strong>Modifiers coding map</strong> to select the modifiers from a map.</p>
 <h3 id="import-an-ethogram-from-an-existing-project">Import an ethogram from an existing project</h3>
 <p>Behaviors within an ethogram can be imported from an existing BORIS
 project (.boris) using the <strong>Import ethogram &gt; from a BORIS project</strong>

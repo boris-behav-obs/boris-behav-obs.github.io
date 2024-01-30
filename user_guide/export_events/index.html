@@ -809,21 +809,45 @@
 <p>The coded events can be exported in various formats.</p>
 <h2 id="export-events-in-tabular-format">Export events in tabular format</h2>
 <p><strong>Observations</strong> &gt; <strong>Export events</strong> &gt; <strong>Tabular events</strong></p>
-<p>This function exports the events of selected observations in one or many
-files.
-Various formats are available: <strong>TSV</strong>, <strong>CSV</strong>, <strong>ODS</strong>, <strong>XLSX</strong>, <strong>XLS</strong>, <strong>HTML</strong>, <strong>Pandas dataframe</strong> and <strong>R dataframe</strong>.</p>
+<p>This function exports the events of selected observations in one or many files.
+Various formats are available:</p>
+<ul>
+<li>
+<p>Plain text in tabular format</p>
+<ul>
+<li><strong>Tab Separated Values</strong> (TSV)</li>
+<li><strong>Comma Separated Values</strong> (CSV)</li>
+<li><strong>Hyper Text Markup language</strong> (HTML)</li>
+</ul>
+</li>
+<li>
+<p>Spreadsheet files</p>
+<ul>
+<li><strong>OpenDocument</strong> (ODS)</li>
+<li><strong>Microsoft Excel</strong> (XLSX, XLS)</li>
+</ul>
+</li>
+<li>
+<p><strong>Pandas dataframe</strong> (to be loaded in Python with the <a href="https://docs.python.org/3/library/pickle.html">pickle
+    module</a>)</p>
+</li>
+<li>
+<p><strong>R dataframe</strong> (to be loaded in R with <a href="https://rdrr.io/r/base/readRDS.html">readRDS
+    function</a>)</p>
+</li>
+</ul>
 <p>If many observations are selected BORIS will ask for a directory to save
-the various files. For the XLS and XLSX formats the events can be
-exported on various worksheet in a single workbook. These formats are
+the various files. For the spreadsheet format (XLSX and ODS) the events can be
+exported on various worksheet in a single workbook. All these formats are
 suitable for further analysis.</p>
 <p>Select the subjects, the behaviors and the time interval.</p>
 <p>Set the time interval to the <strong>Observed events</strong></p>
-<p><img alt="Limit export to the observed events" src="../images/select_subjects_behaviors_time_interval_1.png" width="60%" /></p>
+<p><img alt="Limit export to the observed events" src="../images/select_subjects_behaviors_time_interval_1.png" /></p>
 <p>Select a <strong>User defined</strong> time interval.</p>
-<p><img alt="Time interval is defined by the user" src="../images/select_subjects_behaviors_time_interval_2.png" width="100%" /></p>
+<p><img alt="Time interval is defined by the user" src="../images/select_subjects_behaviors_time_interval_2.png" /></p>
 <p>Example of output of tabular events</p>
-<p><img alt="example of exported events in TSV format (1/2)" src="../images/export_tabular_events_1.png" width="100%" /></p>
-<p><img alt="example of exported events in TSV format (2/2)" src="../images/export_tabular_events_2.png" width="100%" /></p>
+<p><img alt="example of exported events in TSV format (1/2)" src="../images/export_tabular_events_1.png" /></p>
+<p><img alt="example of exported events in TSV format (2/2)" src="../images/export_tabular_events_2.png" /></p>
 <h2 id="export-aggregated-events">Export aggregated events</h2>
 <p><strong>Observations</strong> &gt; <strong>Export events</strong> <strong>Aggregated events</strong></p>
 <p>This function will export the events corresponding to the selected
@@ -831,13 +855,25 @@ subjects and the selected behaviors of the selected observations.</p>
 <p>Various formats are available:</p>
 <ul>
 <li>
-<p><strong>table format</strong> (TSV, CSV, XLSX, XLS, ODS, HTML)</p>
+<p>Plain text in tabular format</p>
+<ul>
+<li><strong>Tab Separated Values</strong> (TSV)</li>
+<li><strong>Comma Separated Values</strong> (CSV)</li>
+<li><strong>Hyper Text Markup language</strong> (HTML)</li>
+</ul>
 </li>
 <li>
-<p><strong>SQL</strong> format for populating a SQL database</p>
+<p>Spreadsheet files</p>
+<ul>
+<li><strong>OpenDocument</strong> (ODS)</li>
+<li><strong>Microsoft Excel</strong> (XLSX, XLS)</li>
+</ul>
 </li>
 <li>
-<p><strong>SDIS</strong> format for analysis with the GSEQ program available at
+<p><strong>SQL format</strong> for populating a SQL database</p>
+</li>
+<li>
+<p><strong>SDIS format</strong> for analysis with the GSEQ program available at
     <a href="http://www2.gsu.edu/~psyrab/gseq">http://www2.gsu.edu/~psyrab/gseq</a></p>
 </li>
 <li>

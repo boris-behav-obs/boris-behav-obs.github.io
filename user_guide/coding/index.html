@@ -533,28 +533,70 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#the-events-widget" class="md-nav__link">
+  <a href="#the-events-table" class="md-nav__link">
     <span class="md-ellipsis">
-      The Events widget
+      The events table
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The events table">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#observation-from-media-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      Observation from media file
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#record-an-event" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#live-observation" class="md-nav__link">
     <span class="md-ellipsis">
-      Record an event
+      Live observation
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Record an event">
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#observation-from-pictures" class="md-nav__link">
+    <span class="md-ellipsis">
+      Observation from pictures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#events" class="md-nav__link">
+    <span class="md-ellipsis">
+      Events
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Events">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#the-events-widget-context-menu" class="md-nav__link">
+  <a href="#recording-an-event" class="md-nav__link">
     <span class="md-ellipsis">
-      The Events widget context menu
+      Recording an event
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-events-table-context-menu" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Events table context menu
     </span>
   </a>
   
@@ -678,9 +720,27 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#fix-unpaired-state-events" class="md-nav__link">
+  <a href="#fix-unpaired-state" class="md-nav__link">
     <span class="md-ellipsis">
-      Fix unpaired state events
+      Fix unpaired state
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#add-frame-indexes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Add frame indexes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run-external-program-with-selected-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      Run external program with selected events
     </span>
   </a>
   
@@ -1040,40 +1100,122 @@ right side of the player).</p>
   </p>
 <figcaption>The widgets are undocked from the main window</figcaption>
 </figure>
-<h2 id="the-events-widget">The <strong>Events</strong> widget</h2>
-<p><img alt="Events widget" src="images/events_widget.png" width="60.0%" /></p>
-<p>The <strong>Events</strong> widget shows all the recorded behaviors (events) with the
-following parameters (organized in columns):</p>
+<h2 id="the-events-table">The events table</h2>
+<p>The <strong>events table</strong> shows all the recorded behaviors (events).</p>
+<p>The displayed parameters (organized in columns) depend of the type of the observation:</p>
+<h3 id="observation-from-media-file">Observation from media file</h3>
+<p><img alt="Events table for a media observation" src="../images/events_table_media.png" /></p>
+<p>The following paramters are displayed:</p>
 <ul>
 <li>
-<p><strong>time</strong>, the time at which the event occurred;</p>
+<p><strong>Time</strong>, the time at which the event occurred;</p>
 </li>
 <li>
-<p><strong>subject</strong>, the focal subject (if any);</p>
+<p><strong>Frame index</strong> the frame index corresponding to the event;</p>
 </li>
 <li>
-<p><strong>code</strong>, the behavior code;</p>
+<p><strong>Subject</strong>, the focal subject (if any);</p>
 </li>
 <li>
-<p><strong>type</strong>, in case of a state event indicates whether the time  corresponds to the start or to the stop.</p>
+<p><strong>Code</strong>, the behavior code;</p>
 </li>
 <li>
-<p><strong>modifier</strong>, indicates the modifier(s) that was(ere) selected (if any);</p>
+<p><strong>Type</strong>, in case of a <strong>state event</strong> indicates whether the time  corresponds to the start or to the stop. Empty for a <strong>point event</strong>;</p>
 </li>
 <li>
-<p><strong>comment</strong>, is an open field where the user can add notes.</p>
+<p><strong>Modifier</strong>, indicates the modifier(s) that was(ere) selected (if any);</p>
+</li>
+<li>
+<p><strong>Comment</strong>, is an open field where the user can add notes.</p>
 </li>
 </ul>
 <p>A tracking cursor (red triangle) will visualize the current event. This cursor can be positioned above the current event, see <a href="">tracking cursor position</a> option in Preferences window.</p>
 <p>A double-click on a row will reposition the media player to the moment
 of the corresponding event. See <a href="">Time offset for media reposition</a> in
 Preferences window to customize the time offset for media repositioning.</p>
-<h2 id="record-an-event">Record an event</h2>
+<h3 id="live-observation">Live observation</h3>
+<p><img alt="Events table for a live observation" src="../images/events_table_live.png" /></p>
+<p>The following paramters are displayed:</p>
+<ul>
+<li>
+<p><strong>Time</strong>, the time at which the event occurred;</p>
+</li>
+<li>
+<p><strong>Subject</strong>, the focal subject (if any);</p>
+</li>
+<li>
+<p><strong>Code</strong>, the behavior code;</p>
+</li>
+<li>
+<p><strong>Type</strong>, in case of a <strong>state event</strong> indicates whether the time  corresponds to the start or to the stop. Empty for a <strong>point event</strong>;</p>
+</li>
+<li>
+<p><strong>Modifier</strong>, indicates the modifier(s) that was(ere) selected (if any);</p>
+</li>
+<li>
+<p><strong>Comment</strong>, is an open field where the user can add notes.</p>
+</li>
+</ul>
+<h3 id="observation-from-pictures">Observation from pictures</h3>
+<p><img alt="Events table for a live observation" src="../images/events_table_pictures.png" /></p>
+<p>The following paramters are displayed:</p>
+<ul>
+<li>
+<p><strong>Time</strong>, the time at which the event occurred;</p>
+</li>
+<li>
+<p><strong>Subject</strong>, the focal subject (if any);</p>
+</li>
+<li>
+<p><strong>Code</strong>, the behavior code;</p>
+</li>
+<li>
+<p><strong>Type</strong>, in case of a <strong>state event</strong> indicates whether the time  corresponds to the start or to the stop. Empty for a <strong>point event</strong>;</p>
+</li>
+<li>
+<p><strong>Modifier</strong>, indicates the modifier(s) that was(ere) selected (if any);</p>
+</li>
+<li>
+<p><strong>Comment</strong>, is an open field where the user can add notes;</p>
+</li>
+<li>
+<p><strong>Image index</strong>, the image index (in the directory) corresponding to the event,</p>
+</li>
+<li>
+<p><strong>Image path</strong>, the path of the image corresponding to the event (can be relative or absolute).</p>
+</li>
+</ul>
+<p>To simplify the <strong>events table</strong> the relevant behaviors and subjects can be filtered see <a href="./#filter-events">Filter events</a></p>
+<h2 id="events">Events</h2>
+<h3 id="recording-an-event">Recording an event</h3>
+<p>An event is a unique combination of a <strong>time</strong>, a <strong>subject</strong> and a <strong>behavior</strong>.
+If the subject is not set it will be <strong>No focal subject</strong>.</p>
 <p>Once ready to begin your coding, you can start the media player using
-the <strong>Play</strong> button (or the <strong>Space bar</strong>). The behaviors can be
-recorded using the keyboard with the predefined keys, by double-clicking
-the corresponding row in the <strong>Ethogram</strong> table or by using the <strong>Coding
-pad</strong> (See <a href="">coding pad</a>).</p>
+the <strong>Play</strong> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80v352c0 17.4 9.4 33.4 24.5 41.9S58.2 482 73 473l288-176c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span> button or the <strong>Space bar</strong>.</p>
+<p>An <strong>event</strong> can be recorded by:</p>
+<ul>
+<li>
+<p>pressing the predefined <strong>key</strong> of the keyboard corresponding to the behavior to record.</p>
+</li>
+<li>
+<p>double-clicking to the corresponding row in the <strong>Ethogram</strong> table.</p>
+</li>
+<li>
+<p>using the <strong>Coding pad</strong> (See <a href="../tools/#coding-pad">coding pad</a>).</p>
+</li>
+</ul>
+<p>The <strong>focal subject</strong> can be selected by:</p>
+<ul>
+<li>
+<p>pressing the predefined <strong>key</strong> of the keyboard corresponding to the subject to select.</p>
+</li>
+<li>
+<p>double-clicking to the corresponding row in the <strong>Subects</strong> table.</p>
+</li>
+<li>
+<p>using the <strong>Subject pad</strong> (See <a href="../tools/#subject-pad">subject pad</a>).</p>
+</li>
+</ul>
 <figure>
 <p><img alt="Ethogram and subjects widgets" src="../images/ethogram_subjects_widgets.png" width="100.0%" />
   </p>
@@ -1111,10 +1253,12 @@ event parameters</em> allows modifying every parameter (e.g. time, subject,
 code, modifiers, and comment).</p>
 <p>The <strong>Observations</strong> &gt; <strong>Add event</strong> menu option allows adding a new
 event by specifying its time and the other parameters.</p>
-<h3 id="the-events-widget-context-menu">The Events widget context menu</h3>
-<p>Some functions are available in the Events widget context menu.
-Righ-click on the Events widget.</p>
-<p><img alt="Events widget menu" src="../images/events_widget_menu.png" /></p>
+<h3 id="the-events-table-context-menu">The Events table context menu</h3>
+<p>Some functions are available in the Events table context menu.
+Righ-click on the Events table and the menu will pop-up.</p>
+<p><img alt="Events table menu" src="../images/events_table_menu.png" /></p>
+<p>The various functions available in the menu are described below.
+The same functions and others are available in the <strong>Observations</strong> menu.</p>
 <h3 id="undo-an-even-recording">Undo an even recording</h3>
 <p>A wrong event can be removed from the events list using the <strong>Undo</strong> function (<span class="keys"><kbd class="key-control">Ctrl</kbd><span>+</span><kbd class="key-z">Z</kbd></span>). You can go back till 25 events recorded events. </p>
 <h3 id="add-event">Add event</h3>
@@ -1191,11 +1335,10 @@ in the various field of events. Select the fields to be searched. The
 find operation can be restricted to the selected events.</p>
 <p><img alt="Find / replace in events" src="../images/find_replace_in_events.png" width="60.0%" /></p>
 <h3 id="filter-events">Filter events</h3>
-<p>This option allows to filter the events by field value.</p>
-<p><img alt="Filter events" src="../images/filter_events.png" width="40.0%" /></p>
+<p>This option allows to filter the events by field value (Subject and Behavior).</p>
+<p><img alt="Filter events" src="../images/filter_events.png" /></p>
 <h3 id="show-all-events">Show all events</h3>
-<p>This option reverts the previous one and allows to visualize all coded
-events</p>
+<p>This option reverts the previous one and allows to visualize all coded events.</p>
 <h3 id="check-state-events">Check state events</h3>
 <p>This option allows to check if the <strong>state events</strong> are <strong>PAIRED</strong>, if
 they have a <strong>START</strong> and a <strong>STOP</strong> occurences.</p>
@@ -1205,14 +1348,18 @@ they have a <strong>START</strong> and a <strong>STOP</strong> occurences.</p>
 <p>This option is not present in the context menu but only in the main menu (<strong>Observations</strong> &gt; <strong>Delete all events</strong>).</p>
 <p>This option allows to delete all then events in the current observation.
 This operation is irreversible!</p>
-<h3 id="fix-unpaired-state-events">Fix unpaired state events</h3>
-<p>You can use the "Fix unpaired events" function to fix the <strong>state events</strong> without a STOP event.</p>
+<h3 id="fix-unpaired-state">Fix unpaired state</h3>
+<p>You can use the <strong>Fix unpaired events</strong> function to fix the <strong>state events</strong> without a STOP event.</p>
 <p><strong>Observations</strong> &gt; <strong>Fix unpaired events</strong> (keyboard shortcut: <span class="keys"><kbd class="key-control">Ctrl</kbd><span>+</span><kbd class="key-u">U</kbd></span>)</p>
-<p>The program will ask for a time at which insert the STOP events for all
-unpaired <strong>state events</strong></p>
+<p>The program will ask for a time at which insert the STOP events for all unpaired <strong>state events</strong></p>
 <p>This function can be run on a set of selected observations (when no
 observation is open). In this case the STOP events will be inserted at
 the end of observation.</p>
+<h3 id="add-frame-indexes">Add frame indexes</h3>
+<p>This function can be used for the observations from a video.
+The frame index corresponding to the coded events will be added in the events table.</p>
+<h3 id="run-external-program-with-selected-events">Run external program with selected events</h3>
+<p>This function is not yet implemented.</p>
 <h3 id="explore-project">Explore project</h3>
 <p>You can search information in various fields in all observations in the
 current project (Observations &gt; Explore project).</p>
