@@ -66,7 +66,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#create-a-project" class="md-skip">
+        <a href="#macro-syntax-error" class="md-skip">
           Skip to content
         </a>
       
@@ -336,17 +336,6 @@
         
       
       
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    Create a project
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -357,6 +346,7 @@
 
       </a>
       
+<<<<<<< HEAD
         
 
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
@@ -622,6 +612,8 @@
   
 </nav>
       
+=======
+>>>>>>> 50493ff2d9797bd90e86dae6e99bc434a3108913
     </li>
   
 
@@ -900,6 +892,7 @@
                   
 
 
+<<<<<<< HEAD
 <h1 id="create-a-project">Create a project</h1>
 <p>The BORIS project file serves as a container for all project-related information, excluding media files.
 It encompasses the <strong>ethogram</strong>, <strong>independent variables</strong>, <strong>subjects' definition</strong>, <strong>behavioral coding maps</strong>, <strong>converters</strong>, and <strong>observation</strong> data.
@@ -1247,141 +1240,13 @@ The order is not mandatory but respect the case:</p>
 <pre><code>Behavior type,Behavior code,Key,Behavioral category,Description,Excluded behaviors
 state event,Play,p,,Play on the garden,s
 point event,Sleep,s,,Subject is sleeping,p
+=======
+<h1 id="macro-syntax-error"><em>Macro Syntax Error</em></h1>
+<p><em>File</em>: <code>create_project.md</code></p>
+<p><em>Line 440 in Markdown file:</em> <strong>Missing end of comment tag</strong></p>
+<pre><code class="language-markdown">### Import an ethogram from a plain text file {#import an ethogram from a plain text file}
+>>>>>>> 50493ff2d9797bd90e86dae6e99bc434a3108913
 </code></pre>
-<p>BORIS will ask to select a plain text file (by default: *.txt *.csv
-*.tsv) and whether imported behaviors should replace or be appended to
-the <strong>Ethogram</strong> table. The missing information for the behaviours
-imported from text file have to be redefined.</p>
-<h3 id="import-an-ethogram-from-a-jwatcher-global-definition-file-gdf">Import an ethogram from a JWatcher global definition file (.gdf)</h3>
-<p>Behaviors can be imported from a JWatcher global definition file (.gdf)
-using the <strong>Import ethogram &gt; from JWatcher</strong> button. BORIS will ask to
-select a JWatcher file (.gdf) and whether imported behaviors should
-replace or be appended to the <strong>Ethogram</strong> table. Behavior type and
-exclusion information for the behaviours imported from JWatcher have to
-be redefined.</p>
-<h3 id="access-to-the-boris-ethogram-repository">Access to the BORIS ethogram repository</h3>
-<p>This function can be activated by clicking the <strong>Import ethogram &gt; from
-the BORIS repository</strong> button.</p>
-<p>A list of available ethograms will open and an ethogram can be loaded in
-the current project.</p>
-<figure>
-<p><img alt="Image title" src="../images/BORIS_ethogram_repository.png" width="50%" />
-  </p>
-<figcaption>BORIS ethogram repository</figcaption>
-</figure>
-<h3 id="export-the-ethogram">Export the ethogram</h3>
-<p>The entire ethogram can be exported in various formats (TSV, CSV, XLSX,
-ODS, HTML). See <strong>File</strong> &gt; <strong>Edit project</strong> &gt; <strong>Ethogram tab</strong> &gt;
-<strong>Export ethogram</strong></p>
-<h2 id="define-the-subjects">Define the subjects</h2>
-<figure>
-<p><img alt="Image title" src="../images/subjects_configuration.png" width="80%" />
-  </p>
-<figcaption>Subjects definition</figcaption>
-</figure>
-<p>BORIS allow to code behaviors for different subjects within a single
-observation. The <strong>Subject</strong> table allows specifying subjects using a
-<strong>Key</strong> (e.g. the <strong>k</strong> on your keyboard), <strong>Subject name</strong> (e.g.
-<strong>Kanzi</strong>), <strong>Description</strong> (e.g. male, born October 28 - 1980).</p>
-<p>In this case, pressing <strong>n</strong> will set <strong>Nina</strong> as the focal subject of
-the behavioural coding. Pressing <strong>n</strong> again will deselect "Nina" and
-set to "No focal subject".</p>
-<p>The key definition is not mandatory. In this case, you will have to
-select the current subject from the subjects list with a double-click.</p>
-<p>The definition of one or more subjects is not mandatory. Addition,
-removal and sorting of the subjects follows the same logic of the
-<em>Ethogram</em> table (see <a href="#set-your-ethogram-from-scratch">Set your ethogram from
-scratch</a> for info).</p>
-<p>The keys are <strong>case-sensitive</strong>.</p>
-<p>If your project was created with a previous version of BORIS (&lt; v.7)
-you can use the <strong>Convert keys to lower case</strong> to convert all keys to
-lower case otherwise you will have to code your observation using upper
-case key.</p>
-<p>The subjects can also be imported from an existing BORIS project: use
-the <strong>Import Subjects from a BORIS project</strong> button.</p>
-<h3 id="import-subject-from-a-spreadsheet">Import subject from a spreadsheet</h3>
-<p>The subjects can be imported from a spreadsheet (Google spreadsheet,
-Microsoft-Excel, LibreOffice Calc).</p>
-<p>The spreadsheet must contain one subject by row and have to be organized
-as above:</p>
-<ul>
-<li>1st column: Subject key (One character - Case sensitive - Optional)</li>
-<li>2nd column: Subject name (mandatory)</li>
-<li>3rd column: Description of subject (optional)</li>
-</ul>
-<p>Select all cells of your spreadsheet (CTRL + A), copy to clipboard (CTRL
-+ C). Click the <strong>Import from clipboard</strong> button.</p>
-<div class="admonition warning">
-<p class="admonition-title">Important</p>
-<p>If you open a project file created with a version older than v.7 BORIS
-will ask you to convert the upper case behavior and subject keys to
-lower case.</p>
-</div>
-<h2 id="define-the-independent-variables">Define the Independent variables</h2>
-<figure>
-<p><img alt="Image title" src="../images/independent_variables1.png" width="80%" />
-  </p>
-<figcaption>Independent variables</figcaption>
-</figure>
-<p>BORIS allows adding information about the observation using
-<strong>Independent variables</strong>. This can be used to specify factors that may
-influence the behaviors (e.g. group composition, temperature, weather
-conditions) but will not change during a single observation within a
-project. Each independent variable can be defined by a <strong>Label</strong> (e.g.
-weather), a <strong>Description</strong> (e.g. weather conditions), a <strong>Type</strong>
-(<em>text</em>, <em>numeric</em>, <em>value from set</em> or <em>timestamp</em>).</p>
-<p>The values of a set are defined in the <strong>Set of values</strong> column
-separating the available values with a comma (<strong>,</strong>). Please note that
-the first value of the set will be selected by default. It should be
-useful to define a NA value as first value of every set.</p>
-<p>The values for the independent variables will be asked when creating a
-new observation. Addition, removal and sorting of the independent
-variables follows the same logic of the <strong>Ethogram</strong> table (see <strong>Set
-your ethogram from scratch</strong> for info). The independent variables can
-also be imported from an existing BORIS project using the <strong>Import
-Variables from a BORIS project</strong>.</p>
-<figure>
-<p><img alt="Image title" src="../images/independent_variables2.png" width="80%" />
-  </p>
-<figcaption>Example of an independent variable (Weather) defined as "set of values"</figcaption>
-</figure>
-<p>The predefined value must be contained in the set of value.</p>
-<h2 id="observations-tab">Observations' tab</h2>
-<p>The <strong>Observations</strong> table in BORIS shows information about all the
-previous observations within a project. A selected \"Observation\" can
-be removed using the \"Remove observation\" button (you will be prompted
-for confirmation). This operation cannot be undone and deleted
-observations cannot be recovered once the project is saved. The
-<strong>Observations</strong> table shows four columns <strong>id</strong> <strong>Date</strong>
-<strong>Description</strong> <strong>Media</strong>.</p>
-<h2 id="converters-tab">Converters' tab</h2>
-<p>Converters are used for plotting external data when the timestamp values
-are not expressed in seconds. Converters can be written by the user,
-loaded from file or loaded from the repository of the BORIS web site
-(<a href="http://www.boris.unito.it/static/converters.json">http://www.boris.unito.it/static/converters.json</a>).</p>
-<figure>
-<p><img alt="Image title" src="../images/converter_tab_empty.png" width="80%" />
-  </p>
-<figcaption>Converters tab</figcaption>
-</figure>
-<h3 id="load-converters-from-boris-web-site">Load converters from BORIS web site</h3>
-<p>Click <strong>Load converters from BORIS repository</strong> and select the
-converters to be added to your project.</p>
-<figure>
-<p><img alt="Image title" src="../images/converter_selection_from_repository.png" width="80%" />
-  </p>
-<figcaption>Converters selection from repository</figcaption>
-</figure>
-<figure>
-<p><img alt="Image title" src="../images/converter_tab.png" width="80%" />
-  </p>
-<figcaption>Converters tab with 2 converters defined</figcaption>
-</figure>
-<h3 id="writing-a-converter">Writing a converter</h3>
-<p>See "<a href="">Converters for external data values</a>"</p>
-<p>The converters loaded in your project can be then selected for
-converting timestamp (or other values) in external data file</p>
-<p>See <a href="">Converters</a></p>
 
 
 
