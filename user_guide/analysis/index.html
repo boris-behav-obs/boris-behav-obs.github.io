@@ -10,7 +10,7 @@
         <meta name="author" content="Olivier Friard">
       
       
-        <link rel="canonical" href="http://127.0.0.1:8000/doc/analysis/">
+        <link rel="canonical" href="http://127.0.0.1:8000/analysis/">
       
       
         <link rel="prev" href="../coding_map/">
@@ -20,7 +20,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.5">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.3">
     
     
       
@@ -111,43 +111,6 @@
       <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
-    
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
     
   </nav>
@@ -587,9 +550,27 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#time-budget-by-behavioral-category" class="md-nav__link">
+    <span class="md-ellipsis">
+      Time budget by behavioral category
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#synthetic-time-budget" class="md-nav__link">
     <span class="md-ellipsis">
       Synthetic time budget
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#synthetic-time-budget-with-time-bin" class="md-nav__link">
+    <span class="md-ellipsis">
+      Synthetic time budget with time bin
     </span>
   </a>
   
@@ -608,7 +589,7 @@
           <li class="md-nav__item">
   <a href="#implementation-of-irr-cohens-kappa-in-boris" class="md-nav__link">
     <span class="md-ellipsis">
-      Implementation of IRR Cohen\'s Kappa in BORIS
+      Implementation of IRR Cohen's Kappa in BORIS
     </span>
   </a>
   
@@ -616,6 +597,24 @@
         
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#similarities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Similarities
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#co-occurence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Co-occurence
+    </span>
+  </a>
   
 </li>
       
@@ -760,14 +759,13 @@ the modifiers) or by category of behaviors. Choose the option from the
 you select more than one observation you must then choose for a global
 time budget analysis that will contain all selected observations or a
 time budget analysis for every single observation.</p>
-<p><img alt="Group observations" src="images/time_budget_group_observations.png" width="30.0%" /></p>
+<p><img alt="Group observations" src="../images/time_budget_group_observations.png" /></p>
 <p>Choose <strong>Yes</strong> to group all observations in one time budget analysis</p>
 <p>The <strong>Analysis</strong> &gt; <strong>Time budget</strong> menu option shows the time budget
 for the events of the selected observations. Select the subjects and
 behaviors you want to include in the time budget analysis:</p>
-<p><img alt="Select subject and behaviors for time budget analysis" src="../images/time_budget_parameters2.png" width="50.0%" /></p>
-<p>All behaviors can be selected or unselected by clicking on the Category
-(bold).</p>
+<p><img alt="Select subject and behaviors for time budget analysis" src="../images/time_budget_parameters2.png" /></p>
+<p>All behaviors can be selected or unselected by clicking on the Category (bold).</p>
 <p>You can choose to include or not the behavior modifiers in the Time
 budget analysis and to exclude behaviors without coded events.</p>
 <p>The Time budget analysis can be restricted to a part of the observation:</p>
@@ -781,9 +779,8 @@ budget analysis and to exclude behaviors without coded events.</p>
 </ul>
 <p>The last dialog window will allow you to subtract the duration of one or
 more behaviors from the total duration of the observation. This can help
-you if you have defined a \"out-of-sight\" code in your ethogram for
-example:</p>
-<p><img alt="subtract behavior from the total duration" src="images/subtract_behavior.png" width="50.0%" /></p>
+you if you have defined a "out-of-sight" code in your ethogram for example:</p>
+<p><img alt="subtract behavior from the total duration" src="../images/subtract_behavior.png" /></p>
 <p>The results contain for each subject and behavior the <strong>total nuber of
 occurrences</strong>, the <strong>total duration</strong> (for the behaviors defined as
 state events), The <strong>duration mean</strong> (for the behaviors defined as state
@@ -791,47 +788,129 @@ events), the <strong>standard deviation of duration</strong>, the <strong>inter-
 intervals duration mean</strong>, th <strong>standard deviation of the inter-events
 intervals duration</strong> and the <strong>percent of total duration of
 observation(s)</strong>. All duration times are expressed in seconds (s).</p>
-<p><img alt="Results of the time budget analysis" src="images/time_budget.png" width="100.0%" /></p>
+<figure>
+<p><img alt="Results of the time budget analysis" src="../images/time_budget.png" />
+  </p>
+<figcaption>Results of the time budget analysis</figcaption>
+</figure>
 <p>The time budget results can be saved in various formats for further
-analysis: * Plain text files: TSV, CSV or HTML * Spreadsheets: Open
-Document (ODS), Microsoft Excel (XLSX) and Legacy Microsoft (XLS)</p>
-<p>::: {.note}
-::: {.title}
-Note
-:::</p>
-<p>If a STATE behavior has an odd number of coded events, BORIS will report
-\"UNPAIRED\" instead of results\"
-:::</p>
+analysis:</p>
+<ul>
+<li>
+<p>Plain text in tabular format</p>
+<ul>
+<li><strong>Tab Separated Values</strong> (TSV)</li>
+<li><strong>Comma Separated Values</strong> (CSV)</li>
+<li><strong>Hyper Text Markup language</strong> (HTML)</li>
+</ul>
+</li>
+<li>
+<p>Spreadsheet files</p>
+<ul>
+<li><strong>OpenDocument</strong> (ODS)</li>
+<li><strong>Microsoft Excel</strong> (XLSX, XLS)</li>
+</ul>
+</li>
+<li>
+<p><strong>Pandas dataframe</strong> (to be loaded in Python with the <a href="https://docs.python.org/3/library/pickle.html">pickle
+    module</a>)</p>
+</li>
+<li>
+<p><strong>R dataframe</strong> (to be loaded in R with <a href="https://rdrr.io/r/base/readRDS.html">readRDS
+    function</a>)</p>
+</li>
+</ul>
+<div class="admonition warning">
+<p class="admonition-title">Important</p>
+<p>If a STATE behavior has an odd number of coded events, BORIS will report <strong>UNPAIRED</strong> instead of results.</p>
+</div>
+<h2 id="time-budget-by-behavioral-category">Time budget by behavioral category</h2>
+<p>The <strong>Time budget by behavioral category</strong> is similar to the <a href="./#time-budget-analysis"><strong>Time budget analysis</strong></a> 
+except that the behaviors are grouped into <strong>behavioral categories</strong>.</p>
+<figure>
+<p><img alt="time_budget_by_behavioral_category" src="../images/time_budget_by_behavioral_category.png" />
+  </p>
+<figcaption>Results of a time budget by behavioral categary analysis</figcaption>
+</figure>
 <h2 id="synthetic-time-budget">Synthetic time budget</h2>
 <p>The synthetic time budget is similar to time budget but with fewer
 parameters and a different organization of results. Results of all
 selected observations are organized in columns on a single page. Two
 parameters are provided for now: <strong>number of occurrences</strong> and <strong>total
 duration</strong> (for the behaviors defined as state events)</p>
-<p><img alt="Results of the time budget analysis" src="images/synthetic_time_budget.png" width="100.0%" /></p>
+<p><img alt="Results of the time budget analysis" src="../images/synthetic_time_budget.png" /></p>
 <p>All duration times are expressed in seconds (s).</p>
-<p>The time budget results can be saved in various formats for further
-analysis: * Plain text files: TSV, CSV or HTML * Spreadsheets: Open
-Document (ODS), Microsoft Excel (XLSX) and Legacy Microsoft (XLS)</p>
+<p>The time budget results can be saved in various formats for further analysis:</p>
+<ul>
+<li>
+<p>Plain text in tabular format</p>
+<ul>
+<li><strong>Tab Separated Values</strong> (TSV)</li>
+<li><strong>Comma Separated Values</strong> (CSV)</li>
+<li><strong>Hyper Text Markup language</strong> (HTML)</li>
+</ul>
+</li>
+<li>
+<p>Spreadsheet files</p>
+<ul>
+<li><strong>OpenDocument</strong> (ODS)</li>
+<li><strong>Microsoft Excel</strong> (XLSX, XLS)</li>
+</ul>
+</li>
+</ul>
+<h2 id="synthetic-time-budget-with-time-bin">Synthetic time budget with time bin</h2>
+<p>The <strong>synthetic time budget with time bin</strong> is similar to the <strong>Synthetic time budget</strong> but the results are divised in time bin.</p>
+<p><strong>Analysis</strong> &gt; <strong>Synthetic time budget with time bin</strong> </p>
+<p>Choose a time bin size (in seconds)</p>
+<figure>
+<p><img alt="Choose the time bin size" src="../images/choose_time_bin_size.png" />
+  </p>
+<figcaption>Time bin size of 10 seconds</figcaption>
+</figure>
+<figure>
+<p><img alt="Synthetic time budget with time bin" src="../images/time_budget_with_time_bin.png" />
+  </p>
+<figcaption>Results of a Synthetic time budget with time bin of 10 seconds</figcaption>
+</figure>
+<p>The <strong>time budget with time bin</strong> results can be saved in various formats for further analysis:</p>
+<ul>
+<li>
+<p>Plain text in tabular format</p>
+<ul>
+<li><strong>Tab Separated Values</strong> (TSV)</li>
+<li><strong>Comma Separated Values</strong> (CSV)</li>
+<li><strong>Hyper Text Markup language</strong> (HTML)</li>
+</ul>
+</li>
+<li>
+<p>Spreadsheet files</p>
+<ul>
+<li><strong>OpenDocument</strong> (ODS)</li>
+<li><strong>Microsoft Excel</strong> (XLSX, XLS)</li>
+</ul>
+</li>
+</ul>
 <h2 id="inter-rater-reliability">Inter-rater reliability</h2>
-<p>The Cohen\'s kappa coefficient can be calculated (<strong>Analysis</strong> &gt;
-<strong>Inter-rater reliability</strong> &gt; <strong>Cohen\'s kappa</strong>).</p>
-<p><a href="https://en.wikipedia.org/wiki/Cohen%27s_kappa">Cohen\'s kappa on
-Wikipedia</a></p>
+<p>The Cohen's kappa coefficient can be calculated (<strong>Analysis</strong> &gt; <strong>Inter-rater reliability</strong> &gt; <strong>Cohen\'s kappa</strong>).</p>
+<p><a href="https://en.wikipedia.org/wiki/Cohen%27s_kappa">Cohen's kappa on Wikipedia</a></p>
 <p>After selecting 2 observations and a time window (in seconds) for the
-analysis (the default value is 10 seconds) the Cohen\'s kappa will be
+analysis (the default value is 10 seconds) the Cohen's kappa will be
 displayed in the results window.</p>
-<p><img alt="time window" src="images/irr1.png" width="30.0%" /></p>
-<h3 id="implementation-of-irr-cohens-kappa-in-boris">Implementation of IRR Cohen\'s Kappa in BORIS</h3>
+<p><img alt="IRR" src="../images/irr1.png" /></p>
+<h3 id="implementation-of-irr-cohens-kappa-in-boris">Implementation of IRR Cohen's Kappa in BORIS</h3>
 <p>If a time window of n seconds is set the 2 selected observations will be
 checked every n seconds for agreement/disagreement from the first event
 to the last event of the 2 observations . In case of a point event the
 presence of a corresponding event in the other observation will be
 verified using a time window of n seconds centered on the point event.</p>
-<p>A IRR Cohen\'s Kappa analysis is available in the GSEQ program
+<p>A IRR Cohen's Kappa analysis is available in the GSEQ program
 (<a href="http://www2.gsu.edu/~psyrab/gseq">http://www2.gsu.edu/~psyrab/gseq</a>). For this the coded events can be
-exported as aggregated events in SDIS format. See <a href="">export aggregated
-events</a></p>
+exported as aggregated events in SDIS format.
+See <a href="../export_events/#export-aggregated-events">export aggregated events</a>.</p>
+<h2 id="similarities">Similarities</h2>
+<p>Needleman-Wunsch similarity</p>
+<h2 id="co-occurence">Co-occurence</h2>
+<p>This function allow to determine the co-occurence of 2 behaviors.</p>
 <h2 id="advanced-event-filtering">Advanced event filtering</h2>
 <p>This function allows to filter events from one or more observations by
 selecting subjects, behaviors and logical operators.</p>
@@ -839,26 +918,23 @@ selecting subjects, behaviors and logical operators.</p>
 button with the green arrow on the side of the behaviors list. The tuple
 subject/behavior will be added in the <strong>filter text edit</strong>. A complex
 filter query can be constructed by adding parenthesis and logical
-operator (<strong>AND</strong> &amp; / <strong>OR</strong> | ) for combining various subjects and
-behaviors.</p>
+operator <strong>&amp;</strong> (AND) or <strong>|</strong> (OR) for combining various subjects and behaviors.</p>
 <p>Example of a summarized output showing the occurences of Himal resting
 while Nautilus in alert:</p>
-<p><img alt="Advanced event filter summary" src="images/advanced_filter_summary.png" width="80.0%" /></p>
+<p><img alt="Advanced event filter summary" src="../images/advanced_filter_summary.png" /></p>
 <p>Example of a detailed output showing the overlaping intervals while
 Himal rests and Nautilus is in alert:</p>
-<p><img alt="Advanced event filter details" src="images/advanced_filter_details.png" width="80.0%" /></p>
-<p>The same subject can be used many times in the query with OR or AND (in
-case of non exclusive behaviors):</p>
-<p><img alt="Advanced event filter with 4 conditions" src="images/advanced_filter_example0.png" width="80.0%" /></p>
+<p><img alt="Advanced event filter details" src="../images/advanced_filter_details.png" /></p>
+<p>The same subject can be used many times in the query with OR or AND (in case of non exclusive behaviors):</p>
+<p><img alt="Advanced event filter with 4 conditions" src="../images/advanced_filter_example0.png" /></p>
 <p>An unlimited number of conditions can be used:</p>
-<p><img alt="Advanced event filter with 4 conditions" src="images/advanced_filter_example1.png" width="80.0%" /></p>
+<p><img alt="Advanced event filter with 4 conditions" src="../images/advanced_filter_example1.png" /></p>
 <p>Parenthesis can be used to group logical conditions into block(s):</p>
-<p><img alt="Advanced event filter with parenthesis" src="images/advanced_filter_example2.png" width="80.0%" /></p>
+<p><img alt="Advanced event filter with parenthesis" src="../images/advanced_filter_example2.png" /></p>
 <p>The results can be saved in a Tab Separted Values (TSV) file using the
 <strong>Save results</strong> button. Other formats will be added in future.</p>
 <h2 id="latency">Latency</h2>
-<p>The latency will analyze the time between one or more markers (arbitrary
-behaviors(s)) and other behaviors.</p>
+<p>The latency will analyze the time between one or more markers (arbitrary behaviors(s)) and other behaviors.</p>
 
 
 
@@ -940,19 +1016,9 @@ behaviors(s)) and other behaviors.</p>
     </div>
   
   
-</div>
-      
-        <div class="md-social">
-  
-    
-    
-    
-    
-      
-      
-    
-    <a href="https://github.com/olivierfriard/BORIS" target="_blank" rel="noopener" title="github.com" class="md-social__link">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
     </a>
   
 </div>
@@ -967,10 +1033,10 @@ behaviors(s)) and other behaviors.</p>
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.footer", "navigation.tabs", "navigation.instant", "navigation.tracking", "content.code.annotate", "content.code.copy", "content.tabs.link", "content.action.edit", "toc.integrate", "toc.follow", "navigation.path", "navigation.top"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.footer", "navigation.tabs", "navigation.instant", "navigation.tracking", "content.code.annotate", "content.code.copy", "content.tabs.link", "content.action.edit", "toc.integrate", "toc.follow", "navigation.path", "navigation.top"], "search": "../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.c18c5fb9.min.js"></script>
+      <script src="../assets/javascripts/bundle.d7c377c4.min.js"></script>
       
     
   </body>
