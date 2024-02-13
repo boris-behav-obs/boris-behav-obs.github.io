@@ -80,11 +80,6 @@ If the size of your corrupted project file is not 0 you can open it with a text 
 <p>Another possibility is to use an on-line JSON validator like <a class="reference external" href="https://jsonformatter.org">https://jsonformatter.org</a> and try to repair it.</p>
 </div>
 </div>
-<div class="section" id="the-video-is-playing-but-i-can-hear-only-the-audio-the-video-player-is-not-visible">
-<h2>The video is playing but I can hear only the audio, the video player is not visible</h2>
-<p>This problem that occured after the migration to the new version (v. 7) should now be fixed from v. 7.4.4.</p>
-<p>Please upgrade and let me know if you have problem.</p>
-</div>
 <div class="section" id="boris-crashes-when-i-load-a-video-and-does-not-generate-any-error-message">
 <h2>BORIS crashes when I load a video and does not generate any error message</h2>
 <p>Set the <em>MPV player hardware video decoding</em> option to <strong>No</strong>. See Project &gt; Preferences</p>
@@ -94,39 +89,22 @@ If the size of your corrupted project file is not 0 you can open it with a text 
 <p>Right-click on the menu bar and reactivate the widget visualization.</p>
 <p>if it does not work close BORIS and delete the BORIS configuration file.</p>
 <p>After this you will have to reset all the parameters of Preferences (File &gt; Preferences)</p>
-<p>See the <a class="reference external" href="https://boris.readthedocs.io/en/latest/#configuration-files">manual</a> for the name and location of the configuration file
+<p>See the <a class="reference external" href="http://www.boris.unito.it/user_guide/various/#configuration-files">manual</a> for the name and location of the configuration file
 on your system.</p>
 </div>
 <div class="section" id="my-video-does-not-play-well-with-boris">
 <h2>My video does not play (well) with BORIS</h2>
-<p>To be used with BORIS your video must play well with <a class="reference external" href="https://www.videolan.org/vlc">VLC media player</a> because BORIS used the VLC libraries.
-The VLC libaries are embedded in BORIS executable versions (except for Linux).</p>
-<p>If your video do not play with VLC, you can try to re-encode it.</p>
+<p>To be used with BORIS your video must play well with <a class="reference external" href="https://mpv.io">MPV media player</a> because BORIS used the MPV library.
+The MPV libary is embedded in BORIS executable versions (except for Linux, you will have to install the libmpv package).</p>
+<p>If your video do not play with MPV, you can try to re-encode it.</p>
 <p>You can use the embedded tool in BORIS. See <strong>Tools &gt; Re-encode/resize video</strong> and the
-guide (<a class="reference external" href="http://boris.readthedocs.io/en/latest/#re-encoding-and-resizing-a-video-file">http://boris.readthedocs.io/en/latest/#re-encoding-and-resizing-a-video-file</a>)</p>
+guide (<a class="reference external" href="http://www.boris.unito.it/user_guide/tools/#re-encoding-and-resizing-a-video-file">http://www.boris.unito.it/user_guide/tools/#re-encoding-and-resizing-a-video-file</a>)</p>
 <p>For more parameters you can directly use the <a class="reference external" href="https://www.ffmpeg.org">FFmpeg framework</a>.
 Various graphic interfaces are available: <a class="reference external" href="http://qwinff.github.io">QWinFF</a>, <a class="reference external" href="https://handbrake.fr">HandBrake</a> ...</p>
-<p>If your video plays with VLC and not in BORIS you can contact me and send me your video.</p>
+<p>If your video plays with MPV and not in BORIS you can contact me and send me your video.</p>
 </div>
-<div class="section" id="the-program-crash-under-ubuntu-when-i-create-a-new-observation">
-<h2>The program crash under Ubuntu when I create a new observation</h2>
-<p>If VLC is preinstalled with the snap utility (check with <strong>snap list</strong>) you will have to uninstall it. Open a terminal and type:</p>
-<pre class="literal-block">
-   sudo snap remove vlc
-   (your password will be required)
-
-VLC must be reinstalled with the apt utility. Open a terminal and type::
-
-   sudo apt install vlc
-   (your password will be required)
-</pre>
-</div>
-<div class="section" id="on-my-mac-it-is-impossible-to-manage-the-dockwidgets">
-<h2>On my Mac it is impossible to manage the dockwidgets</h2>
-<p>Use the v. &gt;= 7.9 and lock the dockwidgets on the main window (see Tools &gt; Lock dockwidgets)</p>
-</div>
-<div class="section" id="i-am-using-a-old-version-of-windows-and-boris-does-not-launch">
-<h2>I am using a old version of Windows and BORIS does not launch</h2>
+<div class="section" id="i-am-using-an-old-version-of-windows-and-boris-does-not-launch">
+<h2>I am using an old version of Windows and BORIS does not launch</h2>
 <p>If you are using an old version of Windows (&lt;10) and have problem launching BORIS, you have to install the <strong>Update for Universal C Runtime in Windows</strong>
 See <a class="reference external" href="https://support.microsoft.com/en-us/kb/2999226">https://support.microsoft.com/en-us/kb/2999226</a></p>
 </div>
@@ -157,7 +135,7 @@ See <a class="reference external" href="https://support.microsoft.com/en-us/kb/2
 
 <ul class="socbtns">
 
-<a href="https://boris.readthedocs.io/en/v7" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/readthedocs.png" width="54px" style="padding-left: 20px;" alt="Read the Docs"></a>
+<a href="http://www.boris.unito.it/user_guide" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/readthedocs.png" width="54px" style="padding-left: 20px;" alt="User guide"></a>
 
 <a href="https://github.com/olivierfriard/BORIS" target="_blank"><img src="http://www.boris.unito.it/theme/fonts/icons/github.svg" width="54px" style="padding-left: 20px;" alt="GitHub"></a>
 
