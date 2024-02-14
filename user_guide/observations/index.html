@@ -1019,22 +1019,21 @@ during the observation.</p>
 <h3 id="close-current-behavior-between-videos">Close current behavior between videos<a class="headerlink" href="#close-current-behavior-between-videos" title="Permanent link">#</a></h3>
 <p>This option is disabled for now.</p>
 <h3 id="external-data-files">External data files<a class="headerlink" href="#external-data-files" title="Permanent link">#</a></h3>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
 <p><strong>At this time only 2 external data can be plotted with your media file</strong></p>
 </div>
 <p>You can select one or more external data files to be plotted
 synchronously with your media. Click the <strong>Data files</strong> tab and use the
 <strong>Add data file</strong> button to select a data file.</p>
 <figure>
-<p><img alt="Image title" src="../images/external_data_file_1.png" width="80.0%" />
+<p><img alt="External data file table" src="../images/external_data_file_1.png" />
   </p>
-<figcaption>External data file tab</figcaption>
+<figcaption>External data file table</figcaption>
 </figure>
 <p>The data files must be plain text files with at least <strong>2 columns</strong>
-separated by comma or TAB. One column must contain a timestamp that will
-be used to synchronize the plot with the media. The sampling rate can be
-variable.</p>
+separated by a comma or a TAB character. One column must contain a timestamp that will
+be used to synchronize the plot with the media. The sampling rate can be variable.</p>
 <p>Example of a plain text data file with 5 columns separated by comma
 (<strong>,</strong>):</p>
 <pre><code>Display,X Pos,Y Pos,Start Time (secs),Pupil Diameter
@@ -1053,15 +1052,15 @@ the value to be plotted.</p>
 the column containing the value to be plotted. The two indices must be
 separated by a comma (,). Click <strong>OK</strong> to close the window.</p>
 <figure>
-<p><img alt="Image title" src="../images/external_data_file_columns_selection.png" width="80.0%" />
+<p><img alt="Selection of columns (time, value)" src="../images/external_data_file_columns_selection.png" width="80.0%" />
   </p>
 <figcaption>Selection of columns (time, value)</figcaption>
 </figure>
 <p>A new row will be added in the data files table.</p>
 <figure>
-<p><img alt="Image title" src="../images/external_data_file_1.png" width="80.0%" />
+<p><img alt="Data file table" src="../images/external_data_file_1.png" width="80.0%" />
   </p>
-<figcaption>Data file tab</figcaption>
+<figcaption>Data file table</figcaption>
 </figure>
 <p>You can modify/complete the following parameters by directly typing in
 the table cells:</p>
@@ -1080,7 +1079,7 @@ the table cells:</p>
 <li>Color: the color of the color</li>
 </ul>
 <p><strong>NOTE</strong> : if you want to record the value of the plotted variable in a
-modifier of a behavior (see <a href="">Value from external data file modifier</a>)
+modifier of a behavior (see <a href="../create_project/#value-from-external-data-file-modifier">Value from external data file modifier</a>)
 the modifier must have the same <strong>variable name</strong>.</p>
 <p>You can check if the data from file can be correctly plotted by using
 the <strong>Show plot</strong> button. If the data are compatible you will see a plot
@@ -1090,7 +1089,7 @@ The values can come from the same file or from two different files.</p>
 <p>During the observation tha values you have selected in external data
 files will be plotted synchronously with your media file.</p>
 <figure>
-<p><img alt="Image title" src="../images/observation_with_external_data.png" width="100.0%" />
+<p><img alt="Observation with 2 values plotted" src="../images/observation_with_external_data.png" width="100.0%" />
   </p>
 <figcaption>Observation with 2 values plotted from external data files: Temperature and salinity</figcaption>
 </figure>
@@ -1099,37 +1098,36 @@ files will be plotted synchronously with your media file.</p>
 12.45) but in another format (HH:MM:SS, MM:SS, ISO8601
 2018-01-18T12:31:40Z ...) you must use a converter that will convert
 the current format in seconds.</p>
-<p>See the Converters' tab in the project configuration: <a href="">converters tab</a></p>
+<p>See the <a href="../create_project/#converters-table">Converters' table</a> in the project configuration.</p>
 <p>A <strong>double-click</strong> on the converters cell will allow you to select a
 converter for each column to be plotted</p>
 <figure>
-<p><img alt="Image title" src="../images/converter_selection.png" width="100.0%" />
+<p><img alt="Image title" src="../images/converter_selection.png" />
   </p>
 <figcaption></figcaption>
 </figure>
 <figure>
-<p><img alt="Image title" src="../images/converter_selected.png" width="100.0%" />
+<p><img alt="Image title" src="../images/converter_selected.png" />
   </p>
 <figcaption></figcaption>
 </figure>
 <p>Use the <strong>Show plot</strong> button to verify if your external data can be
 plotted without problem. The <strong>Close plot</strong> button will close the plot
 window.</p>
-<p><img alt="image" src="../images/external_data_show_plot.png" width="1800px" /></p>
+<p><img alt="image" src="../images/external_data_show_plot.png" /></p>
 <p>Converters can also be used to convert values that are not time value.</p>
 <p>Example of a converter for inverting value:</p>
 <pre><code>OUTPUT = - float(INPUT)
 </code></pre>
 <h3 id="start-the-observation_1">Start the observation<a class="headerlink" href="#start-the-observation_1" title="Permanent link">#</a></h3>
 <p>Click the <strong>Start</strong> button to start coding. The <strong>Observation</strong> window
-will be closed and you\'ll be transferred to the main <strong>BORIS</strong> window.
+will be closed and you'll be transferred to the main <strong>BORIS</strong> window.
 If you do not want to start the observation click the <strong>Save</strong> button.
-The observation will be saved in the <a href="#observations-list">observations
-list</a>.</p>
+The observation will be saved in the <a href="../observations_list/">observations list</a>.</p>
 <p>The main window during the observation of a single media file will look
 like this:</p>
 <figure>
-<p><img alt="Image title" src="../images/observation_1video.png" width="100.0%" />
+<p><img alt="The main window during the observation of one video" src="../images/observation_1video.png" />
   </p>
 <figcaption>The main window during the observation of one video</figcaption>
 </figure>
