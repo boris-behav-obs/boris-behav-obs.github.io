@@ -1,0 +1,24 @@
+{
+ "BORIS converters":{
+  "HHMMSS_2_seconds":{
+   "name":"HHMMSS_to_seconds",
+   "description":"convert HH:MM:SS in seconds since 1970-01-01",
+   "code":"\nh, m, s = INPUT.split(':')\nOUTPUT = int(h) * 3600 + int(m) * 60 + int(s)\n\n"
+  },
+  "ISO8601_to_seconds":{
+   "name":"ISO8601_to_seconds",
+   "description":"Convert ISO8601 format to seconds since 1970-01-01 Input example: \"2018-01-18T12:31:40Z\"",
+   "code":"import datetime\nepoch = datetime.datetime.utcfromtimestamp(0)\ndatetime_format = \"%Y-%m-%dT%H:%M:%SZ\"\n\nOUTPUT = (datetime.datetime.strptime(INPUT, datetime_format) - epoch).total_seconds()"
+  },
+"convert_time_ecg":{
+   "name":"convert_time_ecg",
+   "description":"convert '%d/%m/%Y %H:%M:%S.%f' in seconds from epoch",
+   "code":"\nimport datetime\nepoch = datetime.datetime.utcfromtimestamp(0)\ndatetime_format = \"%d/%m/%Y %H:%M:%S.%f\"\n\nOUTPUT = (datetime.datetime.strptime(INPUT, datetime_format) - epoch).total_seconds()\n"
+  },
+  "invert_value":{
+   "name":"invert value",
+   "description":"invert the value",
+   "code":"\nOUTPUT = -float(INPUT)\n\n"
+  }
+ }
+}
