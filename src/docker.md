@@ -13,7 +13,7 @@ summary: |
 title: BORIS with Docker
 ---
 
-![Docker logo](/images/docker_logo.webp)
+![Docker logo](images/docker_logo.webp)
 
 A Docker image with BORIS already installed is available.
 
@@ -44,5 +44,5 @@ in a terminal, type:
 ### MacOS
 
 
-See the start\_macOS.command script on the [GitHub scripts
+See the start_macOS.command script on the [GitHub scripts
 directory](https://github.com/olivierfriard/BORIS/tree/master/scripts)

@@ -13,7 +13,7 @@ summary: |
 title: BORIS for Chromebook
 ---
 
-![Chromebook logo](/images/chrome_logo.svg){width="100px"}
+![Chromebook logo](images/chrome_logo.svg){width="100px"}
 
 BORIS cannot run directly on the [Chrome
 OS](https://www.google.com/chromebook/chrome-os/) (The operative system
@@ -32,7 +32,7 @@ Python under this Linux (BORIS is coded in Python) as described at:
     Linux container within the Chrome OS (some Chromebooks may not have
     this option).
 
-![Chromebook settings](/images/chromebook_settings.png)
+![Chromebook settings](images/chromebook_settings.png)
 
 -   Install the Linux using the "turn on"button - if not already turned
     on. Then click install.

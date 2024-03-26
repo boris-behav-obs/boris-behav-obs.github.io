@@ -11,7 +11,7 @@ glightbox: false
 
 # Behavioral sequences analysis with permutations test
 
-![Behatrix logo](/images/logo_behatrix.png)
+![Behatrix logo](images/logo_behatrix.png)
 
 
 Researchers who observe and study behavior often collect data in the

@@ -2,9 +2,14 @@
 hide:
   - navigation
   - toc
+author:
+- Olivier Friard
+summary: BORIS Download page
+title: Download
+glightbox: false
 ---
 
-![Image title](images/boris_logo-3.400px.png){width=200px}
+![BORIS logo](images/boris_logo-3.400px.png){width=200px}
 
 # Behavioral Observation Research Interactive Software
 

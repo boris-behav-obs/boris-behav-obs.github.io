@@ -7,8 +7,6 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
       
-        <meta name="author" content="['Olivier Friard']">
-      
       
       
         <link rel="prev" href="../screenshots/">
@@ -18,7 +16,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.3">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.5">
     
     
       
@@ -55,7 +53,16 @@
     
     
     
-  </head>
+   <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -510,65 +517,6 @@
 
 
 <h1 id="download">Download</h1>
-<div class="admonition warning">
-<p class="admonition-title">Important</p>
-<p>BORIS is distributed <strong>WITHOUT ANY WARRANTY</strong>. Remember that it is <strong>EXTREMELY important to do regular backups of your project files</strong> to
-prevent the lost of data. Software can be reinstalled but your data
-could quite possibly be lost for ever.**</p>
-</div>
-<h2 id="current-version-v-8241-release-date-2024-02-13">Current version: v. <strong>8.24.1</strong> release date: 2024-02-13</h2>
-<p>The user guide is available at <a href="http://www.boris.unito.it/user_guide/">http://www.boris.unito.it/user_guide/</a>.
-Feel free to contact me if you want to improve it.</p>
-<p>See the <a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8">change log</a> for details of changes.</p>
-<p>Please acknowledge and cite the use of this software and its authors
-when results are used in publications or published elsewhere:</p>
-<pre><code class="language-text">Friard, O. and Gamba, M. (2016),
-BORIS: a free, versatile open-source event-logging software for video/audio coding and live observations.
-Methods Ecol Evol, 7: 1325–1330.
-</code></pre>
-<p>DOI: <a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract">10.1111/2041-210X.12584</a></p>
-<p>If you find this software useful, please send me a <a href="../postcards/">nice postcard</a> of the place where do you live.</p>
-<p>The v. 8 has great improvements due to the use of the <a href="https://mpv.io">mpv media player</a>, see <a href="../version8/">version 8</a> for the
-details.</p>
-<h2 id="gnu-linux"><a href="../download_linux/"><img alt="Tux logo" src="../images/tux_128px.png" width="64px" /> GNU-Linux</a></h2>
-<h2 id="microsoft-windows"><a href="../download_win/"><img alt="microsoft windows logo" src="../images/windows_logo.svg" width="72px" /> Microsoft-Windows</a></h2>
-<h2 id="macos"><a href="../download_mac/"><img alt="macos logo" src="../images/mac-os.svg" width="64px" /> MacOS</a></h2>
-<h2 id="boris-app-for-android"><a href="../download_android/"><img alt="Android logo" src="../images/android_logo.png" width="60px" /> BORIS App for Android</a></h2>
-<h2 id="download-sources"><a href="https://github.com/olivierfriard/BORIS/releases/tag/v8.24.1"><img alt="GitHub logo" src="../images/github_logo_64px.png" width="64px" /> Download sources</a></h2>
-<h2 id="virtualbox-virtual-machine"><a href="../virtual_machine/"><img alt="VirtualBox logo" src="../images/virtualbox_logo.png" width="84px" /> VirtualBox virtual machine</a></h2>
-<h2 id="docker-image"><a href="../docker/"><img alt="Docker logo" src="../images/docker_logo.webp" width="84px" /> Docker image</a></h2>
-<p>All files are signed with <a href="https://gnupg.org">GPG</a> you can verify their
-integrity using my <a href="http://penelope.unito.it/friard/pubkey.asc">PGP public
-key</a>.</p>
-<h2 id="bug-report-feature-request-and-discussion">Bug report, feature request and discussion</h2>
-<p>See the <a href="../report_a_bug/">how to report a bug</a> page.</p>
-<p><a href="https://github.com/olivierfriard/BORIS/issues/new?assignees=&amp;labels=feature+request&amp;template=feature_request.md&amp;title=">GitHub feature
-request</a>.</p>
-<p><a href="https://github.com/olivierfriard/BORIS/discussions">Suggestions and general
-discussion</a></p>
-<h2 id="test-video-samples">Test - video samples</h2>
-<p>You can download video samples to test BORIS on your system:</p>
-<p><a href="/archive/video_samples.zip">video_samples.zip</a> (~ 70 Mb)</p>
-<h2 id="previous-versions">Previous versions</h2>
-<p>All previous versions of BORIS are available in the <a href="https://github.com/olivierfriard/BORIS/releases">BORIS
-releases</a> archive or in
-the <a href="https://drive.google.com/drive/folders/0B0KTzxkLpPJ_bE8zOUFjenFnU3c?resourcekey=0-b9_Ng_8SqK-FIuOP8qIn7w">BORIS
-archive</a>
-for versions prior to 2.99. Please note that the backward compatibility
-of a BORIS project is not guaranteed!</p>
-<h2 id="credits">Credits</h2>
-<p>BORIS is developed entirely with open source software.</p>
-<p>BORIS is developped in <a href="http://www.python.org">Python 3.10</a> using <a href="http://www.riverbankcomputing.com/software/pyqt/intro">PyQt5</a> for the GUI (should run from Python &gt;= 3.8).  </p>
-<p>The <a href="https://mpv.io">mpv media player</a> library and the <a href="https://github.com/jaseg/python-mpv">python-mpv</a> interface are used to play media files.  </p>
-<p>The <a href="http://matplotlib.org">Matplotlib</a> python 2D plotting library is used for plotting events and generating the spectrogram.  </p>
-<p>The <a href="https://pandas.pydata.org">Pandas</a> data analysis tool.  </p>
-<p>The <a href="https://www.ffmpeg.org">FFmpeg</a> multimedia framework is used to extract media files parameters, in frame-by-frame mode and in spectrogram visualization.  </p>
-<p>The <a href="https://tablib.readthedocs.org">Tablib</a> Python module is used to export data in TSV, CSV, ODS, XLSX, HTML and XLS formats.  </p>
-<p>The <a href="https://pypi.org/project/portion">portion</a> Python module is used in the <strong>Advanced event filtering</strong> function.  </p>
-<p>The <a href="https://pypi.org/project/ExifRead">ExifRead</a> Python module used to access pictures Exif data.  </p>
-<p>The <a href="https://pypi.org/project/pyreadr">pyreadr</a> Python module is  used to save data for R (optional).  </p>
-<p>The <a href="http://www.graphviz.org">Graphviz</a> graph visualization software is used (optional) to generate transitions graph.  </p>
-<p>The BORIS web site is made using <a href="https://squidfunk.github.io/mkdocs-material/">Material for Mkdocs</a> static site generator and supported by GitHub.</p>
 
 
 
@@ -649,11 +597,11 @@ of a BORIS project is not guaranteed!</p>
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.top", "navigation.path", "navigation.tabs"], "search": "../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.top", "navigation.path", "navigation.tabs"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.d7c377c4.min.js"></script>
+      <script src="../assets/javascripts/bundle.c18c5fb9.min.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>
