@@ -53,4 +53,6 @@ Please report the bugs! See the [how to report a bug](report_a_bug.md) page.
 For suggestion and feature request please use the [GitHub repository](https://github.com/olivierfriard/BORIS/issues).
 
 
+## Credits
+
 {% include 'credits.md' %}
