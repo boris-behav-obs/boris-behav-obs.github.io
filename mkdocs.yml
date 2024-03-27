@@ -55,3 +55,4 @@ plugins:
         include_dir: src
     - search
     - glightbox
+
