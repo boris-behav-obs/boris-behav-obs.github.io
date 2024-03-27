@@ -13,11 +13,10 @@ summary: |
 title: BORIS for Chromebook
 ---
 
-![Chromebook logo](images/chrome_logo.svg){width="100px"}
+![Chromebook logo](/images/chrome_logo.svg){width="100px"}
 
-BORIS cannot run directly on the [Chrome
-OS](https://www.google.com/chromebook/chrome-os/) (The operative system
-of [Chromebook](https://www.google.com/chromebook/)).
+BORIS cannot run directly on the [Chrome OS](https://www.google.com/chromebook/chrome-os/)
+(The operative system of [Chromebook](https://www.google.com/chromebook/)).
 
 Acknowledgement to Jessica Rodda for the following procedure.
 
@@ -26,13 +25,14 @@ Python under this Linux (BORIS is coded in Python) as described at:
 <https://www.youngwonks.com/blog/Coding-on-a-Chromebook-Using-Python-and-PyGame>
 
 -   Open Settings (bottom right) of the Chromebook
--   You can check if your Chrome OS is the latest version available - if
-    not, update it.
+
+-   You can check if your Chrome OS is the latest version available - if not, update it.
+
 -   Find "Linux (Beta) under Settings - this will allow us to install a
     Linux container within the Chrome OS (some Chromebooks may not have
     this option).
 
-![Chromebook settings](images/chromebook_settings.png)
+![Chromebook settings](/images/chromebook_settings.png)
 
 -   Install the Linux using the "turn on"button - if not already turned
     on. Then click install.
@@ -62,10 +62,9 @@ Python under this Linux (BORIS is coded in Python) as described at:
 
         python3 -m venv boris_venv
 
-You should see a new directory called "boris\_venv" with the command: ls
--l
+You should see a new directory called "boris_venv" with the command: ```ls -l```
 
-If the directory "boris\_venv" exists, you have to activate your virtual
+If the directory "boris_venv" exists, you have to activate your virtual
 environment:
 
     source boris_venv/bin/activate
@@ -83,7 +82,7 @@ And launch Boris:
 
     python3 -m boris
 
-See the revision history for details:
-<https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history>
+See the revision history for details: <https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history>
+
 
 If you want to report a bug, see the [how to report a bug](report_a_bug.md) page.
