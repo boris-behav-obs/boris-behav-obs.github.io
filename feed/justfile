@@ -1,5 +1,9 @@
+
+BORIS_WEB_SITE_REPO := "/home/olivier/projects/boris-behav-obs.github.io"
+
 default:
-	tilde news.json
-	/home/olivier/.virtualenvs/boris_deploy/bin/python create_feed.py news.json /home/olivier/projects/boris-behav-obs.github.io/static/atom.xml 5
-	cd /home/olivier/projects/boris-behav-obs.github.io; git commit -a -m "added news"; git push origin master
+    tilde news.json
+    /home/olivier/.virtualenvs/boris_deploy/bin/python create_feed.py news.json $BORIS_WEB_SITE_REPO/static/atom.xml 5
+    cd $BORIS_WEB_SITE_REPO; git commit -a -m "added news"; git push origin master
+
 
