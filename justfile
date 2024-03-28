@@ -26,3 +26,9 @@ push version:
 
 serve:
     rye run mkdocs serve
+
+add_news:
+    tilde feed/news.json
+    rye run python feed/create_feed.py feed/news.json src/static/atom.xml 5
+
+
