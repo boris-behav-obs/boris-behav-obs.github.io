@@ -1,0 +1,5 @@
+default:
+	tilde news.json
+	/home/olivier/.virtualenvs/boris_deploy/bin/python create_feed.py news.json /home/olivier/projects/boris-behav-obs.github.io/static/atom.xml 5
+	cd /home/olivier/projects/boris-behav-obs.github.io; git commit -a -m "added news"; git push origin master
+
