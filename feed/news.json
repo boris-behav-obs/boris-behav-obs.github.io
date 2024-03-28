@@ -1,4 +1,16 @@
+
 {
+
+"088":
+{
+"id": "tag:www.boris.unito.it,2024-03-28",
+"title": "2024-03-28: v. 8.24.2 available",
+"summary": "A bug during the aggregated events export under certain conditions was fixed",
+"content": "A bug during the aggregated events export under certain conditions was fixed",
+"updated": "'2024-03-29 00:00:00+01:00'",
+"link": "http://www.boris.unito.it/download"
+},
+
 
 "087":
 {
@@ -7,7 +19,7 @@
 "summary": "Fix various bugs and introduce an improved zoom function",
 "content": "Fix various bugs and introduce an improved zoom function",
 "updated": "'2024-01-23 12:00:00+01:00'",
-"link": "http://www.boris.unito.it/pages/download.html"
+"link": "http://www.boris.unito.it/download"
 },
 
 
@@ -18,7 +30,7 @@
 "summary": "Current version rollback to 8.22.14 waiting for fix",
 "content": "Current version rollback to 8.22.14 wating for fix",
 "updated": "'2024-01-18 13:00:00+02:00'",
-"link": "http://www.boris.unito.it/pages/download.html"
+"link": "http://www.boris.unito.it/download"
 },
 
 "085":
