@@ -82,7 +82,8 @@ And launch Boris:
 
     python3 -m boris
 
-See the revision history for details: <https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history>
+
+{% include 'revision_history.md' %}
 
 
 If you want to report a bug, see the [how to report a bug](report_a_bug.md) page.

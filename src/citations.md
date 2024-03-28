@@ -10,7 +10,7 @@ tile: |
 title: Citations
 ---
 
-**\#\#\#CITATIONS\_NUMBER\#\#\# citations** from **Scopus**
+**{{ boris.citations_number }} citations** from **Scopus**
 <https://www.scopus.com> at \#\#\#CITATIONS\_DATE\#\#\#
 
 Some citations (at 2023-12-05):

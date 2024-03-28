@@ -19,14 +19,15 @@ glightbox: false
 
     BORIS is distributed **WITHOUT ANY WARRANTY**. Remember that it is **EXTREMELY important to do regular backups of your project files** to
     prevent the lost of data. Software can be reinstalled but your data
-    could quite possibly be lost for ever.**
+    could quite possibly be lost for ever.
 
 
 
 ## Current version: v. **{{ boris.version }}** release date: {{ boris.release_date }}
 
-The user guide is available at <http://www.boris.unito.it/user_guide/>.
+The user guide is available at <https://www.boris.unito.it/user_guide>.
 Feel free to contact me if you want to improve it.
+
 
 {% include 'revision_history.md' %}
 

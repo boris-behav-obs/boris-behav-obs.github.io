@@ -29,9 +29,10 @@ This app is designed for live observations and runs on Android.
 
 [BORIS App user guide](http://boris-app.readthedocs.io)
 
-Some [screenshots](screenshots_android.md) of BORIS App
-are available.
+Some [screenshots](screenshots_android.md) of BORIS App are available.
+
 
 [Download BORIS App v.0.9](https://github.com/olivierfriard/BORIS-App/releases/tag/v0.9)
+
 
 Please report any bug and suggestion using the [GitHub issues page](https://github.com/olivierfriard/BORIS-App/issues)

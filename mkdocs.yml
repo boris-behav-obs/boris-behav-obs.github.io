@@ -37,10 +37,13 @@ theme:
     scheme: default
     primary: blue grey
 
+copyright: Copyright &copy; 2012 - 2024 Olivier Friard
+
 extra:
   boris:
     version: 8.24.1
     release_date: 2024-02-13
+    citations_number: 1571
 
   generator: false
 

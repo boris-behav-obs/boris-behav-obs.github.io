@@ -78,8 +78,9 @@ request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=fea
 [Suggestions and general
 discussion](https://github.com/olivierfriard/BORIS/discussions)
 
-See the revision history for details:
-<https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8>
+
+
+{% include 'revision_history.md' %}
 
 
 ### Older Debian
