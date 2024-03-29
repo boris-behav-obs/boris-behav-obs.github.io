@@ -1,6 +1,18 @@
 
 {
 
+"089":
+{
+"id": "tag:www.boris.unito.it,2024-03-29",
+"title": "2024-03-29: v. 8.24.3 available",
+"summary": "Fixed bug during video - audio synchronisation",
+"content": "Fixed bug during video - audio synchronisation",
+"updated": "'2024-03-29 17:00:00+01:00'",
+"link": "http://www.boris.unito.it/download"
+},
+
+
+
 "088":
 {
 "id": "tag:www.boris.unito.it,2024-03-28",
