@@ -26,8 +26,7 @@ Friard, O. and Gamba, M. (2016), BORIS: a free, versatile open-source event-logg
 
 [doi:10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract)
 
-General information
--------------------
+## General information
 
 The user guide is available at <http://www.boris.unito.it/user_guide/>, so take a look before asking ;-)
 
@@ -35,10 +34,9 @@ The **first** launch of BORIS (just after downloading/unzipping or
 installing) can be long. So be patient (depending on your system it can
 require 1 minute).
 
-It is normal to see a black window when you launch BORIS. Do not be
-affraid, it is the Windows Command Prompt and you do not have to use it
-(see <https://www.lifewire.com/command-prompt-2625840> for details).
-**Do not close it**.
+
+When you launch BORIS, it's typical to encounter a black window. Don't worry; this is the Windows Command Prompt, and you don't need to interact with it directly ([more information](https://www.lifewire.com/command-prompt-2625840)). Simply leave it open and proceed **without closing it**.
+
 
 
 
@@ -56,40 +54,47 @@ your computer. Just extract the archive and launch the
 A video tutorial for downloading and launching BORIS is available:
 <https://youtu.be/oWs4e7iPy6I>
 
-BORIS for Windows Setup v.{{ boris.version }}
------------------------------------------
 
-[BORIS for Windows 64-bit Setup
-v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris-{{ boris.version }}-win64-setup.exe)
+
+
+
+### BORIS for Windows Setup v.{{ boris.version }}
+
+
+[BORIS for Windows 64-bit Setup v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris-{{ boris.version }}-win64-setup.exe)
 
 The default install path is located in your home directory (for example
 c:\\users\\joe\\BORIS)
 
-**ATTENTION!**
 
-**Control that the install directory is empty. Otherwise you can would
-have issues with some features.** See
-<https://github.com/olivierfriard/BORIS/issues/673> for details.
+!!! warning "Important"
 
-See the revision history for details:
-<https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8>
+    Control that the install directory is empty. Otherwise you can would
+    have issues with some features.
+    See <https://github.com/olivierfriard/BORIS/issues/673> for details.
 
-Bug report, feature request and discussion
-==========================================
+
+
+{% include 'revision_history.md' %}
+
+
+
+
+
+## Bug report, feature request and discussion
+
 
 See the [how to report a bug](report_a_bug.md) page.
 
-[GitHub feature
-request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
+[GitHub feature request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
 
-[Suggestions and general
-discussion](https://github.com/olivierfriard/BORIS/discussions)
+[Suggestions and general discussion](https://github.com/olivierfriard/BORIS/discussions)
 
-Checksums
----------
+
+## Checksums
 
 [What Is a Checksum?](https://en.wikipedia.org/wiki/Checksum)
 
-[MD5](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/md5sum.txt)
-[SHA1](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/sha1sum.txt)
-[SHA256](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/sha256sum.txt)
+[MD5](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/md5sum.txt)  
+[SHA1](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/sha1sum.txt)  
+[SHA256](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/sha256sum.txt)  

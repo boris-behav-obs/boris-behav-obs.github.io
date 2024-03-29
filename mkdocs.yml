@@ -45,6 +45,7 @@ extra:
     release_date: 2024-03-29
     citations_number:  1574
     citations_date: 2024-03-29
+    app_version: 0.9
 
 
   generator: false
