@@ -18,7 +18,7 @@ title: 'Install BORIS v.{{ boris.version }} for Ubuntu'
 ## Ubuntu 20.04 and Ubuntu 22.04
 
 Download the **deb package** [BORIS deb package 64-bit
-v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/boris_{{ boris.version }}-0.deb)
+v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0.deb)
 and use the Software Installer
 
 
@@ -58,8 +58,5 @@ discussion](https://github.com/olivierfriard/BORIS/discussions)
 
 ### Checksums
 
-[What Is a Checksum?](https://en.wikipedia.org/wiki/Checksum)
+{% include 'checksums.md' %}
 
-[MD5](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/md5sum.txt)
-[SHA1](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/sha1sum.txt)
-[SHA256](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/sha256sum.txt)
