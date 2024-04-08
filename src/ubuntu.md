@@ -17,8 +17,7 @@ title: 'Install BORIS for Ubuntu'
 
 ## Ubuntu 20.04 and Ubuntu 22.04
 
-Download the **deb package** [BORIS deb package 64-bit
-v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0.deb)
+Download the **deb package** [BORIS deb package 64-bit v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0.deb)
 and use the Software Installer
 
 
