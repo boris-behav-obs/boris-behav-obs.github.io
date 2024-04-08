@@ -41,10 +41,18 @@ copyright: Copyright &copy; 2012 - 2024 Olivier Friard
 
 extra:
   boris:
+<<<<<<< HEAD
     version: 8.25
     release_date: 2024-04-07
     citations_number:  1586
     citations_date: 2024-04-08
+=======
+    version: 8.24.3
+    release_date: 2024-03-29
+    citations_number:  1574
+    citations_date: 2024-03-29
+    app_version: 0.9
+>>>>>>> e0ba76450d4d683c340d309506061602bea406ad
 
 
   generator: false

@@ -17,12 +17,23 @@ build version date:
 
     rye run mkdocs build
 
-# push web site
+# push web site to github repo
 push version:
     git add docs src
     git commit -am "web site for version {{version}}"
     git push
 
 
+# push and build to github repo
+build_push version date: (build version date) (push version)
+
 serve:
     rye run mkdocs serve
+
+add_news:
+    tilde feed/news.json
+    rye run python feed/create_feed.py feed/news.json src/static/atom.xml 5
+
+modif:
+    code src
+
