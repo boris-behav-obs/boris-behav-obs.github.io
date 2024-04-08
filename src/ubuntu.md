@@ -10,7 +10,7 @@ status: |
   hidden
 summary: |
   BORIS with Ubuntu
-title: 'Install BORIS v.{{ boris.version }} for Ubuntu'
+title: 'Install BORIS for Ubuntu'
 ---
 
 ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"}
