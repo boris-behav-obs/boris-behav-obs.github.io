@@ -4,10 +4,6 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  documentation
-summary: |
-  BORIS documentation
 title: Documentation
 ---
 

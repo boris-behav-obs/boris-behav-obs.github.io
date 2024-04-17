@@ -4,12 +4,6 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  download\_win
-status: |
-  hidden
-summary: |
-  BORIS Download page Microsoft-Windows
 title: 'Download for Windows'
 ---
 

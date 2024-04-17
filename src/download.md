@@ -4,10 +4,6 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  download
-summary: |
-  BORIS Download page
 title: Download
 glightbox: false
 ---

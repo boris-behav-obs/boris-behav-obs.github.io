@@ -4,12 +4,6 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  download\_android
-status: |
-  hidden
-summary: |
-  BORIS Download page Android
 tile: |
   Download App for Android
 title: Download App for Android
