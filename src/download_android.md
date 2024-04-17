@@ -32,7 +32,7 @@ This app is designed for live observations and runs on Android.
 Some [screenshots](screenshots_android.md) of BORIS App are available.
 
 
-[Download BORIS App v. {{ boris.app_version }}](https://github.com/olivierfriard/BORIS-App/releases/tag/v {{ boris.app_version }})
+[Download BORIS App v.{{ boris.app_version }}](https://github.com/olivierfriard/BORIS-App/releases/tag/v{{ boris.app_version }})
 
 
 Please report any bug and suggestion using the [GitHub issues page](https://github.com/olivierfriard/BORIS-App/issues)

@@ -5,7 +5,7 @@ hide:
 author:
 - Olivier Friard
 summary: BORIS Download page
-title: Download
+title: BORIS web site
 glightbox: false
 ---
 
