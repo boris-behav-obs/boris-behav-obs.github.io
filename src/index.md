@@ -32,7 +32,9 @@ DOI: [10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-2
 
 ## [User testimonials](postcards.md)
 
-## News
+## News  [RSS feed](static/atom.xml)
+
+
 
 {% include 'news.md' %}
 
