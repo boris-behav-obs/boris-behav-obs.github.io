@@ -1,5 +1,17 @@
 {
 
+"089":
+{
+"id": "tag:www.boris.unito.it,2024-04-18",
+"title": "2024-04-18: v. 8.25.4 available",
+"summary": "Fixed bug when importing a Noldus Observer project without modifiers",
+"content": "Fixed bug when importing a Noldus Observer project without modifiers",
+"updated": "'2024-04-18 18:00:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
+
 "088":
 {
 "id": "tag:www.boris.unito.it,2024-04-07",
@@ -27,7 +39,7 @@
 "id": "tag:www.boris.unito.it,2023-10-17",
 "title": "2024-01-18: Big bug in v. 8.22.16!",
 "summary": "Current version rollback to 8.22.14 waiting for fix",
-"content": "Current version rollback to 8.22.14 wating for fix",
+"content": "Current version rollback to 8.22.14 waiting for fix",
 "updated": "'2024-01-18 13:00:00+02:00'",
 "link": "http://www.boris.unito.it/pages/download.html"
 },

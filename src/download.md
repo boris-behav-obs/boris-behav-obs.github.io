@@ -41,15 +41,24 @@ details.
 
 
 ## [![Tux logo](images/tux_128px.png){width=64px} GNU-Linux](download_linux.md)
+
 ## [![microsoft windows logo](images/windows_logo.svg){width=72px} Microsoft-Windows](download_win.md)
+
 ## [![macos logo](images/mac-os.svg){width=64px} MacOS](download_mac.md)
+
 ## [![Android logo](images/android_logo.png){width=60px} BORIS App for Android](download_android.md)
 
-## [![GitHub logo](images/github_logo_64px.png){width=64px} Download sources](https://github.com/olivierfriard/BORIS/releases/tag/v{{ boris.version }})
 
 ## [![VirtualBox logo](images/virtualbox_logo.png){width=84px} VirtualBox virtual machine](virtual_machine.md)
 
 ## [![Docker logo](images/docker_logo.webp){width=84px} Docker image](docker.md)
+
+
+## [![GitHub logo](/images/PyPI_logo.svg){width="120px"}](https://github.com/olivierfriard/BORIS) [Install from the Python Package Index (Linux)](run_source_code.md)
+
+
+
+## [![GitHub logo](images/github_logo_64px.png){width=64px} Download sources](https://github.com/olivierfriard/BORIS/releases/tag/v{{ boris.version }})
 
 
 

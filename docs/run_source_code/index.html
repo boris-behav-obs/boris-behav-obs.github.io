@@ -18,7 +18,7 @@
     
     
       
-        <title>Run BORIS from source code - BORIS</title>
+        <title>Install and run BORIS from the Python Package Index (PyPI) - BORIS</title>
       
     
     
@@ -105,7 +105,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Run BORIS from source code
+              Install and run BORIS from the Python Package Index (PyPI)
             
           </span>
         </div>
@@ -495,61 +495,78 @@
                   
 
 
-  <h1>Run BORIS from source code</h1>
+  <h1>Install and run BORIS from the Python Package Index (PyPI)</h1>
 
-<h2 id="from-the-python-package-index-pypi">From the Python Package Index <a href="https://pypi.org/">PyPI</a></h2>
+<p><a href="https://pypi.org//project/boris-behav-obs">BORIS PyPI package</a></p>
 <h3 id="requirement">Requirement</h3>
-<p>The minimal version of Python for running BORIS is <strong>3.8</strong>. Check the
-Python version installed on your system with:</p>
-<pre><code>python3 --version
+<p>The minimal version of Python for running BORIS is <strong>3.8</strong>.</p>
+<h4 id="check-the-python-version-installed-on-your-system">Check the Python version installed on your system</h4>
+<p>Open a terminal and type:</p>
+<pre><code>python3 -V
 </code></pre>
-<p>Install the required packages following the instructions relative to
-your distribution:</p>
+<p>You should obtain a string like:</p>
+<pre><code>Python 3.8.10
+</code></pre>
+<p>If your Python version is 3.8 or higher, BORIS will run without issues. However, if your Python version is lower, BORIS will not be compatible.</p>
+<h4 id="installation">Installation</h4>
+<p>Install the required packages following the instructions relative to your Linux distribution:</p>
 <p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu ...:</p>
 <p>For Debian 12 (Bookworm), open a terminal and type:</p>
 <pre><code>su (your root password will be required)
-apt install mpv libmpv2 python3 ffmpeg graphviz
+apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
 </code></pre>
 <p>For Debian 11 (Bullseye), open a terminal and type:</p>
 <pre><code>su (your root password will be required)
-apt install mpv libmpv1 python3 ffmpeg graphviz
+apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
 </code></pre>
 <p>For Ubuntu 20.04 or 22.04 and other Ubuntu like:</p>
-<pre><code>sudo apt install mpv libmpv1 python3 ffmpeg graphviz
+<pre><code>sudo apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
 (your password will be required)
 </code></pre>
 <p>For Ubuntu 23.04 or 23.10 and other Ubuntu like:</p>
-<pre><code>sudo apt install mpv libmpv2 python3 ffmpeg graphviz
+<pre><code>sudo apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
 (your password will be required)
 </code></pre>
-<p>It is recommended to create a Python virtual environment to do not
-interfere with the Python modules installed on your system:</p>
-<pre><code>python3 -m venv boris_virtual_env
+<h4 id="creation-of-the-python-virtual-environment">Creation of the Python virtual environment</h4>
+<p>It is strongly recommended to create a Python virtual environment to prevent interference with the modules installed on your system:</p>
+<pre><code>python3 -m venv boris_venv
 </code></pre>
-<p>Activate the virtual environment:</p>
-<pre><code>source boris_virtual_env/bin/activate
+<p>The Python virtual environment will be created in your home directory.<br />
+However, you have the option to create it in a different directory if you prefer.:</p>
+<pre><code>python -m venv &lt;PATH&gt;
 </code></pre>
-<p>Install BORIS with pip:</p>
-<pre><code>python3 -m pip install boris-behav-obs
+<p>where &lt;PATH&gt; is the directory where do you want to create the virtual environment</p>
+<h4 id="activation-of-the-virtual-environment">Activation of the virtual environment</h4>
+<pre><code>source boris_venv/bin/activate
 </code></pre>
-<p>Launch BORIS:</p>
-<pre><code>python3 -m boris
+<p>or</p>
+<pre><code>source &lt;PATH&gt;/bin/activate
 </code></pre>
-<p><strong>Warning: additional libraries</strong></p>
-<p>On <strong>Ubuntu 20.04</strong> it can be necessary to install the following
-libraries:</p>
+<h4 id="installation-of-boris-with-pip">Installation of BORIS with pip</h4>
+<pre><code>pip install pip --upgrade
+pip install boris-behav-obs
+</code></pre>
+<h3 id="launch-boris">Launch BORIS</h3>
+<p>Open a terminal and type:</p>
+<pre><code>boris_venv/bin/boris
+</code></pre>
+<p>or</p>
+<pre><code>&lt;PATH&gt;/bin/boris
+</code></pre>
+<p>BORIS will launch, do <strong>not</strong> close the terminal whhile BORIS is running.</p>
+<div class="admonition warning">
+<p class="admonition-title">Additional libraries</p>
+<p>On <strong>Ubuntu 20.04</strong> it can be necessary to install the following libraries:</p>
 <pre><code>sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
 (your password will be required)
 </code></pre>
-<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a
-terminal and type:</p>
+<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal and type:</p>
 <pre><code>sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
 (your root password will be required)
 </code></pre>
-<p>See the revision history for details:
-<a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
-<p>If you want to report a bug, see the <a href="../report_a_bug/">how to report a
-bug</a> page.</p>
+</div>
+<p>See the <a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8">change log</a> for details of changes.</p>
+<p>If you want to report a bug, see the <a href="../report_a_bug/">how to report a bug</a> page.</p>
 
 
 
