@@ -11,7 +11,7 @@ glightbox: false
 
 ![BORIS logo](images/logo_boris.svg){width=200px}
 
-# Behavioral Observation Research Interactive Software
+# **B**ehavioral **O**bservation **R**esearch **I**nteractive **S**oftware
 
 BORIS is an easy-to-use event logging software for video/audio coding and live observations.
 
@@ -25,9 +25,9 @@ DOI: [10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-2
 
 
 ![Tux](images/tux_128px.png){align=left width=68px}
-![MacOS](images/mac-os.svg){align=left width=72px}
-![MacOS](images/windows_logo.svg){align=left width=72px}
-![MacOS](images/android_logo.png){width=84px}
+![MacOS logo](images/mac-os.svg){align=left width=72px}
+![Windows logo](images/windows_logo.svg){align=left width=72px}
+![Android logo](images/android_logo.png){width=84px}
 
 
 ## [User testimonials](postcards.md)
