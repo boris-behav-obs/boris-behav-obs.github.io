@@ -13,7 +13,7 @@ summary: |
 title: Download BORIS for MacOS
 ---
 
-![macOS logo](/images/mac-os.svg){width="72px"}
+![macOS logo](images/mac-os.svg){width="72px"}
 
 ## Download BORIS for MacOS
 
@@ -39,8 +39,7 @@ If you want to run v.{{ boris.version }} on your MacOS you have various possibil
 
 -   Use [Virtualbox](https://www.virtualbox.org) to run Linux or Windows
     as guest OS on your Mac (free and open-source software). A Linux
-    virtual machine with BORIS installed is available. See [Linux
-    virtual machine](virtual_machine)
+    virtual machine with BORIS installed is available. See [Linux virtual machine](virtual_machine.md)
 
 -   Use [Parallels® Desktop for
     Mac](https://www.parallels.com/products/desktop) (proprietary

@@ -9,7 +9,7 @@ tile: |
 title: Download App for Android
 ---
 
-![Android logo](/images/android_logo.png){width="120px"}
+![Android logo](images/android_logo.png){width="120px"}
 
 
 # Download BORIS App for Android

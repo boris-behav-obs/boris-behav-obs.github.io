@@ -13,7 +13,7 @@ summary: |
 title: Raspberry Pi 4 / 400
 ---
 
-![Raspberry Pi logo](/images/raspberry_pi.svg){width="200px"}
+![Raspberry Pi logo](images/raspberry_pi.svg){width="200px"}
 
 # Raspberry Pi 4 or Raspberry Pi 400
 

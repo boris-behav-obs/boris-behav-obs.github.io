@@ -54,7 +54,7 @@ details.
 ## [![Docker logo](images/docker_logo.webp){width=84px} Docker image](docker.md)
 
 
-## [![GitHub logo](/images/PyPI_logo.svg){width="120px"}](https://github.com/olivierfriard/BORIS) [Install from the Python Package Index (Linux)](run_source_code.md)
+## [![GitHub logo](images/PyPI_logo.svg){width="120px"}](https://github.com/olivierfriard/BORIS) [Install from the Python Package Index (Linux)](run_source_code.md)
 
 
 
@@ -89,7 +89,7 @@ discussion](https://github.com/olivierfriard/BORIS/discussions)
 
 You can download video samples to test BORIS on your system:
 
-[video_samples.zip](/archive/video_samples.zip) (~ 70 Mb)
+[video_samples.zip](archive/video_samples.zip) (~ 70 Mb)
 
 
 
@@ -97,9 +97,7 @@ You can download video samples to test BORIS on your system:
 
 
 All previous versions of BORIS are available in the [BORIS
-releases](https://github.com/olivierfriard/BORIS/releases) archive or in
-the [BORIS
-archive](https://drive.google.com/drive/folders/0B0KTzxkLpPJ_bE8zOUFjenFnU3c?resourcekey=0-b9_Ng_8SqK-FIuOP8qIn7w)
+releases](https://github.com/olivierfriard/BORIS/releases) archive or in the [BORIS archive](https://drive.google.com/drive/folders/0B0KTzxkLpPJ_bE8zOUFjenFnU3c?resourcekey=0-b9_Ng_8SqK-FIuOP8qIn7w)
 for versions prior to 2.99. Please note that the backward compatibility
 of a BORIS project is not guaranteed!
 

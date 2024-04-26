@@ -4,25 +4,27 @@ hide:
   - toc
 author:
 - Olivier Friard
-title: 'Download for Windows'
+title: 'Download for Microsoft-Windows'
 ---
 
-![microsoft windows logo](/images/windows_logo.svg)
+![microsoft windows logo](images/windows_logo.svg)
 
-## Download BORIS for Microsoft-Windows
+
 
 Please acknowledge and cite the use of this software and its authors
 when results are used in publications or published elsewhere:
 
 ``` {.text}
-Friard, O. and Gamba, M. (2016), BORIS: a free, versatile open-source event-logging software for video/audio coding and live observations. Methods Ecol Evol, 7: 1325–1330.
+Friard, O. and Gamba, M. (2016),
+BORIS: a free, versatile open-source event-logging software for video/audio coding and live observations.
+Methods Ecol Evol, 7: 1325–1330.
 ```
 
 [doi:10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract)
 
 ## General information
 
-The user guide is available at <http://www.boris.unito.it/user_guide/>, so take a look before asking ;-)
+The [**user guide**](http://www.boris.unito.it/user_guide) is available, so take a look before asking ;-)
 
 The **first** launch of BORIS (just after downloading/unzipping or
 installing) can be long. So be patient (depending on your system it can

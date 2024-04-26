@@ -24,11 +24,10 @@ DOI: [10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-2
 
 
 
-![Tux](images/tux_128px.png){align=left width=68px}
-![MacOS logo](images/mac-os.svg){align=left width=72px}
-![Windows logo](images/windows_logo.svg){align=left width=72px}
-![Android logo](images/android_logo.png){width=84px}
-
+[![test](images/tux_128px.png){align=left width=68px}](download_linux.md)
+[![MacOS logo](images/mac-os.svg){align=left width=72px}](download_mac.md)
+[![Windows logo](images/windows_logo.svg){align=left width=72px}](download_win.md)
+[![Android logo](images/android_logo.png){width=84px}](download_android.md)
 
 ## [User testimonials](postcards.md)
 

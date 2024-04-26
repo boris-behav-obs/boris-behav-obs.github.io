@@ -20,7 +20,7 @@ fg.title("BORIS - Behavioral Observation Research Interactive Software")
 fg.title("BORIS is an easy-to-use event logging software for video/audio coding and live observations.")
 fg.author({"name": "Olivier Friard", "email": "olivier.friard@unito.it"})
 fg.link(href="http://www.boris.unito.it/", rel="alternate")
-fg.logo("https://www.boris.unito.it/images/boris_logo-3.400px.png")
+fg.logo("https://www.boris.unito.it/images/logo_boris.svg")
 fg.link(href="http://www.boris.unito.it/static/atom.xml", rel="self", type="application/atom+xml")
 fg.language("en")
 
