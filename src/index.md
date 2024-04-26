@@ -9,7 +9,7 @@ title: BORIS web site
 glightbox: false
 ---
 
-![BORIS logo](images/boris_logo-3.400px.png){width=200px}
+![BORIS logo](images/logo_boris.svg){width=200px}
 
 # Behavioral Observation Research Interactive Software
 
