@@ -7,6 +7,7 @@ add_news:
 # build the web site
 build version date: add_news
     cp mkdocs.yml mkdocs.yml.backup
+
     sed -i '/    version: /c\INSERT_VERSION' mkdocs.yml
     sed -i 's#INSERT_VERSION#    version: {{version}}#g' mkdocs.yml
 
@@ -18,6 +19,10 @@ build version date: add_news
 
     sed -i '/    citations_date: /c\INSERT_DATE' mkdocs.yml
     sed -i "s#INSERT_DATE#    citations_date: $(date +%F)#g" mkdocs.yml
+
+    sed -i '/./c\INSERT_VERSION' src/static/ver4.dat
+    sed -i 's#INSERT_VERSION#{{version}}#g' src/static/ver4.dat
+    
     
     rye run mkdocs build
 
