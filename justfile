@@ -1,3 +1,5 @@
+# justfile for the management of the BORIS web site
+
 
 add_news:
     tilde src/news.json
@@ -22,15 +24,19 @@ build version date: add_news
 
     sed -i '/./c\INSERT_VERSION' src/static/ver4.dat
     sed -i 's#INSERT_VERSION#{{version}}#g' src/static/ver4.dat
-    
-    
+
+    sed -i '/./c\INSERT_VERSION' src/static/ver.dat
+    sed -i 's#INSERT_VERSION#{{version}}#g' src/static/ver.dat
+
     rye run mkdocs build
+
 
 # push web site to github repo
 push version:
     git add docs src
     git commit -am "web site for version {{version}}"
     git push
+
 
 
 # push and build to github repo

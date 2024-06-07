@@ -89,7 +89,7 @@ discussion](https://github.com/olivierfriard/BORIS/discussions)
 
 You can download video samples to test BORIS on your system:
 
-[video_samples.zip](archive/video_samples.zip) (~ 70 Mb)
+[video_samples.zip](/archive/video_samples.zip) (~ 70 Mb)
 
 
 
