@@ -2,21 +2,17 @@
 hide:
   - navigation
   - toc
-author:
-- Olivier Friard
-slug: |
-  faq
-status: |
-  hidden
-title: FAQ
 ---
 
 
 # What is the BORIS version I am using?
 
-Menu Help > About > Show details for versions of dependencies
+Menu Help > About > Show details for versions of dependencies.
+
+
 
 # My BORIS project file is corrupted and BORIS does not open it
+
 
 ## First
 
@@ -25,7 +21,7 @@ of your project files to prevent the lost of data. Software can be
 reinstalled but your data could quite possibly be lost for ever. Use an
 external drive or/and a cloud service. Use a timestamp in the file name
 in order to does not overwrite the last backup with the new one (for
-example: my\_project.YYYY-MM-DD.boris).
+example: my_project.YYYY-MM-DD.boris).
 
 The BORIS project file is in JSON format
 (<https://en.wikipedia.org/wiki/JSON>). If the size of your corrupted
@@ -53,8 +49,7 @@ Right-click on the menu bar and reactivate the widget visualization.
 
 if it does not work close BORIS and delete the BORIS configuration file.
 
-After this you will have to reset all the parameters of Preferences
-(File > Preferences)
+After this you will have to reset all the parameters of Preferences (File > Preferences)
 
 See the [user guide](http://www.boris.unito.it/user_guide/various/#configuration-files)
 for the name and location of the configuration file on your system.

@@ -1,3 +1,7 @@
+**2024-06-11: Version 8.27.1 available**
+
+Fixed bug #754
+
 **2024-06-06: Version 8.27 available**
 
 Option for automatically update, improved the modifier(s) selection with keyboard
@@ -13,8 +17,4 @@ Fixed bug when importing a Noldus Observer project without modifiers
 **2024-04-07: v. 8.25 available**
 
 BORIS has the dark mode and a mute/unmute button for each media player!! See Preferences > Interface
-
-**2024-01-23: v. 8.22.17 available**
-
-Fix various bugs and introduce an improved zoom function
 
