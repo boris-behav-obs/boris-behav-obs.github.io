@@ -14,23 +14,22 @@ Menu Help > About > Show details for versions of dependencies.
 # My BORIS project file is corrupted and BORIS does not open it
 
 
-## First
+!!! danger "**EXTREMELY IMPORTANT**"
 
-Please remember that it is **EXTREMELY IMPORTANT** to do regular backups
-of your project files to prevent the lost of data. Software can be
-reinstalled but your data could quite possibly be lost for ever. Use an
-external drive or/and a cloud service. Use a timestamp in the file name
-in order to does not overwrite the last backup with the new one (for
-example: my_project.YYYY-MM-DD.boris).
+    Please remember that it is extremely important to regularly back up your project files to prevent data loss.  
+    While software can be reinstalled, your data might be lost forever if not properly backed up.  
+    Use an external drive and/or a cloud service for your backups.  
+    Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).
 
-The BORIS project file is in JSON format
-(<https://en.wikipedia.org/wiki/JSON>). If the size of your corrupted
-project file is not 0 you can open it with a text editor like NotePad++,
-Pluma, TextEdit, etc (not Microsoft-Word or Libreoffice Write that are
-text processors) and try to repair it.
 
-Another possibility is to use an on-line JSON validator like
-<https://jsonformatter.org> and try to repair it.
+
+
+
+The BORIS project file is in JSON format (<https://en.wikipedia.org/wiki/JSON>).
+If the size of your corrupted project file is not 0 you can open it with a text editor like NotePad++,
+Pluma, TextEdit, etc (not Microsoft-Word or Libreoffice Write that are text processors) and try to repair it.
+
+Another possibility is to use an on-line JSON validator like <https://jsonformatter.org> and try to repair it.
 
 
 

@@ -503,20 +503,17 @@
 <h1 id="what-is-the-boris-version-i-am-using">What is the BORIS version I am using?</h1>
 <p>Menu Help &gt; About &gt; Show details for versions of dependencies.</p>
 <h1 id="my-boris-project-file-is-corrupted-and-boris-does-not-open-it">My BORIS project file is corrupted and BORIS does not open it</h1>
-<h2 id="first">First</h2>
-<p>Please remember that it is <strong>EXTREMELY IMPORTANT</strong> to do regular backups
-of your project files to prevent the lost of data. Software can be
-reinstalled but your data could quite possibly be lost for ever. Use an
-external drive or/and a cloud service. Use a timestamp in the file name
-in order to does not overwrite the last backup with the new one (for
-example: my_project.YYYY-MM-DD.boris).</p>
-<p>The BORIS project file is in JSON format
-(<a href="https://en.wikipedia.org/wiki/JSON">https://en.wikipedia.org/wiki/JSON</a>). If the size of your corrupted
-project file is not 0 you can open it with a text editor like NotePad++,
-Pluma, TextEdit, etc (not Microsoft-Word or Libreoffice Write that are
-text processors) and try to repair it.</p>
-<p>Another possibility is to use an on-line JSON validator like
-<a href="https://jsonformatter.org">https://jsonformatter.org</a> and try to repair it.</p>
+<div class="admonition danger">
+<p class="admonition-title"><strong>EXTREMELY IMPORTANT</strong></p>
+<p>Please remember that it is extremely important to regularly back up your project files to prevent data loss.<br />
+While software can be reinstalled, your data might be lost forever if not properly backed up.<br />
+Use an external drive and/or a cloud service for your backups.<br />
+Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).</p>
+</div>
+<p>The BORIS project file is in JSON format (<a href="https://en.wikipedia.org/wiki/JSON">https://en.wikipedia.org/wiki/JSON</a>).
+If the size of your corrupted project file is not 0 you can open it with a text editor like NotePad++,
+Pluma, TextEdit, etc (not Microsoft-Word or Libreoffice Write that are text processors) and try to repair it.</p>
+<p>Another possibility is to use an on-line JSON validator like <a href="https://jsonformatter.org">https://jsonformatter.org</a> and try to repair it.</p>
 <h1 id="boris-crashes-when-i-load-a-video-and-does-not-generate-any-error-message">BORIS crashes when I load a video and does not generate any error message</h1>
 <p>Set the <strong>MPV player hardware video decoding</strong> option to <strong>No</strong>. See Project &gt; Preferences</p>
 <h1 id="one-or-more-widgets-ethogram-subjects-list-events-list-are-not-visible-during-the-observation">One or more widgets (ethogram, subject's list, event's list ...) are not visible during the observation</h1>

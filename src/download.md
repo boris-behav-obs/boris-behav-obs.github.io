@@ -11,11 +11,17 @@ glightbox: false
 
 # Download
 
-!!! warning "Important"
 
-    BORIS is distributed **WITHOUT ANY WARRANTY**. Remember that it is **EXTREMELY important to do regular backups of your project files** to
-    prevent the lost of data. Software can be reinstalled but your data
-    could quite possibly be lost for ever.
+
+!!! danger "**EXTREMELY IMPORTANT**"
+
+    BORIS is distributed **WITHOUT ANY WARRANTY**.  
+      
+    Please remember that it is extremely important to regularly back up your project files to prevent data loss.  
+    While software can be reinstalled, your data might be lost forever if not properly backed up.  
+    Use an external drive and/or a cloud service for your backups.  
+    Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).
+
 
 
 

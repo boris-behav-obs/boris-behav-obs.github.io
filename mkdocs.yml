@@ -43,8 +43,8 @@ extra:
   boris:
     version: 8.27.1
     release_date: 2024-06-11
-    citations_number:  1662
-    citations_date: 2024-06-11
+    citations_number:  1673
+    citations_date: 2024-06-13
     app_version: 0.11
 
   generator: false
