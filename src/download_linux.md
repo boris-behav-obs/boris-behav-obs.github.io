@@ -21,6 +21,8 @@ title: 'BORIS for Linux'
 
 ## ![Raspberry Pi logo](images/raspberry_pi.svg){width="80px"} [Raspberry Pi 4](raspberry_pi_4.md)
 
+## ![Linux Lite logo](https://www.linuxliteos.com/assets/img/home/lite-news.png){width="80px"} [Linux Lite](linux_lite.md)
+
 ## ![Chromebook logo](images/chrome_logo.svg){width="64px"} [Chromebook](chromebook.md)
 
 
