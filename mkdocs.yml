@@ -44,7 +44,7 @@ extra:
     version: 8.27.4
     release_date: 2024-08-20
     citations_number:  1758
-    citations_date: 2024-08-20
+    citations_date: 2024-08-21
     app_version: 0.11
 
   generator: false
