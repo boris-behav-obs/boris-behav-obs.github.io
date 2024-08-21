@@ -9,7 +9,6 @@ summary: |
 title: 'Install BORIS for Linux Lite'
 ---
 
-## Linux Lite
 
 BORIS was tested on Linux Lite 6.6.
 
