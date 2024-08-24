@@ -1,3 +1,7 @@
+**2024-08-20: Version 8.27.7 available**
+
+Fixed various bugs
+
 **2024-08-20: Version 8.27.4 available**
 
 Fixed various bugs
@@ -13,8 +17,4 @@ Option for automatically update, improved the modifier(s) selection with keyboar
 **2024-04-18: PDF version of the user guide is available**
 
 https://www.boris.unito.it/user_guide/pdf/boris_user_guide.pdf
-
-**2024-04-18: v. 8.25.4 available**
-
-Fixed bug when importing a Noldus Observer project without modifiers
 
