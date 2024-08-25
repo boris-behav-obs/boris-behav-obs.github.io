@@ -68,8 +68,7 @@ you do not need everything else.
 
 See the [how to report a bug](report_a_bug.md) page.
 
-[GitHub feature
-request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
+[Request a feature](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
 
 [Suggestions and general
 discussion](https://github.com/olivierfriard/BORIS/discussions)

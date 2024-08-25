@@ -41,8 +41,7 @@ when results are used in publications or published elsewhere:
 
 If you find this software useful, please send me a [nice postcard](postcards.md) of the place where do you live.
 
-The v. 8 has great improvements due to the use of the [mpv media player](https://mpv.io), see [version 8](version8.md) for the
-details.
+The v. 8 has great improvements due to the use of the [mpv media player](https://mpv.io), see [version 8](version8.md) for the details.
 
 
 
@@ -82,8 +81,7 @@ key](http://penelope.unito.it/friard/pubkey.asc).
 
 See the [how to report a bug](report_a_bug.md) page.
 
-[GitHub feature
-request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
+[Request a feature](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
 
 [Suggestions and general
 discussion](https://github.com/olivierfriard/BORIS/discussions)

@@ -4,10 +4,10 @@ hide:
   - toc
 author:
 - Olivier Friard
-summary: |
-  BORIS for Linux Lite
-title: 'Install BORIS for Linux Lite'
+title: 'BORIS for Linux Lite'
 ---
+
+#### Current version: v. **{{ boris.version }}** release date: {{ boris.release_date }}
 
 
 BORIS was tested on Linux Lite 6.6.
@@ -47,17 +47,13 @@ You should find the icon for starting BORIS in the **Education** menu, you do no
 
 See the [how to report a bug](report_a_bug.md) page.
 
-[GitHub feature
-request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
+[Request a feature](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
 
 [Suggestions and general
 discussion](https://github.com/olivierfriard/BORIS/discussions)
 
 
-
 {% include 'revision_history.md' %}
-
-
 
 
 ### Checksums

@@ -4,18 +4,12 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  raspberry\_pi\_4
-status: |
-  hidden
-summary: |
-  BORIS Raspberry Pi 4 / 400
 title: Raspberry Pi 4 / 400
 ---
 
 ![Raspberry Pi logo](images/raspberry_pi.svg){width="200px"}
 
-# Raspberry Pi 4 or Raspberry Pi 400
+# BORIS for Raspberry Pi 4 or Raspberry Pi 400
 
 
 ![BORIS running on a Rasberry Pi 400](screenshots/600_raspberry_pi_4_1.jpg)
@@ -23,7 +17,7 @@ title: Raspberry Pi 4 / 400
 BORIS can be installed on a Raspberry Pi 4 or a [Raspberry Pi
 400](https://www.raspberrypi.org/products/raspberry-pi-400)
 
-The Raspberry Pi 400 is a computer that you can buy for less than 100 \$
+The Raspberry Pi 400 is a computer that you can buy for less than 100 $.
 
 ## Install and launch BORIS on a Raspberry Pi 4 or Raspberry Pi 400
 
