@@ -7,7 +7,7 @@ author:
 title: DORIS
 ---
 
-![DORIS logo](/images/doris_logo.256px.png){ .off-glb }
+![DORIS logo](images/doris_logo.256px.png){ .off-glb }
 
 # Detection of Object and Tracking
 
@@ -32,4 +32,4 @@ A [video tutorial](https://www.youtube.com/watch?v=toSXiqsWRzY) is available.
 
 ## Screenshot
 
-![DORIS screenshot](/images/doris_project.png)
+![DORIS screenshot](images/doris_project.png)

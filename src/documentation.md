@@ -4,17 +4,15 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  documentation
-summary: |
-  BORIS documentation
 title: Documentation
 ---
 
 # User guides
 
 
--   [User guide](http://www.boris.unito.it/user_guide)
+-   [User guide](http://www.boris.unito.it/user_guide) 
+
+-   [PDF version of user guide](http://www.boris.unito.it/user_guide/pdf/boris_user_guide.pdf) 
 
 -   [Video tutorials and workshops](video_tutorials.md)
 

@@ -5,13 +5,13 @@ hide:
 author:
 - Olivier Friard
 summary: BORIS Download page
-title: Download
+title: BORIS web site
 glightbox: false
 ---
 
-![BORIS logo](images/boris_logo-3.400px.png){width=200px}
+![BORIS logo](images/logo_boris.svg){width=200px}
 
-# Behavioral Observation Research Interactive Software
+# **B**ehavioral **O**bservation **R**esearch **I**nteractive **S**oftware
 
 BORIS is an easy-to-use event logging software for video/audio coding and live observations.
 
@@ -24,15 +24,16 @@ DOI: [10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-2
 
 
 
-![Tux](images/tux_128px.png){align=left width=68px}
-![MacOS](images/mac-os.svg){align=left width=72px}
-![MacOS](images/windows_logo.svg){align=left width=72px}
-![MacOS](images/android_logo.png){width=84px}
-
+[![test](images/tux_128px.png){align=left width=68px}](download_linux.md)
+[![MacOS logo](images/mac-os.svg){align=left width=72px}](download_mac.md)
+[![Windows logo](images/windows_logo.svg){align=left width=72px}](download_win.md)
+[![Android logo](images/android_logo.png){width=84px}](download_android.md)
 
 ## [User testimonials](postcards.md)
 
-## News
+## News  [RSS feed](static/atom.xml)
+
+
 
 {% include 'news.md' %}
 

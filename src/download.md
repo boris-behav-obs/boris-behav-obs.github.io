@@ -4,10 +4,6 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  download
-summary: |
-  BORIS Download page
 title: Download
 glightbox: false
 ---
@@ -15,11 +11,17 @@ glightbox: false
 
 # Download
 
-!!! warning "Important"
 
-    BORIS is distributed **WITHOUT ANY WARRANTY**. Remember that it is **EXTREMELY important to do regular backups of your project files** to
-    prevent the lost of data. Software can be reinstalled but your data
-    could quite possibly be lost for ever.
+
+!!! danger "**EXTREMELY IMPORTANT**"
+
+    BORIS is distributed **WITHOUT ANY WARRANTY**.  
+      
+    Please remember that it is extremely important to regularly back up your project files to prevent data loss.  
+    While software can be reinstalled, your data might be lost forever if not properly backed up.  
+    Use an external drive and/or a cloud service for your backups.  
+    Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).
+
 
 
 
@@ -45,15 +47,24 @@ details.
 
 
 ## [![Tux logo](images/tux_128px.png){width=64px} GNU-Linux](download_linux.md)
+
 ## [![microsoft windows logo](images/windows_logo.svg){width=72px} Microsoft-Windows](download_win.md)
+
 ## [![macos logo](images/mac-os.svg){width=64px} MacOS](download_mac.md)
+
 ## [![Android logo](images/android_logo.png){width=60px} BORIS App for Android](download_android.md)
 
-## [![GitHub logo](images/github_logo_64px.png){width=64px} Download sources](https://github.com/olivierfriard/BORIS/releases/tag/v{{ boris.version }})
 
 ## [![VirtualBox logo](images/virtualbox_logo.png){width=84px} VirtualBox virtual machine](virtual_machine.md)
 
 ## [![Docker logo](images/docker_logo.webp){width=84px} Docker image](docker.md)
+
+
+## [![GitHub logo](images/PyPI_logo.svg){width="120px"}](https://github.com/olivierfriard/BORIS) [Install from the Python Package Index (Linux)](run_source_code.md)
+
+
+
+## [![GitHub logo](images/github_logo_64px.png){width=64px} Download sources](https://github.com/olivierfriard/BORIS/releases/tag/v{{ boris.version }})
 
 
 
@@ -92,9 +103,7 @@ You can download video samples to test BORIS on your system:
 
 
 All previous versions of BORIS are available in the [BORIS
-releases](https://github.com/olivierfriard/BORIS/releases) archive or in
-the [BORIS
-archive](https://drive.google.com/drive/folders/0B0KTzxkLpPJ_bE8zOUFjenFnU3c?resourcekey=0-b9_Ng_8SqK-FIuOP8qIn7w)
+releases](https://github.com/olivierfriard/BORIS/releases) archive or in the [BORIS archive](https://drive.google.com/drive/folders/0B0KTzxkLpPJ_bE8zOUFjenFnU3c?resourcekey=0-b9_Ng_8SqK-FIuOP8qIn7w)
 for versions prior to 2.99. Please note that the backward compatibility
 of a BORIS project is not guaranteed!
 

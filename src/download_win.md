@@ -7,7 +7,8 @@ author:
 title: 'BORIS for Microsoft-Windows'
 ---
 
-![microsoft windows logo](/images/windows_logo.svg)
+![microsoft windows logo](images/windows_logo.svg)
+
 
 # BORIS for Microsoft-Windows
 
@@ -20,16 +21,15 @@ Please acknowledge and cite the use of this software and its authors when result
 
 ## General information
 
-The user guide is available at <http://www.boris.unito.it/user_guide/>, so take a look before asking ;-)
+The [**user guide**](http://www.boris.unito.it/user_guide) is available, so take a look before asking ;-)
 
 The **first** launch of BORIS (just after downloading/unzipping or
 installing) can be long. So be patient (depending on your system it can
 require 1 minute).
 
-It is normal to see a black window when you launch BORIS. Do not be
-affraid, it is the Windows Command Prompt and you do not have to use it
-(see <https://www.lifewire.com/command-prompt-2625840> for details).
-**Do not close it**.
+
+When you launch BORIS, it's typical to encounter a black window. Don't worry; this is the Windows Command Prompt, and you don't need to interact with it directly ([more information](https://www.lifewire.com/command-prompt-2625840)). Simply leave it open and proceed **without closing it**.
+
 
 
 
@@ -57,14 +57,19 @@ v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/
 The default install path is located in your home directory (for example
 c:\\users\\joe\\BORIS)
 
-**ATTENTION!**
 
-**Control that the install directory is empty. Otherwise you can would
-have issues with some features.** See
-<https://github.com/olivierfriard/BORIS/issues/673> for details.
+!!! warning "Important"
 
-See the revision history for details:
-<https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8>
+    Control that the install directory is empty. Otherwise you can would
+    have issues with some features.
+    See <https://github.com/olivierfriard/BORIS/issues/673> for details.
+
+
+
+{% include 'revision_history.md' %}
+
+
+
 
 
 
@@ -72,16 +77,12 @@ See the revision history for details:
 
 See the [how to report a bug](report_a_bug.md) page.
 
-[GitHub feature
-request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
+[GitHub feature request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=).
 
-[Suggestions and general
-discussion](https://github.com/olivierfriard/BORIS/discussions)
+[Suggestions and general discussion](https://github.com/olivierfriard/BORIS/discussions)
+
 
 ## Checksums
 
-[What Is a Checksum?](https://en.wikipedia.org/wiki/Checksum)
+{% include 'checksums.md' %}
 
-[MD5](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/md5sum.txt)
-[SHA1](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/sha1sum.txt)
-[SHA256](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/sha256sum.txt)

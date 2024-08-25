@@ -32,7 +32,7 @@ theme:
     - navigation.path
     - navigation.tabs
   name: material
-  logo: images/boris_logo-3.400px.png
+  logo: images/logo_boris.svg
   palette:
     scheme: default
     primary: blue grey
@@ -41,11 +41,11 @@ copyright: Copyright &copy; 2012 - 2024 Olivier Friard
 
 extra:
   boris:
-    version: 8.24.2
-    release_date: 2024-03-28
-    citations_number:  1571
-    citations_date: 2024-03-28
-
+    version: 8.27.7
+    release_date: 2024-08-23
+    citations_number:  1765
+    citations_date: 2024-08-24
+    app_version: 0.11
 
   generator: false
 
@@ -60,4 +60,5 @@ plugins:
         include_dir: src
     - search
     - glightbox
+
 
