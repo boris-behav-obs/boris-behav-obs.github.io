@@ -4,16 +4,12 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  debian
-status: |
-  hidden
-summary: |
-  BORIS with Debian
-title: 'Install BORIS v.{{ boris.version }} for Debian'
+title: 'BORIS for Debian'
 ---
 
-## Debian
+
+#### Current version: v. **{{ boris.version }}** release date: {{ boris.release_date }}
+
 
 
 ### Debian 11 (Bullseye)
@@ -91,8 +87,5 @@ Refer to the [Other Linux](other_linux.md) page
 
 ### Checksums
 
-[What Is a Checksum?](https://en.wikipedia.org/wiki/Checksum)
 
-[MD5](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/md5sum.txt)  
-[SHA1](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/sha1sum.txt)  
-[SHA256](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/sha256sum.txt)  
+{% include 'checksums.md' %}

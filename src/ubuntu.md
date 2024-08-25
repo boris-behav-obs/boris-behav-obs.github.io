@@ -15,7 +15,11 @@ title: 'Install BORIS v.{{ boris.version }} for Ubuntu'
 
 ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"}
 
-## Ubuntu 20.04 and Ubuntu 22.04
+#### Current version: v. **{{ boris.version }}** release date: {{ boris.release_date }}
+
+
+
+## Ubuntu 22.04
 
 Download the **deb package** [BORIS deb package 64-bit
 v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v###VER###/boris_{{ boris.version }}-0.deb)
@@ -24,7 +28,7 @@ and use the Software Installer
 
 
 
-## Ubuntu 23.04 and Ubuntu 23.10
+## Ubuntu 23.04, 23.10 and 24.04
 
 Download the **deb package** [BORIS deb package 64-bit v.{{ boris.version }}
 (libmpv2)](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0_libmpv2.deb)

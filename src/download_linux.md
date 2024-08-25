@@ -13,7 +13,12 @@ summary: |
 title: 'BORIS for Linux'
 ---
 
-## Current version: v. {{ boris.version }} release date: {{ boris.release_date }}
+Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere:
+
+{% include 'citation.md' %}
+
+
+### Current version: v. {{ boris.version }} release date: {{ boris.release_date }}
 
 ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"} [Ubuntu](ubuntu.md)
 ------------------------------------------------------------------------------------------------------------------------------------------------------

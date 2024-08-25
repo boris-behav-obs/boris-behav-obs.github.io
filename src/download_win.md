@@ -4,30 +4,21 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  download\_win
-status: |
-  hidden
-summary: |
-  BORIS Download page Microsoft-Windows
-title: 'Download for Windows'
+title: 'BORIS for Microsoft-Windows'
 ---
 
 ![microsoft windows logo](/images/windows_logo.svg)
 
-## Download BORIS for Microsoft-Windows
+# BORIS for Microsoft-Windows
 
-Please acknowledge and cite the use of this software and its authors
-when results are used in publications or published elsewhere:
+#### Current version: v. **{{ boris.version }}** release date: {{ boris.release_date }}
 
-``` {.text}
-Friard, O. and Gamba, M. (2016), BORIS: a free, versatile open-source event-logging software for video/audio coding and live observations. Methods Ecol Evol, 7: 1325–1330.
-```
 
-[doi:10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract)
+Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere:
 
-General information
--------------------
+{% include 'citation.md' %}
+
+## General information
 
 The user guide is available at <http://www.boris.unito.it/user_guide/>, so take a look before asking ;-)
 
@@ -45,7 +36,7 @@ affraid, it is the Windows Command Prompt and you do not have to use it
 ### BORIS for Windows Portable v.{{ boris.version }}
 
 
-[BORIS for Windows 64-bit Portable
+Download [BORIS for Windows 64-bit Portable
 v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris-{{ boris.version }}-win64.zip)
 
 The portable version does **NOT** need installation and can also be
@@ -56,10 +47,11 @@ your computer. Just extract the archive and launch the
 A video tutorial for downloading and launching BORIS is available:
 <https://youtu.be/oWs4e7iPy6I>
 
-BORIS for Windows Setup v.{{ boris.version }}
------------------------------------------
 
-[BORIS for Windows 64-bit Setup
+
+### BORIS for Windows Setup v.{{ boris.version }}
+
+Download [BORIS for Windows 64-bit Setup
 v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris-{{ boris.version }}-win64-setup.exe)
 
 The default install path is located in your home directory (for example
@@ -74,8 +66,9 @@ have issues with some features.** See
 See the revision history for details:
 <https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8>
 
-Bug report, feature request and discussion
-==========================================
+
+
+## Bug report, feature request and discussion
 
 See the [how to report a bug](report_a_bug.md) page.
 
@@ -85,8 +78,7 @@ request](https://github.com/olivierfriard/BORIS/issues/new?assignees=&labels=fea
 [Suggestions and general
 discussion](https://github.com/olivierfriard/BORIS/discussions)
 
-Checksums
----------
+## Checksums
 
 [What Is a Checksum?](https://en.wikipedia.org/wiki/Checksum)
 
