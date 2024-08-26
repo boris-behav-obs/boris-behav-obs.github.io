@@ -10,6 +10,120 @@ title: Citations
 <https://www.scopus.com> at {{ boris.citations_date }}
 
 
+Some citations (in reverse chronological order):
+
+
+Verger, M.-O., Devillebichot, M., Ringler, E., Szabo, B.
+Sex-specific discrimination of familiar and unfamiliar mates in the Tokay gecko
+(2024) Animal Cognition, 27 (1), art. no. 55, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200828466&doi=10.1007%2fs10071-024-01896-0&partnerID=40&md5=faaa6ea3e81f97e5dbe3b5bc52cf04fb
+
+DOI: 10.1007/s10071-024-01896-0
+
+Singh, A., Gong, S., Vu, A., Li, S., Obenaus, A.
+Social deficits mirror delayed cerebrovascular dysfunction after traumatic brain injury
+(2024) Acta Neuropathologica Communications, 12 (1), art. no. 126, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200541479&doi=10.1186%2fs40478-024-01840-w&partnerID=40&md5=de8e6bf0daa1562ae6f4728203f2af56
+
+DOI: 10.1186/s40478-024-01840-w
+
+Ulans, A., Brooks, G.C., Jacobs, L.
+Environmental complexity impacts anxiety in broiler chickens depending on genetic strain and body weight
+(2024) Scientific Reports, 14 (1), art. no. 17535, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200056147&doi=10.1038%2fs41598-024-67965-z&partnerID=40&md5=c3c68c7b08ad934179fe9db2910b5ae8
+
+DOI: 10.1038/s41598-024-67965-z
+
+Larrigaldie, I., Damon, F., Mousqué, S., Patris, B., Lansade, L., Schaal, B., Destrez, A.
+Do sheep (Ovis aries) discriminate human emotional odors?
+(2024) Animal Cognition, 27 (1), art. no. 51, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199792678&doi=10.1007%2fs10071-024-01895-1&partnerID=40&md5=a8b1d793d0149140dec083c8154b44ea
+
+DOI: 10.1007/s10071-024-01895-1
+
+Wolf, D., Hartig, R., Zhuo, Y., Scheller, M.F., Articus, M., Moor, M., Grinevich, V., Linster, C., Russo, E., Weber-Fahr, W., Reinwald, J.R., Kelsch, W.
+Oxytocin induces the formation of distinctive cortical representations and cognitions biased toward familiar mice
+(2024) Nature Communications, 15 (1), art. no. 6274, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199531813&doi=10.1038%2fs41467-024-50113-6&partnerID=40&md5=1c633303e85e098ec2e0493b958ccfff
+
+DOI: 10.1038/s41467-024-50113-6
+
+Hasriadi, H., Wasana, P.W.D., Thongphichai, W., Sukrong, S., Towiwat, P.
+Exploring the safety of lycorine in the central nervous system and its impact on pain-like behaviors in mice
+(2024) Scientific Reports, 14 (1), art. no. 16856, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199147994&doi=10.1038%2fs41598-024-64410-z&partnerID=40&md5=a95a08e215da6c123038ce103699897d
+
+DOI: 10.1038/s41598-024-64410-z
+
+Harvey-Carroll, J., Carroll, D., Trivella, C.-M., Connelly, E.
+Classification of African ground pangolin behaviour based on accelerometer readouts: validation of bio-logging methods
+(2024) Animal Biotelemetry, 12 (1), art. no. 22, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199129587&doi=10.1186%2fs40317-024-00377-y&partnerID=40&md5=8354022e469a7bec77ed7f180138f4fa
+
+DOI: 10.1186/s40317-024-00377-y
+
+Clarke, T.M., Barnett, A., Fitzpatrick, R., Ryan, L.A., Hart, N.S., Gauthier, A.R.G., Scott-Holland, T.B., Huveneers, C.
+Personal electric deterrents can reduce shark bites from the three species responsible for the most fatal interactions
+(2024) Scientific Reports, 14 (1), art. no. 16307, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198637025&doi=10.1038%2fs41598-024-66679-6&partnerID=40&md5=fb403672b8fcff9ab3fc52908b268d83
+
+DOI: 10.1038/s41598-024-66679-6
+
+Pisula, W., Modlinska, K., Chrzanowska, A., Goncikowska, K.
+Cognitive asymmetry in rats in response to emergent vs. disappearing affordances
+(2024) Animal Cognition, 27 (1), art. no. 48, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198620836&doi=10.1007%2fs10071-024-01886-2&partnerID=40&md5=c3536d233dabcfbbda82c387c481345c
+
+DOI: 10.1007/s10071-024-01886-2
+
+Pelgrim, M.H., Tidd, Z., Byrne, M., Johnston, A.M., Buchsbaum, D.
+Synchronous citizen science with dogs
+(2024) Animal Cognition, 27 (1), art. no. 46, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197734020&doi=10.1007%2fs10071-024-01882-6&partnerID=40&md5=cbbed3529a4f3abf08fb29cfc9ac95ce
+
+DOI: 10.1007/s10071-024-01882-6
+
+Kárpáti, Z., Szelényi, M.O., Tóth, Z.
+Exposure to an insecticide formulation alters chemosensory orientation, but not floral scent detection, in buff-tailed bumblebees (Bombus terrestris)
+(2024) Scientific Reports, 14 (1), art. no. 14622, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196838359&doi=10.1038%2fs41598-024-65388-4&partnerID=40&md5=515182b8935c9fe367b2a58f907e4bea
+
+DOI: 10.1038/s41598-024-65388-4
+
+Resheff, Y.S., Bensch, H.M., Zöttl, M., Harel, R., Matsumoto-Oda, A., Crofoot, M.C., Gomez, S., Börger, L., Rotics, S.
+How to treat mixed behavior segments in supervised machine learning of behavioural modes from inertial measurement data
+(2024) Movement Ecology, 12 (1), art. no. 44, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195844081&doi=10.1186%2fs40462-024-00485-7&partnerID=40&md5=007de5d89e5820d49eb4cdb3e23b17f7
+
+DOI: 10.1186/s40462-024-00485-7
+
+Berlinghieri, F., Rizzuto, G., Kruizinga, L., Riedstra, B., Groothuis, T.G.G., Brown, C.
+Are lateralized and bold fish optimistic or pessimistic?
+(2024) Animal Cognition, 27 (1), art. no. 42, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195013558&doi=10.1007%2fs10071-024-01876-4&partnerID=40&md5=bd685325a5537c7026bc78acd6cef122
+
+DOI: 10.1007/s10071-024-01876-4
+
+Zanghi, C., Penry-Williams, I.L., Genner, M.J., Deacon, A.E., Ioannou, C.C.
+Multiple environmental stressors affect predation pressure in a tropical freshwater system
+(2024) Communications Biology, 7 (1), art. no. 663, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194855141&doi=10.1038%2fs42003-024-06364-6&partnerID=40&md5=86854cd378055f6e943ac2ff8e5e1c3d
+
+DOI: 10.1038/s42003-024-06364-6
+
+Disarbois, E., Duhamel, J.-R.
+Virtual social grooming in macaques and its psychophysiological effects
+(2024) Scientific Reports, 14 (1), art. no. 11697, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193993317&doi=10.1038%2fs41598-024-62638-3&partnerID=40&md5=f5f973408b1d1fcd05f45869d85d3560
+
+DOI: 10.1038/s41598-024-62638-3
+
+Zhang, X., Cao, Q., Gao, K., Chen, C., Cheng, S., Li, A., Zhou, Y., Liu, R., Hao, J., Kropff, E., Miao, C.
+Multiplexed representation of others in the hippocampal CA1 subfield of female mice
+(2024) Nature Communications, 15 (1), art. no. 3702, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192024023&doi=10.1038%2fs41467-024-47453-8&partnerID=40&md5=50138b3f97cb6fcefdd989b73658b2d9
+
+DOI: 10.1038/s41467-024-47453-8
 
 Chasles, M., Marcet-Rius, M., Chou, J.-Y., Teruel, E., Pageat, P., Cozzi, A.
 Cutaneous application of SecurePig® FLASH, a Pig appeasing pheromone analogue, facilitates adaptation and manages social behavior during feeding in semi-extensive conditions
@@ -67,6 +181,797 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181243650&doi=10.1038%2fs4
 
 DOI: 10.1038/s41467-023-43794-y
 
+Cones, S.F., Jézéquel, Y., Jarriel, S., Aoki, N., Brewer, H., Collins, J., Chauvaud, L., Mooney, T.A.
+Offshore windfarm construction elevates metabolic rate and increases predation vulnerability of a key marine invertebrate
+(2024) Environmental Pollution, 360, art. no. 124709, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201201216&doi=10.1016%2fj.envpol.2024.124709&partnerID=40&md5=adae6ba1b3b735723222990aa80d92f3
+
+DOI: 10.1016/j.envpol.2024.124709
+
+Gnanadesikan, G.E., King, K.M., Carranza, E., Flyer, A.C., Ossello, G., Smith, P.G., Steklis, N.G., Steklis, H.D., Carter, C.S., Connelly, J.J., Barnett, M., Gee, N., Tecot, S.R., MacLean, E.L.
+Effects of human-animal interaction on salivary and urinary oxytocin in children and dogs
+(2024) Psychoneuroendocrinology, 169, art. no. 107147, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199938687&doi=10.1016%2fj.psyneuen.2024.107147&partnerID=40&md5=678a7fea07f2a7f3ab186bbb2a1167ab
+
+DOI: 10.1016/j.psyneuen.2024.107147
+
+Porras-Rivera, G., Górski, K., Colin, N.
+Behavioral biomarkers in fishes: A non-lethal approach to assess the effects of chemical pollution on freshwater ecosystems
+(2024) Environmental Research, 260, art. no. 119607, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198965938&doi=10.1016%2fj.envres.2024.119607&partnerID=40&md5=75f853b8462ab498c934f7f5ed7ece2b
+
+DOI: 10.1016/j.envres.2024.119607
+
+Wilson, C., Gattuso, J.J., Kuznetsova, M., Li, S., Connell, S., Choo, J.M., Rogers, G.B., Gubert, C., Hannan, A.J., Renoir, T.
+Experience-dependent grooming microstructure alterations and gastrointestinal dysfunction in the SAPAP3 knockout mouse model of compulsive behaviour
+(2024) Journal of Affective Disorders, 363, pp. 520-531. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200117988&doi=10.1016%2fj.jad.2024.07.143&partnerID=40&md5=15a12233d9532e8bfe630d081ab6a909
+
+DOI: 10.1016/j.jad.2024.07.143
+
+Park, S., Kim, M., Joo, S., Seo, H., Jo, K., Lee, Y., Kim, T.W.
+Assessment of the impacts of human trampling on locally endangered crab behavior and its implications for coastal ecosystem conservation
+(2024) Ocean and Coastal Management, 256, art. no. 107295, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200707254&doi=10.1016%2fj.ocecoaman.2024.107295&partnerID=40&md5=de1e5aa0487283fda9d2f876c346c962
+
+DOI: 10.1016/j.ocecoaman.2024.107295
+
+Ratsika, A., Codagnone, M.G., Bastiaanssen, T.F.S., Hoffmann Sarda, F.A., Lynch, C.M.K., Ventura-Silva, A.P., Rosell-Cardona, C., Caputi, V., Stanton, C., Fülling, C., Clarke, G., Cryan, J.F.
+Maternal high-fat diet-induced microbiota changes are associated with alterations in embryonic brain metabolites and adolescent behaviour
+(2024) Brain, Behavior, and Immunity, 121, pp. 317-330. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200634123&doi=10.1016%2fj.bbi.2024.07.020&partnerID=40&md5=76ad3c6a55e1b88a0fcb0f3877237a66
+
+DOI: 10.1016/j.bbi.2024.07.020
+
+Frank, M.G., Ball, J.B., Hopkins, S., Kelley, T., Kuzma, A.J., Thompson, R.S., Fleshner, M., Maier, S.F.
+SARS-CoV-2 S1 subunit produces a protracted priming of the neuroinflammatory, physiological, and behavioral responses to a remote immune challenge: A role for corticosteroids
+(2024) Brain, Behavior, and Immunity, 121, pp. 87-103. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199311539&doi=10.1016%2fj.bbi.2024.07.034&partnerID=40&md5=46d9a39aa892fd485d52ec5b1d41eea8
+
+DOI: 10.1016/j.bbi.2024.07.034
+
+Iyer, V., Saberi, S.A., Pacheco, R., Sizemore, E.F., Stockman, S., Kulkarni, A., Cantwell, L., Thakur, G.A., Hohmann, A.G.
+Negative allosteric modulation of CB1 cannabinoid receptor signaling suppresses opioid-mediated tolerance and withdrawal without blocking opioid antinociception
+(2024) Neuropharmacology, 257, art. no. 110052, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197516113&doi=10.1016%2fj.neuropharm.2024.110052&partnerID=40&md5=f1fd022fc234fd7100a3942d4cf6a30d
+
+DOI: 10.1016/j.neuropharm.2024.110052
+
+Butler, J.M., McKinney, J.E., Ludington, S.C., Mabogunje, M., Baker, P., Singh, D., Edwards, S.V., O'Connell, L.A.
+Tadpoles rely on mechanosensory stimuli for communication when visual capabilities are poor
+(2024) Developmental Biology, 514, pp. 66-77. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196380750&doi=10.1016%2fj.ydbio.2024.05.006&partnerID=40&md5=6ff90966ada7e1270a42b73cb30d7a26
+
+DOI: 10.1016/j.ydbio.2024.05.006
+
+Fricker, B.A., Jiang, J., Esquilin-Rodriguez, C.J., Dowling, M.L., Kelly, A.M.
+Hypothalamic vasopressin neural densities are higher in male Mongolian gerbils after separation from a pair bond partner and may facilitate behavior to form a new bond
+(2024) Behavioural Brain Research, 473, art. no. 115181, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200760582&doi=10.1016%2fj.bbr.2024.115181&partnerID=40&md5=76fa6ee7e27aaa40a7277433386b02e5
+
+DOI: 10.1016/j.bbr.2024.115181
+
+Kim, N.-H., Choo, H.-I., Lee, Y.-A.
+Effect of nanoplastic intake on the dopamine system during the development of male mice
+(2024) Neuroscience, 555, pp. 11-22. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199312365&doi=10.1016%2fj.neuroscience.2024.07.018&partnerID=40&md5=03e51d6eb51541922e183cdf001aecef
+
+DOI: 10.1016/j.neuroscience.2024.07.018
+
+Pardo, C., Bellati, A., Polverino, G., Canestrelli, D.
+The dark side of organic farming: Copper sulphate compromises the life history and behaviour of the walking stick insect, Bacillus rossius
+(2024) Science of the Total Environment, 942, art. no. 173626, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195324563&doi=10.1016%2fj.scitotenv.2024.173626&partnerID=40&md5=0575c8aa4ec073986f8ff173026d546e
+
+DOI: 10.1016/j.scitotenv.2024.173626
+
+Delfino, H.C., Carlos, C.J.
+Flamingos as ecosystem engineers: flock size and foraging behaviors linked to nutrient availability
+(2024) Behavioral Ecology, 35 (5), art. no. arae062, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201424112&doi=10.1093%2fbeheco%2farae062&partnerID=40&md5=67d3e9822e6e932ce6ac66db9aa079bd
+
+DOI: 10.1093/beheco/arae062
+
+Canovi, N., Ellis, B.A., Sørdalen, T.K., Allken, V., Halvorsen, K.T., Malde, K., Beyan, C.
+Trajectory-based fish event classification through pre-training with diffusion models
+(2024) Ecological Informatics, 82, art. no. 102733, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200143632&doi=10.1016%2fj.ecoinf.2024.102733&partnerID=40&md5=741ef60e7d98466c8e348cf1331fa1fc
+
+DOI: 10.1016/j.ecoinf.2024.102733
+
+Bernátková, A., Oyunsaikhan, G., Komárková, M., Bobek, M., Ceacero, F.
+Origin and experience influence the leading behaviour of reintroduced Przewalski's horses
+(2024) Animal Behaviour, 215, pp. 89-96. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199487532&doi=10.1016%2fj.anbehav.2024.07.008&partnerID=40&md5=b112e6cc733e74dbc436000691edef94
+
+DOI: 10.1016/j.anbehav.2024.07.008
+
+Roberts, J.L., Luther, D.
+Captive birds exhibit greater foraging efficiency and vigilance after anti-predator training
+(2024) Behavioral Ecology, 35 (5), art. no. arae051, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199446884&doi=10.1093%2fbeheco%2farae051&partnerID=40&md5=b683c34bc60e56a9fa982f42881d26d9
+
+DOI: 10.1093/beheco/arae051
+
+Baumbach, J.L., Mui, C.Y.Y., Tuz Zahra, F., Martin, L.J.
+A single exposure to the predator odor 2,4,5-trimethylthiazoline causes long-lasting affective behavioral changes in female mice: Modulation by kappa opioid receptor signaling
+(2024) Pharmacology Biochemistry and Behavior, 242, art. no. 173822, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198579440&doi=10.1016%2fj.pbb.2024.173822&partnerID=40&md5=f0fa0cf3fd4001ef7d0f89971f05ad08
+
+DOI: 10.1016/j.pbb.2024.173822
+
+Tait, C.C., Olson, M.N., Nedeljkovic, K., Kirchner, E., Katz, P.S.
+Expression patterns and behavioral effects of conopressin and APGWamide in the nudibranch Berghia stephanieae
+(2024) Peptides, 179, art. no. 171253, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195029825&doi=10.1016%2fj.peptides.2024.171253&partnerID=40&md5=0f39533bdfa77f268094dc7cdd53c851
+
+DOI: 10.1016/j.peptides.2024.171253
+
+McPhetres, J., Han, A., Gao, H.H., Kemp, N., Khati, B., Pu, C.X., Smith, A., Shui, X.
+Individuals lack the ability to accurately detect emotional piloerection
+(2024) Psychophysiology, 61 (9), art. no. e14605, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192270553&doi=10.1111%2fpsyp.14605&partnerID=40&md5=b15976629b2433f05bcf7b2f07b2ac34
+
+DOI: 10.1111/psyp.14605
+
+Cobb-Lewis, D., George, A., Hu, S., Packard, K., Song, M., Nikitah, I., Nguyen-Lopez, O., Tesone, E., Rowden, J., Wang, J., Opendak, M.
+The lateral habenula integrates age and experience to promote social transitions in developing rats
+(2024) Cell Reports, 43 (8), art. no. 114556, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199956912&doi=10.1016%2fj.celrep.2024.114556&partnerID=40&md5=866e2ebe3bb32a95da38cd611e8f878b
+
+DOI: 10.1016/j.celrep.2024.114556
+
+Moseby, K.E., Blumstein, D.T., Letnic, M., Trenwith, B., Van der Weyde, L.K.
+In situ predator exposure creates some persistent anti-predator behaviours: insights from a common environment experiment
+(2024) Behavioral Ecology and Sociobiology, 78 (8), art. no. 93, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201417815&doi=10.1007%2fs00265-024-03491-2&partnerID=40&md5=49b0d263c6f41b211dde63e9ea9d600e
+
+DOI: 10.1007/s00265-024-03491-2
+
+Calderón-Amor, J., Zuleta, B., Ceballos, M.C., Cartes, D., Byrd, C.J., Lecorps, B., Palomo, R., Guzmán-Pino, S.A., Siel, D., Luna, D.
+Affective Implications of Human–Animal Relationship on Pig Welfare: Integrating Non-Linear Heart Rate Variability Measures
+(2024) Animals, 14 (15), art. no. 2217, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200733875&doi=10.3390%2fani14152217&partnerID=40&md5=d7d0b177a9780d095edcb1916d778d79
+
+DOI: 10.3390/ani14152217
+
+Charrat, B., Allainé, D., Lemaître, J.-F., Burlet, N., Mermet-Bouvier, C., Bressac, C., Amat, I., Desouhant, E.
+Social interactions throughout life impair longevity and age-specific mating success in male parasitoids
+(2024) Behavioral Ecology and Sociobiology, 78 (8), art. no. 90, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200543321&doi=10.1007%2fs00265-024-03506-y&partnerID=40&md5=521c0e919c284a09fbed53cfde7d4f25
+
+DOI: 10.1007/s00265-024-03506-y
+
+Bird, C.N., Pirotta, E., New, L., Bierlich, K.C., Hildebrand, L., Fernandez Ajó, A., Torres, L.G.
+Bubble blasts! An adaptation for buoyancy regulation in shallow foraging gray whales
+(2024) Ecology and Evolution, 14 (8), art. no. e70093, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200470246&doi=10.1002%2fece3.70093&partnerID=40&md5=c0f6fb7a8b988d7b010d77502c5443ee
+
+DOI: 10.1002/ece3.70093
+
+Parsons, M.A., Young, J.K.
+Coyotes display minimal response to Cougar scent at experimental carcass sites [Los coyotes muestran una respuesta limitadaal aroma de puma en carroña simulada]
+(2024) Journal of Mammalogy, 105 (4), pp. 729-739. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200143250&doi=10.1093%2fjmammal%2fgyae057&partnerID=40&md5=04c1cdaf3a0f6ec86483a47ef0950501
+
+DOI: 10.1093/jmammal/gyae057
+
+Yang, Y., Narayan, E., Phillips, C.J.C., Rey Planellas, S., Zheng, L., Ruan, X., Tegomo, A.F., Shih, H.-Y., Shao, Q., Descovich, K.
+Effects of simulated motion frequency related to road quality on the welfare and recovery of transported largemouth bass (Micropterus salmoides)
+(2024) Applied Animal Behaviour Science, 277, art. no. 106342, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199949472&doi=10.1016%2fj.applanim.2024.106342&partnerID=40&md5=56d5d55af3c6abc0c7995692ae177fd2
+
+DOI: 10.1016/j.applanim.2024.106342
+
+O'Reilly, K., Foris, B., Daigle, C.L., Carstens, G.E.
+Development of an algorithm to detect feed bunk replacement events in growing cattle from feeding event data acquired by an electronic feed intake measurement system
+(2024) Applied Animal Behaviour Science, 277, art. no. 106350, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199871669&doi=10.1016%2fj.applanim.2024.106350&partnerID=40&md5=6a953beda16e51f0a5bf9fb495d3a85e
+
+DOI: 10.1016/j.applanim.2024.106350
+
+Vogt, A., Barth, K., Waiblinger, S., König von Borstel, U.
+Can a gradual weaning and separation process reduce weaning distress in dam-reared dairy calves? A comparison with the 2-step method
+(2024) Journal of Dairy Science, 107 (8), pp. 5942-5961. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199400220&doi=10.3168%2fjds.2024-23809&partnerID=40&md5=d2fdd9cb3988b5123d38aae10249c08e
+
+DOI: 10.3168/jds.2024-23809
+
+Backhouse, F., Welbergen, J.A., Robinson, B.W., Dalziell, A.H.
+Performative Manipulation of the Environment by Displaying Albert’s Lyrebirds
+(2024) American Naturalist, 204 (2), pp. 181-190. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199016307&doi=10.1086%2f730523&partnerID=40&md5=592ce3c9e8cd7065821148feae661d4d
+
+DOI: 10.1086/730523
+
+Paolizzi, E., Perzolli, S., Bentenuto, A., Bertamini, G., Venuti, P.
+Characterization of dyadic interaction features between fathers and mothers playing with their autistic children
+(2024) Acta Psychologica, 248, art. no. 104411, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198733250&doi=10.1016%2fj.actpsy.2024.104411&partnerID=40&md5=5644cfd49ef736b5449e0553cf53765f
+
+DOI: 10.1016/j.actpsy.2024.104411
+
+Bird, C.N., Pirotta, E., New, L., Bierlich, K.C., Donnelly, M., Hildebrand, L., Fernandez Ajó, A., Torres, L.G.
+Growing into it: evidence of an ontogenetic shift in grey whale use of foraging tactics
+(2024) Animal Behaviour, 214, pp. 121-135. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197182688&doi=10.1016%2fj.anbehav.2024.06.004&partnerID=40&md5=aadb9cda4fea09a92be2597bf2ccf3bb
+
+DOI: 10.1016/j.anbehav.2024.06.004
+
+Shaikh, N., Asif, P.Y., Saltzman, W.
+Inhibition of alloparental behavior by acute stress in virgin male California mice (Peromyscus californicus)
+(2024) Behavioural Processes, 220, art. no. 105060, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196639867&doi=10.1016%2fj.beproc.2024.105060&partnerID=40&md5=2957df3f1ece74fe0fd3548aaa43874b
+
+DOI: 10.1016/j.beproc.2024.105060
+
+Stepkovitch, B., Van der Weyde, L.K., Finlayson, G., Blumstein, D.T., Letnic, M., Moseby, K.E.
+Reintroducing native predators improves antipredator responses in naïve prey
+(2024) Animal Behaviour, 214, pp. 11-25. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196151393&doi=10.1016%2fj.anbehav.2024.05.012&partnerID=40&md5=8094515f6e6c6d27cc14c1826cc958f2
+
+DOI: 10.1016/j.anbehav.2024.05.012
+
+Jensen, E.H., Neave, H.W., Bateson, M., Jensen, M.B.
+Maternal behavior of dairy cows and suckling behavior of dairy calves in different cow-calf contact conditions
+(2024) Journal of Dairy Science, 107 (8), pp. 6090-6103. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195968882&doi=10.3168%2fjds.2023-24291&partnerID=40&md5=794ce098a070ccd6e7721128c560dfb2
+
+DOI: 10.3168/jds.2023-24291
+
+Bikker, J., MacDougall-Shackleton, H., Bragg, L.M., Servos, M.R., Wong, B.B.M., Balshine, S.
+Impacts of caffeine on fathead minnow behaviour and physiology
+(2024) Aquatic Toxicology, 273, art. no. 106982, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195369981&doi=10.1016%2fj.aquatox.2024.106982&partnerID=40&md5=4d28e8838d99137955918e1fe8f2854c
+
+DOI: 10.1016/j.aquatox.2024.106982
+
+Thatcher, A., Insel, N.
+Familiarity and social relationships in degus (Octodon degus)
+(2024) Ethology, 130 (8), art. no. e13487, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195182621&doi=10.1111%2feth.13487&partnerID=40&md5=69020cde66ea18df83b0f4bd15829bb3
+
+DOI: 10.1111/eth.13487
+
+Rat-Fischer, L., Plunkett, K., von Bayern, A.M.P., Kacelnik, A.
+Object play and problem solving in infancy: Insights into tool use
+(2024) Journal of Experimental Child Psychology, 244, art. no. 105957, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194074149&doi=10.1016%2fj.jecp.2024.105957&partnerID=40&md5=a5b42bbed0d8045aa5715cd54086467e
+
+DOI: 10.1016/j.jecp.2024.105957
+
+Suans, M.A., Fischbein, D., Corley, J.C.
+Patch exploitation behaviour by a parasitoid of a forest pest: The influence of host cues and intra- and interspecific interactions [Comportamiento de explotación de parches por un parasitoide de un insecto plaga forestal: la influencia de las claves del hospedador y de las interacciones intra e interespecíficas]
+(2024) Ecological Entomology, 49 (4), pp. 544-555. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189500302&doi=10.1111%2feen.13327&partnerID=40&md5=8a04524a7c70a25906008c4ab14f292b
+
+DOI: 10.1111/een.13327
+
+Moon, J., Ke, F.
+Effects of Adaptive Prompts in Virtual Reality-Based Social Skills Training for Children with Autism
+(2024) Journal of Autism and Developmental Disorders, 54 (8), pp. 2826-2846. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160440079&doi=10.1007%2fs10803-023-06021-7&partnerID=40&md5=d3c727046644d1513bc49f8eb938cc7e
+
+DOI: 10.1007/s10803-023-06021-7
+
+García-Ruiz, I., Taborsky, M.
+Nepotism mediates enforced cooperation in asymmetric negotiations
+(2024) iScience, 27 (7), art. no. 110334, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197817647&doi=10.1016%2fj.isci.2024.110334&partnerID=40&md5=c1488a4fd16605793ea54f4e3b046676
+
+DOI: 10.1016/j.isci.2024.110334
+
+Ge, J., Ren, P., Tian, B., Li, J., Qi, C., Huang, Q., Ren, K., Hu, E., Mao, H., Zang, Y., Wu, S., Xue, Q., Wang, W.
+Ventral zona incerta parvalbumin neurons modulate sensory-induced and stress-induced self-grooming via input-dependent mechanisms in mice
+(2024) iScience, 27 (7), art. no. 110165, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195850377&doi=10.1016%2fj.isci.2024.110165&partnerID=40&md5=384be894029a7d408975cd285cd8ad71
+
+DOI: 10.1016/j.isci.2024.110165
+
+Yan, J.L., Dobbin, M.L., Dukas, R.
+Sexual conflict and sexual networks in bed bugs: The fitness cost of traumatic insemination, female avoidance and male mate choice
+(2024) Proceedings of the Royal Society B: Biological Sciences, 291 (2027), art. no. 20232808, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199015047&doi=10.1098%2frspb.2023.2808&partnerID=40&md5=0d7910b420eb30cf67f679386417004a
+
+DOI: 10.1098/rspb.2023.2808
+
+Zeller, K.A., Ditmer, M.A., Squires, J.R., Rice, W.L., Wilder, J., DeLong, D., Egan, A., Pennington, N., Wang, C.A., Plucinski, J., Barber, J.R.
+Experimental recreationist noise alters behavior and space use of wildlife
+(2024) Current Biology, 34 (13), pp. 2997-3004.e3. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197005426&doi=10.1016%2fj.cub.2024.05.030&partnerID=40&md5=5c2fd3b37fe24575a41fdd019dd39924
+
+DOI: 10.1016/j.cub.2024.05.030
+
+Nowicki, J.P., Rodríguez, C., Lee, J.C., Goolsby, B.C., Yang, C., Cleland, T.A., O'Connell, L.A.
+Physiological state matching in a pair bonded poison frog
+(2024) Royal Society Open Science, 11 (7), art. no. 240744, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201479184&doi=10.1098%2frsos.240744&partnerID=40&md5=36e3b9dfe27ce9748407e5ee9c0dc99b
+
+DOI: 10.1098/rsos.240744
+
+Stegner, L., Hwang, Y., Porfrio, D., Mutlu, B.
+Understanding On-the-Fly End-User Robot Programming
+(2024) Proceedings of the 2024 ACM Designing Interactive Systems Conference, DIS 2024, pp. 2468-2480. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200371981&doi=10.1145%2f3643834.3660721&partnerID=40&md5=f377eb8bcbe8f1db3e9b23b4b94305d6
+
+DOI: 10.1145/3643834.3660721
+
+Xu, Y., Zhou, Y.
+The Collection and Compilation of Small Group Data for Scenario Setting of Simulations and Experiments
+(2024) Applied Sciences (Switzerland), 14 (14), art. no. 6371, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199624353&doi=10.3390%2fapp14146371&partnerID=40&md5=61a41abf185248a82b5eedb24e080550
+
+DOI: 10.3390/app14146371
+
+Pointer, M.D., Spurgin, L.G., McMullan, M., Butler, S., Richardson, D.S.
+Life history correlations and trade-offs resulting from selection for dispersal in Tribolium castaneum
+(2024) Journal of Evolutionary Biology, 37 (7), pp. 748-757. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198333335&doi=10.1093%2fjeb%2fvoae041&partnerID=40&md5=f7d2786735c6fc867b9a9003f16cedd6
+
+DOI: 10.1093/jeb/voae041
+
+Harrison, N.D., Phillips, B.L., Wayne, A.F., Mitchell, N.J.
+Sustained predation pressure may prevent the loss of anti-predator traits from havened populations
+(2024) Ecology and Evolution, 14 (7), art. no. e11668, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198082708&doi=10.1002%2fece3.11668&partnerID=40&md5=dbe9d15964eba73b13ca9bdd84eb257c
+
+DOI: 10.1002/ece3.11668
+
+Martin, M., Gridley, T., Immerz, A., Elwen, S.H., Charrier, I.
+Use of acoustic signals in Cape fur seal mother–pup reunions: individual signature, signal propagation and pup home range
+(2024) Journal of Experimental Biology, 227 (13), art. no. jeb246917, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197703820&doi=10.1242%2fjeb.246917&partnerID=40&md5=eeef34888340d950c731013573efec98
+
+DOI: 10.1242/jeb.246917
+
+Rigby, L.C., Hall, M.D., Monro, K., Uesugi, A.
+Evolution of “invasion syndrome” in invasive goldenrod is not constrained by genetic trade-offs
+(2024) Evolutionary Applications, 17 (7), art. no. e13734, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197443205&doi=10.1111%2feva.13734&partnerID=40&md5=acc64b368ed6520260dde74e4793a1bc
+
+DOI: 10.1111/eva.13734
+
+Tahamtani, F.M., Kittelsen, K.E., Vasdal, G.
+Qualitative feed restriction affects frustration, fear, motivation to explore, and feather fault bars in Ross 308 broiler breeder cockerels
+(2024) Applied Animal Behaviour Science, 276, art. no. 106327, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196522751&doi=10.1016%2fj.applanim.2024.106327&partnerID=40&md5=90084dbfd654ae656b9ee7d9c014c3d1
+
+DOI: 10.1016/j.applanim.2024.106327
+
+Lima, A.R.A., Lopes, A.R., Martins-Cardoso, S., Moutinho, A.B., Lemos, M.F.L., Novais, S.C., Faria, A.M.
+Integrated behavioural and physiological responses of sand smelt larvae to the effects of warming and hypoxia as combined stressors
+(2024) Marine Environmental Research, 199, art. no. 106609, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195843056&doi=10.1016%2fj.marenvres.2024.106609&partnerID=40&md5=356563f85976a5564854a7eda0b0cf2e
+
+DOI: 10.1016/j.marenvres.2024.106609
+
+Ake, K., Hashimoto, M., Kutsukake, N.
+Odour discrimination in African painted dogs
+(2024) Animal Behaviour, 213, pp. 183-191. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195301655&doi=10.1016%2fj.anbehav.2024.05.003&partnerID=40&md5=5ad3f691faa7e84ffc03a8cf438dd0b2
+
+DOI: 10.1016/j.anbehav.2024.05.003
+
+Rufo, H.P., Ferreira, L.G., Ottoni, E.B., Falótico, T.
+Toxic tasting: how capuchin monkeys avoid grasshoppers’ chemical defenses
+(2024) Primates, 65 (4), pp. 235-241. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194415914&doi=10.1007%2fs10329-024-01133-9&partnerID=40&md5=03c82bbf3af5ac0790ebcf657be342b4
+
+DOI: 10.1007/s10329-024-01133-9
+
+Goodwin, N.L., Choong, J.J., Hwang, S., Pitts, K., Bloom, L., Islam, A., Zhang, Y.Y., Szelenyi, E.R., Tong, X., Newman, E.L., Miczek, K., Wright, H.R., McLaughlin, R.J., Norville, Z.C., Eshel, N., Heshmati, M., Nilsson, S.R.O., Golden, S.A.
+Simple Behavioral Analysis (SimBA) as a platform for explainable machine learning in behavioral neuroscience
+(2024) Nature Neuroscience, 27 (7), pp. 1411-1424. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193988342&doi=10.1038%2fs41593-024-01649-9&partnerID=40&md5=f1519c144c26fa4cf8f43aeeb8f3e329
+
+DOI: 10.1038/s41593-024-01649-9
+
+Barrett, R., Stein, L.R.
+Short-Term heat waves have long-Term consequences for parents and offspring in stickleback
+(2024) Behavioral Ecology, 35 (4), art. no. arae036, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193943895&doi=10.1093%2fbeheco%2farae036&partnerID=40&md5=1011b60136aae058ecf3ac657b4ccbe8
+
+DOI: 10.1093/beheco/arae036
+
+La Loggia, O., Taborsky, B.
+Social competence is influenced by early but not late life social experience in a cooperatively breeding fish
+(2024) Animal Behaviour, 213, pp. 85-93. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193579327&doi=10.1016%2fj.anbehav.2024.04.006&partnerID=40&md5=a0d1efae841519b2bc85410baca8dff6
+
+DOI: 10.1016/j.anbehav.2024.04.006
+
+Seyrling, I., Clauss, M., Dierkes, P.W., Burger-Schulz, A.L.
+Breaking the spell: Changes in the behavior of two zoo-kept tigers (Panthera tigris) after exposure to a distinct feast-and-fast feeding regime
+(2024) Zoo Biology, 43 (4), pp. 340-353. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192878247&doi=10.1002%2fzoo.21836&partnerID=40&md5=c453bc90e2b82db54347b3ed8297a433
+
+DOI: 10.1002/zoo.21836
+
+Puls, F., Kosin, L.-M., Garbisch, F., Touma, C., Thöne-Reineke, C., Gygax, L.
+Steps into a Small World: First glimpses on everyday moment-to-moment decision making in an ecologically meaningful multi-choice system for assessing animal preferences
+(2024) Ethology, 130 (7), art. no. e13468, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192573028&doi=10.1111%2feth.13468&partnerID=40&md5=76d68daa686b6a57673a3e591d4742f8
+
+DOI: 10.1111/eth.13468
+
+Nagasawa, M., Tomori, S., Mogi, K., Kikusui, T.
+Attachment-like behavioral expressions to humans in puppies are related to oxytocin and cortisol: A comparative study of Akitas and Labrador Retrievers
+(2024) Peptides, 177, art. no. 171224, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191350502&doi=10.1016%2fj.peptides.2024.171224&partnerID=40&md5=e34dcb3d1077438168e95c83926106c5
+
+DOI: 10.1016/j.peptides.2024.171224
+
+Zeng, Y., Baciadonna, L., Davies, J.R., Pilenga, C., Favaro, L., Garcia-Pelegrin, E.
+Bottlenose dolphins (Tursiops truncatus) display gaze alternation and referential communication in an impossible task
+(2024) Heliyon, 10 (12), art. no. e33192, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196319709&doi=10.1016%2fj.heliyon.2024.e33192&partnerID=40&md5=92f0b725d24d308f957a238e94f1fe9c
+
+DOI: 10.1016/j.heliyon.2024.e33192
+
+Qi, L., Iskols, M., Greenberg, R.S., Xiao, J.Y., Handler, A., Liberles, S.D., Ginty, D.D.
+Krause corpuscles are genital vibrotactile sensors for sexual behaviours
+(2024) Nature, 630 (8018), pp. 926-934. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196314094&doi=10.1038%2fs41586-024-07528-4&partnerID=40&md5=e6de34ad991770eb0608218f6caedddd
+
+DOI: 10.1038/s41586-024-07528-4
+
+Aslan, S., Köksal, E., Karaboğa, I.
+The effect of sucrose consumption on eating behavior and depression during morphine withdrawal period in rats
+(2024) Mediterranean Journal of Nutrition and Metabolism, 17 (2), pp. 107-122. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197901732&doi=10.3233%2fMNM-230072&partnerID=40&md5=84ff85cef75ffb2c1adcc9a43245bb9b
+
+DOI: 10.3233/MNM-230072
+
+Viellard, J.M.A., Melleu, F.F., Tamais, A.M., de Almeida, A.P., Zerbini, C., Ikebara, J.M., Domingues, K., de Lima, M.A.X., Oliveira, F.A., Motta, S.C., Canteras, N.S.
+A subiculum-hypothalamic pathway functions in dynamic threat detection and memory updating
+(2024) Current Biology, 34 (12), pp. 2657-2671.e7. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195808509&doi=10.1016%2fj.cub.2024.05.006&partnerID=40&md5=a01352ee3a9813b4b8e191e1f8bc80eb
+
+DOI: 10.1016/j.cub.2024.05.006
+
+England, S.J., Robert, D.
+Prey can detect predators via electroreception in air
+(2024) Proceedings of the National Academy of Sciences of the United States of America, 121 (23), art. no. e2322674121, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194003213&doi=10.1073%2fpnas.2322674121&partnerID=40&md5=0461af84a934f541ea0dff5f7649b66c
+
+DOI: 10.1073/pnas.2322674121
+
+Štolhoferová, I., Rudolfová, V., Skalíková, H., Vobrubová, B., Frynta, D.
+How to explore a new environment: exploratory tactics of the black rat (Rattus rattus)
+(2024) Current Zoology, 70 (3), pp. 371-382. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199208870&doi=10.1093%2fcz%2fzoae015&partnerID=40&md5=194f3fdffc0fd808a699a8241681de3d
+
+DOI: 10.1093/cz/zoae015
+
+Peignier, M., Ringler, M., Ringler, E.
+Odor cues rather than personality affect tadpole deposition in a neotropical poison frog
+(2024) Current Zoology, 70 (3), pp. 332-342. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199170806&doi=10.1093%2fcz%2fzoad042&partnerID=40&md5=7e7617a44e77085a07d3ee6c861ff486
+
+DOI: 10.1093/cz/zoad042
+
+Damas-Moreira, I., Szabo, B., Drosopoulos, G., Stober, C., Lisičić, D., Caspers, B.A.
+Smarter in the city? Lizards from urban and semi-natural habitats do not differ in a cognitive task in two syntopic species
+(2024) Current Zoology, 70 (3), pp. 361-370. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199147673&doi=10.1093%2fcz%2fzoae010&partnerID=40&md5=242c437669ebbe66e7af34f6b3a97825
+
+DOI: 10.1093/cz/zoae010
+
+Lauby, S.C., Lapp, H.E., Salazar, M., Semyrenko, S., Chauhan, D., Margolis, A.E., Champagne, F.A.
+Postnatal maternal care moderates the effects of prenatal bisphenol exposure on offspring neurodevelopmental, behavioral, and transcriptomic outcomes
+(2024) PLoS ONE, 19 (6 June), art. no. e0305256, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195783502&doi=10.1371%2fjournal.pone.0305256&partnerID=40&md5=8b885dc86c43bdfbe6f01e485c635663
+
+DOI: 10.1371/journal.pone.0305256
+
+Holmes, K.G., Krützen, M., Ridley, A.R., Allen, S.J., Connor, R.C., Gerber, L., Stamm, C.F., King, S.L.
+Juvenile social play predicts adult reproductive success in male bottlenose dolphins
+(2024) Proceedings of the National Academy of Sciences of the United States of America, 121 (25), art. no. e2305948121, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195622729&doi=10.1073%2fpnas.2305948121&partnerID=40&md5=710321e7f51ab2530682d79ec1f329e2
+
+DOI: 10.1073/pnas.2305948121
+
+Berry, P., Dammhahn, M., Hauptfleisch, M., Hering, R., Jansen, J., Kraus, A., Blaum, N.
+African dryland antelope trade-off behaviours in response to heat extremes
+(2024) Ecology and Evolution, 14 (6), art. no. e11455, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195493007&doi=10.1002%2fece3.11455&partnerID=40&md5=a8d3e980c049bb0b84f8e78bc392c95f
+
+DOI: 10.1002/ece3.11455
+
+Schabacker, T., Rizzi, S., Teige, T., Hoffmeister, U., Voigt, C.C., Snijders, L.
+Behavioral correlates of migration in bats – do migration strategies predict responses to a novel environment?
+(2024) Behavioral Ecology and Sociobiology, 78 (6), art. no. 68, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195478697&doi=10.1007%2fs00265-024-03483-2&partnerID=40&md5=52f3b3b49aa3a312249c6ad6fe38ccf0
+
+DOI: 10.1007/s00265-024-03483-2
+
+Matthews, G., Chapple, D.G.
+Testing the function of a colour pattern polymorphism in a lizard
+(2024) Biological Journal of the Linnean Society, 142 (2), pp. 197-207. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195059965&doi=10.1093%2fbiolinnean%2fblad124&partnerID=40&md5=553250939bc047d0cd1d1e643c7eb54a
+
+DOI: 10.1093/biolinnean/blad124
+
+Soto, K.M., Hardin, F.O., Alleyne, H.P., Fischer, E.K.
+Individual behavioral variability across time and contexts in Dendrobates tinctorius poison frogs
+(2024) Behavioral Ecology and Sociobiology, 78 (6), art. no. 62, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194893281&doi=10.1007%2fs00265-024-03474-3&partnerID=40&md5=94ea132885313ed11a12bd2a91c622cf
+
+DOI: 10.1007/s00265-024-03474-3
+
+Juffinger, A., Bramberger, S., Stanitznig-Nuyken, A., Schoiswohl, J., Krametter-Frötscher, R., Wittek, T., Futschik, A., Waiblinger, S.
+Behaviour, heart rate variability and surface temperature of calves after hot-iron disbudding or injection of clove oil or isoeugenol under the horn buds
+(2024) Applied Animal Behaviour Science, 275, art. no. 106290, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194298827&doi=10.1016%2fj.applanim.2024.106290&partnerID=40&md5=b4694e2dbf60524bb89d22c190282414
+
+DOI: 10.1016/j.applanim.2024.106290
+
+Aoun, C.C., Atigui, M., Brahmi, M., Gherairi, E., Hammadi, M.
+Time budgets and 24 h temporal patterns variation of activities in stabled dairy dromedary camels
+(2024) Applied Animal Behaviour Science, 275, art. no. 106295, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193939116&doi=10.1016%2fj.applanim.2024.106295&partnerID=40&md5=7fd934d0f2f5277ae4a79f8316c0ee0e
+
+DOI: 10.1016/j.applanim.2024.106295
+
+Franchi, G.A., Moscovice, L.R., Telkänranta, H., Pedersen, L.J.
+Variations in salivary oxytocin and eye caruncle temperature indicate response to environmental enrichment material in fattening pigs
+(2024) Applied Animal Behaviour Science, 275, art. no. 106291, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193574224&doi=10.1016%2fj.applanim.2024.106291&partnerID=40&md5=ac47f5859860508c1bbe5286f11e10a0
+
+DOI: 10.1016/j.applanim.2024.106291
+
+Carpenter, M.M., Perryman, R.J.Y., Marshall, A.D., Griffiths, C.L.
+Behavior, site use and demographics of shortfin devil rays, Mobula kuhlii, at a newly-discovered cleaning area in South Africa
+(2024) Marine Biology, 171 (6), art. no. 130, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193362163&doi=10.1007%2fs00227-024-04444-z&partnerID=40&md5=dc1e4a4ce4ffc38468ff135924776e00
+
+DOI: 10.1007/s00227-024-04444-z
+
+Ambruosi, S., De Angelis, F., Chou, J.-Y., Goursot, C.
+Familiar versus unfamiliar: Revealing the complexity of sociability in pigs
+(2024) Applied Animal Behaviour Science, 275, art. no. 106248, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192156101&doi=10.1016%2fj.applanim.2024.106248&partnerID=40&md5=6209e32c6970b0a3957cfc5171cfd89b
+
+DOI: 10.1016/j.applanim.2024.106248
+
+Wagnon, C.J., Cosentino, B.J., Schooley, R.L.
+Linking animal personality and habitat restoration for a keystone species
+(2024) Animal Behaviour, 212, pp. 13-30. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190440988&doi=10.1016%2fj.anbehav.2024.03.003&partnerID=40&md5=35f9a44bbc698a4d6d6c1e885c697efb
+
+DOI: 10.1016/j.anbehav.2024.03.003
+
+Ryabushkina, Y.A., Ayriyants, K.A., Sapronova, A.A., Mutovina, A.S., Kolesnikova, M.M., Mezhlumyan, E.V., Bondar, N.P., Reshetnikov, V.V.
+Effects of different types of induced neonatal inflammation on development and behavior of C57BL/6 and BTBR mice
+(2024) Physiology and Behavior, 280, art. no. 114550, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190409418&doi=10.1016%2fj.physbeh.2024.114550&partnerID=40&md5=e154f8608efb5660a6823c1869d213e1
+
+DOI: 10.1016/j.physbeh.2024.114550
+
+Brown, R.E.
+Measuring the replicability of our own research
+(2024) Journal of Neuroscience Methods, 406, art. no. 110111, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189779023&doi=10.1016%2fj.jneumeth.2024.110111&partnerID=40&md5=43926c9a25742eda3c665b63f5ef8de8
+
+DOI: 10.1016/j.jneumeth.2024.110111
+
+Kuske, J.X., Godoy, A.S., Ramirez, A.V., Trainor, B.C.
+Sex differences in responses to aggressive encounters among California mice
+(2024) Hormones and Behavior, 162, art. no. 105537, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189476588&doi=10.1016%2fj.yhbeh.2024.105537&partnerID=40&md5=5e4f79f76d420ae1ea91f5755f7f728a
+
+DOI: 10.1016/j.yhbeh.2024.105537
+
+Kim, T., Zhou, R., Gassass, S., Soberano, T., Liu, L., Philip, B.A.
+Healthy adults favor stable left/right hand choices over performance at an unconstrained reach-to-grasp task
+(2024) Experimental Brain Research, 242 (6), pp. 1349-1359. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189199383&doi=10.1007%2fs00221-024-06828-5&partnerID=40&md5=f6ba7ea4306755a04f60055f97f79f51
+
+DOI: 10.1007/s00221-024-06828-5
+
+Goterris-Cerisuelo, R., Sanahuja-Irene, S., Sánchez-Catalán, M.J., Martínez-García, F.
+Adjusting and validating a procedure for parenteral anaesthesia in neonatal mice
+(2024) Laboratory Animals, 58 (3), pp. 209-218. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188330573&doi=10.1177%2f00236772231219821&partnerID=40&md5=50bc66dac6033683f69cd09b1aadd9ef
+
+DOI: 10.1177/00236772231219821
+
+Veselý, P., Nedvěd, O., Borovička, M., Adamovská, M., Průchová, A., Fuchs, R.
+Responses of avian predators to the polymorphic harlequin ladybird (Harmonia axyridis)
+(2024) Ecological Entomology, 49 (3), pp. 357-367. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181518987&doi=10.1111%2feen.13310&partnerID=40&md5=b617a31e4bc56b0ea16dd20f183b8d14
+
+DOI: 10.1111/een.13310
+
+Lloyd, E., Rastogi, A., Holtz, N., Aaronson, B., Craig Albertson, R., Keene, A.C.
+Ontogeny and social context regulate the circadian activity patterns of Lake Malawi cichlids
+(2024) Journal of Comparative Physiology B: Biochemical, Systemic, and Environmental Physiology, 194 (3), pp. 299-313. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175376892&doi=10.1007%2fs00360-023-01523-3&partnerID=40&md5=f75168e6b9feeaa7f27f6fba2ad8f626
+
+DOI: 10.1007/s00360-023-01523-3
+
+Hernández-Méndez, J.C., Gracia-Garrido, S., Hudson, R., Rosetti, M.F.
+Correlates of recreational risk-taking behavior: A comparison between the Tower Building Task and two self-report measures
+(2024) Adaptive Behavior, 32 (3), pp. 243-250. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165588252&doi=10.1177%2f10597123231189515&partnerID=40&md5=cc14833ff15f989e7bae8b204788d5c2
+
+DOI: 10.1177/10597123231189515
+
+Pisula, E., Pisula, W.
+Back to Actual Behavior – A Modest Proposal on the Example of Exploratory Behavior in Children on the Autism Spectrum
+(2024) Integrative Psychological and Behavioral Science, 58 (2), pp. 693-710. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165089736&doi=10.1007%2fs12124-023-09763-2&partnerID=40&md5=4bc3234a50d6a70a865981909d1478df
+
+DOI: 10.1007/s12124-023-09763-2
+
+Marliani, G., Vaccari, L., Cavallini, D., Montesano, C.S., Buonaiuto, G., Accorsi, P.A.
+Assessing the effectiveness of cannabidiol additive supplementation on canine behavior and cortisol levels
+(2024) Heliyon, 10 (10), art. no. e31345, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193281850&doi=10.1016%2fj.heliyon.2024.e31345&partnerID=40&md5=c171bc24bd9b2f4f6deacb207966a339
+
+DOI: 10.1016/j.heliyon.2024.e31345
+
+Niepoth, N., Merritt, J.R., Uminski, M., Lei, E., Esquibies, V.S., Bando, I.B., Hernandez, K., Gebhardt, C., Wacker, S.A., Lutzu, S., Poudel, A., Soma, K.K., Rudolph, S., Bendesky, A.
+Evolution of a novel adrenal cell type that promotes parental care
+(2024) Nature, 629 (8014), pp. 1082-1090. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193069379&doi=10.1038%2fs41586-024-07423-y&partnerID=40&md5=b946655c57442c7a6cba6033b704149e
+
+DOI: 10.1038/s41586-024-07423-y
+
+Sheppard, C.E., Boström-Einarsson, L., Williams, G.J., Exton, D.A., Keith, S.A.
+Variation in farming damselfish behaviour creates a competitive landscape of risk on coral reefs
+(2024) Biology Letters, 20 (5), art. no. 20240035, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194875159&doi=10.1098%2frsbl.2024.0035&partnerID=40&md5=76de0cca6b7d16622deda664d1001b88
+
+DOI: 10.1098/rsbl.2024.0035
+
+Liu, Q., Radchenko, M., Špinka, M.
+Disentangling developmental effects of play aspects in rat rough-and-tumble play
+(2024) Biology Letters, 20 (5), art. no. 20240037, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194845082&doi=10.1098%2frsbl.2024.0037&partnerID=40&md5=b3239d78120baf295bb2149fc74c9745
+
+DOI: 10.1098/rsbl.2024.0037
+
+Massenet, M., Philippe, R., Pisanski, K., Arnaud, V., de Beauchesne, L.B., Reynaud, K., Mathevon, N., Reby, D.
+Puppy whines mediate maternal behavior in domestic dogs
+(2024) Proceedings of the National Academy of Sciences of the United States of America, 121 (22), art. no. e2316818121, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193968475&doi=10.1073%2fpnas.2316818121&partnerID=40&md5=c2ae067d23c8d4b3bb3646a5e0601078
+
+DOI: 10.1073/pnas.2316818121
+
+Rake, E.A., Meinders, M.J., Brand, G., Dreesens, D., Kremer, J.A.M., Elwyn, G., Aarts, J.W.M.
+Explorative observational study of Dutch patient-clinician interactions: Operationalisation of personal perspective elicitation as part of shared decision-making in real-life audio-recorded consultations
+(2024) BMJ Open, 14 (5), art. no. e079540, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193580545&doi=10.1136%2fbmjopen-2023-079540&partnerID=40&md5=42f90828f1516ef88e01d1f14c02fca0
+
+DOI: 10.1136/bmjopen-2023-079540
+
+Bedmutha, M.S., Tsedenbal, A., Tobar, K., Borsotto, S., Sladek, K.R., Singh, D., Casanova-Perez, R., Bascom, E., Wood, B., Sabin, J., Pratt, W., Hartzler, A., Weibel, N.
+ConverSense: An Automated Approach to Assess Patient-Provider Interactions using Social Signals
+(2024) Conference on Human Factors in Computing Systems - Proceedings, art. no. 448, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194844537&doi=10.1145%2f3613904.3641998&partnerID=40&md5=39cd0b855a2b2e8d64a24cfa7b7acfac
+
+DOI: 10.1145/3613904.3641998
+
+Elahi, M.F., Li, T., Tian, R.
+Exploring Collective Theory of Mind on Pedestrian Behavioral Intentions
+(2024) Conference on Human Factors in Computing Systems - Proceedings, art. no. 137, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194164010&doi=10.1145%2f3613905.3650930&partnerID=40&md5=22729a6bfcb3005c8d21802eb6356b9f
+
+DOI: 10.1145/3613905.3650930
+
+Arnoso, G.S.P., Delfino, H.C., Carlos, C.J.
+Foraging Repertoire of American Oystercatcher (Haematopus palliatus) in Two Different Habitats in an Important South American Wetland
+(2024) Waterbirds, 46 (2-4), pp. 265-276. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192915042&doi=10.1675%2f063.046.0416&partnerID=40&md5=1f4132f516a18e60cdaf349baefa1fb8
+
+DOI: 10.1675/063.046.0416
+
+O'Leary, T.P., Brown, R.E.
+Age-related changes in species-typical behaviours in the 5xFAD mouse model of Alzheimer's disease from 4 to 16 months of age
+(2024) Behavioural Brain Research, 465, art. no. 114970, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189527492&doi=10.1016%2fj.bbr.2024.114970&partnerID=40&md5=4d5663f4f4c3bd8d0262c1f8544f7444
+
+DOI: 10.1016/j.bbr.2024.114970
+
+Lucon-Xiccato, T., De Russi, G., Frigato, E., Dadda, M., Bertolucci, C.
+One-trial odour recognition learning and its underlying brain areas in the zebrafish
+(2024) Behavioural Brain Research, 465, art. no. 114949, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188505020&doi=10.1016%2fj.bbr.2024.114949&partnerID=40&md5=2d15956c3cbdfddf5a209e4ed6ac97ae
+
+DOI: 10.1016/j.bbr.2024.114949
+
+Allen, J.A., Cade, D.E., Casey, C.B., Weindorf, S., Johnston, D.W., Linsky, J.M.J., Goldbogen, J.A., Nowacek, D.P., Friedlaender, A.S.
+Evidence of sociality and group foraging in Antarctic minke whales (Balaenoptera bonaerensis)
+(2024) Behavioral Ecology and Sociobiology, 78 (5), art. no. 61, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195146819&doi=10.1007%2fs00265-024-03481-4&partnerID=40&md5=f7c31b24bae972f713ff18039ce51348
+
+DOI: 10.1007/s00265-024-03481-4
+
+Olsen, P., Dempsey-Wood, A., Tavener, N., Tavener, J., Ortiz-Catedral, L.
+Apparent anti-parasite behaviour in the Norfolk Island green parrot Cyanoramphus cookii
+(2024) Austral Ecology, 49 (5), art. no. e13525, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193382781&doi=10.1111%2faec.13525&partnerID=40&md5=c2a804abdeaef7dd02a836f8f6680800
+
+DOI: 10.1111/aec.13525
+
+Zheng, J., Wang, H., Jiang, J., Versteegh, M.A., Zhou, Z., Zhang, Z., Chen, D., Komdeur, J.
+May brood desertion be ruled by partner parenting capability in a polygamous songbird? An experimental study
+(2024) Ecology and Evolution, 14 (5), art. no. e11394, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193043473&doi=10.1002%2fece3.11394&partnerID=40&md5=710abda3f614200178381191dca771d2
+
+DOI: 10.1002/ece3.11394
+
+Malherbe, M., Samuni, L., Ebel, S.J., Kopp, K.S., Crockford, C., Wittig, R.M.
+Protracted development of stick tool use skills extends into adulthood in wild western chimpanzees
+(2024) PLoS Biology, 22 (5 MAY), art. no. e3002609, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192587106&doi=10.1371%2fjournal.pbio.3002609&partnerID=40&md5=139f072eacb445d573138aba904c5b35
+
+DOI: 10.1371/journal.pbio.3002609
+
+Carrillo, J.F.C., Ortega, Z., Santana, D.J., Prado, C.P.A.
+Mother-offspring chemical communication and tadpole aggregation in a neotropical foam-nesting frog
+(2024) Behavioral Ecology and Sociobiology, 78 (5), art. no. 53, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191031163&doi=10.1007%2fs00265-024-03468-1&partnerID=40&md5=43bcaf4561819533dbcdccdcb53677e0
+
+DOI: 10.1007/s00265-024-03468-1
+
+Fiorilla, E., Ozella, L., Sirri, F., Zampiga, M., Piscitelli, R., Tarantola, M., Ponzio, P., Mugnai, C.
+Effects of housing systems on behaviour and welfare of autochthonous laying hens and a commercial hybrid
+(2024) Applied Animal Behaviour Science, 274, art. no. 106247, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190523205&doi=10.1016%2fj.applanim.2024.106247&partnerID=40&md5=dd0b1f0ce0f223b8fb77516dd8d5d4b9
+
+DOI: 10.1016/j.applanim.2024.106247
+
+Raskin, M., Keller, N.E., Agee, L.A., Shumake, J., Smits, J.A.J., Telch, M.J., Otto, M.W., Lee, H.J., Monfils, M.-H.
+Carbon Dioxide Reactivity Differentially Predicts Fear Expression After Extinction and Retrieval-Extinction in Rats
+(2024) Biological Psychiatry Global Open Science, 4 (3), art. no. 100310, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190438011&doi=10.1016%2fj.bpsgos.2024.100310&partnerID=40&md5=9e94cee078136bf4e4ea50237bdb3d1e
+
+DOI: 10.1016/j.bpsgos.2024.100310
+
+Hennes, N., Briant, C., Lorcet, C., Ruet, A., Lansade, L.
+Behaviours exhibited during training predict physical tiredness in harness trotter horses
+(2024) Applied Animal Behaviour Science, 274, art. no. 106245, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190106903&doi=10.1016%2fj.applanim.2024.106245&partnerID=40&md5=a3f162d75945264eb784ef722c2d8395
+
+DOI: 10.1016/j.applanim.2024.106245
+
+Tepox-Vivar, N., Lopez-Nava, G., García-Chávez, J.H., Guevara-Fiore, P.
+Sex-dependent audience effect in foraging guppies
+(2024) Behavioral Ecology, 35 (3), art. no. arae017, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189911205&doi=10.1093%2fbeheco%2farae017&partnerID=40&md5=5f19aa01f7280a9aa1eb9e0b615965fc
+
+DOI: 10.1093/beheco/arae017
+
+Harmon, I.P., McCabe, E.A., Vergun, M.R., Weinstein, J., Graves, H.L., Boldt, C.M., Bradley, D.D., Lee, J., Maurice, J.M., Solomon-Lane, T.K.
+Multiple behavioral mechanisms shape development in a highly social cichlid fish
+(2024) Physiology and Behavior, 278, art. no. 114520, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189475327&doi=10.1016%2fj.physbeh.2024.114520&partnerID=40&md5=939770c7c78b326cbd4cd6b26569e2e1
+
+DOI: 10.1016/j.physbeh.2024.114520
+
+Panizzon, P., Gismann, J., Riedstra, B., Nicolaus, M., Brown, C., Groothuis, T.
+Effects of early predation and social cues on the relationship between laterality and personality
+(2024) Behavioral Ecology, 35 (3), art. no. arae012, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189432957&doi=10.1093%2fbeheco%2farae012&partnerID=40&md5=6a0c22f2121a1677db494aab85cda588
+
+DOI: 10.1093/beheco/arae012
+
+Respicio, J.M.V., Dela Cruz, K.C., Hughes, A.C., Tanalgo, K.C.
+The behavioural costs of overcrowding for gregarious cave-dwelling bats
+(2024) Journal of Animal Ecology, 93 (5), pp. 619-631. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189038243&doi=10.1111%2f1365-2656.14072&partnerID=40&md5=c719d43c3dddd1c39e2f095f189152c9
+
+DOI: 10.1111/1365-2656.14072
+
+Vámos, T.I.F., Shaw, R.C.
+Consistent individual differences give rise to ‘caching syndromes’ in a food-storing passerine
+(2024) Animal Behaviour, 211, pp. 43-51. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188540363&doi=10.1016%2fj.anbehav.2024.02.012&partnerID=40&md5=64c0e44083cc4545078eff06d9fe7571
+
+DOI: 10.1016/j.anbehav.2024.02.012
+
 Gnanadesikan, G.E., Carranza, E., King, K.M., Flyer, A.C., Ossello, G., Smith, P.G., Steklis, N.G., Steklis, H.D., Connelly, J.J., Barnett, M., Gee, N., Tecot, S., MacLean, E.L.
 Glucocorticoid response to naturalistic interactions between children and dogs
 (2024) Hormones and Behavior, 161, art. no. 105523, . 
@@ -88,12 +993,40 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186666013&doi=10.1016%2fj.
 
 DOI: 10.1016/j.yhbeh.2024.105520
 
+Richardson, B., Clarke, C., Blundell, J., Bambico, F.R.
+Therapeutic-like activity of cannabidiolic acid methyl ester in the MK-801 mouse model of schizophrenia: Role for cannabinoid CB1 and serotonin-1A receptors
+(2024) European Journal of Neuroscience, 59 (9), pp. 2403-2415. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186407047&doi=10.1111%2fejn.16278&partnerID=40&md5=190f92b997edb465cda988375d872009
+
+DOI: 10.1111/ejn.16278
+
+Aranda, D., Arce, E., Mercado-Silva, N., Burciaga, L.M.
+Aggressiveness overcomes body-size effects in contests between native and invasive cichlid fishes
+(2024) Ethology, 130 (5), art. no. e13443, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185332630&doi=10.1111%2feth.13443&partnerID=40&md5=0073748cd8f0c8fbfbcc6ecd5d9521e3
+
+DOI: 10.1111/eth.13443
+
+Truppa, V., Gamba, M., Togliatto, R., Caselli, M., Zanoli, A., Palagi, E., Norscia, I.
+Manual preference, performance, and dexterity for bimanual grass-feeding behavior in wild geladas (Theropithecus gelada)
+(2024) American Journal of Primatology, 86 (5), art. no. e23602, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184199655&doi=10.1002%2fajp.23602&partnerID=40&md5=b92470b94c1870617f86383b566eff9a
+
+DOI: 10.1002/ajp.23602
+
 Cao, S., Kelly, J., Nyugen, C., Chow, H.M., Leonardo, B., Sabov, A., Ciaramitaro, V.M.
 Prior visual experience increases children's use of effective haptic exploration strategies in audio-tactile sound–shape correspondences
 (2024) Journal of Experimental Child Psychology, 241, art. no. 105856, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184004115&doi=10.1016%2fj.jecp.2023.105856&partnerID=40&md5=d819b6d01522defd263019017b62530c
 
 DOI: 10.1016/j.jecp.2023.105856
+
+Pickford, J., Iosif, C.I., Bashir, Z.I., Apps, R.
+Inhibiting cholinergic signalling in the cerebellar interpositus nucleus impairs motor behaviour
+(2024) European Journal of Neuroscience, 59 (9), pp. 2208-2224. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165312853&doi=10.1111%2fejn.16066&partnerID=40&md5=5c43b57e933555db908eba7c39877e24
+
+DOI: 10.1111/ejn.16066
 
 Pitoy, M., Gauthier, L., Debatisse, J., Maulavé, J., Météreau, E., Beaudoin, M., Portier, K., Sgambato, V., Billard, T., Zimmer, L., Lancelot, S., Tremblay, L.
 SB-258585 reduces food motivation while blocking 5-HT6 receptors in the non-human primate striatum
@@ -109,6 +1042,76 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187985400&doi=10.1016%2fj.
 
 DOI: 10.1016/j.isci.2024.109259
 
+Chapman, K.E., Smith, M.T., Gaston, K.J., de Ibarra, N.H.
+Bumblebee nest departures under low light conditions at sunrise and sunset
+(2024) Biology Letters, 20 (4), art. no. 20230518, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190264084&doi=10.1098%2frsbl.2023.0518&partnerID=40&md5=af51e395301b4e1fcfce2f2fa2516334
+
+DOI: 10.1098/rsbl.2023.0518
+
+De Weerdt, J., Patulny, C., Pérez, N.R., Blanchet, L.
+Sightings of Bryde’s whale, Balaenoptera edeni, off the Pacific coast of Nicaragua
+(2024) Journal of the Marine Biological Association of the United Kingdom, 104, art. no. e40, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189947001&doi=10.1017%2fS0025315424000250&partnerID=40&md5=63ea647f834ea7e0a50ae8e595cff923
+
+DOI: 10.1017/S0025315424000250
+
+Bernátková, A., Oyunsaikhan, G., Šimek, J., Komárková, M., Ceacero, F.
+Social networks of reintroduced Przewalski's horses in the Great Gobi B Strictly Protected Area (Mongolia)
+(2024) Current Zoology, 70 (2), pp. 182-194. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193240361&doi=10.1093%2fcz%2fzoad011&partnerID=40&md5=a3eb716c25953ef47223664bc35b82c5
+
+DOI: 10.1093/cz/zoad011
+
+Davidson, I.K., Williams, B., Stratford, J.E., Chapuis, L., Simpson, S.D., Radford, A.N.
+Context-dependent multimodal behaviour in a coral reef fish
+(2024) Royal Society Open Science, 11 (5), art. no. 240151, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191957157&doi=10.1098%2frsos.240151&partnerID=40&md5=b88edc8cd341c31460c90bc370d2615b
+
+DOI: 10.1098/rsos.240151
+
+Hu, W., Liu, B., Xia, S., Ma, N., Wang, P., Lu, Y.
+Impact of Nutritional Supplements on the Fitness of the Parasitoid Binodoxys communis (Gahan)
+(2024) Insects, 15 (4), art. no. 245, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191756341&doi=10.3390%2finsects15040245&partnerID=40&md5=8ceb48c1cd89f86726912efa5ec47e10
+
+DOI: 10.3390/insects15040245
+
+Schork, I., Zamansky, A., Farhat, N., de Azevedo, C.S., Young, R.J.
+Automated Observations of Dogs’ Resting Behaviour Patterns Using Artificial Intelligence and Their Similarity to Behavioural Observations
+(2024) Animals, 14 (7), art. no. 1109, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190128907&doi=10.3390%2fani14071109&partnerID=40&md5=1ec8c3cb7492a7d9b791b560d7ebbb3b
+
+DOI: 10.3390/ani14071109
+
+Luna, D., Calderón-Amor, J., González, C., Byrd, C.J., Palomo, R., Huenul, E., Figueroa, J.
+The protective effect of social support: Can humans reassure pigs during stressful challenges through social learning?
+(2024) Applied Animal Behaviour Science, 273, art. no. 106221, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189013721&doi=10.1016%2fj.applanim.2024.106221&partnerID=40&md5=73df8f02c44fca2028998171a8fcf01c
+
+DOI: 10.1016/j.applanim.2024.106221
+
+Peng, H.-B., Chan, Y.-C., Huang, Y., Choi, C.-Y., Zhang, S.-D., Ren, S., Hassell, C.J., Zhu, Z., Melville, D.S., Ma, Z., Lei, G., Piersma, T.
+Intraseasonal movements between staging sites by migrating great knots: Longer distances to alternatives decrease the probability of such moves
+(2024) Biological Conservation, 292, art. no. 110547, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188990920&doi=10.1016%2fj.biocon.2024.110547&partnerID=40&md5=5d04aaeded36418f554aaa6a5ebfc3fb
+
+DOI: 10.1016/j.biocon.2024.110547
+
+Rankins, E.M., McKeever, K.H., Malinowski, K.
+Behavioral and physiological responses of horses to ground-based adaptive horsemanship lessons for veterans with post-traumatic stress disorder (PTSD)
+(2024) Journal of Equine Veterinary Science, 135, art. no. 105049, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188571589&doi=10.1016%2fj.jevs.2024.105049&partnerID=40&md5=2dacb8b7fafe1dfe45395b9c3d8b24ac
+
+DOI: 10.1016/j.jevs.2024.105049
+
+Stahl, A., Barnard, S., Diana, A., Udell, M.A.R., Croney, C.
+Attachment style and social behavior in dogs from commercial breeding kennels
+(2024) Applied Animal Behaviour Science, 273, art. no. 106238, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188542651&doi=10.1016%2fj.applanim.2024.106238&partnerID=40&md5=428cc71a693128bbf31d13780d166585
+
+DOI: 10.1016/j.applanim.2024.106238
+
 Bus, J.D., Boumans, I.J.M.M., Webb, L.E., Bokkers, E.A.M.
 A critical note on meal criteria in pigs: Which behaviours do they perform during feeder visit intervals?
 (2024) Applied Animal Behaviour Science, 273, art. no. 106219, . 
@@ -123,12 +1126,54 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187132242&doi=10.1002%2fmc
 
 DOI: 10.1002/mcf2.10282
 
+Magneville, C., Brissaud, C., Fleuré, V., Loiseau, N., Claverie, T., Villéger, S.
+A new framework for estimating abundance of animals using a network of cameras
+(2024) Limnology and Oceanography: Methods, 22 (4), pp. 268-280. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186873077&doi=10.1002%2flom3.10606&partnerID=40&md5=d8e2518198ffa6ae819601f80640c1b3
+
+DOI: 10.1002/lom3.10606
+
+Yang, Y., Narayan, E., Rey Planellas, S., Phillips, C.J.C., Zheng, L., Xu, B., Wang, L., Liu, Y., Sun, Y., Sagada, G., Shih, H.-Y., Shao, Q., Descovich, K.
+Effects of stocking density during simulated transport on physiology and behavior of largemouth bass (Micropterus salmoides)
+(2024) Journal of the World Aquaculture Society, 55 (2), art. no. e13054, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186206568&doi=10.1111%2fjwas.13054&partnerID=40&md5=f1aae9b0c76e0d17a85003d501a996d1
+
+DOI: 10.1111/jwas.13054
+
+He, Y., Ganguly, A., Lindgren, S., Quispe, L., Suvanto, C., Zhao, K., Candolin, U.
+Carry-over effect of artificial light at night on daytime mating activity in an ecologically important detritivore, the amphipod Gammarus pulex
+(2024) Journal of Experimental Biology, 227 (8), art. no. jeb246682, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185807143&doi=10.1242%2fjeb.246682&partnerID=40&md5=12a3da5379fbf6c149dfc659e94365c8
+
+DOI: 10.1242/jeb.246682
+
+Choi, N., Mathevon, N., Hebets, E.A., Beauchaud, M.
+Influence of ambient water coloration on habitat and conspecific choice in the female Lake Malawi cichlid, Metriaclima zebra
+(2024) Current Zoology, 70 (2), pp. 214-224. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185537160&doi=10.1093%2fcz%2fzoad015&partnerID=40&md5=f8237c4e7651c8396d9d623a4889bdef
+
+DOI: 10.1093/cz/zoad015
+
+Tillmann, J.F., Hsu, A.I., Schwarz, M.K., Yttri, E.A.
+A-SOiD, an active-learning platform for expert-guided, data-efficient discovery of behavior
+(2024) Nature Methods, 21 (4), pp. 703-711. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185488230&doi=10.1038%2fs41592-024-02200-1&partnerID=40&md5=2917308b951150fc13293c770613b2a1
+
+DOI: 10.1038/s41592-024-02200-1
+
 Krenger, M., Thevenot, C.
 The use of fingers in addition: A longitudinal study in children from preschool to kindergarten
 (2024) Cognitive Development, 70, art. no. 101431, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185250407&doi=10.1016%2fj.cogdev.2024.101431&partnerID=40&md5=e855573f108fba6c57c4b6da17113ef6
 
 DOI: 10.1016/j.cogdev.2024.101431
+
+Minakuchi, T., Guthman, E.M., Acharya, P., Hinson, J., Fleming, W., Witten, I.B., Oline, S.N., Falkner, A.L.
+Independent inhibitory control mechanisms for aggressive motivation and action
+(2024) Nature Neuroscience, 27 (4), pp. 702-715. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184931656&doi=10.1038%2fs41593-023-01563-6&partnerID=40&md5=9753221a4b72e12c0df4b62be38e35ba
+
+DOI: 10.1038/s41593-023-01563-6
 
 Navarro, J., Fernández, R.R., Aceña, V., Fernández-Isabel, A., Lancho, C., de Diego, I.M.
 Real-time classification of cattle behavior using Wireless Sensor Networks
@@ -143,6 +1188,76 @@ Melanocortin agonism in a social context selectively activates nucleus accumbens
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183195049&doi=10.1016%2fj.neuropharm.2024.109848&partnerID=40&md5=f26db07051630b30a041fdc92721fed3
 
 DOI: 10.1016/j.neuropharm.2024.109848
+
+Krüger, A.P., Garcez, A.M., Scheunemann, T., Nava, D.E., Garcia, F.R.M.
+Trichopria anastrephae as a Biological Control Agent of Drosophila suzukii in Strawberries
+(2024) Neotropical Entomology, 53 (2), pp. 216-224. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182187412&doi=10.1007%2fs13744-023-01113-6&partnerID=40&md5=f30cff9d21248594b153498cfe2d9712
+
+DOI: 10.1007/s13744-023-01113-6
+
+Goldsborough, Z., Crofoot, M.C., Barrett, B.J.
+Male-biased stone tool use by wild white-faced capuchins (Cebus capucinus imitator)
+(2024) American Journal of Primatology, 86 (4), art. no. e23594, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181909883&doi=10.1002%2fajp.23594&partnerID=40&md5=4ef412d5ef3bd1f8b9b261b8e6fa7df6
+
+DOI: 10.1002/ajp.23594
+
+Brant, R.A., Dunlap, A.S.
+From metropolis to wilderness: Uncovering pollen collecting behavior in urban and wild sweat bees (Halictus ligatus)
+(2024) Urban Ecosystems, 27 (2), pp. 563-575. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177567418&doi=10.1007%2fs11252-023-01466-1&partnerID=40&md5=177ef01508c0b3b87c7b54b4a1b77b21
+
+DOI: 10.1007/s11252-023-01466-1
+
+Bégué, L., Tschirren, N., Peignier, M., Szabo, B., Ringler, E.
+Behavioural consistency across metamorphosis in a neotropical poison frog
+(2024) Evolutionary Ecology, 38 (1-2), pp. 157-174. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174157692&doi=10.1007%2fs10682-023-10274-0&partnerID=40&md5=e5482304b5c623bbb7efd73bf756884a
+
+DOI: 10.1007/s10682-023-10274-0
+
+Neave, H.W., Jensen, E.H., Durrenwachter, M., Jensen, M.B.
+Behavioral responses of dairy cows and their calves to gradual or abrupt weaning and separation when managed in full- or part-time cow-calf contact systems
+(2024) Journal of Dairy Science, 107 (4), pp. 2297-2320. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174067282&doi=10.3168%2fjds.2023-24085&partnerID=40&md5=1908c3803cd3886fc8fe5e38bafa6d12
+
+DOI: 10.3168/jds.2023-24085
+
+Brooks, O.L., Talbott-Swain, E.N., Dugas, M.B.
+Food availability in the nursery affects parental food allocation but not tadpole begging performance in a frog with facultative parental care
+(2024) Evolutionary Ecology, 38 (1-2), pp. 103-119. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173914366&doi=10.1007%2fs10682-023-10265-1&partnerID=40&md5=d33f9c5c340e3b6d43ec3ff9e6a82812
+
+DOI: 10.1007/s10682-023-10265-1
+
+Klank, J., Protti-Sánchez, F., Mora-Rojas, P., Rowland, H.M., Stynoski, J.L.
+How to move and when to escape: quantifying intraspecific exploratory and anti-predator behavior in an aposematic poison frog
+(2024) Evolutionary Ecology, 38 (1-2), pp. 175-192. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172028527&doi=10.1007%2fs10682-023-10262-4&partnerID=40&md5=f7a6af67895242e1b6eaf81ba72370c2
+
+DOI: 10.1007/s10682-023-10262-4
+
+Schappe, M.S., Brinn, P.A., Joshi, N.R., Greenberg, R.S., Min, S., Alabi, A.A., Zhang, C., Liberles, S.D.
+A vagal reflex evoked by airway closure
+(2024) Nature, 627 (8005), pp. 830-838. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186908403&doi=10.1038%2fs41586-024-07144-2&partnerID=40&md5=7a78f913253e66ab29455a7dde001f23
+
+DOI: 10.1038/s41586-024-07144-2
+
+Hooper, R., Maher, K., Moore, K., McIvor, G., Hosken, D., Thornton, A.
+Ultimate drivers of forced extra-pair copulations in birds lacking a penis: Jackdaws as a case-study
+(2024) Royal Society Open Science, 11 (3), art. no. 231226, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189090628&doi=10.1098%2frsos.231226&partnerID=40&md5=3356df0ef1dce45fe0dfaa9504674381
+
+DOI: 10.1098/rsos.231226
+
+La Loggia, O., Wilson, A.J., Taborsky, B.
+Early social complexity influences social behaviour but not social trajectories in a cooperatively breeding cichlid fish
+(2024) Royal Society Open Science, 11 (3), art. no. 230740, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189072112&doi=10.1098%2frsos.230740&partnerID=40&md5=764263a8cb54f28f3d5f7b3a7b4412bb
+
+DOI: 10.1098/rsos.230740
 
 Bridges, A.D., Royka, A., Wilson, T., Lockwood, C., Richter, J., Juusola, M., Chittka, L.
 Bumblebees socially learn behaviour too complex to innovate alone
@@ -284,6 +1399,13 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180583414&doi=10.1016%2fj.
 
 DOI: 10.1016/j.appet.2023.107168
 
+Podturkin, A.A., Krebs, B.L., Watters, J.V.
+Quantifying animals' perception of environmental predictability using anticipatory behavior
+(2024) Zoo Biology, 43 (2), pp. 125-135. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179373319&doi=10.1002%2fzoo.21811&partnerID=40&md5=3d860d36861184dfcd2d3285408946f1
+
+DOI: 10.1002/zoo.21811
+
 Christofa, E., Ai, C., Deliali, A., Tainter, F., Cesic, L., Hannon, T., Kostopoulou, E.
 Bicyclist and Motorist Behavior at Bike Boxes
 (2024) Transportation Research Record, 2678 (3), pp. 235-251. 
@@ -298,12 +1420,26 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159927608&doi=10.1002%2faj
 
 DOI: 10.1002/ajpa.24759
 
+Cespedes-Gonzalez, A., Osuna-Mascaro, A.J., O’Hara, M., Roessler, T., Hanon, L., Auersperg, A.M.I.
+The Effect of Four Different Object Properties on Latency to Approach in Goffin’s Cockatoos (Cacatua goffiniana)
+(2024) Journal of Experimental Psychology: Animal Learning and Cognition, 50 (2), pp. 131-143. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189165726&doi=10.1037%2fxan0000373&partnerID=40&md5=831b159d4f3c0b90ce38837065df310c
+
+DOI: 10.1037/xan0000373
+
 Sauphar, C., Stolz, C., Tuene, S.A., Gansel, L.C., Aas, G.K.F.H.
 Atlantic salmon (Salmo salar) distribution and vertical size-stratification in a commercial sea cage: A case study
 (2024) Aquaculture, 581, art. no. 740356, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178144605&doi=10.1016%2fj.aquaculture.2023.740356&partnerID=40&md5=4150e13b0717fa852057ee5348c9cf5e
 
 DOI: 10.1016/j.aquaculture.2023.740356
+
+Harrington, K.J., Lambert, M.L.
+Object Play in Wild Striated Caracaras (Falconidae) [JUEGO CON OBJETOS EN INDIVIDUOS SILVESTRES DE PHALCOBOENUS AUSTRALIS (FALCONIDAE)]
+(2024) Journal of Raptor Research, 58 (2), pp. 212-220. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193709598&doi=10.3356%2fJRR-23-19&partnerID=40&md5=e7585b9cfa31a0a531eaa844ccf7d776
+
+DOI: 10.3356/JRR-23-19
 
 Pierce, A.F., Protter, D.S.W., Watanabe, Y.L., Chapel, G.D., Cameron, R.T., Donaldson, Z.R.
 Nucleus accumbens dopamine release reflects the selective nature of pair bonds
@@ -318,6 +1454,20 @@ Effects of reproductive status on behavioral and neural responses to isolated pu
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175058734&doi=10.1016%2fj.bbr.2023.114727&partnerID=40&md5=0d3f647662097453e38e6fb39fcae3fc
 
 DOI: 10.1016/j.bbr.2023.114727
+
+Podraza, M.E., Moss, J.B., Fischer, E.K.
+Evidence for individual vocal recognition in a pair-bonding poison frog, Ranitomeya imitator
+(2024) Journal of Experimental Biology, 227 (3), art. no. jeb246753, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192498643&doi=10.1242%2fjeb.246753&partnerID=40&md5=6508aa286b294d7548d219a127bba535
+
+DOI: 10.1242/jeb.246753
+
+Yan, J.L., Prebus, M.
+Variability of nest relocation behavior among acorn ant species
+(2024) Insectes Sociaux, 71 (1), pp. 49-60. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186173608&doi=10.1007%2fs00040-024-00950-x&partnerID=40&md5=b4e67144d6f69445ac5ab999934ac8fc
+
+DOI: 10.1007/s00040-024-00950-x
 
 Million, K.M., Proffit, M.R., Reese, S.J.
 Response to MHC-based olfactory cues in a mate choice context in two species of darter (Percidae: Etheostoma)
@@ -381,6 +1531,13 @@ Patient Outcomes After Peripheral Nerve Injury Depend on Bimanual Dexterity and 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183129941&doi=10.1177%2f15459683241227222&partnerID=40&md5=e18fb59ed812e4f0a09bb240e00d9834
 
 DOI: 10.1177/15459683241227222
+
+Gustison, M.L., Muñoz-Castañeda, R., Osten, P., Phelps, S.M.
+Sexual coordination in a whole-brain map of prairie vole pair bonding
+(2024) eLife, 12, art. no. RP87029, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182170422&doi=10.7554%2feLife.87029&partnerID=40&md5=653166dfb22c604c8f3f34f3903e0c79
+
+DOI: 10.7554/eLife.87029
 
 Jones, N.A.R., Gardella, G., Webster, M.M.
 Three-spined sticklebacks show dimension-specific preferences for shelter
@@ -480,12 +1637,299 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177043741&doi=10.1016%2fj.
 
 DOI: 10.1016/j.neuron.2023.10.002
 
-Goterris-Cerisuelo, R., Sanahuja-Irene, S., Sánchez-Catalán, M.J., Martínez-García, F.
-Adjusting and validating a procedure for parenteral anaesthesia in neonatal mice
-(2024) Laboratory Animals, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188330573&doi=10.1177%2f00236772231219821&partnerID=40&md5=50bc66dac6033683f69cd09b1aadd9ef
+Hassan, R., Schmidt, L.A.
+A dyadic investigation of shy children's behavioral and affective responses to delivering a speech
+(2024) Developmental Science, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201562636&doi=10.1111%2fdesc.13558&partnerID=40&md5=c223cf96c85111a87ea9e822952e7afc
 
-DOI: 10.1177/00236772231219821
+DOI: 10.1111/desc.13558
+
+Baum, M., Rössler, T., Osuna-Mascaró, A.J., Auersperg, A., Brock, O.
+Mechanical Problem Solving in Goffin’s Cockatoos—Towards Modeling Complex Behavior
+(2024) Adaptive Behavior, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201404285&doi=10.1177%2f10597123241270764&partnerID=40&md5=81471dba57531bc3fb5e6bfe4ebe3d0a
+
+DOI: 10.1177/10597123241270764
+
+Fu, X., Franchak, J.M., MacNeill, L.A., Gunther, K.E., Borjon, J.I., Yurkovic-Harding, J., Harding, S., Bradshaw, J., Pérez-Edgar, K.E.
+Implementing mobile eye tracking in psychological research: A practical guide
+(2024) Behavior Research Methods, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201314523&doi=10.3758%2fs13428-024-02473-6&partnerID=40&md5=eef1266e030a0c4982f73a4f65ec2f52
+
+DOI: 10.3758/s13428-024-02473-6
+
+Saeed, N., Alam, M., Nyberg, R.G.
+Automatic detection of loose gravel condition using acoustic observations
+(2024) Road Materials and Pavement Design, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201057525&doi=10.1080%2f14680629.2024.2389426&partnerID=40&md5=a15a4962353a47138fc6813b8fb33067
+
+DOI: 10.1080/14680629.2024.2389426
+
+Foster-Dyer, R.T.N., Goetz, K.T., Iwata, T., Holser, R.R., Michael, S.A., Pritchard, C., Childerhouse, S., Costa, D.P., Ainley, D.G., Pinkerton, M.H., LaRue, M.A.
+Prey targeted by lactating Weddell seals (Leptonychotes weddellii) in Erebus Bay, Antarctica
+(2024) Polar Biology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200968811&doi=10.1007%2fs00300-024-03294-1&partnerID=40&md5=e4db9f8da920188aee111aea65a450c1
+
+DOI: 10.1007/s00300-024-03294-1
+
+Ugarte, C.S., Saavedra, C., Simonetti, J.A.
+Olfactory repellents as perceptual traps for mesocarnivores immersed in livestock systems
+(2024) Perspectives in Ecology and Conservation, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200436374&doi=10.1016%2fj.pecon.2024.04.005&partnerID=40&md5=c8759ca1a505b6c54e514e0ffd10fd6f
+
+DOI: 10.1016/j.pecon.2024.04.005
+
+Jiang, Z., He, M., Young, C., Cai, J., Xu, Y., Jiang, Y., Li, H., Yang, M., Tong, Q.
+Dopaminergic Neurons in Zona Incerta Drives Appetitive Self-Grooming
+(2024) Advanced Science, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200203491&doi=10.1002%2fadvs.202308974&partnerID=40&md5=23fb33bef073392132971153e30e4542
+
+DOI: 10.1002/advs.202308974
+
+Zhao, Y., Liu, T., Han, X., Gui, H.
+Team Decision-making Interaction and Performance: A Behavioral Process-based Relationship Study
+(2024) Small Group Research, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200038958&doi=10.1177%2f10464964241265295&partnerID=40&md5=21c45d28a63219baea75a159a233b4f3
+
+DOI: 10.1177/10464964241265295
+
+Lynn, K., Ichinose, T., Tanimoto, H.
+Peer-induced quiescence of male Drosophila melanogaster following copulation
+(2024) Frontiers in Behavioral Neuroscience, 18, art. no. 1414029, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200004711&doi=10.3389%2ffnbeh.2024.1414029&partnerID=40&md5=87a0f52a8b2aaba290f2edbbfe52adf4
+
+DOI: 10.3389/fnbeh.2024.1414029
+
+Terrade, A., Prosnier, L., Vion, C., Locatelli, Y., Mathevon, N., Reby, D.
+High-frequency hearing sensitivity does not systematically imply aversion to ultrasounds in large terrestrial mammals
+(2024) Bioacoustics, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199569909&doi=10.1080%2f09524622.2024.2377552&partnerID=40&md5=4626a5f50a58cbfef6dedb5118cf557c
+
+DOI: 10.1080/09524622.2024.2377552
+
+Hellmann, J.K., Rogers, M.M.
+The transgenerational consequences of paternal social isolation and predation exposure in threespined sticklebacks
+(2024) Journal of Animal Ecology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199391128&doi=10.1111%2f1365-2656.14151&partnerID=40&md5=cb2cfee0903c8f39f9652d15a0055068
+
+DOI: 10.1111/1365-2656.14151
+
+Atijegbe, S.R., Ferguson, C.M., Rostás, M., Mansfield, S.
+Differences in foraging behaviour between Wiseana copularis (Meyrick) and W. cervinata (Walker) (Lepidoptera: Hepialidae) in exotic pastures
+(2024) New Zealand Entomologist, 47 (2), pp. 70-79. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199380369&doi=10.1080%2f00779962.2024.2378976&partnerID=40&md5=81f528c7875240de5c710f15cbf4deb8
+
+DOI: 10.1080/00779962.2024.2378976
+
+Yochum, N., Karlsen, J.D., Senko, J.F., Wang, J.H., Melli, V., Luca Geraci, M., Utne-Palm, A.C., Breen, M., Cuende, E., Bayse, S.M., Somerville, J., Hermann, A., Edridge, A., Mackenzie, E.K., Ljungberg, P., Chladek, J., Van Opstal, M., Watson, D., Lomeli, M.J.M., Oliver, M.
+Guidelines for Evaluating Artificial Light to Mitigate Unwanted Fisheries Bycatch
+(2024) Reviews in Fisheries Science and Aquaculture, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199004701&doi=10.1080%2f23308249.2024.2359417&partnerID=40&md5=3c2a7fdb74ac81108ea4d2e75929cf94
+
+DOI: 10.1080/23308249.2024.2359417
+
+Nomoto, K., Hashimoto, T., Nagasawa, M., Kikusui, T.
+Dog’s breath rhythm was drawn into owner’s breath rhythm
+(2024) Advanced Robotics, 38 (14), pp. 926-933. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198383891&doi=10.1080%2f01691864.2024.2369795&partnerID=40&md5=bb03fae8b8180f59b8e06988778782da
+
+DOI: 10.1080/01691864.2024.2369795
+
+Cigler, P., Davis, L.R., Gmür, S.-L., Clauss, M., Hatt, J.-M., Ohlerth, S., Mastromonaco, G., Kummrow, M.
+Evidence for seasonal shift in the reproduction of Aldabra giant tortoises (Aldabrachelys gigantea) in managed care in the Northern hemisphere compared to the natural habitat in the Southern hemisphere
+(2024) Zoo Biology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197794435&doi=10.1002%2fzoo.21851&partnerID=40&md5=169ead4405554486d03b0a863d5d67ce
+
+DOI: 10.1002/zoo.21851
+
+Abdul Rahman, N.A., Firtha, G., Szabadi, K.L., Jones, G., Zsebők, S.
+Mitigating the deceptive effects of smooth surfaces: subtle surface modifications can eliminate maladaptive drinking attempts by bats
+(2024) Animal Conservation, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197744808&doi=10.1111%2facv.12960&partnerID=40&md5=8ffa802d777e48375aa43b19f5537f1a
+
+DOI: 10.1111/acv.12960
+
+Kienle, S.S., Bonin, C.A., Gómez, G., Goebel, M.E., Donke, M., Sperou, E.S., Guerrero, A.I., Borras-Chavez, R.
+First paired observations of sexual behavior and calls in wild leopard seals
+(2024) Polar Biology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197683900&doi=10.1007%2fs00300-024-03275-4&partnerID=40&md5=f87abb8acd14ca15743afbf9ce55ace4
+
+DOI: 10.1007/s00300-024-03275-4
+
+Tan, I.Z., Matrai, E., Martelli, P.
+Monitoring the world-oldest zoo-housed male giant panda (Ailuropoda melanoleuca): A case-study on pathway utilization
+(2024) Zoo Biology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197490756&doi=10.1002%2fzoo.21853&partnerID=40&md5=c7006c1e607c8c0b8676d5b54ea8d1a5
+
+DOI: 10.1002/zoo.21853
+
+Rodriguez, G.B., Costa, T.M., Culot, L., Sobral, G.
+Fiddler crabs from highly disturbed beaches are more sensitive to human presence
+(2024) Anais da Academia Brasileira de Ciencias, 96 (3), art. no. e20230675, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197088037&doi=10.1590%2f0001-3765202420230675&partnerID=40&md5=686e82ba123284271ed907823182fe26
+
+DOI: 10.1590/0001-3765202420230675
+
+Qin, W., Yao, T., Meng, L., Li, B.
+Effects of mealybug and female body sizes on host examination and offspring developmental performances in the gregarious hyperparasitoid Cheiloneurus nankingensis
+(2024) BioControl, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196525524&doi=10.1007%2fs10526-024-10274-1&partnerID=40&md5=7dee24af9fe18e6933408b7687d31d03
+
+DOI: 10.1007/s10526-024-10274-1
+
+Aguiñaga, J., Jin, S., Pesati, I., Laskowski, K.L.
+Behavioral responses of a clonal fish to perceived predation risk
+(2024) PeerJ, 12 (6), art. no. e17547, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196484436&doi=10.7717%2fpeerj.17547&partnerID=40&md5=8d55ee2f578ebbcfd0a3a67206d3c12c
+
+DOI: 10.7717/peerj.17547
+
+Camilleri, M.P.J., Bains, R.S., Williams, C.K.I.
+Of Mice and Mates: Automated Classification and Modelling of Mouse Behaviour in Groups Using a Single Model Across Cages
+(2024) International Journal of Computer Vision, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196199318&doi=10.1007%2fs11263-024-02118-3&partnerID=40&md5=1fd5145f74620351d0327f6ca8469dad
+
+DOI: 10.1007/s11263-024-02118-3
+
+Aneja, P., Kinna, T., Newman, J., Sami, S., Cassidy, J., McCarthy, J., Tiwari, M., Kumar, A., Spencer, J.P.
+Leveraging technological advances to assess dyadic visual cognition during infancy in high- and low-resource settings
+(2024) Frontiers in Psychology, 15, art. no. 1376552, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195640095&doi=10.3389%2ffpsyg.2024.1376552&partnerID=40&md5=c140b1b6f99b514f956d46d4ad46c26e
+
+DOI: 10.3389/fpsyg.2024.1376552
+
+Bongiorno, V., Gariglio, M., Zambotto, V., Cappone, E.E., Biasato, I., Renna, M., Gasco, L., Bergagna, S., Manenti, I., Macchi, E., Gai, F., Schiavone, A.
+Organic medium-growing chickens fed live black soldier fly larvae: A welfare improvement study
+(2024) Journal of Animal Physiology and Animal Nutrition, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195580099&doi=10.1111%2fjpn.13997&partnerID=40&md5=5a8403fc1d94e33db5b9e372d1913dbe
+
+DOI: 10.1111/jpn.13997
+
+Sadanala, G., Xu, X., He, H., Beuno-Vesga, J., Li, S.
+Enhancing distance learning with virtual reality: investigating learners’ engagement and outcomes
+(2024) Distance Education, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195300274&doi=10.1080%2f01587919.2024.2351929&partnerID=40&md5=fe7e9fa5357ce0f287ee575004dfddff
+
+DOI: 10.1080/01587919.2024.2351929
+
+Moon, J., Yeo, S., Banihashem, S.K., Noroozi, O.
+Using multimodal learning analytics as a formative assessment tool: Exploring collaborative dynamics in mathematics teacher education
+(2024) Journal of Computer Assisted Learning, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195276360&doi=10.1111%2fjcal.13028&partnerID=40&md5=b8b587d2ae05315147225d65069755bd
+
+DOI: 10.1111/jcal.13028
+
+Leite, R., Costa, M.J., Mameri, D., Afonso, F., Pinheiro, A., Santos, J.M., Boavida, I.
+The hide-and-seek effect of pulsed-flows in a potamodromous cyprinid fish
+(2024) Hydrobiologia, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194822443&doi=10.1007%2fs10750-024-05575-6&partnerID=40&md5=3274e0dd7926fb163d6979dde3333145
+
+DOI: 10.1007/s10750-024-05575-6
+
+Chakraborty, P., Lamat, H., André, E.M., Fontanaud, P., Jeanneteau, F.
+Acquiring Social Safety Engages Oxytocin Neurons in the Supraoptic Nucleus: Role of Magel2 Deficiency
+(2024) Neuroendocrinology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194703795&doi=10.1159%2f000538437&partnerID=40&md5=84cb7188baf24961fdad6d91c4f27cc3
+
+DOI: 10.1159/000538437
+
+Martini, M., Cioli, T., Romig, T., Gagliardo, A., Giunchi, D., Zaccaroni, M., Massolo, A.
+Echinococcus multilocularis infection affects risk-taking behaviours in Microtus arvalis: adaptive manipulation?
+(2024) Parasitology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194143552&doi=10.1017%2fS0031182024000507&partnerID=40&md5=6b0c4efde737885890666c2336569f96
+
+DOI: 10.1017/S0031182024000507
+
+Pessman, B.J., Rae, R.J., Wagner, V., Mitra, C.
+House cricket males reared at different perceived acoustic population densities differ in adult behaviour but not physiology
+(2024) Ecological Entomology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194002687&doi=10.1111%2feen.13354&partnerID=40&md5=770d63f175ed1774ae97ce881c54e388
+
+DOI: 10.1111/een.13354
+
+Vesque-Annear, H., Sueur, C., Grandgeorge, M., Stachowiak, A., Pelé, M.
+Effect of a Cat’s Permanent Presence on the Health and Social Network of Older Adults With Alzheimer’s Disease or Disabilities in a Nursing Home
+(2024) Journal of Applied Gerontology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192527923&doi=10.1177%2f07334648241252002&partnerID=40&md5=251034376ebfaf9c8d209fce02c50c20
+
+DOI: 10.1177/07334648241252002
+
+Greppi, M., Bordin, C., Raspa, F., Maccone, E., Harris, P., Ellis, A.D., Cavallini, D., Bergero, D., Valle, E.
+Feeding behaviour related to different feeding devices
+(2024) Journal of Animal Physiology and Animal Nutrition, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192212644&doi=10.1111%2fjpn.13977&partnerID=40&md5=857b2f3fd8c494f478d43674849e51e7
+
+DOI: 10.1111/jpn.13977
+
+Falótico, T., Macedo, A.C., de Jesus, M.A., Espinola, T., Valença, T.
+Nut-cracking success and efficiency in two wild capuchin monkey populations
+(2024) Royal Society Open Science, 11 (6), art. no. 240161, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192184550&doi=10.1098%2frsos.240161&partnerID=40&md5=fce97d86cf86b2f1d21378a6a57a6859
+
+DOI: 10.1098/rsos.240161
+
+Knoll, M., Gygax, L., Hillmann, E.
+Sow serenity: Automatic long-Term measurement of lying behavior in crates and free-farrowing pens using 3D accelerometers
+(2024) Journal of Animal Science, 102, art. no. skae101, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191616795&doi=10.1093%2fjas%2fskae101&partnerID=40&md5=12d13f6000e5b3003217f3a3b2995c3b
+
+DOI: 10.1093/jas/skae101
+
+Bordin, C., Raspa, F., Greppi, M., Harris, P., Ellis, A.D., Roggero, A., Palestrini, C., Cavallini, D., Bergero, D., Valle, E.
+Pony feeding management: the role of morphology and hay feeding methods on intake rate, ingestive behaviors and mouth shaping
+(2024) Frontiers in Veterinary Science, 11, art. no. 1332207, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191312979&doi=10.3389%2ffvets.2024.1332207&partnerID=40&md5=9cdcd37013bd4a3d9971e9e809ed1a27
+
+DOI: 10.3389/fvets.2024.1332207
+
+Field, L., Hemsworth, L., Jongman, E., McGill, D., Verdon, M.
+Early-life contact with non-maternal adult cows and a pasture-based rearing environment influence behavioural responses of dairy heifers to novelty
+(2024) Animal Welfare, 33, art. no. e18, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191076749&doi=10.1017%2fawf.2024.20&partnerID=40&md5=be195f0f0be2598164ae97bb3835da98
+
+DOI: 10.1017/awf.2024.20
+
+Uenoyama, R., Zhu, W., Miura, M., Miyazaki, T., Miyazaki, M.
+Sprayed Urine Emits a Pungent Odor due to its Increased Adhesion to Vertical Objects via Urinary Proteins Rather Than to Changes in its Volatile Chemical Profile in Domestic Cats
+(2024) Journal of Chemical Ecology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189910644&doi=10.1007%2fs10886-024-01490-1&partnerID=40&md5=d1b856c7f9f5ecd37e16d624ed3d794a
+
+DOI: 10.1007/s10886-024-01490-1
+
+Duda, S.M., Themelin, M., Hirons, A.C., Dudzinski, K.M.
+Contact Exchanges in Bottlenose Dolphin Mother-Calf Pairs
+(2024) Aquatic Mammals, 50 (1), pp. 19-29. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189663590&doi=10.1578%2fAM.50.1.2024.19&partnerID=40&md5=a2dc0ef74181c23f4877b38436565151
+
+DOI: 10.1578/AM.50.1.2024.19
+
+Varet, F., Lenglin, V., Deplancke, A., Barbet, L., Delvaux, F., Wever, L.D., Maravat, C., Paulet, J., Privat, E., Pelé, M.
+Do Risk-Taking Cyclists Have Different Sociodemographic Characteristics? An Observational Study at Intersections in a French City
+(2024) Transportation Research Record, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189501598&doi=10.1177%2f03611981241236469&partnerID=40&md5=09792ac3b8bc4d8055b907b280184cea
+
+DOI: 10.1177/03611981241236469
+
+Whittaker, B.A., Balasubramanian, G., Camacho-Alpízar, A., Lambert, C.T., Guillette, L.M.
+The Roles of Social Information, Asocial Information, and Initial Bias in Nest-Building Decisions
+(2024) Journal of Comparative Psychology, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189177515&doi=10.1037%2fcom0000374&partnerID=40&md5=11375576b725b0338631599d063afce5
+
+DOI: 10.1037/com0000374
+
+Ringdahl, J.E., Schieltz, K.M., O’Brien, M.J., McComas, J.J., Morlino, R.M., Zabala-Snow, K.A., Unholz-Bowden, E.K., Girtler, S.N.
+Communication Modality Preference and the Social Validity of Functional Communication and Mand Training
+(2024) Journal of Developmental and Physical Disabilities, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189075388&doi=10.1007%2fs10882-024-09956-6&partnerID=40&md5=fcbf27a12b668a61849b75c4c89e0bf2
+
+DOI: 10.1007/s10882-024-09956-6
+
+Zippari, C., Nieri, R., Hamouche, Z., Boucherf, A., Tamburini, G., Anfora, G., Verrastro, V., Mazzoni, V., Cornara, D.
+Substrate-borne vibrations produced during the interaction with natural enemies alter aphids probing behavior
+(2024) Journal of Pest Science, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189013795&doi=10.1007%2fs10340-024-01761-6&partnerID=40&md5=fb97d4b783b295a61db1829c12258f47
+
+DOI: 10.1007/s10340-024-01761-6
 
 Jackson, M.V., Mott, R., Delean, S., Hunt, B.J., Brookes, J.D., Cassey, P., Prowse, T.A.A.
 Shorebird habitat selection and foraging behaviour have important implications for management at an internationally important non-breeding wetland
@@ -496,7 +1940,7 @@ DOI: 10.1002/2688-8319.12316
 
 Portalés, A., Sánchez-Aguilera, A., Royo, M., Jurado, S.
 Assessment of social behavior and chemosensory cue detection in an animal model of neurodegeneration
-(2024) Methods in Cell Biology, . 
+(2024) Methods in Cell Biology, 185, pp. 137-150. 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187993346&doi=10.1016%2fbs.mcb.2024.02.008&partnerID=40&md5=d2d4d820ee35d2c15e42a9d31acbf907
 
 DOI: 10.1016/bs.mcb.2024.02.008
@@ -515,20 +1959,6 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187207186&doi=10.1093%2fch
 
 DOI: 10.1093/chemse/bjae007
 
-Schappe, M.S., Brinn, P.A., Joshi, N.R., Greenberg, R.S., Min, S., Alabi, A.A., Zhang, C., Liberles, S.D.
-A vagal reflex evoked by airway closure
-(2024) Nature, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186908403&doi=10.1038%2fs41586-024-07144-2&partnerID=40&md5=7a78f913253e66ab29455a7dde001f23
-
-DOI: 10.1038/s41586-024-07144-2
-
-Magneville, C., Brissaud, C., Fleuré, V., Loiseau, N., Claverie, T., Villéger, S.
-A new framework for estimating abundance of animals using a network of cameras
-(2024) Limnology and Oceanography: Methods, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186873077&doi=10.1002%2flom3.10606&partnerID=40&md5=d8e2518198ffa6ae819601f80640c1b3
-
-DOI: 10.1002/lom3.10606
-
 Halavani, Z., Yeung, H.H., Cebioğlu, S., Broesch, T.
 Infant-directed communication in Tanna, Vanuatu and Vancouver, Canada
 (2024) Infant and Child Development, . 
@@ -536,33 +1966,12 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186447735&doi=10.1002%2fic
 
 DOI: 10.1002/icd.2498
 
-Richardson, B., Clarke, C., Blundell, J., Bambico, F.R.
-Therapeutic-like activity of cannabidiolic acid methyl ester in the MK-801 mouse model of schizophrenia: Role for cannabinoid CB1 and serotonin-1A receptors
-(2024) European Journal of Neuroscience, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186407047&doi=10.1111%2fejn.16278&partnerID=40&md5=190f92b997edb465cda988375d872009
-
-DOI: 10.1111/ejn.16278
-
 Drews, F.A., Martinello, R.A., Hebden, J.N., St. John, K.H., Pegues, D.A.
 Disinfection of central venous access device needleless connectors: A human factors analysis
 (2024) Infection Control and Hospital Epidemiology, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186243506&doi=10.1017%2fice.2024.22&partnerID=40&md5=02360d046e594da7707879f75567730b
 
 DOI: 10.1017/ice.2024.22
-
-Yang, Y., Narayan, E., Rey Planellas, S., Phillips, C.J.C., Zheng, L., Xu, B., Wang, L., Liu, Y., Sun, Y., Sagada, G., Shih, H.-Y., Shao, Q., Descovich, K.
-Effects of stocking density during simulated transport on physiology and behavior of largemouth bass (Micropterus salmoides)
-(2024) Journal of the World Aquaculture Society, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186206568&doi=10.1111%2fjwas.13054&partnerID=40&md5=f1aae9b0c76e0d17a85003d501a996d1
-
-DOI: 10.1111/jwas.13054
-
-Yan, J.L., Prebus, M.
-Variability of nest relocation behavior among acorn ant species
-(2024) Insectes Sociaux, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186173608&doi=10.1007%2fs00040-024-00950-x&partnerID=40&md5=b4e67144d6f69445ac5ab999934ac8fc
-
-DOI: 10.1007/s00040-024-00950-x
 
 Fuchs, P., Stachowicz, J., Schneider, M.K., Probo, M., Bruckmaier, R.M., Umstätter, C.
 Stress indicators in dairy cows adapting to virtual fencing
@@ -592,27 +2001,6 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185517576&doi=10.3389%2ffn
 
 DOI: 10.3389/fnins.2024.1293120
 
-Tillmann, J.F., Hsu, A.I., Schwarz, M.K., Yttri, E.A.
-A-SOiD, an active-learning platform for expert-guided, data-efficient discovery of behavior
-(2024) Nature Methods, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185488230&doi=10.1038%2fs41592-024-02200-1&partnerID=40&md5=2917308b951150fc13293c770613b2a1
-
-DOI: 10.1038/s41592-024-02200-1
-
-Aranda, D., Arce, E., Mercado-Silva, N., Burciaga, L.M.
-Aggressiveness overcomes body-size effects in contests between native and invasive cichlid fishes
-(2024) Ethology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185332630&doi=10.1111%2feth.13443&partnerID=40&md5=0073748cd8f0c8fbfbcc6ecd5d9521e3
-
-DOI: 10.1111/eth.13443
-
-Minakuchi, T., Guthman, E.M., Acharya, P., Hinson, J., Fleming, W., Witten, I.B., Oline, S.N., Falkner, A.L.
-Independent inhibitory control mechanisms for aggressive motivation and action
-(2024) Nature Neuroscience, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184931656&doi=10.1038%2fs41593-023-01563-6&partnerID=40&md5=9753221a4b72e12c0df4b62be38e35ba
-
-DOI: 10.1038/s41593-023-01563-6
-
 Siebert, F.W., Brambati, F., Silva, A.L., Randrianarisoa, J., Perego, P.
 Gender disparities in observed motorcycle helmet use in Madagascar: Female motorcyclists behave safer but have lower overall protection
 (2024) Injury Prevention, art. no. ip-2023-044995, . 
@@ -633,13 +2021,6 @@ Interactive effects of temperature and velocity on the feeding behavior of compe
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184226284&doi=10.3389%2ffevo.2024.1290083&partnerID=40&md5=29dd2b7baa8a3639c40088046e25c800
 
 DOI: 10.3389/fevo.2024.1290083
-
-Truppa, V., Gamba, M., Togliatto, R., Caselli, M., Zanoli, A., Palagi, E., Norscia, I.
-Manual preference, performance, and dexterity for bimanual grass-feeding behavior in wild geladas (Theropithecus gelada)
-(2024) American Journal of Primatology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184199655&doi=10.1002%2fajp.23602&partnerID=40&md5=b92470b94c1870617f86383b566eff9a
-
-DOI: 10.1002/ajp.23602
 
 Kuga, T., Kasuya, E.
 Factors related to sound production by the Chinese grasshopper Acrida cinerea during escape
@@ -690,26 +2071,12 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182464454&doi=10.1007%2fs0
 
 DOI: 10.1007/s00265-023-03426-3
 
-Krüger, A.P., Garcez, A.M., Scheunemann, T., Nava, D.E., Garcia, F.R.M.
-Trichopria anastrephae as a Biological Control Agent of Drosophila suzukii in Strawberries
-(2024) Neotropical Entomology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182187412&doi=10.1007%2fs13744-023-01113-6&partnerID=40&md5=f30cff9d21248594b153498cfe2d9712
-
-DOI: 10.1007/s13744-023-01113-6
-
 Varholick, J.A., Godinez, G., Jenkins, A., Mobin, S., Maden, M.
 Bite Wounds and Dominance Structures in Male and Female African Spiny Mice (Acomys cahirinus): Implications for Animal Welfare and the Generalizability of Experimental Results
 (2024) Animals, 14 (1), art. no. 64, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181926208&doi=10.3390%2fani14010064&partnerID=40&md5=0ac3f7fcfd76f03f2b7bf6e8ba5186ac
 
 DOI: 10.3390/ani14010064
-
-Goldsborough, Z., Crofoot, M.C., Barrett, B.J.
-Male-biased stone tool use by wild white-faced capuchins (Cebus capucinus imitator)
-(2024) American Journal of Primatology, 86 (4), art. no. e23594, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181909883&doi=10.1002%2fajp.23594&partnerID=40&md5=4ef412d5ef3bd1f8b9b261b8e6fa7df6
-
-DOI: 10.1002/ajp.23594
 
 Pereira, B.P., Neff, S., Borges, F.O., Otjacques, E., Barreto, G., Ranucci, M., Court, M., Rosa, R., Repolho, T., Paula, J.R.
 Transgenerational exposure to deoxygenation and warming disrupts mate detection in Gammarus locusta
@@ -731,13 +2098,6 @@ Predator-prey interactions: How thrips avoid predation
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181652229&doi=10.1016%2fj.biocontrol.2023.105437&partnerID=40&md5=b59655e2295280a8899810e6751e28de
 
 DOI: 10.1016/j.biocontrol.2023.105437
-
-Veselý, P., Nedvěd, O., Martin, B., Markéta, A., Alexandra, P., Fuchs, R.
-Responses of avian predators to the polymorphic harlequin ladybird (Harmonia axyridis)
-(2024) Ecological Entomology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181518987&doi=10.1111%2feen.13310&partnerID=40&md5=b617a31e4bc56b0ea16dd20f183b8d14
-
-DOI: 10.1111/een.13310
 
 Díaz, M.P., Kunc, H.P., Houghton, J.D.R.
 Anthropogenic noise predicts sea turtle behavioural responses
@@ -781,12 +2141,26 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85176108229&doi=10.1016%2fj.
 
 DOI: 10.1016/j.anbehav.2023.10.005
 
+Corner-Thomas, R.A., Shanks, R., Beausoleil, N.J.
+The influence of the number of lambs present on the suckling behaviour of triplet-rearing ewes at pasture
+(2024) New Zealand Journal of Agricultural Research, 67 (3), pp. 372-393. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175961865&doi=10.1080%2f00288233.2023.2277231&partnerID=40&md5=a46fc534080082faffcbe669b2d3af5f
+
+DOI: 10.1080/00288233.2023.2277231
+
 Carrilho, M., Monarca, R.I., Aparício, G., Mathias, M.D.L., Tapisso, J.T., von Merten, S.
 Physiological and behavioural adjustment of a wild rodent to laboratory conditions
 (2024) Physiology and Behavior, 273, art. no. 114385, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175309604&doi=10.1016%2fj.physbeh.2023.114385&partnerID=40&md5=5135049f51f75fa1b66d7359250059d2
 
 DOI: 10.1016/j.physbeh.2023.114385
+
+Roberts, J.J., Brunton, D.H., Clement, H., Harmer, A.M.T.
+Observations of chick feeding rates and parental defensive responses to disturbance at nests in the critically endangered New Zealand fairy tern/tara iti (Sternula nereis davisae)
+(2024) New Zealand Journal of Zoology, 51 (2), pp. 175-185. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174577571&doi=10.1080%2f03014223.2023.2256239&partnerID=40&md5=0f11e643b5d5a3c6cd619dd0331c3bb1
+
+DOI: 10.1080/03014223.2023.2256239
 
 Muñoz-Arroyo, S., Guerrero-Tortolero, D.A., Hernández-Olalde, L., Balart, E.F.
 Bidirectional sex-change behavior and physiological aspects in the Gorgeous goby Lythrypnus pulchellus (Gobiidae)
@@ -802,12 +2176,33 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85169671293&doi=10.1080%2f13
 
 DOI: 10.1080/1357650X.2023.2252567
 
+Diederich, K., Currin, F.H., Blasi, K., Schmidt, A.D., David, H., Peterman, K., Hourcade, J.P.
+Changing the dynamics of preschool children's social play with technology: evaluation of technology-based supports for tools of the mind style play
+(2024) Behaviour and Information Technology, 43 (8), pp. 1554-1579. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162245185&doi=10.1080%2f0144929X.2023.2221747&partnerID=40&md5=23f5785edf923d6e9d3032f940464f0b
+
+DOI: 10.1080/0144929X.2023.2221747
+
 Liu, Q., Zheng, X., Liu, Y., Wu, L., Zhang, S., Zhang, N., Wang, Q.
 Exploration of the characteristics of teachers' multimodal behaviours in problem-oriented teaching activities with different response levels
 (2024) British Journal of Educational Technology, 55 (1), pp. 181-207. 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85157972429&doi=10.1111%2fbjet.13332&partnerID=40&md5=382470e0f5fcf3e2b669edb8b3f9409b
 
 DOI: 10.1111/bjet.13332
+
+Bigiani, S., Pilenga, C.
+Using Anticipatory Behavior to Detect the Change in Interest in an Activity Repeated Several Times and Avoid Habituation in Bottlenose Dolphins (Tursiops Truncatus)
+(2024) Journal of Applied Animal Welfare Science, 27 (2), pp. 343-354. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153770531&doi=10.1080%2f10888705.2023.2203823&partnerID=40&md5=498c362656f73e3a2790d5905bff04d5
+
+DOI: 10.1080/10888705.2023.2203823
+
+Ke, F., Moon, J., Sokolikj, Z.
+Designing and deploying a virtual social sandbox for autistic children
+(2024) Disability and Rehabilitation: Assistive Technology, 19 (4), pp. 1178-1209. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144326558&doi=10.1080%2f17483107.2022.2156630&partnerID=40&md5=5c9a7b9518bfab0f5d4481c5e1b145d5
+
+DOI: 10.1080/17483107.2022.2156630
 
 Bigiani, S., Pilenga, C.
 A fast technique to induce and measure anticipatory behavior in bottlenose dolphins (Tursiops truncatus)
@@ -851,6 +2246,13 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179385657&doi=10.1016%2fj.
 
 DOI: 10.1016/j.isci.2023.108562
 
+Charles, A., Henaut, Y., Saint-Jalme, M., Mulot, B., Lecu, A., Delfour, F.
+Visual and acoustic exploratory behaviors toward novel stimuli in Antillean manatees (Trichechus manatus manatus) under human care.
+(2023) Journal of Comparative Psychology, 138 (2), pp. 118-129. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175065806&doi=10.1037%2fcom0000360&partnerID=40&md5=737fec6c000ca07e61357e8389d6f0d7
+
+DOI: 10.1037/com0000360
+
 Zewald, J.S., Auersperg, A.M.I.
 Dunking rusk: Innovative food soaking behaviour in Goffin's cockatoos (Cacatua goffiniana)
 (2023) Biology Letters, 19 (12), art. no. 20230411, . 
@@ -878,6 +2280,13 @@ Dogs' responses to remote interactions with humans: An Exploratory Analysis
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186696057&doi=10.1145%2f3637882.3637896&partnerID=40&md5=613a889b0f97e84ba7d92c36a6bfea1b
 
 DOI: 10.1145/3637882.3637896
+
+Mahendran, S.A., Wathes, D.C., Blackie, N., Booth, R.E.
+Calf Health, Feeding and Social Behaviours within Groups Fed on Automatic Milk Feeders
+(2023) Ruminants, 3 (4), pp. 266-285. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191069303&doi=10.3390%2fruminants3040025&partnerID=40&md5=7942f647e87859b8c9ad76cd899805af
+
+DOI: 10.3390/ruminants3040025
 
 Rodina, A.V., Zhirnik, A.S., Vysotskaya, O.V., Smirnova, O.D., Semochkina, Y.P., Ratushniak, M.G., Cheshigin, I.V., Moskaleva, E.Y.
 Cellular and Molecular Markers of Neuroinflammation and State of Cognitive Functions in a Delayed Period after Prolonged γ, n-Radiation of Mice at Low Doses
@@ -1803,6 +3212,13 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151462489&doi=10.1016%2fj.
 
 DOI: 10.1016/j.atech.2023.100228
 
+Bogese, M.J., Johnston, A.M., Byosiere, S.-E.
+Gaze in Cats (Felis catus) and Dogs (Canis lupus familiaris)
+(2023) Journal of Comparative Psychology, 138 (1), pp. 68-76. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183604380&doi=10.1037%2fcom0000359&partnerID=40&md5=c7badae1a49876487e3e488bb969d822
+
+DOI: 10.1037/com0000359
+
 Corona, A., Choe, J., Muñoz-Castañeda, R., Osten, P., Shea, S.D.
 A circuit from the locus coeruleus to the anterior cingulate cortex modulates offspring interactions in mice
 (2023) Cell Reports, 42 (7), art. no. 112771, . 
@@ -2209,6 +3625,13 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149814260&doi=10.1016%2fj.
 
 DOI: 10.1016/j.bbr.2023.114382
 
+Honorio, R., Moreau, S., Lécureuil, C., Meunier, J.
+Cadmium does not affect post-hatching maternal care or early offspring development in earwigs
+(2023) Behavioral Ecology, 34 (3), pp. 399-407. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184338749&doi=10.1093%2fbeheco%2farad011&partnerID=40&md5=0eef94e13ec38353b572f329a0e7eefc
+
+DOI: 10.1093/beheco/arad011
+
 Lalonde, C., Sreetharan, S., Murray, A., Stoa, L., Cybulski, M.E., Kennedy, A., Landry, N., Stillar, A., Khurana, S., Tharmalingam, S., Wilson, J., Khaper, N., Lees, S.J., Boreham, D., Tai, T.C.
 Absence of Depressive and Anxious Behavior with Genetic Dysregulation in Adult C57Bl/6J Mice after Prenatal Exposure to Ionizing Radiation
 (2023) International Journal of Molecular Sciences, 24 (10), art. no. 8466, . 
@@ -2495,6 +3918,13 @@ Flexible tool set transport in Goffin's cockatoos
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149679428&doi=10.1016%2fj.cub.2023.01.023&partnerID=40&md5=f4dddd6486f39c0568416378a941f150
 
 DOI: 10.1016/j.cub.2023.01.023
+
+Scali, S., Sacchi, R., Gozzo, E., Chiesa, S., Coladonato, A.J., Zuffi, M.A.L., Mangiacotti, M.
+The size of a smell: assessment of rival's relative size from femoral secretions in the common wall lizards, Podarcis muralis (Laurenti, 1768)
+(2023) Behavioral Ecology, 34 (2), pp. 306-313. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182803265&doi=10.1093%2fbeheco%2farac128&partnerID=40&md5=6e1f7a350a92d1ae18e9a467b418e33d
+
+DOI: 10.1093/beheco/arac128
 
 Meaux, E., He, C., Zeng, X., He, R., Jiang, A., Goodale, E.
 Audience effects in a group-living bird: How contact call rate is affected by vegetation and group size and composition
@@ -2881,6 +4311,33 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85145425429&doi=10.1073%2fpn
 
 DOI: 10.1073/pnas.2214418120
 
+Boulton, R.A., Hardy, I.C.W., Siva-Jothy, M.T., Ode, P.J.
+Mating Behaviour
+(2023) Jervis’s Insects as Natural Enemies: Practical Perspectives, pp. 295-355. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196473219&doi=10.1007%2f978-3-031-23880-2_4&partnerID=40&md5=59d6d946361f34adc67e66270e5602c8
+
+DOI: 10.1007/978-3-031-23880-2_4
+
+Friard, O., Gamba, M.
+BRIDGING THE GAP BETWEEN NON-VOCAL BEHAVIOURAL STUDIES AND BIOACOUSTICS USING BORIS
+(2023) Proceedings of Forum Acusticum, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191255933&partnerID=40&md5=f8b527c312737b4e412f4fe09147177f
+
+
+Dorneich, M.C., Gilbert, S., Francis, R.F., Talyat, M., Didic, E.
+Team Skill Metrics that Span Human-Human and Human-Agent Teams: An Initial Assessment
+(2023) Proceedings of the Human Factors and Ergonomics Society, 67 (1), pp. 123-130. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190951894&doi=10.1177%2f21695067231192892&partnerID=40&md5=e0621897f5ef8f876ee71252c4d99777
+
+DOI: 10.1177/21695067231192892
+
+Dissanayake, O., McPherson, S., Allyndree, J., Kennedy, E., Cunningham, P., Riaboff, L.
+Personalized Weighted AdaBoost for Animal Behavior Recognition from Sensor Data
+(2023) 2023 31st Irish Conference on Artificial Intelligence and Cognitive Science, AICS 2023, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189932746&doi=10.1109%2fAICS60730.2023.10470889&partnerID=40&md5=8a71090364e9a4a898be9d1da620f071
+
+DOI: 10.1109/AICS60730.2023.10470889
+
 Stoilova, V., Andreasson, P., Aldvén, D., Greenberg, L.
 Novel’Dancing Rods’ Behavioural Barrier for the Guidance of Juvenile Salmonids
 (2023) Proceedings of the IAHR World Congress, pp. 3142-3146. 
@@ -2888,19 +4345,18 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187686793&doi=10.3850%2f97
 
 DOI: 10.3850/978-90-833476-1-5_iahr40wc-p1481-cd
 
+Eckhardt, S., Bucher, A., Kalunder, M., Dolata, M., Agotai, D., Schwabe, G.
+Secondary Mental Models: Introducing Conversational Agents in Financial Advisory Service Encounters
+(2023) International Conference on Information Systems, ICIS 2023: "Rising like a Phoenix: Emerging from the Pandemic and Reshaping Human Endeavors with Digital Technologies", . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186252006&partnerID=40&md5=992acdcd45d07478b38f8a118c39fa4e
+
+
 Hood, K.E., Hurley, L.M.
 Listening to your partner: serotonin increases male responsiveness to female vocal signals in mice
 (2023) Frontiers in Human Neuroscience, 17, art. no. 1304653, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184258769&doi=10.3389%2ffnhum.2023.1304653&partnerID=40&md5=63a78c1c33be60323f9ce9fae3a7f807
 
 DOI: 10.3389/fnhum.2023.1304653
-
-Bogese, M.J., Johnston, A.M., Byosiere, S.-E.
-Gaze in Cats (Felis catus) and Dogs (Canis lupus familiaris)
-(2023) Journal of Comparative Psychology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183604380&doi=10.1037%2fcom0000359&partnerID=40&md5=c7badae1a49876487e3e488bb969d822
-
-DOI: 10.1037/com0000359
 
 Gali, O., Ercan, S.B., Atherton, G., Cross, L., Sayis, B., Heaton, P., Pares, N.
 Mediating Interpersonal Synchronization in Children through a Full-Body Mixed Reality System: Analysis of the Pre-Interactive Mandala Experience
@@ -2937,26 +4393,12 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180481513&doi=10.1186%2fs4
 
 DOI: 10.1186/s40104-023-00949-7
 
-Podturkin, A.A., Krebs, B.L., Watters, J.V.
-Quantifying animals' perception of environmental predictability using anticipatory behavior
-(2023) Zoo Biology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179373319&doi=10.1002%2fzoo.21811&partnerID=40&md5=3d860d36861184dfcd2d3285408946f1
-
-DOI: 10.1002/zoo.21811
-
 Wayne, C.R., Karam, A.M., McInnis, A.L., Arms, C.M., Kaller, M.D., Maruska, K.P.
 Impacts of repeated social defeat on behavior and the brain in a cichlid fish
 (2023) Journal of Experimental Biology, 226 (22), art. no. jeb246322, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179059873&doi=10.1242%2fjeb.246322&partnerID=40&md5=604375b0f12193a9540cd833533769a7
 
 DOI: 10.1242/jeb.246322
-
-Brant, R.A., Dunlap, A.S.
-From metropolis to wilderness: Uncovering pollen collecting behavior in urban and wild sweat bees (Halictus ligatus)
-(2024) Urban Ecosystems, 27 (2), pp. 563-575. 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177567418&doi=10.1007%2fs11252-023-01466-1&partnerID=40&md5=177ef01508c0b3b87c7b54b4a1b77b21
-
-DOI: 10.1007/s11252-023-01466-1
 
 Probst, A., Ringler, E., Szabo, B.
 Prey size preference in the tokay gecko (Gekko gecko)
@@ -2986,54 +4428,12 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85176212152&doi=10.1163%2f15
 
 DOI: 10.1163/1568539X-bja10248
 
-Corner-Thomas, R.A., Shanks, R., Beausoleil, N.J.
-The influence of the number of lambs present on the suckling behaviour of triplet-rearing ewes at pasture
-(2023) New Zealand Journal of Agricultural Research, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175961865&doi=10.1080%2f00288233.2023.2277231&partnerID=40&md5=a46fc534080082faffcbe669b2d3af5f
-
-DOI: 10.1080/00288233.2023.2277231
-
-Lloyd, E., Rastogi, A., Holtz, N., Aaronson, B., Craig Albertson, R., Keene, A.C.
-Ontogeny and social context regulate the circadian activity patterns of Lake Malawi cichlids
-(2023) Journal of Comparative Physiology B: Biochemical, Systemic, and Environmental Physiology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175376892&doi=10.1007%2fs00360-023-01523-3&partnerID=40&md5=f75168e6b9feeaa7f27f6fba2ad8f626
-
-DOI: 10.1007/s00360-023-01523-3
-
-Charles, A., Henaut, Y., Saint-Jalme, M., Mulot, B., Lecu, A., Delfour, F.
-Visual and Acoustic Exploratory Behaviors Toward Novel Stimuli in Antillean Manatees (Trichechus manatus manatus) Under Human Care
-(2023) Journal of Comparative Psychology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175065806&doi=10.1037%2fcom0000360&partnerID=40&md5=737fec6c000ca07e61357e8389d6f0d7
-
-DOI: 10.1037/com0000360
-
-Roberts, J.J., Brunton, D.H., Clement, H., Harmer, A.M.T.
-Observations of chick feeding rates and parental defensive responses to disturbance at nests in the critically endangered New Zealand fairy tern/tara iti (Sternula nereis davisae)
-(2023) New Zealand Journal of Zoology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174577571&doi=10.1080%2f03014223.2023.2256239&partnerID=40&md5=0f11e643b5d5a3c6cd619dd0331c3bb1
-
-DOI: 10.1080/03014223.2023.2256239
-
 Almansour, A., Montague, E., Furst, J., Raicu, D.
 Evaluation of Eye Gaze Dynamics During Physician-Patient-Computer Interaction in Federally Qualified Health Centers: Systematic Analysis
 (2023) JMIR Human Factors, 10 (1), art. no. e46120, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174499765&doi=10.2196%2f46120&partnerID=40&md5=6e7ea82184c51e337698bee9357aa8a2
 
 DOI: 10.2196/46120
-
-Bégué, L., Tschirren, N., Peignier, M., Szabo, B., Ringler, E.
-Behavioural consistency across metamorphosis in a neotropical poison frog
-(2023) Evolutionary Ecology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174157692&doi=10.1007%2fs10682-023-10274-0&partnerID=40&md5=e5482304b5c623bbb7efd73bf756884a
-
-DOI: 10.1007/s10682-023-10274-0
-
-Brooks, O.L., Talbott-Swain, E.N., Dugas, M.B.
-Food availability in the nursery affects parental food allocation but not tadpole begging performance in a frog with facultative parental care
-(2023) Evolutionary Ecology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173914366&doi=10.1007%2fs10682-023-10265-1&partnerID=40&md5=d33f9c5c340e3b6d43ec3ff9e6a82812
-
-DOI: 10.1007/s10682-023-10265-1
 
 Takenawa, S., Nagasawa, Y., Go, K., Chérasse, Y., Mizuno, S., Sano, K., Ogawa, S.
 Activity of estrogen receptor β expressing neurons in the medial amygdala regulates preference toward receptive females in male mice
@@ -3055,13 +4455,6 @@ CELLULAR AND MOLECULAR MARKERS OF NEUROINFLAMMATION AND STATE OF COGNITIVE FUNCT
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173518768&doi=10.21687%2f0233-528X-2023-57-1-34-43&partnerID=40&md5=e6d38b1d2d8ed7251bff54b85c154849
 
 DOI: 10.21687/0233-528X-2023-57-1-34-43
-
-Klank, J., Protti-Sánchez, F., Mora-Rojas, P., Rowland, H.M., Stynoski, J.L.
-How to move and when to escape: quantifying intraspecific exploratory and anti-predator behavior in an aposematic poison frog
-(2023) Evolutionary Ecology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172028527&doi=10.1007%2fs10682-023-10262-4&partnerID=40&md5=f7a6af67895242e1b6eaf81ba72370c2
-
-DOI: 10.1007/s10682-023-10262-4
 
 Fleitz, J., Enstipp, M.R., Parent, E., Jumeau, J., Handrich, Y., Tissier, M.L.
 Improving the success of reinforcement programs: effects of a two-week confinement in a field enclosure on the anti-predator behaviour of captive-bred European hamsters
@@ -3140,20 +4533,6 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165595796&doi=10.3389%2ffa
 
 DOI: 10.3389/fanim.2023.1208768
 
-Hernández-Méndez, J.C., Gracia-Garrido, S., Hudson, R., Rosetti, M.F.
-Correlates of recreational risk-taking behavior: A comparison between the Tower Building Task and two self-report measures
-(2023) Adaptive Behavior, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165588252&doi=10.1177%2f10597123231189515&partnerID=40&md5=cc14833ff15f989e7bae8b204788d5c2
-
-DOI: 10.1177/10597123231189515
-
-Pickford, J., Iosif, C.I., Bashir, Z.I., Apps, R.
-Inhibiting cholinergic signalling in the cerebellar interpositus nucleus impairs motor behaviour
-(2023) European Journal of Neuroscience, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165312853&doi=10.1111%2fejn.16066&partnerID=40&md5=5c43b57e933555db908eba7c39877e24
-
-DOI: 10.1111/ejn.16066
-
 Boyle, K.A., Polgar, E., Gutierrez-Mecinas, M., Dickie, A.C., Cooper, A.H., Bell, A.M., Jumolea, E., Casas-Benito, A., Watanabe, M., Hughes, D.I., Weir, G.A., Riddell, J.S., Todd, A.J.
 Neuropeptide Y-expressing dorsal horn inhibitory interneurons gate spinal pain and itch signalling
 (2023) eLife, 12, art. no. RP86633, . 
@@ -3167,13 +4546,6 @@ Mating-induced prolactin surge is not required for subsequent neurogenesis in ma
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165209101&doi=10.3389%2ffnbeh.2023.1227726&partnerID=40&md5=6f9c267e724bc8b10d92a2689dece04c
 
 DOI: 10.3389/fnbeh.2023.1227726
-
-Pisula, E., Pisula, W.
-Back to Actual Behavior – A Modest Proposal on the Example of Exploratory Behavior in Children on the Autism Spectrum
-(2023) Integrative Psychological and Behavioral Science, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165089736&doi=10.1007%2fs12124-023-09763-2&partnerID=40&md5=4bc3234a50d6a70a865981909d1478df
-
-DOI: 10.1007/s12124-023-09763-2
 
 Probert, R., Gullan, A., Rocha, D., Dines, S., Gridley, T.
 Evidence of signature whistles produced by Indian Ocean bottlenose dolphins (Tursiops aduncus) in Mozambique
@@ -3203,13 +4575,6 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163937866&doi=10.1071%2fZO
 
 DOI: 10.1071/ZO22028
 
-Diederich, K., Currin, F.H., Blasi, K., Schmidt, A.D., David, H., Peterman, K., Hourcade, J.P.
-Changing the dynamics of preschool children's social play with technology: evaluation of technology-based supports for tools of the mind style play
-(2023) Behaviour and Information Technology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162245185&doi=10.1080%2f0144929X.2023.2221747&partnerID=40&md5=23f5785edf923d6e9d3032f940464f0b
-
-DOI: 10.1080/0144929X.2023.2221747
-
 Senthilkumar, S., Maiya, K., Jain, N.K., Mata, S., Mangaonkar, S., Prabhu, P., Rai, K.S., Kutty, B.M., Dhanushkodi, A.
 Reversal of Neuropsychiatric Comorbidities in an Animal Model of Temporal Lobe Epilepsy Following Systemic Administration of Dental Pulp Stem Cells and Bone Marrow Mesenchymal Stem Cells
 (2023) Current Gene Therapy, 23 (3), pp. 198-214. 
@@ -3224,19 +4589,19 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160712015&doi=10.1163%2f15
 
 DOI: 10.1163/1568539X-bja10221
 
+Ejbye-Ernst, P.
+Does Third-Party Intervention Matter? A Video-Based Analysis of the Effect of Third-Party Intervention on the Continuation of Interpersonal Conflict Behaviour
+(2023) British Journal of Criminology, 63 (1), pp. 78-96. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160666754&doi=10.1093%2fbjc%2fazab121&partnerID=40&md5=95f64222bb9b8250c91d8e0f5d2a8a3a
+
+DOI: 10.1093/bjc/azab121
+
 Kim, K.J., Schlotman, T., Newby, N., McGrath, T., Vu, L., Marshall-Goebel, K., Abercromby, A., Somers, J.
 Development of an Inertial Sensor-Based Methodology for Spacesuited Lunar Geology Task Assessments
 (2023) IEEE Aerospace Conference Proceedings, 2023-March, . 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160530043&doi=10.1109%2fAERO55745.2023.10115617&partnerID=40&md5=eab74ec74307382c9b5464d2e436bfef
 
 DOI: 10.1109/AERO55745.2023.10115617
-
-Moon, J., Ke, F.
-Effects of Adaptive Prompts in Virtual Reality-Based Social Skills Training for Children with Autism
-(2023) Journal of Autism and Developmental Disorders, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160440079&doi=10.1007%2fs10803-023-06021-7&partnerID=40&md5=d3c727046644d1513bc49f8eb938cc7e
-
-DOI: 10.1007/s10803-023-06021-7
 
 Morris, P.O., Hope, E., Foulsham, T., Mills, J.P.
 Exploring the use of a dance-based exergame to enhance autistic children’s social communication skills in the home and school environments: a feasibility study
@@ -3272,13 +4637,6 @@ SCUBA noise alters community structure and cooperation at Pederson’s cleaner s
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85158840327&doi=10.3389%2ffmars.2023.1058414&partnerID=40&md5=be8cb136aff75aaa3d0f1d38a43a7cb6
 
 DOI: 10.3389/fmars.2023.1058414
-
-Bigiani, S., Pilenga, C.
-Using Anticipatory Behavior to Detect the Change in Interest in an Activity Repeated Several Times and Avoid Habituation in Bottlenose Dolphins (Tursiops Truncatus)
-(2024) Journal of Applied Animal Welfare Science, 27 (2), pp. 343-354. 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153770531&doi=10.1080%2f10888705.2023.2203823&partnerID=40&md5=498c362656f73e3a2790d5905bff04d5
-
-DOI: 10.1080/10888705.2023.2203823
 
 Brand, J.A., Henry, J., Melo, G.C., Wlodkowic, D., Wong, B.B.M., Martin, J.M.
 Sex differences in the predictability of risktaking behavior
@@ -4036,13 +5394,6 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142882562&doi=10.1002%2fec
 
 DOI: 10.1002/ece3.9492
 
-Sottolano, C.J., Revaitis, N.T., Geneva, A.J., Yakoby, N.
-Nebulous without white: annotated long-read genome assembly and CRISPR/Cas9 genome engineering in Drosophila nebulosa
-(2022) G3: Genes, Genomes, Genetics, 12 (11), art. no. jkac231, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142857433&doi=10.1093%2fg3journal%2fjkac231%2bD119&partnerID=40&md5=2e53f9a3dac0f0759b8bb2cd46eda613
-
-DOI: 10.1093/g3journal/jkac231+D119
-
 Powell, J.M., Garvin, M.M., Lee, N.S., Kelly, A.M.
 Behavioral trajectories of aging prairie voles (Microtus ochrogaster): Adapting behavior to social context wanes with advanced age
 (2022) PLoS ONE, 17 (11 November), art. no. e0276897, . 
@@ -4301,6 +5652,20 @@ van Biemen, T., van Zanten, T.F., Savelsbergh, G.J.P., Mann, D.L.
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135050892&doi=10.1016%2fj.humov.2022.102980&partnerID=40&md5=6ddcc965c1fe1f45a54c0e85f56d16f9
 
 DOI: 10.1016/j.humov.2022.102980
+
+Hardin, A., Schlupp, I.
+Using machine learning and DeepLabCut in animal behavior
+(2022) Acta Ethologica, 25 (3), pp. 125-133. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134496289&doi=10.1007%2fs10211-022-00397-y&partnerID=40&md5=1f6a445b521d4a57f82f183d1b684467
+
+DOI: 10.1007/s10211-022-00397-y
+
+Naundrup, A., Bohman, B., Kwadha, C.A., Jensen, A.B., Becher, P.G., De Fine Licht, H.H.
+Pathogenic fungus uses volatiles to entice male flies into fatal matings with infected female cadavers
+(2022) ISME Journal, 16 (10), pp. 2388-2397. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134329837&doi=10.1038%2fs41396-022-01284-x&partnerID=40&md5=befadaae00f362ab6c63a4d6bcfc32e9
+
+DOI: 10.1038/s41396-022-01284-x
 
 Dong, B., Liu, J.-X., Quan, R.-C., Chen, Z.
 Mirror image stimulation could reverse social-isolation-induced aggressiveness in the high-level subsocial lactating spider
@@ -4561,6 +5926,13 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132998065&doi=10.1016%2fj.
 
 DOI: 10.1016/j.biopha.2022.113333
 
+Kozlovsky, D.Y., Poirier, M.-A., Hermer, E., Bertram, S.M., Morand-Ferron, J.
+Texas field crickets (Gryllus texensis) use visual cues to place learn but perform poorly when intra- and extra-maze cues conflict
+(2022) Learning and Behavior, 50 (3), pp. 306-316. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131521358&doi=10.3758%2fs13420-022-00532-6&partnerID=40&md5=7293dce600243ecac030ecba064087f5
+
+DOI: 10.3758/s13420-022-00532-6
+
 Costi, E., Di Bella, E., Iotti, D., Maistrello, L.
 Biocontrol implications of multiparasitism by Trissolcus mitsukurii and Trissolcus japonicus on the invasive brown marmorated stink bug
 (2022) Entomologia Experimentalis et Applicata, 170 (9), pp. 772-781. 
@@ -4574,6 +5946,13 @@ Using weighted communication scoring procedures in naturalistic play samples: Pr
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127587577&doi=10.1002%2faur.2724&partnerID=40&md5=0699ccc40e2dfea2d6231761373bb363
 
 DOI: 10.1002/aur.2724
+
+Ejbye-Ernst, P., Lindegaard, M.R., Bernasco, W.
+Third Parties Mirror the Aggression of the Antagonists: A Video-Based Analysis of Third-Party Aggression in Interpersonal Conflicts
+(2022) Journal of Interpersonal Violence, 37 (17-18), pp. NP15899-NP15924. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107981348&doi=10.1177%2f08862605211023503&partnerID=40&md5=db9fb24278355c31f0c3e9e54525ad23
+
+DOI: 10.1177/08862605211023503
 
 Ejbye-Ernst, P., Lindegaard, M.R., Bernasco, W.
 A CCTV-based analysis of target selection by guardians intervening in interpersonal conflicts
@@ -5730,6 +7109,13 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123171633&doi=10.3389%2ffm
 
 DOI: 10.3389/fmars.2021.791185
 
+Levickis, P., Conway, L., Smith, J., Bennetts, S.
+Parent–Child Interaction and Its Impact on Language Development
+(2022) Language Development: Individual Differences in a Social Context, pp. 166-192. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165022249&doi=10.1017%2f9781108643719.010&partnerID=40&md5=cfbe52da8bf71e54de0eb8978f06421e
+
+DOI: 10.1017/9781108643719.010
+
 Bhattacharya, A., Butail, S.
 Designing a Virtual Reality Testbed for Direct Human-Swarm Interaction in Aquatic Species Monitoring
 (2022) IFAC-PapersOnLine, 55 (37), pp. 295-301. 
@@ -5743,13 +7129,6 @@ Early-life heat stress exposure impacts dairy calf feeding and thermoregulatory 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144339178&doi=10.3168%2fjdsc.2021-0110&partnerID=40&md5=e35ea6c6368f0000823a7eaecd29096e
 
 DOI: 10.3168/jdsc.2021-0110
-
-Ke, F., Moon, J., Sokolikj, Z.
-Designing and deploying a virtual social sandbox for autistic children
-(2022) Disability and Rehabilitation: Assistive Technology, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144326558&doi=10.1080%2f17483107.2022.2156630&partnerID=40&md5=5c9a7b9518bfab0f5d4481c5e1b145d5
-
-DOI: 10.1080/17483107.2022.2156630
 
 Kohno, S., Ogawa, S., Shimmura, T., Sato, K., Tokutake, Y.
 Myeloperoxidase expression in diencephalon is potentially associated with fear-related behavior in chicks of laying hen
@@ -5799,20 +7178,6 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134733979&doi=10.23919%2fi
 
 DOI: 10.23919/iLRN55037.2022.9815999
 
-Hardin, A., Schlupp, I.
-Using machine learning and DeepLabCut in animal behavior
-(2022) Acta Ethologica, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134496289&doi=10.1007%2fs10211-022-00397-y&partnerID=40&md5=1f6a445b521d4a57f82f183d1b684467
-
-DOI: 10.1007/s10211-022-00397-y
-
-Naundrup, A., Bohman, B., Kwadha, C.A., Jensen, A.B., Becher, P.G., De Fine Licht, H.H.
-Pathogenic fungus uses volatiles to entice male flies into fatal matings with infected female cadavers
-(2022) ISME Journal, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134329837&doi=10.1038%2fs41396-022-01284-x&partnerID=40&md5=befadaae00f362ab6c63a4d6bcfc32e9
-
-DOI: 10.1038/s41396-022-01284-x
-
 Walter, L.A., Viverette, C., Bulluck, L.
 Parental care in a sexually monomorphic Picid, the Red-headed Woodpecker [Cuidado parental un ave sexualmente monomórfica, el carpintero de cabeza roja]
 (2022) Journal of Field Ornithology, 93 (2), art. no. 3, . 
@@ -5847,13 +7212,6 @@ Threats at home? Assessing the potential ecological impacts and risks of commonl
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132713315&doi=10.3897%2fNEOBIOTA.73.80542&partnerID=40&md5=f8732cf3ff3e1353f2e07aacc333818f
 
 DOI: 10.3897/NEOBIOTA.73.80542
-
-Kozlovsky, D.Y., Poirier, M.-A., Hermer, E., Bertram, S.M., Morand-Ferron, J.
-Texas field crickets (Gryllus texensis) use visual cues to place learn but perform poorly when intra- and extra-maze cues conflict
-(2022) Learning and Behavior, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131521358&doi=10.3758%2fs13420-022-00532-6&partnerID=40&md5=7293dce600243ecac030ecba064087f5
-
-DOI: 10.3758/s13420-022-00532-6
 
 Kelly, A.M., Abreu, J.A.G., Thompson, R.R.
 Beyond sex and aggression: Testosterone rapidly matches behavioural responses to social context and tries to predict the future
@@ -7836,6 +9194,13 @@ https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099723901&doi=10.3389%2ffv
 
 DOI: 10.3389/fvets.2020.607632
 
+Guo, H., Yao, B., Wang, C., Cai, Z., Tan, Y., Zhang, Q., Yang, J., Su, J.
+Anti-predator behavior in response to weasel odor in plateau zokor [黄鼬气味对高原鼢鼠行为的影响]
+(2021) Pratacultural Science, 38 (1), pp. 183-191. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196096592&doi=10.11829%2fj.issn.1001-0629.2020-0069&partnerID=40&md5=f52ed8b05675ed4a83e3dbe3e837f999
+
+DOI: 10.11829/j.issn.1001-0629.2020-0069
+
 Espinosa, J., Dong, L., Buchsbaum, D.
 Domestic dogs’ gaze and behaviour in 2-alternative choice tasks
 (2021) Proceedings of the 43rd Annual Meeting of the Cognitive Science Society: Comparative Cognition: Animal Minds, CogSci 2021, pp. 2616-2622. 
@@ -7945,13 +9310,6 @@ Inside out: Heart rate monitoring to advance the welfare and conservation of man
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85111925317&doi=10.1093%2fconphys%2fcoab044&partnerID=40&md5=db9f666545a2911a675eff9ea2383b87
 
 DOI: 10.1093/conphys/coab044
-
-Ejbye-Ernst, P., Lindegaard, M.R., Bernasco, W.
-Third Parties Mirror the Aggression of the Antagonists: A Video-Based Analysis of Third-Party Aggression in Interpersonal Conflicts
-(2021) Journal of Interpersonal Violence, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107981348&doi=10.1177%2f08862605211023503&partnerID=40&md5=db9fb24278355c31f0c3e9e54525ad23
-
-DOI: 10.1177/08862605211023503
 
 Humphreys, R.K., Ruxton, G.D., Karley, A.J.
 Drop when the stakes are high: Adaptive, flexible use of dropping behaviour by aphids
@@ -9296,6 +10654,13 @@ Protocol for Measuring Free (Low-stress) Exploration in Rats
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103824491&doi=10.21769%2fBioProtoc.3485&partnerID=40&md5=4a1bc6fa7847fa0f39e72e302f58590b
 
 DOI: 10.21769/BioProtoc.3485
+
+Carriero, A.E., Crabtree, K.W., Cooper, J.M., Leonard, B.
+Rider Trust and the Role of the Operator in Automated Shuttles
+(2020) Proceedings of the Human Factors and Ergonomics Society, 64 (1), pp. 1160-1164. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199419982&doi=10.1177%2f1071181320641277&partnerID=40&md5=38abe59ad18470ae92ef01418eb77ab5
+
+DOI: 10.1177/1071181320641277
 
 Vossen, L.E., Roman, E., Jansson, A.
 Fasting increases shelter use in house crickets (Acheta domesticus)
@@ -10991,4 +12356,3 @@ Opposite-sex attraction in male mice requires testosterone-dependent regulation 
 https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992618489&doi=10.1038%2fsrep36063&partnerID=40&md5=f1203e2e7c8441db6577de774a87d79d
 
 DOI: 10.1038/srep36063
-

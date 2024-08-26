@@ -29,7 +29,7 @@ A chat platform for BORIS users is available on [Gitter](https://app.gitter.im/#
 # Citing litterature
 
 
--   [Citations on Scopus](citations.md) ({{ boris.citations_number }} citations at \#\#\#CITATIONS\_DATE\#\#\#)
+-   [Citations on Scopus](citations.md) ({{ boris.citations_number }} citations at {{ boris.citations_date }})
 -   [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=15449571356090273018&scipsc=&q=&scisbd=1)
 
 # Development
