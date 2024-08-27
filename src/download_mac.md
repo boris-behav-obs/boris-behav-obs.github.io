@@ -21,10 +21,15 @@ Please acknowledge and cite the use of this software and its authors when result
 
 **BORIS v.{{ boris.version }} is not yet available for MacOS.**
 
-
+<!--
 This situation is not due to the very restrictive Apple's policy, as described in the article "[Sideloading is a best cybercriminal's best friend](https://arstechnica.com/gadgets/2021/11/apples-federighi-delivers-dramatic-speech-on-dangers-of-sideloading/)", but rather due to a technical issue.
+-->
+
+This situation is not due to the very restrictive Apple's policy, but rather due to a technical issue.
+
 After switching to mpv (previously, the VLC media player was used until version 8), I have been unable to obtain a functioning libmpv library in order to run BORIS on MacOS.
 The fact of not having access to a physical computer with macOS, but only to virtual machines, makes solving the problem more difficult.
+All contributions for compiling and using this library are welcome.
 
 
 If you want to run v.{{ boris.version }} on your MacOS you have various possibilities:
@@ -60,3 +65,8 @@ If you want to run v.{{ boris.version }} on your MacOS you have various possibil
 
 
 {% include 'revision_history.md' %}
+
+
+The last version of BORIS that is running natively on MacOS is [7.13.9](https://github.com/olivierfriard/BORIS/releases/tag/v7.13.9).
+This version is 2 years old and is no longer maintained. [Many bugs were fixed](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8) and [features were added](version8.md) in the current version.
+Please note that issues will only be accepted if you are using the latest version.

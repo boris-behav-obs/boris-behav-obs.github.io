@@ -16,11 +16,15 @@ Please report any bug you will find in the **latest** BORIS version using the [G
 
 Prior to report a bug please:
 
+* Verify the integrity of your BORIS project: **Project** > **Check project integrity**
+
+* Delete the configuration file and try again (see [configuration file](http://www.boris.unito.it/user_guide/various/#configuration-files)).
+
 * Check the [Frequent Asked Question](faq.md) section.
 
 * Check if the issue was not already reported ([GitHub repository](https://github.com/olivierfriard/BORIS/issues).
 
-* Delete the configuration file and try again (see [configuration file](http://www.boris.unito.it/user_guide/various/#configuration-files)).
+
 
 
 **Remember to indicate**:
@@ -57,4 +61,4 @@ MacOS:
 
 If the bug is fixed remember to close the issue.
 
-If you find BORIS useful you can give  a star to the [BORIS GitHub repository](https://github.com/olivierfriard/BORIS).
+If you find BORIS useful you can give a star to the [BORIS GitHub repository](https://github.com/olivierfriard/BORIS).
