@@ -1,10 +1,17 @@
 # justfile for the management of the BORIS web site
 
+simple_build:
+    rye run mkdocs build    
+
+simple_build_push: simple_build
+    git add docs src
+    git commit -am "web site update"
+    git push
+    
 
 add_news:
     tilde src/news.json
     rye run python src/create_feed.py src/news.json src/static/atom.xml 5
-
 
 # build the web site
 build version date: add_news
@@ -32,15 +39,14 @@ build version date: add_news
 
 
 # push web site to github repo
-push version:
+push version date:
     git add docs src
-    git commit -am "web site for version {{version}}"
+    git commit -am "web site for version {{version}} ({{date}})"
     git push
 
 
-
 # push and build to github repo
-build_push version date: (build version date) (push version)
+build_push version date: (build version date) (push version date)
 
 serve:
     rye run mkdocs serve

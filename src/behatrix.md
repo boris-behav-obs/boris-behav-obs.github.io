@@ -31,21 +31,21 @@ and can also be used as a standalone program.
 
 ## Features
 
--   Behavioral sequences statistics
--   Observed transitions matrix
--   Generation of the [Graphviz](https://graphviz.org/) script from
-    observed transitions
--   Flow diagram generation
--   Random permutations test (with multiprocessing module) with
-    generation of the transitions significativity matrix
+-   Behavioral sequences statistics (with n-gram size option)
+-   Observed transitions matrix (with n-gram size option)
+-   Generation of the [Graphviz](https://graphviz.org/) script from observed transitions
+-   Flow diagram generation  (with n-gram size option)
+-   Random permutations test (with multiprocessing module) with generation of the transitions significativity matrix
 -   Flow diagram generation with transitions significativity
--   Behavioral sequences distances: Levenshtein distances and
-    Needleman-Wunsch identities
+-   Behavioral sequences distances: **Levenshtein distances** and **Needleman-Wunsch identities**
+
+The flow diagram generation requires the the [Graphviz](https://graphviz.org/) open source graph visualization software.
 
 
 # User guide
 
 [Usage of Behatrix](https://github.com/olivierfriard/behatrix/blob/master/README.rst)
+
 
 # Download Behatrix
 
