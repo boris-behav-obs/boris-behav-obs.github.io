@@ -1,7 +1,7 @@
 # justfile for the management of the BORIS web site
 
 simple_build:
-    rye run mkdocs build    
+    uv run mkdocs build    
 
 simple_build_push: simple_build
     git add docs src
@@ -11,7 +11,7 @@ simple_build_push: simple_build
 
 add_news:
     tilde src/news.json
-    rye run python src/create_feed.py src/news.json src/static/atom.xml 5
+    uv run python src/create_feed.py src/news.json src/static/atom.xml 5
 
 # build the web site
 build version date: add_news
@@ -35,7 +35,7 @@ build version date: add_news
     sed -i '/./c\INSERT_VERSION' src/static/ver.dat
     sed -i 's#INSERT_VERSION#{{version}}#g' src/static/ver.dat
 
-    rye run mkdocs build
+    uv run mkdocs build
 
 
 # push web site to github repo
@@ -49,8 +49,9 @@ push version date:
 build_push version date: (build version date) (push version date)
 
 serve:
-    rye run mkdocs serve
+    uv run mkdocs serve
 
+# start visual studio code
 modif:
     code src
 

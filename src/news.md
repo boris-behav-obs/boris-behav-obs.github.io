@@ -1,3 +1,7 @@
+**2024-08-20: Version 8.27.10 available**
+
+Implemented option for including non-coded modifiers in time budget. Fixed bug #564
+
 **2024-08-20: Version 8.27.7 available**
 
 Fixed various bugs
@@ -13,8 +17,4 @@ Fixed bug #754
 **2024-06-06: Version 8.27 available**
 
 Option for automatically update, improved the modifier(s) selection with keyboard
-
-**2024-04-18: PDF version of the user guide is available**
-
-https://www.boris.unito.it/user_guide/pdf/boris_user_guide.pdf
 
