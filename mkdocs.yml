@@ -36,6 +36,7 @@ theme:
   palette:
     scheme: default
     primary: blue grey
+  favicon: images/logo_boris.svg
 
 copyright: Copyright &copy; 2012 - 2024 Olivier Friard
 
@@ -60,5 +61,6 @@ plugins:
         include_dir: src
     - search
     - glightbox
+
 
 
