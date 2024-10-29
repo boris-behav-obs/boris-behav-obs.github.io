@@ -70,3 +70,10 @@ If you want to run v.{{ boris.version }} on your MacOS you have various possibil
 The last version of BORIS that is running natively on MacOS is [7.13.9](https://github.com/olivierfriard/BORIS/releases/tag/v7.13.9).
 This version is 2 years old and is no longer maintained. [Many bugs were fixed](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8) and [features were added](version8.md) in the current version.
 Please note that issues will only be accepted if you are using the latest version.
+
+
+## Some points of reflection on the use of the macOS operating system in research
+
+* [EU to Apple: "Let Users Choose Their Software"; Apple: "Nah"](https://www.eff.org/deeplinks/2024/10/eu-apple-let-users-choose-their-software-apple-nah)
+
+* ["Sideloading is a cyber criminal’s best friend"](https://www.theverge.com/2021/11/3/22761724/apple-craig-federighi-ios-sideloading-web-summit-2021-european-commission-digital-markets-act)
