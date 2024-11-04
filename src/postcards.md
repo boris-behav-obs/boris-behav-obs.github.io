@@ -48,9 +48,9 @@ I-10123 TORINO (ITALY)
 
 ![postcard31_a.jpg](postcards/postcard31_a.jpg){width="512px"}
 
-![postcard30_b.opti.jpg](postcards/postcard30_b.opti.jpg){width="512px"}
+![postcard30_b.jpg](postcards/postcard30_b.opti.jpg){width="512px"}
 
-![postcard30_a.opti.jpg](postcards/postcard30_a.opti.jpg){width="512px"}
+![postcard30_a.jpg](postcards/postcard30_a.opti.jpg){width="512px"}
 
 ![postcard29_b.opti.jpg](postcards/postcard29_b.opti.jpg){width="512px"}
 
