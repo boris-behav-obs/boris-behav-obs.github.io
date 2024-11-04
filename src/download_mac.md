@@ -74,6 +74,8 @@ Please note that issues will only be accepted if you are using the latest versio
 
 ## Some points of reflection on the use of the macOS operating system in research
 
+* [Apple Removes Ability to Run Unsigned Apps in macOS 15.1](https://lunduke.locals.com/post/6304352/apple-removes-ability-to-run-unsigned-apps-in-macos-15-1)
+
 * [EU to Apple: "Let Users Choose Their Software"; Apple: "Nah"](https://www.eff.org/deeplinks/2024/10/eu-apple-let-users-choose-their-software-apple-nah)
 
 * ["Sideloading is a cyber criminal’s best friend"](https://www.theverge.com/2021/11/3/22761724/apple-craig-federighi-ios-sideloading-web-summit-2021-european-commission-digital-markets-act)
