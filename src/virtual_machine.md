@@ -29,7 +29,8 @@ See <https://www.virtualbox.org> for the installation procedure
 
 A Linux virtual machine is available at:
 
-<https://drive.google.com/drive/folders/1qbjVBqr4rzPWgBYVFhEcmRLToiAdq7cb?usp=drive_link>
+<https://drive.google.com/drive/u/0/folders/1jx_x9F3Ms09U2fGsU2ymKZ58qRSxzWdw>
+
 
 Double-click on the downloaded OVA file to import the virtual machine.
 
