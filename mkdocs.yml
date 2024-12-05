@@ -1,5 +1,10 @@
 site_name: BORIS
 
+# Repository
+repo_name: olivierfriard/BORIS
+repo_url: https://github.com/olivierfriard/BORIS
+
+
 docs_dir: src
 site_dir: docs
 
@@ -55,6 +60,14 @@ extra:
       link: https://github.com/olivierfriard/BORIS
     - icon: fontawesome/brands/mastodon
       link: https://fediscience.org/web/@boris
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/boris-behav-obs.bsky.social
+    - icon: fontawesome/brands/whatsapp
+      link: https://whatsapp.com/channel/0029VasdF6vGehEQcY5Nnr3U
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/project/boris-behav-obs/
+
+    
 
 plugins:
     - macros:
