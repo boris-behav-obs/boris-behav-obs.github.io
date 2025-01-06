@@ -15,7 +15,7 @@ title: 'BORIS for Microsoft-Windows'
 #### Current version: v. **{{ boris.version }}** release date: {{ boris.release_date }}
 
 
-Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere:
+Kindly acknowledge and properly cite this software and its authors when using the results in publications or other forms of dissemination:
 
 {% include 'citation.md' %}
 
@@ -28,7 +28,9 @@ installing) can be long. So be patient (depending on your system it can
 require 1 minute).
 
 
-When you launch BORIS, it's typical to encounter a black window. Don't worry; this is the Windows Command Prompt, and you don't need to interact with it directly ([more information](https://www.lifewire.com/command-prompt-2625840)). Simply leave it open and proceed **without closing it**.
+When you launch BORIS, it's typical to encounter a black window.
+Don't worry; this is the Windows Command Prompt, and you don't need to interact with it directly ([more information](https://www.lifewire.com/command-prompt-2625840)).
+Simply leave it open and proceed **without closing it**.
 
 
 
@@ -51,8 +53,7 @@ A video tutorial for downloading and launching BORIS is available:
 
 ### BORIS for Windows Setup v.{{ boris.version }}
 
-Download [BORIS for Windows 64-bit Setup
-v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris-{{ boris.version }}-win64-setup.exe)
+Download [BORIS for Windows 64-bit Setup v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris-{{ boris.version }}-win64-setup.exe)
 
 The default install path is located in your home directory (for example
 c:\\users\\joe\\BORIS)
@@ -68,6 +69,21 @@ c:\\users\\joe\\BORIS)
 
 {% include 'revision_history.md' %}
 
+
+
+### Pre-release of BORIS for Windows
+
+If you would like to contribute to the development of BORIS, you can use the pre-release and let me know if it works and what the critical issues are.
+This version will not replace the current version and can be used in parallel. Thank you in advance for your help.
+
+
+
+!!! danger "**IMPORTANT**"
+
+    **Do not use this version for your research projects as it may contain critical errors.**
+
+
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris-9.0.0-win64.zip)
 
 
 

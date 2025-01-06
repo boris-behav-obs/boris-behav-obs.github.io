@@ -4,14 +4,9 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  ubuntu
-status: |
-  hidden
-summary: |
-  BORIS with Ubuntu
-title: 'Install BORIS for Ubuntu'
+title: 'BORIS for Ubuntu'
 ---
+
 
 ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"}
 
@@ -45,6 +40,28 @@ See the revision history for details:
 ## Older Ubuntu or other Linux distributions
 
 Refer to the [Other Linux](other_linux.md) page
+
+
+
+## Pre-release of BORIS
+
+If you would like to contribute to the development of BORIS, you can use the pre-release and let me know if it works and what the critical issues are.
+This version will not replace the current version and can be used in parallel. Thank you in advance for your help.
+
+
+!!! danger "**IMPORTANT**"
+
+    **Do not use this version for your research projects as it may contain critical errors.**
+
+**Ubuntu 22.04**
+
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris_9.0.0-0.deb)
+
+
+**Ubuntu 23.04, 23.10 and 24.04**
+
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris_9.0.0-0_libmpv2.deb)
+
 
 
 

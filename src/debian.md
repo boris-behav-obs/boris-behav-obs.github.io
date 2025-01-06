@@ -12,13 +12,13 @@ title: 'BORIS for Debian'
 
 
 
-### Debian 11 (Bullseye)
+## Debian 11 (Bullseye)
 
 Download the [BORIS deb package 64-bit
 v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0.deb)
 and use one of the following methods to install it.
 
-### Debian 12 (Bookworm)
+## Debian 12 (Bookworm)
 
 Download the [BORIS deb package 64-bit libmpv2
 v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0_libmpv2.deb)
@@ -26,7 +26,7 @@ and use one of the following methods to install it.
 
 
 
-### Install BORIS with the Software Installer
+## Install BORIS with the Software Installer
 
 Right-click on the .deb icon and click the "Open with Software Install" menu option.
 
@@ -63,6 +63,29 @@ type:
 
 You should find the icon for starting BORIS in the **Education** menu,
 you do not need everything else.
+
+
+
+
+## Pre-release of BORIS
+
+If you would like to contribute to the development of BORIS, you can use the pre-release and let me know if it works and what the critical issues are.
+This version will not replace the current version and can be used in parallel. Thank you in advance for your help.
+
+
+!!! danger "**IMPORTANT**"
+
+    **Do not use this version for your research projects as it may contain critical errors.**
+
+
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris_9.0.0-0_libmpv2.deb)
+
+
+
+
+
+
+
 
 ### Bug report, feature request and discussion
 

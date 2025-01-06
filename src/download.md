@@ -34,8 +34,7 @@ Feel free to contact me if you want to improve it.
 {% include 'revision_history.md' %}
 
 
-Please acknowledge and cite the use of this software and its authors
-when results are used in publications or published elsewhere:
+Kindly acknowledge and properly cite this software and its authors when using the results in publications or other forms of dissemination:
 
 {% include 'citation.md' %}
 
@@ -93,7 +92,7 @@ discussion](https://github.com/olivierfriard/BORIS/discussions)
 
 You can download video samples to test BORIS on your system:
 
-[video_samples.zip](/archive/video_samples.zip) (~ 70 Mb)
+[video_samples.zip](archive/video_samples.zip) (~ 70 Mb)
 
 
 
