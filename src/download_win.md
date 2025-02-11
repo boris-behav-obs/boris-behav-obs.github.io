@@ -83,7 +83,7 @@ This version will not replace the current version and can be used in parallel. T
     **Do not use this version for your research projects as it may contain critical errors.**
 
 
-Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris-9.0.0-win64.zip)
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris-9.0.5-win64.zip)
 
 
 

@@ -55,12 +55,12 @@ This version will not replace the current version and can be used in parallel. T
 
 **Ubuntu 22.04**
 
-Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris_9.0.0-0.deb)
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris_9.0.0-5.deb)
 
 
 **Ubuntu 23.04, 23.10 and 24.04**
 
-Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris_9.0.0-0_libmpv2.deb)
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris_9.0.5-0_libmpv2.deb)
 
 
 

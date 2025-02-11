@@ -78,7 +78,7 @@ This version will not replace the current version and can be used in parallel. T
     **Do not use this version for your research projects as it may contain critical errors.**
 
 
-Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.0 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.0/boris_9.0.0-0_libmpv2.deb)
+Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris_9.0.5-0_libmpv2.deb)
 
 
 
