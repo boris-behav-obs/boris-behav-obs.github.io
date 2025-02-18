@@ -1,5 +1,16 @@
 {
 
+"98":
+{
+"id": "tag:www.boris.unito.it,2025-02-17",
+"title": "2025-01-06: Release of version 9.0.6 is available",
+"summary": "The version 9.0.6 is available! This major update introduces new features, including the ability to add plugins for data analysis (based on Pandas DataFrames). The graphical user interface is now based on PySide6.",
+"content": "The version 9.0.6 is available! This major update introduces new features, including the ability to add plugins for data analysis (based on Pandas DataFrames). The graphical user interface is now based on PySide6.",
+"updated": "'2025-02-18 17:40:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "97":
 {
 "id": "tag:www.boris.unito.it,2025-02-10",
