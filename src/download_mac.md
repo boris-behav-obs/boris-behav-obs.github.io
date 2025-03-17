@@ -37,7 +37,8 @@ If you want to run v.{{ boris.version }} on your MacOS you have various possibil
 For Mac computers with [Apple Silicon](https://support.apple.com/en-us/116943):
 
 - Use [VMWARE Fusion](https://drive.google.com/drive/u/0/folders/1GjE_EoHJ3LtBouguujcblKb2PptzAaRt) to run a virtual machine. A 
-    [Microsoft-Windows 11 virtual machine](https://drive.google.com/file/d/1zt0CqBMycL26w3GDKc67ZwhVnI--YL8g/view?usp=drive_link) is available with BORIS already installed (password: **user**).
+    [Microsoft-Windows 11 virtual machine](https://drive.google.com/file/d/1NfuvIsrGdcgFJXTEP3LMOapvPJu2EICD/view?usp=drive_link) is available with BORIS already installed (password for encrypted volume: **h2MZZR+Ln7ZFVVh6** - Windows 11 credentials: **user/user**).
+
 
 -   Use [Parallels® Desktop for Mac](https://www.parallels.com/products/desktop) (proprietary software).
      Take care to extract the BORIS archive in the Windows file system  _c:\Users\Bob_ for example)

@@ -1,5 +1,10 @@
 # justfile for the management of the BORIS web site
 
+
+# get version and version date on BORIS web site
+get_current_version:
+    curl --silent https://www.boris.unito.it/download/ | grep 'Current version'
+
 simple_build:
     uv run mkdocs build    
 

@@ -50,7 +50,7 @@ extra:
     version: 9.1.1
     release_date: 2025-03-12
     citations_number: 
-    citations_date: 2025-03-14
+    citations_date: 2025-03-17
     app_version: 0.12
 
   generator: false
