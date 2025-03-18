@@ -12,7 +12,7 @@ title: Install and run BORIS from the Python Package Index (PyPI)
 ### Requirement
 
 
-The minimal version of Python for running BORIS is **3.8**.
+The minimal version of Python for running BORIS is **3.10**.
 
 
 #### Check the Python version installed on your system
@@ -23,10 +23,10 @@ Open a terminal and type:
 
 You should obtain a string like:
 
-    Python 3.8.10
+    Python 3.10
 
 
-If your Python version is 3.8 or higher, BORIS will run without issues. However, if your Python version is lower, BORIS will not be compatible.
+If your Python version is 3.10 or higher, BORIS will run without issues. However, if your Python version is lower, BORIS will not be compatible.
 
 
 
@@ -34,7 +34,7 @@ If your Python version is 3.8 or higher, BORIS will run without issues. However,
 
 Install the required packages following the instructions relative to your Linux distribution:
 
-Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu ...:
+Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...:
 
 For Debian 12 (Bookworm), open a terminal and type:
 
@@ -46,12 +46,12 @@ For Debian 11 (Bullseye), open a terminal and type:
     su (your root password will be required)
     apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
 
-For Ubuntu 20.04 or 22.04 and other Ubuntu like:
+For Ubuntu 22.04 and other Ubuntu like:
 
     sudo apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
     (your password will be required)
 
-For Ubuntu 23.04 or 23.10 and other Ubuntu like:
+For Ubuntu 23.04 and newer and other Ubuntu like:
 
     sudo apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
     (your password will be required)
@@ -102,6 +102,8 @@ or
 
 
 BORIS will launch, do **not** close the terminal whhile BORIS is running.
+
+
 
 
 
