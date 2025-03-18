@@ -2,7 +2,7 @@
 
 BORIS is developed entirely with open source software.
 
-BORIS is developped in [Python 3.10](http://www.python.org) using [PyQt5](http://www.riverbankcomputing.com/software/pyqt/intro) for the GUI (should run from Python >= 3.8).  
+BORIS is developped in [Python 3.12](http://www.python.org) using [PySide6](https://pypi.org/project/PySide6/) for the GUI.  
 
 The [mpv media player](https://mpv.io) library and the [python-mpv](https://github.com/jaseg/python-mpv) interface are used to play media files.  
 
