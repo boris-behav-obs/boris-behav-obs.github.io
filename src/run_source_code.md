@@ -4,110 +4,82 @@ hide:
   - toc
 author:
 - Olivier Friard
-title: Install and run BORIS from the Python Package Index (PyPI)
+title: Install BORIS from the Python Package Index (PyPI)
 ---
 
-[BORIS PyPI package](https://pypi.org//project/boris-behav-obs)
-
-### Requirement
+[BORIS PyPI package](https://pypi.org/project/boris-behav-obs)
 
 
-The minimal version of Python for running BORIS is **3.10**.
+
+# Requirements
 
 
-#### Check the Python version installed on your system
+BORIS requires the installation of:
+
+* the [mpv video player library](https://www.mpv.io) (libmpv1 or libmpv2)
+
+* the [FFmpeg](https://www.ffmpeg.org) framework
+
+* the [GraphViz](https://graphviz.org/) tool (Optional)
+
+
+## Install requirements for Debian based distributions
+
+
+Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...
+
+Open a terminal and type,
+
+for Debian:
+
+    su (your root password will be required)
+    apt install mpv libmpv2 python3 ffmpeg graphviz libxcb-cursor0
+
+for Ubuntu, Linux Mint:
+
+    sudo apt install mpv libmpv2 python3 ffmpeg graphviz libxcb-cursor0
+    (your root password will be required)
+
+
+
+## Install requirements for Microsoft-Windows
+
+Open a command prompt and type:
+
+    winget install ffmpeg
+    winget install Graphviz.Graphviz
+
+
+
+# Install the uv Python package manager
+
+
+See [Installing uv](https://docs.astral.sh/uv/getting-started/installation/)
+
+After installing uv you should close and re-open your terminal / Command prompt
+
+
+# Create a new Python project
 
 Open a terminal and type:
 
-    python3 -V
+    uv init --python 3.12 BORIS
+    cd BORIS
+    uv add boris-behav-obs
 
-You should obtain a string like:
+To start BORIS:
 
-    Python 3.10
-
-
-If your Python version is 3.10 or higher, BORIS will run without issues. However, if your Python version is lower, BORIS will not be compatible.
-
+    uv run boris-behav-obs
 
 
-#### Installation
+#  Start BORIS
 
-Install the required packages following the instructions relative to your Linux distribution:
+To start again type once it is installed:
 
-Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...:
-
-
-
-
-For Debian 11 (Bullseye), open a terminal and type:
-
-    su (your root password will be required)
-    apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
+    cd BORIS
+    uv run boris-behav-obs
 
 
-For Debian 12 (Bookworm), open a terminal and type:
-
-    su (your root password will be required)
-    apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
-
-
-
-For Ubuntu 22.04 (Jammy Jellyfish) / Linux Mint 21:
-
-    sudo apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
-    (your password will be required)
-
-
-
-
-for Ubuntu 23.04 (Lunar Lobster) and newer / Linux Mint 22 and newer
-
-    sudo apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
-    (your password will be required)
-
-
-
-#### Creation of the Python virtual environment
-
-It is strongly recommended to create a Python virtual environment to prevent interference with the modules installed on your system:
-
-    python3 -m venv boris_venv
-
-The Python virtual environment will be created in your home directory.  
-However, you have the option to create it in a different directory if you prefer.:
-
-    python -m venv <PATH>
-
-
-where <PATH\> is the directory where do you want to create the virtual environment
-
-
-#### Activation of the virtual environment
-
-    source boris_venv/bin/activate
-
-or
-
-    source <PATH>/bin/activate
- 
-
-#### Installation of BORIS with pip
-
-    pip install pip --upgrade
-    pip install boris-behav-obs
-
-
-
-
-### Launch BORIS
-
-Open a terminal and type:
-
-    boris_venv/bin/boris
-
-or
-
-    <PATH>/bin/boris
 
 
 BORIS will launch, do **not** close the terminal whhile BORIS is running.

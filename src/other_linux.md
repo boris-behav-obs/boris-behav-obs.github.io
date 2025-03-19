@@ -13,7 +13,7 @@ If you are using Ubuntu, Linux Mint or Debian you can use the **deb package**.
 See the [BORIS for Linux](download_linux.md) page.
 
 
-
+# Requirements
 
 BORIS requires the installation of:
 
@@ -24,13 +24,13 @@ BORIS requires the installation of:
 * the [GraphViz](https://graphviz.org/) tool (Optional)
 
 
-## Download BORIS
+# Download BORIS
 
 
 Download the tar.bz2 archive [BORIS for GNU/Linux 64-bit
 v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris-{{ boris.version }}-linux64.tar.bz2)
 
-## Install BORIS
+# Install BORIS
 
 
 Uncompress the tar.bz2 archive and launch **start\_boris**
