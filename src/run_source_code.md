@@ -36,22 +36,31 @@ Install the required packages following the instructions relative to your Linux 
 
 Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...:
 
-For Debian 12 (Bookworm), open a terminal and type:
 
-    su (your root password will be required)
-    apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
+
 
 For Debian 11 (Bullseye), open a terminal and type:
 
     su (your root password will be required)
     apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
 
-For Ubuntu 22.04 and other Ubuntu like:
+
+For Debian 12 (Bookworm), open a terminal and type:
+
+    su (your root password will be required)
+    apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
+
+
+
+For Ubuntu 22.04 (Jammy Jellyfish) / Linux Mint 21:
 
     sudo apt install mpv libmpv1 python3 ffmpeg graphviz python3-venv
     (your password will be required)
 
-For Ubuntu 23.04 and newer and other Ubuntu like:
+
+
+
+for Ubuntu 23.04 (Lunar Lobster) and newer / Linux Mint 22 and newer
 
     sudo apt install mpv libmpv2 python3 ffmpeg graphviz python3-venv
     (your password will be required)

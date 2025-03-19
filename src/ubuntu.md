@@ -4,17 +4,19 @@ hide:
   - toc
 author:
 - Olivier Friard
-title: 'BORIS for Ubuntu'
+title: 'BORIS for Ubuntu / Linux Mint'
 ---
 
 
-![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"}
+![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"} 
+![Linux Mint logo](images/linux_mint_logo.svg){width="68px"}
+
 
 #### Current version: v. **{{ boris.version }}** release date: {{ boris.release_date }}
 
 
 
-## Ubuntu 22.04
+## Ubuntu 22.04 (Jammy Jellyfish) / Linux Mint 21
 
 Download the **deb package** [BORIS deb package 64-bit v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0.deb)
 and use the Software Installer
@@ -22,7 +24,7 @@ and use the Software Installer
 
 
 
-## Ubuntu 23.04, 23.10 and 24.04
+## for Ubuntu 23.04 (Lunar Lobster) and newer / Linux Mint 22 and newer
 
 Download the **deb package** [BORIS deb package 64-bit v.{{ boris.version }}
 (libmpv2)](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0_libmpv2.deb)
@@ -31,8 +33,8 @@ and use the Software Installer
 You should find the icon for starting BORIS in the Education menu, you
 do not need everything else.
 
-See the revision history for details:
-<https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8>
+
+{% include 'revision_history.md' %}
 
 
 
@@ -42,7 +44,7 @@ See the revision history for details:
 Refer to the [Other Linux](other_linux.md) page
 
 
-
+<!--
 ## Pre-release of BORIS
 
 If you would like to contribute to the development of BORIS, you can use the pre-release and let me know if it works and what the critical issues are.
@@ -63,7 +65,7 @@ Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5](https://github
 Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris_9.0.5-0_libmpv2.deb)
 
 
-
+-->
 
 ### Bug report, feature request and discussion
 

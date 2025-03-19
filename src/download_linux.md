@@ -22,6 +22,10 @@ Please acknowledge and cite the use of this software and its authors when result
 
 ## ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"} [Ubuntu](ubuntu.md)
 
+
+## ![Linux Mint logo](images/linux_mint_logo.svg){width="68px"} [Linux Mint](ubuntu.md)
+
+
 ## ![Debian logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/194px-Openlogo-debianV2.svg.png){width="56px"} [Debian](debian.md)
 
 ## ![Raspberry Pi logo](images/raspberry_pi.svg){width="80px"} [Raspberry Pi 4](raspberry_pi_4.md)

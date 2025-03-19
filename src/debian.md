@@ -42,20 +42,20 @@ In a terminal, type:
 
 
 
-### Install BORIS with command-line (expert mode)
+## Install BORIS with command-line (expert mode)
 
 In a terminal, type:
 
     su (you root password will be asked)
     cd DIRECTORY_WHERE_DO_YOU_DOWNLOADED_BORIS_DEB
 
-#### Debian 11
+### Debian 11
 
 type:
 
     apt install ./boris_{{ boris.version }}-0.deb
 
-#### Debian 12
+### Debian 12
 
 type:
 
@@ -65,7 +65,7 @@ You should find the icon for starting BORIS in the **Education** menu,
 you do not need everything else.
 
 
-
+<!--
 
 ## Pre-release of BORIS
 
@@ -78,10 +78,10 @@ This version will not replace the current version and can be used in parallel. T
     **Do not use this version for your research projects as it may contain critical errors.**
 
 
-Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris_9.0.5-0_libmpv2.deb)
+Download [BORIS PRE-RELEASE v. 9.0.5 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris_9.0.5-0_libmpv2.deb)
 
 
-
+-->
 
 
 

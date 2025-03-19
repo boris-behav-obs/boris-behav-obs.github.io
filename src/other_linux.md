@@ -6,19 +6,22 @@ author:
 - Olivier Friard
 summary: |
   BORIS Download page Linux
-title: 'BORIS v.{{ boris.version }} for Linux'
+title: 'BORIS for Linux'
 ---
 
-If you are using **Ubuntu 20.04, 22.04, 23.04, 23.10** or **Debian 11,
-12+** you can use the **deb package**. See
+If you are using Ubuntu, Linux Mint or Debian you can use the **deb package**.
+See the [BORIS for Linux](download_linux.md) page.
+
+
+
 
 BORIS requires the installation of:
 
-* the [mpv video player](https://www.mpv.io)
+* the [mpv video player library](https://www.mpv.io) (libmpv1 or libmpv2)
 
-* The [FFmpeg](https://www.ffmpeg.org) framework
+* the [FFmpeg](https://www.ffmpeg.org) framework
 
-
+* the [GraphViz](https://graphviz.org/) tool (Optional)
 
 
 ## Download BORIS
@@ -36,8 +39,7 @@ BORIS for Linux 32-bit is no more available due to the fact that Qt is
 not available for 32 bits. If you are using Linux at 32-bit you must run
 BORIS from sources.
 
-See the revision history for details:
-<https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history>
+{% include 'revision_history.md' %}
 
 If you want to report a bug, see the [how to report a bug](report_a_bug.md) page.
 

@@ -69,7 +69,7 @@ c:\\users\\joe\\BORIS)
 
 {% include 'revision_history.md' %}
 
-
+<!--
 
 ### Pre-release of BORIS for Windows
 
@@ -86,7 +86,7 @@ This version will not replace the current version and can be used in parallel. T
 Download [BORIS for Windows 64-bit Portable PRE-RELEASE v. 9.0.5](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris-9.0.5-win64.zip)
 
 
-
+-->
 
 
 ## Bug report, feature request and discussion
