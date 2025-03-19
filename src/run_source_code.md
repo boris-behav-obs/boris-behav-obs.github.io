@@ -4,10 +4,11 @@ hide:
   - toc
 author:
 - Olivier Friard
-title: Install BORIS from the Python Package Index (PyPI)
+title: Install BORIS from source code
 ---
 
-[BORIS PyPI package](https://pypi.org/project/boris-behav-obs)
+
+BORIS is available on the official Python Package Index: [BORIS PyPI package](https://pypi.org/project/boris-behav-obs)
 
 
 
@@ -33,11 +34,11 @@ Open a terminal and type,
 for Debian:
 
     su (your root password will be required)
-    apt install mpv libmpv2 python3 ffmpeg graphviz libxcb-cursor0
+    apt install libmpv2 ffmpeg graphviz libxcb-cursor0
 
 for Ubuntu, Linux Mint:
 
-    sudo apt install mpv libmpv2 python3 ffmpeg graphviz libxcb-cursor0
+    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0
     (your root password will be required)
 
 
@@ -51,33 +52,19 @@ Open a command prompt and type:
 
 
 
-# Install the uv Python package manager
+# Install and run BORIS
 
 
-See [Installing uv](https://docs.astral.sh/uv/getting-started/installation/)
-
-After installing uv you should close and re-open your terminal / Command prompt
-
-
-# Create a new Python project
+## Linux
 
 Open a terminal and type:
 
-    uv init --python 3.12 BORIS
-    cd BORIS
-    uv add boris-behav-obs
-
-To start BORIS:
-
-    uv run boris-behav-obs
+    wget -qO- http://www.boris.unito.it/static/boris.sh | sh 
 
 
-#  Start BORIS
+## Microsoft-Windows
 
-To start again type once it is installed:
-
-    cd BORIS
-    uv run boris-behav-obs
+To be continued...
 
 
 
