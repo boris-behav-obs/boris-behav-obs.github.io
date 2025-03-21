@@ -7,6 +7,8 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
       
+        <meta name="author" content="['Olivier Friard']">
+      
       
       
       
@@ -16,7 +18,7 @@
     
     
       
-        <title>Checksums - BORIS</title>
+        <title>BORIS from source code - BORIS</title>
       
     
     
@@ -74,6 +76,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#requirements" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -103,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Checksums
+              BORIS from source code
             
           </span>
         </div>
@@ -309,7 +316,9 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -497,7 +506,9 @@
             
             
               
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -505,6 +516,8 @@
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
   
+  
+    
   
   
 </nav>
@@ -518,14 +531,140 @@
               <article class="md-content__inner md-typeset">
                 
                   
+  
+
 
 
   
   
 
 
-  <h1>Checksums</h1>
+<h1 id="requirements">Requirements</h1>
+<p>BORIS requires the installation of:</p>
+<ul>
+<li>
+<p>the <a href="https://www.mpv.io">mpv video player library</a> (libmpv1 or libmpv2)</p>
+</li>
+<li>
+<p>the <a href="https://www.ffmpeg.org">FFmpeg</a> framework</p>
+</li>
+<li>
+<p>the <a href="https://graphviz.org/">GraphViz</a> tool (Optional)</p>
+</li>
+</ul>
+<h2 id="install-requirements-for-debian-based-distributions">Install requirements for Debian based distributions</h2>
+<p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...</p>
+<p>Open a terminal and type,</p>
+<p>for Debian:</p>
+<pre><code>su (your root password will be required)
+apt install libmpv2 ffmpeg graphviz libxcb-cursor0
+</code></pre>
+<p>for Ubuntu, Linux Mint:</p>
+<pre><code>sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0
+(your root password will be required)
+</code></pre>
+<h2 id="install-requirements-for-microsoft-windows">Install requirements for Microsoft-Windows</h2>
+<p>Open a command prompt and type:</p>
+<pre><code>winget install ffmpeg
+winget install Graphviz.Graphviz
+</code></pre>
+<h1 id="install-and-run-boris">Install and run BORIS</h1>
+<h2 id="linux">Linux</h2>
+<p>Open a terminal and type:</p>
+<pre><code>wget -qO- http://www.boris.unito.it/static/boris.sh | sh
+</code></pre>
+<h2 id="microsoft-windows">Microsoft-Windows</h2>
+<h1 id="hard-way">Hard way</h1>
+<h2 id="install-the-uv-python-package-manager">Install the uv Python package manager</h2>
+<p>See <a href="https://docs.astral.sh/uv/getting-started/installation/">Installing uv</a></p>
+<p>After installing uv you should close and re-open your terminal / Command prompt</p>
+<h2 id="create-a-new-python-project">Create a new Python project</h2>
+<p>Open a terminal and type:</p>
+<pre><code>uv init --python 3.12 BORIS
+cd BORIS
+uv add boris-behav-obs
+</code></pre>
+<p>To start BORIS:</p>
+<pre><code>uv run boris-behav-obs
+</code></pre>
+<h2 id="start-boris">Start BORIS</h2>
+<p>To start again type once it is installed:</p>
+<pre><code>cd BORIS
+uv run boris-behav-obs
+</code></pre>
+<p>BORIS will launch, do <strong>not</strong> close the terminal whhile BORIS is running.</p>
+<div class="admonition warning">
+<p class="admonition-title">Additional libraries</p>
+<p>On <strong>Ubuntu 20.04</strong> it can be necessary to install the following libraries:</p>
+<pre><code>sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
+(your password will be required)
+</code></pre>
+<p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal and type:</p>
+<pre><code>sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
+(your root password will be required)
+</code></pre>
+</div>
+<p>Refer to the <a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8">change log</a> for a detailed summary of version updates.</p>
+<p>If you want to report a bug, see the <a href="../report_a_bug/">how to report a bug</a> page.</p>
+<h2 id="debian-11-bullseye">Debian 11 (Bullseye)</h2>
+<p>Download the <a href="https://github.com/olivierfriard/BORIS/releases/download/v9.2.1/boris_9.2.1-0.deb">BORIS deb package 64-bit
+v.9.2.1</a>
+and use one of the following methods to install it.</p>
+<h2 id="debian-12-bookworm">Debian 12 (Bookworm)</h2>
+<p>Download the <a href="https://github.com/olivierfriard/BORIS/releases/download/v9.2.1/boris_9.2.1-0_libmpv2.deb">BORIS deb package 64-bit libmpv2
+v.9.2.1</a>
+and use one of the following methods to install it.</p>
+<h2 id="install-boris-with-the-software-installer">Install BORIS with the Software Installer</h2>
+<p>Right-click on the .deb icon and click the "Open with Software Install" menu option.</p>
+<p>You should find the icon for starting BORIS in the Education menu, you
+do not need everything else.</p>
+<p>If the <strong>Software Installer</strong> is not available you can install it:</p>
+<p>In a terminal, type:</p>
+<pre><code>su (you root password will be asked)
+apt install gnome-software
+</code></pre>
+<h2 id="install-boris-with-command-line-expert-mode">Install BORIS with command-line (expert mode)</h2>
+<p>In a terminal, type:</p>
+<pre><code>su (you root password will be asked)
+cd DIRECTORY_WHERE_DO_YOU_DOWNLOADED_BORIS_DEB
+</code></pre>
+<h3 id="debian-11">Debian 11</h3>
+<p>type:</p>
+<pre><code>apt install ./boris_9.2.1-0.deb
+</code></pre>
+<h3 id="debian-12">Debian 12</h3>
+<p>type:</p>
+<pre><code>apt install ./boris_9.2.1-0_libmpv2.deb
+</code></pre>
+<p>You should find the icon for starting BORIS in the <strong>Education</strong> menu,
+you do not need everything else.</p>
+<!--
 
+## Pre-release of BORIS
+
+If you would like to contribute to the development of BORIS, you can use the pre-release and let me know if it works and what the critical issues are.
+This version will not replace the current version and can be used in parallel. Thank you in advance for your help.
+
+
+!!! danger "**IMPORTANT**"
+
+    **Do not use this version for your research projects as it may contain critical errors.**
+
+
+Download [BORIS PRE-RELEASE v. 9.0.5 libmpv2](https://github.com/olivierfriard/BORIS/releases/download/v9.0.5/boris_9.0.5-0_libmpv2.deb)
+
+
+-->
+
+<h3 id="bug-report-feature-request-and-discussion">Bug report, feature request and discussion</h3>
+<p>See the <a href="../report_a_bug/">how to report a bug</a> page.</p>
+<p><a href="https://github.com/olivierfriard/BORIS/issues/new?assignees=&amp;labels=feature+request&amp;template=feature_request.md&amp;title=">Request a feature</a>.</p>
+<p><a href="https://github.com/olivierfriard/BORIS/discussions">Suggestions and general
+discussion</a></p>
+<p>Refer to the <a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8">change log</a> for a detailed summary of version updates.</p>
+<h3 id="older-debian">Older Debian</h3>
+<p>Refer to the <a href="../other_linux/">Other Linux</a> page</p>
+<h3 id="checksums">Checksums</h3>
 <p><a href="https://en.wikipedia.org/wiki/Checksum">What Is a Checksum?</a></p>
 <p><a href="https://github.com/olivierfriard/BORIS/releases/download/v9.2.1/md5sum.txt">MD5</a>
 <a href="https://github.com/olivierfriard/BORIS/releases/download/v9.2.1/sha1sum.txt">SHA1</a>
@@ -537,8 +676,13 @@
 
 
 
+  
+  
 
 
+
+
+  
 
 
 
