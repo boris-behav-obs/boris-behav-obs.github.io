@@ -24,47 +24,86 @@ BORIS requires the installation of:
 * the [GraphViz](https://graphviz.org/) tool (Optional)
 
 
-## Install requirements for Debian based distributions
+## Install requirements
 
 
 Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...
 
-Open a terminal and type,
 
-for Debian:
+=== "Ubuntu, Linux Mint"
 
-    su (your root password will be required)
+    Open a terminal and type: (1)
+    { .annotate }
+
+
+    1.  If you do not know how to open a terminal,
+        see [Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+        or
+        [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+
+
+    ``` sh
+    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 
+
+    # your password will be required 
+    ```
+
+
+
+=== "Debian"
+
+    Open a terminal and type:
+
+    ``` sh
+    su
+    # your root password will be required
+
     apt install libmpv2 ffmpeg graphviz libxcb-cursor0
+    ```
 
-for Ubuntu, Linux Mint:
+=== "Microsoft Windows"
 
-    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0
-    (your root password will be required)
+    Open a command prompt and type: (1)
+    { .annotate }
+
+    1.  If you do not know how to open a command prompt,
+        see [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10        )
 
 
-
-## Install requirements for Microsoft-Windows
-
-Open a command prompt and type:
-
+    ``` sh
     winget install ffmpeg
     winget install Graphviz.Graphviz
+    ```
+
+    !!! Note
+
+        **winget** (Windows Package Manager) is a command-line tool for installing, updating, configuring, and managing software on Windows. 
+
+
 
 
 
 # Install and run BORIS
 
+=== "Linux"
 
-## Linux
+    Open a terminal and type: (1)
+    { .annotate }
 
-Open a terminal and type:
 
+    1.  If you do not know how to open a terminal,
+        see [Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+        or
+        [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+
+
+    ``` sh
     wget -qO- http://www.boris.unito.it/static/boris.sh | sh 
+    ```
 
+=== "Microsoft Windows"
 
-## Microsoft-Windows
-
-To be continued...
+    To be continued...
 
 
 

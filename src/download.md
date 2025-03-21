@@ -53,6 +53,11 @@ The v. 8 has great improvements due to the use of the [mpv media player](https:/
 ## [![Android logo](images/android_logo.png){width=60px} BORIS App for Android](download_android.md)
 
 
+## ![Raspberry Pi logo](images/raspberry_pi.svg){width="80px"} [Raspberry Pi 4](raspberry_pi_4.md)
+
+## ![Chromebook logo](images/chrome_logo.svg){width="64px"} [Chromebook](chromebook.md)
+
+
 ## [![VirtualBox logo](images/virtualbox_logo.png){width=84px} VirtualBox virtual machine](virtual_machine.md)
 
 ## [![Docker logo](images/docker_logo.webp){width=84px} Docker image](docker.md)
@@ -62,7 +67,13 @@ The v. 8 has great improvements due to the use of the [mpv media player](https:/
 
 
 
+
 ## [![GitHub logo](images/github_logo_64px.png){width=64px} Download sources](https://github.com/olivierfriard/BORIS/releases/tag/v{{ boris.version }})
+
+
+
+
+
 
 
 

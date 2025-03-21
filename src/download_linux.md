@@ -4,22 +4,90 @@ hide:
   - toc
 author:
 - Olivier Friard
-slug: |
-  download\_linux
-status: |
-  hidden
-summary: |
-  BORIS Download page Linux
 title: 'BORIS for Linux'
 ---
 
-Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere:
+![Tux Linux logo](images/tux_128px.png){width="64px"}
+
+# BORIS for Linux
+
+#### Current version: v. {{ boris.version }} release date: {{ boris.release_date }}
+
+Kindly acknowledge and properly cite this software and its authors when using the results in publications or other forms of dissemination:
 
 {% include 'citation.md' %}
 
 
-### Current version: v. {{ boris.version }} release date: {{ boris.release_date }}
 
+
+## Requirements
+
+
+BORIS requires the installation of:
+
+* the [mpv video player library](https://www.mpv.io) (libmpv1 or libmpv2)
+
+* the [FFmpeg](https://www.ffmpeg.org) framework
+
+* the [GraphViz](https://graphviz.org/) tool (Optional)
+
+
+=== "Ubuntu, Linux Mint"
+
+    Open a terminal and type: (1)
+    { .annotate }
+
+
+    1.  If you do not know how to open a terminal,
+        see [Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+        or
+        [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+
+
+    ``` sh
+    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 
+
+    # your password will be required 
+    ```
+
+
+
+=== "Debian"
+
+    Open a terminal and type:
+
+    ``` sh
+    su
+    # your root password will be required
+
+    apt install libmpv2 ffmpeg graphviz libxcb-cursor0
+    ```
+
+
+
+
+
+
+## Run BORIS
+
+#### Download the [BORIS AppImage 64-bit v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/BORIS-x86_64.AppImage)
+
+
+#### Make it executable (1) { .annotate }
+
+1.  See a complete [AppImage guide](https://itsfoss.com/use-appimage-linux)
+
+
+
+#### Run it with a double-click
+
+
+
+This AppImage should run on recent versions of Linux like Ubuntu 20.10+, Debian12+, Linux Mint 21+ ...
+
+If the AppImage cannot be launched on your Linux distribution/version try to run [BORIS from source code](run_source_code.md)
+
+<!--
 ## ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"} [Ubuntu](ubuntu.md)
 
 
@@ -28,19 +96,12 @@ Please acknowledge and cite the use of this software and its authors when result
 
 ## ![Debian logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/194px-Openlogo-debianV2.svg.png){width="56px"} [Debian](debian.md)
 
-## ![Raspberry Pi logo](images/raspberry_pi.svg){width="80px"} [Raspberry Pi 4](raspberry_pi_4.md)
 
 ## ![Linux Lite logo](https://www.linuxliteos.com/assets/img/home/lite-news.png){width="80px"} [Linux Lite](linux_lite.md)
 
-## ![Chromebook logo](images/chrome_logo.svg){width="64px"} [Chromebook](chromebook.md)
-
-
-## ![Tux Linux logo](images/tux_128px.png){width="64px"} [Other distributions](other_linux.md)
+-->
 
 
 
 
-## [![GitHub logo](images/PyPI_logo.svg){width="120px"}](https://github.com/olivierfriard/BORIS) [Install from the Python Package Index](run_source_code.md)
 
-
-## [![GitHub logo](images/github_logo_64px.png){width="64px"}](https://github.com/olivierfriard/BORIS) [Run from source code](run_source_code.md)

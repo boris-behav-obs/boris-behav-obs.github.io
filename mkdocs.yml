@@ -27,23 +27,28 @@ markdown_extensions:
   - attr_list
   - def_list
   - pymdownx.keys
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 theme:
+  name: material
   features:
     - navigation.top
     - navigation.path
     - navigation.tabs
-  name: material
   logo: images/logo_boris.svg
   palette:
     scheme: default
     primary: blue grey
   favicon: images/logo_boris.svg
 
-copyright: Copyright &copy; 2012 - 2024 Olivier Friard
+copyright: Copyright &copy; 2012 - 2025 Olivier Friard
 
 extra:
   boris:
