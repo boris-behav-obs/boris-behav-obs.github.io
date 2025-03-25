@@ -542,42 +542,61 @@
 <p><a class="glightbox" href="../images/raspberry_pi.svg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Raspberry Pi logo" src="../images/raspberry_pi.svg" width="200px" /></a></p>
 <h1 id="boris-for-raspberry-pi-4-or-raspberry-pi-400">BORIS for Raspberry Pi 4 or Raspberry Pi 400</h1>
 <p><a class="glightbox" href="../screenshots/600_raspberry_pi_4_1.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="BORIS running on a Rasberry Pi 400" src="../screenshots/600_raspberry_pi_4_1.jpg" /></a></p>
-<p>BORIS can be installed on a Raspberry Pi 4 or a <a href="https://www.raspberrypi.org/products/raspberry-pi-400">Raspberry Pi
-400</a></p>
+<p>BORIS can be installed on a Raspberry Pi 4, a <a href="https://www.raspberrypi.org/products/raspberry-pi-400">Raspberry Pi
+400</a> or newer</p>
 <p>The Raspberry Pi 400 is a computer that you can buy for less than 100 $.</p>
 <h2 id="install-and-launch-boris-on-a-raspberry-pi-4-or-raspberry-pi-400">Install and launch BORIS on a Raspberry Pi 4 or Raspberry Pi 400</h2>
-<h3 id="installation">Installation</h3>
-<p>This procedure is based on the Raspberry Pi OS (64-bit) and should also
-work with another OS versions.</p>
-<p>Open a terminal (Click on Raspberry icon &gt; Accessories &gt; Terminal) and
-type:</p>
-<pre><code>sudo apt install python3-matplotlib, python3-pyqt5, python3-pyqt5.qtmultimedia, python3-tablib, ffmpeg, graphviz, libmpv1, python3-exifread
+<p>See the <a href="../run_source_code/">run BORIS from source code</a> procedure.</p>
+<!--
+### Installation
 
-wget https://github.com/olivierfriard/BORIS/archive/refs/tags/v9.2.1.tar.gz
+This procedure is based on the Raspberry Pi OS (64-bit) and should also
+work with another OS versions.
 
-tar xfz v9.2.1.tar.gz
-</code></pre>
-<p>You should see a directory called BORIS-9.2.1. Remember the
-path of this directory in order to launch BORIS.</p>
-<h3 id="launch-boris">Launch BORIS</h3>
-<p>Open a terminal (Click on Raspberry icon &gt; Accessories &gt; Terminal) and
-go in the directory where do you extracted BORIS:</p>
-<pre><code>cd BORIS-9.2.1
+Open a terminal (Click on Raspberry icon > Accessories > Terminal) and
+type:
 
-python3 start_boris.py
-</code></pre>
-<h2 id="raspberry-pi-os-image-with-boris">Raspberry Pi OS image with BORIS</h2>
-<p>An image with the Raspberry Pi OS with BORIS already installed (v.9.2.1) is available at:</p>
-<p><a href="https://drive.google.com/file/d/1RCE9uAOm6TdJ3y-1Ol3JHH-UWWjSny1Y/view?usp=sharing">Raspberry Pi OS (64-bit) with BORIS
-installed</a>
-(file size: 1.6 Gb)</p>
-<p>The image can be installed on a microSD (&gt;= 8 Gb) using the <a href="https://www.raspberrypi.com/software/">Raspberry
-Pi Imager software</a>.</p>
-<p>Choose OS &gt; Use custom &gt; Select the downloaded image
-(raspberry-pi_os_boris.img.gz)</p>
-<p>See the revision history for details:
-<a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history">https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history</a></p>
-<p>If you want to report a bug, see the <a href="../report_a_bug/">how to report a bug</a> page.</p>
+    sudo apt install python3-matplotlib, python3-pyqt5, python3-pyqt5.qtmultimedia, python3-tablib, ffmpeg, graphviz, libmpv1, python3-exifread
+
+    wget https://github.com/olivierfriard/BORIS/archive/refs/tags/v9.2.1.tar.gz
+
+    tar xfz v9.2.1.tar.gz
+
+You should see a directory called BORIS-9.2.1. Remember the
+path of this directory in order to launch BORIS.
+
+### Launch BORIS
+
+
+Open a terminal (Click on Raspberry icon \> Accessories \> Terminal) and
+go in the directory where do you extracted BORIS:
+
+    cd BORIS-9.2.1
+
+    python3 start_boris.py
+
+
+## Raspberry Pi OS image with BORIS
+
+
+An image with the Raspberry Pi OS with BORIS already installed (v.9.2.1) is available at:
+
+[Raspberry Pi OS (64-bit) with BORIS
+installed](https://drive.google.com/file/d/1RCE9uAOm6TdJ3y-1Ol3JHH-UWWjSny1Y/view?usp=sharing)
+(file size: 1.6 Gb)
+
+The image can be installed on a microSD (>= 8 Gb) using the [Raspberry
+Pi Imager software](https://www.raspberrypi.com/software/).
+
+Choose OS > Use custom > Select the downloaded image
+(raspberry-pi_os_boris.img.gz)
+
+See the revision history for details:
+<https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history>
+
+If you want to report a bug, see the [how to report a bug](report_a_bug.md) page.
+
+-->
 
 
 
