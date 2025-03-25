@@ -14,13 +14,16 @@ title: Raspberry Pi 4 / 400
 
 ![BORIS running on a Rasberry Pi 400](screenshots/600_raspberry_pi_4_1.jpg)
 
-BORIS can be installed on a Raspberry Pi 4 or a [Raspberry Pi
-400](https://www.raspberrypi.org/products/raspberry-pi-400)
+BORIS can be installed on a Raspberry Pi 4, a [Raspberry Pi
+400](https://www.raspberrypi.org/products/raspberry-pi-400) or newer
 
 The Raspberry Pi 400 is a computer that you can buy for less than 100 $.
 
 ## Install and launch BORIS on a Raspberry Pi 4 or Raspberry Pi 400
 
+See the [run BORIS from source code](run_source_code.md) procedure.
+
+<!--
 ### Installation
 
 This procedure is based on the Raspberry Pi OS (64-bit) and should also
@@ -68,3 +71,5 @@ See the revision history for details:
 <https://github.com/olivierfriard/BORIS/wiki/BORIS-revision-history>
 
 If you want to report a bug, see the [how to report a bug](report_a_bug.md) page.
+
+-->
