@@ -32,7 +32,7 @@ BORIS requires the installation of:
 * the [GraphViz](https://graphviz.org/) tool (Optional)
 
 
-=== "Ubuntu, Linux Mint"
+=== "Ubuntu, Linux Mint, Raspberry OS"
 
     Open a terminal and type: (1)
     { .annotate }
@@ -85,7 +85,7 @@ BORIS requires the installation of:
 
 This AppImage should run on recent versions of Linux like Ubuntu 20.10+, Debian12+, Linux Mint 21+ ...
 
-If the AppImage cannot be launched on your Linux distribution/version try to run [BORIS from source code](run_source_code.md)
+If the AppImage cannot be launched on your Linux distribution/version try to [run BORIS from source code](run_source_code.md)
 
 <!--
 ## ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"} [Ubuntu](ubuntu.md)
