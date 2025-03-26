@@ -83,7 +83,17 @@ BORIS requires the installation of:
 
 
 
-This AppImage should run on recent versions of Linux like Ubuntu 20.10+, Debian12+, Linux Mint 21+ ...
+This AppImage should run on recent versions of Linux. It was tested on the following distributions:
+
+* Ubuntu 20.10+
+
+* Debian12+
+
+* Linux Mint 21+
+
+* Linux Mint Debian Edition 6
+
+
 
 If the AppImage cannot be launched on your Linux distribution/version try to [run BORIS from source code](run_source_code.md)
 
