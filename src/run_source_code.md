@@ -30,7 +30,7 @@ BORIS requires the installation of:
 Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...
 
 
-=== "Ubuntu, Linux Mint"
+=== "Ubuntu, Linux Mint, Raspberry OS"
 
     Open a terminal and type: (1)
     { .annotate }
