@@ -55,7 +55,7 @@ extra:
     version: 9.2.1
     release_date: 2025-03-18
     citations_number:  2060
-    citations_date: 2025-03-25
+    citations_date: 2025-03-28
     app_version: 0.12
 
   generator: false
