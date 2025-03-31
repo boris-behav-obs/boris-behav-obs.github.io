@@ -5,7 +5,7 @@
 
 
 # get version and version date on BORIS web site
-get_current_version:
+current_version:
     @curl --silent https://www.boris.unito.it/download/ | grep -oP 'Current version: v\. \K<strong>\d+\.\d+\.\d+</strong>' | sed 's/<\/\?strong>//g'
     @curl --silent https://www.boris.unito.it/download/ | grep -oP 'release date: \K\d{4}-\d{2}-\d{2}'
     

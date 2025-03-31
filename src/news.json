@@ -1,5 +1,16 @@
 {
 
+"102":
+{
+"id": "tag:www.boris.unito.it,2025-03-28",
+"title": "2025-03-28: Release of version 9.2.2 is available",
+"summary": "The version 9.2.2 is available. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8",
+"content": "The version 9.2.2 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8",
+"updated": "'2025-03-28 15:00:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "101":
 {
 "id": "tag:www.boris.unito.it,2025-03-18",
