@@ -63,7 +63,7 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 
 === "Microsoft Windows"
 
-    Open a command prompt and type: (1)
+    Open a command prompt or a PowerShell and type: (1)
     { .annotate }
 
     1.  If you do not know how to open a command prompt,
@@ -83,7 +83,15 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 
 
 
-# Install and run BORIS
+# Run BORIS
+
+
+## Install the uv Python package and project manager from Astral
+
+See https://docs.astral.sh/uv/getting-started/installation/
+
+
+## Launch BORIS
 
 === "Linux"
 
@@ -98,17 +106,28 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 
 
     ``` sh
-    wget -qO- http://www.boris.unito.it/static/boris.sh | sh 
+    uvx boris-behav-obs
     ```
 
 === "Microsoft Windows"
 
-    To be continued...
+    Open a command prompt or a PowerShell and type: (1)
+    { .annotate }
+
+    1.  If you do not know how to open a command prompt,
+        see [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10        )
+
+    ``` sh
+    uvx boris-behav-obs
+    ```
 
 
 
 
-BORIS will launch, do **not** close the terminal whhile BORIS is running.
+
+
+
+BORIS will launch, do **not** close the terminal while BORIS is running.
 
 
 
