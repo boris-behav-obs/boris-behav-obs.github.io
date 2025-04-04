@@ -32,7 +32,7 @@ BORIS requires the installation of:
 * the [GraphViz](https://graphviz.org/) tool (Optional)
 
 
-=== "Ubuntu, Linux Mint, Raspberry OS"
+=== "Ubuntu, Linux Mint"
 
     Open a terminal and type: (1)
     { .annotate }
