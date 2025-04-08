@@ -17,6 +17,8 @@ BORIS is an easy-to-use event logging software for video/audio coding and live o
 
 BORIS is a free and open-source software available for GNU/Linux, Windows and MacOS.
 
+A [user guide](http://www.boris.unito.it/user_guide) is available.
+
 
 Kindly acknowledge and properly cite this software and its authors when using the results in publications or other forms of dissemination:
 

@@ -1,12 +1,9 @@
 ---
 author:
 - Olivier Friard
-slug: |
-  features
 summary: |
   Features
 title: Features
-
 hide:
   - navigation
   - toc
