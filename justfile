@@ -14,6 +14,7 @@ current_version:
 simple_build:
     uv run mkdocs build    
 
+
 simple_build_push: simple_build
     git add docs src
     git commit -am "web site update"
@@ -23,6 +24,17 @@ simple_build_push: simple_build
 add_news:
     tilde src/news.json
     uv run python src/create_feed.py src/news.json src/static/atom.xml 5
+
+
+# create the raw_citations.md file
+add_citations:
+    #if [ locate -b 'boris_citations.db' ]; then 
+    sqlite3 $(locate -b 'boris_citations.db') 'SELECT printf("%s. %s. %s (%s) %s(%s).%shttps://doi.org/%s%s", authors, title, journal, SUBSTRING(cover_date, 1,4), volume, issue, CHAR(10), doi, CHAR(10)) FROM citations ORDER BY cover_date DESC' > src/raw_citations.md 
+    #else
+    #echo 'File boris_citations.db not found'
+    #fi
+
+
 
 # build the web site
 build version date: add_news
@@ -59,8 +71,10 @@ push version date:
 # push and build to github repo
 build_push version date: (build version date) (push version date)
 
+
 serve:
     uv run mkdocs serve
+
 
 # start visual studio code
 modif:
