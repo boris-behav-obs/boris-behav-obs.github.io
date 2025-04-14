@@ -40,31 +40,33 @@ Kindly acknowledge and properly cite this software and its authors when using th
 
 If you find this software useful, please send me a [nice postcard](postcards.md) of the place where do you live.
 
-The v. 8 has great improvements due to the use of the [mpv media player](https://mpv.io), see [version 8](version8.md) for the details.
-
 
 
 ## [![Tux logo](images/tux_128px.png){width=64px} GNU-Linux](download_linux.md)
 
+
 ## [![microsoft windows logo](images/windows_logo.svg){width=72px} Microsoft-Windows](download_win.md)
 
+
 ## [![macos logo](images/mac-os.svg){width=64px} MacOS](download_mac.md)
+
 
 ## [![Android logo](images/android_logo.png){width=60px} BORIS App for Android](download_android.md)
 
 
 ## ![Raspberry Pi logo](images/raspberry_pi.svg){width="80px"} [Raspberry Pi 4](raspberry_pi_4.md)
 
+
 ## ![Chromebook logo](images/chrome_logo.svg){width="64px"} [Chromebook](chromebook.md)
 
 
 ## [![VirtualBox logo](images/virtualbox_logo.png){width=84px} VirtualBox virtual machine](virtual_machine.md)
 
+
 ## [![Docker logo](images/docker_logo.webp){width=84px} Docker image](docker.md)
 
 
 ## [![GitHub logo](images/PyPI_logo.svg){width="120px"}](https://github.com/olivierfriard/BORIS) [Install from the Python Package Index (Linux)](run_source_code.md)
-
 
 
 
