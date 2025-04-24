@@ -31,6 +31,12 @@ https://doi.org/10.1038/s41598-024-84364-6
 Lillian R. Jackson; Mariam Dumitrascu; Beau A. Alward. Sex differences in aggression and its neural substrate in a cichlid fish. Scientific Reports (2025) 15(1).
 https://doi.org/10.1038/s41598-024-84188-4
 
+Isabel Damas-Moreira; Lauriane Bégué; Eva Ringler; Birgit Szabo. Tokay geckos adjust their behaviour based on handler familiarity but according to context. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-95936-5
+
+Liselore Cariot; Janneke Noordman; Chantal Leemrijse; Mette van Ginkel; Sandra van Dulmen. Patient assertiveness and visit outcome in primary care: An observational study. Patient Education and Counseling (2025) 137().
+https://doi.org/10.1016/j.pec.2025.108789
+
 Thembani Mkhize; Janine Adams; Shirley Parker-Nance; Nicola James. Habitat use by juvenile fish in macroalgae and seagrass beds in a temperate South African seascape. Estuarine, Coastal and Shelf Science (2025) 319().
 https://doi.org/10.1016/j.ecss.2025.109258
 
@@ -40,6 +46,9 @@ https://doi.org/10.1016/j.bbi.2025.02.030
 Reinoud Elhorst; Martyna Syposz; Katarzyna Wojczulanis-Jakubas. BEHAVE - facilitating behaviour coding from videos with AI-detected animals. Ecological Informatics (2025) 87().
 https://doi.org/10.1016/j.ecoinf.2025.103106
 
+Sofia Z. Marketaki; Fidji Berio; Valentina Di Santo. Compensatory sensory mechanisms in naïve blind cavefish navigating novel environments after lateral line ablation. Comparative Biochemistry and Physiology -Part A : Molecular and Integrative Physiology (2025) 305().
+https://doi.org/10.1016/j.cbpa.2025.111863
+
 Madalyn Hafenbreidel; Thomas Vaissiere; Erica J Young; Meghana Arza; Cadence Fisher; Gavin Rumbaugh; Courtney A. Miller. Multiple memory object-drug association task (MODAT) for the study of polydrug associations. Addiction Neuroscience (2025) 15().
 https://doi.org/10.1016/j.addicn.2025.100204
 
@@ -48,6 +57,9 @@ https://doi.org/10.1016/j.dib.2025.111462
 
 Emma Hammond; Patrick Monari; Lila Kilponen; Yiru Chen; Anthony Auger; Catherine Marler. Oxytocin impairs wound-healing during social isolation but not social living. Psychoneuroendocrinology (2025) 176().
 https://doi.org/10.1016/j.psyneuen.2025.107445
+
+Tawfiqur Rahman; Ulrika Candolin. Species invasion has a larger impact on stickleback reproduction than warming of breeding habitat. Science of the Total Environment (2025) 978().
+https://doi.org/10.1016/j.scitotenv.2025.179447
 
 Virginie Rappeneau; Ann-Marie Tobinski; Leonardo Miguel Caisachana Guevara; Neele Meyer; Kay Jüngling; Chadi Touma. Role of the neuropeptide S receptor 1 rs324981 polymorphism in modulating emotionality and cognitive flexibility: Insights from a gene-edited mouse model. Behavioural Brain Research (2025) 485().
 https://doi.org/10.1016/j.bbr.2025.115530
@@ -73,8 +85,23 @@ https://doi.org/10.1016/j.applanim.2025.106596
 Daniela Černotová; Karolína Hrůzová; Jan Touš; Radek Janča; Aleš Stuchlík; David Levčík; Jan Svoboda. Early social deficits in TgF344-AD rats are accompanied by sex-specific parvalbumin-positive interneuron reduction and altered brain oscillations in the hippocampal CA2. Neurobiology of Disease (2025) 208().
 https://doi.org/10.1016/j.nbd.2025.106875
 
+John G. Gaspar; Brian Tefft; Cher Carney; William J. Horrey. Predicting Drowsy Driver Break Taking During Long Drives. Human Factors (2025) 67(5).
+https://doi.org/10.1177/00187208241293707
+
+Federica Amici; Manuela Ersson-Lembeck; Manfred Holodynski; Katja Liebal. Mother–Infant Face-to-Face Interactions Serve a Similar Function in Humans and Other Apes. Developmental Science (2025) 28(3).
+https://doi.org/10.1111/desc.70019
+
+Bianca Fusani; Andreia Ramos; Sara D. Cardoso; David Gonçalves. Vasotocin and oxytocin modulation of the endocrine and behavioral response to an aggressive challenge in male Siamese fighting fish. Hormones and Behavior (2025) 171().
+https://doi.org/10.1016/j.yhbeh.2025.105728
+
+Ai Miyasaka; Takeshi Kanda; Naoki Nonaka; Yuka Terakoshi; Yoan Cherasse; Yukiko Ishikawa; Yulong Li; Hotaka Takizawa; Arisa Hirano; Jun Seita; Masashi Yanagisawa; Takeshi Sakurai; Katsuyasu Sakurai; Qinghua Liu. Sequential transitions of male sexual behaviors driven by dual acetylcholine-dopamine dynamics. Neuron (2025) 113(8).
+https://doi.org/10.1016/j.neuron.2025.01.032
+
 Lorenzo Pasquali; Claudia Bruschini; Fulvia Benetello; Marco Bonifacino; Francesca Giannini; Elisa Monterastelli; Marco Penco; Sabrina Pesarini; Vania Salvati; Giulia Simbula; Marta Skowron Volponi; Stefania Smargiassi; Elia van Tongeren; Giorgio Vicari; Alessandro Cini; Leonardo Dapporto. Island-wide removal of honeybees reveals exploitative trophic competition with strongly declining wild bee populations. Current Biology (2025) 35(7).
 https://doi.org/10.1016/j.cub.2025.02.048
+
+Adrienne Y. Jo; Yihan Xie; Lisa M. Wooldridge; Sophie A. Rogers; Blake A. Kimmey; Amrith Rodrigues; Raquel Adaia Sandoval Ortega; Kate Townsend Creasy; Kevin T. Beier; Julie A. Blendy; Gregory Corder. VTA µ-Opioidergic Neurons Facilitate Low Sociability in Protracted Opioid Abstinence. Journal of Neuroscience (2025) 45(14).
+https://doi.org/10.1523/JNEUROSCI.1154-24.2025
 
 Marcus Gurtner; Ryan Gage; Moira Smith; James Stanley; Louise Signal. Child’s-eye views of smartphone-based gaming content: objective insights from Aotearoa New Zealand. Health Promotion International (2025) 40(2).
 https://doi.org/10.1093/heapro/daae195
@@ -111,6 +138,18 @@ https://doi.org/10.1016/j.yhbeh.2025.105723
 
 Emily Webberson; Anastasia C. Stellato; Kristina A. O'Hanley; Lingna Zhang; Edgar O. Aviles-Rosa. Sniffing for fun: Evaluating the effect of olfactory enrichment on cats’ toy preference and interaction. Applied Animal Behaviour Science (2025) 285().
 https://doi.org/10.1016/j.applanim.2025.106592
+
+Tom Mulder; Yiyuan Yang; Ellen Morley; Thomas E. Miller; Daniel Hending; Graham K. Taylor; Beth Mortimer. Constraints on percussive seismic signals in a noisy environment by European fiddler crabs, Afruca tangeri. Journal of Experimental Biology (2025) 228(7).
+https://doi.org/10.1242/jeb.249323
+
+Sam Ellington Soule; Miguel Cabanellas-Reboredo; Ángel F. González; Hidde Juijn; Jorge Hernández-Urcera. The Persistence of Memory: Behavioral Analysis and Arm Usage of a Nine-Armed Octopus vulgaris. Animals (2025) 15(7).
+https://doi.org/10.3390/ani15071034
+
+Sierra D. Jarriel; Youenn Jézéquel; Nathan Formel; Seth Cones; Jenni A. Stanley; T. Aran Mooney. Pile driving sound induces short-term behavioral changes in black sea bass (Centropristis striata): A field studya). Journal of the Acoustical Society of America (2025) 157(4).
+https://doi.org/10.1121/10.0036347
+
+Josephine Hubbard; Brenda McCowan. Innovation, Inhibition and Flexibility in Rhesus Macaques (Macaca mulatta). American Journal of Primatology (2025) 87(4).
+https://doi.org/10.1002/ajp.70027
 
 Barkha J. Yadav-Samudrala; Aryan P. Yadav; Rahul P. Patel; Sylvia Fitting. HIV-1 Tat protein alters medial prefrontal cortex neuronal activity and recognition memory. iScience (2025) 28(3).
 https://doi.org/10.1016/j.isci.2025.112075
@@ -213,6 +252,12 @@ https://doi.org/10.1002/ece3.70882
 
 Janja Sirovnik; Rebecca Simon; Anina Vogt; Kerstin Barth; Steve Smith; Susanne Waiblinger; Gesine Lühken; Uta König von Borstel. Relative telomere length in dairy calves and dams undergoing two different methods of weaning and separation after three months of contact. PLoS ONE (2025) 20(3 March).
 https://doi.org/10.1371/journal.pone.0319156
+
+Inês Cacela-Rodrigues; Sandra Trigo; Heloysa Araujo-Silva; Joaõ L. Saraiva; Marta C. Soares. Client reef fish prefer more blue-saturated cleaner wrasses Labroides dimidiatus. Journal of Experimental Biology (2025) 228(6).
+https://doi.org/10.1242/jeb.249694
+
+Bethany L. Williams; Lauren M. Pintor; Suzanne M. Gray. Alteration of reproductive behaviors by aromatase inhibition is population dependent in an African cichlid fish. Journal of Experimental Biology (2025) 228(6).
+https://doi.org/10.1242/jeb.249497
 
 Kayla M. Goforth; Catherine M. F. Lohmann; Andrew Gavin; Reyco Henning; Andrew Harvey; Tara L. Hinton; Dana S. Lim; Kenneth J. Lohmann. Learned magnetic map cues and two mechanisms of magnetoreception in turtles. Nature (2025) 638(8052).
 https://doi.org/10.1038/s41586-024-08554-y
@@ -471,6 +516,36 @@ https://doi.org/10.3389/fmars.2025.1518605
 
 Noelia Ríos; María Jimenez; Gustavo Franco; Gonçalo Ramos; Miguel Pessanha Pais; Emanuel J. Gonçalves; Maria Clara P. Amorim; Gonçalo Silva. Characterising the behaviour of bait-attracted blue sharks Prionace glauca using pelagic drift video. Marine Ecology Progress Series (2025) 753().
 https://doi.org/10.3354/meps14765
+
+Justine Alary; Elias Bou-Maroun; Laurence Dujourdy; Nicolas Sok; Catherine Husson; Bruno Patris; Benoist Schaal; Alexandra Destrez. Do lactating ewes guide lambs to their teats by smell? Perinatal change in inguinal wax composition and lambs’ reaction to it. Mammalian Biology (2025) ().
+https://doi.org/10.1007/s42991-025-00491-1
+
+Leslie Ann Ormenita; Alberto T. Barrion; Jose Isagani Janairo; Dionisio Alvindia; Thaddeus Carvajal; Joeselle Serrana; Divina M. Amalin. Copulation behaviour of Helopeltis bakeri Poppius (Hemiptera: Miridae) under laboratory conditions. Bulletin of Entomological Research (2025) ().
+https://doi.org/10.1017/S0007485325000185
+
+Nausheen Saeed; Moudud Alam; Roger G. Nyberg. Automatic detection of loose gravel condition using acoustic observations. Road Materials and Pavement Design (2025) 26(4).
+https://doi.org/10.1080/14680629.2024.2389426
+
+Hong Lu; Kyle M. Roddick; Yuan Ge; Long Zuo; Peng Zhang; Olivia Lam; Klara Marsh; Rachel O. L. Wong; Richard E. Brown; Ann Marie Craig. Targeted splicing approach for alleviation of a neurexin 1 haploinsufficiency model. Molecular Psychiatry (2025) ().
+https://doi.org/10.1038/s41380-025-03017-w
+
+Helen M. K. Harvie; Alejandro Rodrigo; Ryan J. Giuliano. Assessing Whether Household Pets Buffer Responses to a Remote Stress Induction. Anthrozoos (2025) ().
+https://doi.org/10.1080/08927936.2025.2482328
+
+Gabriele Bolletta; Sten Boonen; Maarten A. Jongsma; Niel Verachtert; Marcel Dicke; Karen J. Kloth; Apostolos Pekas. To share or not to share: prey-sharing behavior in the larvae of two aphid predators and implications for biological pest control. Journal of Pest Science (2025) ().
+https://doi.org/10.1007/s10340-025-01886-2
+
+Riva J. Riley; Young Mi Kwon; Andrea Manica; James L. Savage. Familiarity dampens the effect of boldness on coordination in three-spined sticklebacks. Behaviour (2025) ().
+https://doi.org/10.1163/1568539X-bja10300
+
+Emmeline Howarth; Claire Witham; Emily Bethell. Does Measuring Social Attention Lead to Changes in Behavior? A Preliminary Investigation into the Implications of Attention Bias Trials on Behavior in Rhesus Macaques. Journal of Applied Animal Welfare Science (2025) ().
+https://doi.org/10.1080/10888705.2025.2486351
+
+Ginevra D'Ottavio; Sara Pezza; Jacopo Modoni; Ingrid Reverte; Claudia Marchetti; Soami F. Zenoni; Silvana De Pirro; Daniela Maftei; Roberta Lattanzi; Giuseppe Esposito; Davide Ragozzino; Emiliano Merlo; Marco Venniro; Roberto Ciccocioppo; Fabio Fumagalli; Michele S. Milella; Aldo Badiani; Fernando Boix; Daniele Caprioli. Behavioural and pharmacokinetic analysis of heroin and cocaine self-administration: Effects of timeout on self-administration and choice in male rats. British Journal of Pharmacology (2025) ().
+https://doi.org/10.1111/bph.70023
+
+Mona Storms; Tobias Degen; Jacqueline Degen. Female moths call in vain: Streetlights diminish the promise of mating. Ecological Entomology (2025) ().
+https://doi.org/10.1111/een.13441
 
 Camilla Mancini; Lucy Babicola; Gilda Chila; Matteo Di Segni; Diana Municchi; Sebastian Luca D'Addario; Elena Spoleti; Alice Passeri; Carlo Cifani; Diego Andolina; Simona Cabib; Fabio Ferlazzo; Marco Iosa; Rodolfo Rossi; Giorgio Di Lorenzo; Massimiliano Renzi; Rossella Ventura. Secure attachment to caregiver prevents adult depressive symptoms in a sex-dependent manner: A translational study. iScience (2024) 27(12).
 https://doi.org/10.1016/j.isci.2024.111328
@@ -1947,6 +2022,9 @@ https://doi.org/10.1080/10888705.2022.2063019
 
 Maria de las Mercedes Guerisoli; Javier Pereira. Behavioral response of captive marsh deer to an economic and easy-to-install repellent: a potential mitigation solution for conflict?. International Journal of Pest Management (2024) 70(4).
 https://doi.org/10.1080/09670874.2021.2024619
+
+Wenjing Wang; Théophile Turco; Paulo J. Fonseca; Raquel O. Vasconcelos; Gérard Coureaud; Maria Clara P. Amorim; Marilyn Beauchaud. Chronic Boat Noise Impacts on the Early Life Stages of Cichlids (Maylandia zebra): Preliminary Findings. The Effects of Noise on Aquatic Life: Principles and Practical Considerations (2024) ().
+https://doi.org/10.1007/978-3-031-50256-9_179
 
 Renato Socodato; Tiago O. Almeida; Camila C. Portugal; Evelyn C.S. Santos; Joana Tedim-Moreira; João Galvão-Ferreira; Teresa Canedo; Filipa I. Baptista; Ana Magalhães; António F. Ambrósio; Cord Brakebusch; Boris Rubinstein; Irina S. Moreira; Teresa Summavielle; Inês Mendes Pinto; João B. Relvas. Microglial Rac1 is essential for experience-dependent brain plasticity and cognitive performance. Cell Reports (2023) 42(12).
 https://doi.org/10.1016/j.celrep.2023.113447
