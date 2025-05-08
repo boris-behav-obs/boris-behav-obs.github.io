@@ -1,3 +1,7 @@
+**2025-05-08: Release of version 9.3.4 is available**
+
+The version 9.3.4 is available. Some bugs fixed
+
 **2025-04-08: Release of version 9.3.2 is available**
 
 The version 9.3.2 is available. Bug #851 fixed
@@ -13,8 +17,4 @@ The version 9.2.3 is available. https://github.com/olivierfriard/BORIS/wiki/BORI
 **2025-03-28: Release of version 9.2.2 is available**
 
 The version 9.2.2 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
-
-**2025-03-18: Release of version 9.2.1 is available**
-
-The version 9.2.1 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
 
