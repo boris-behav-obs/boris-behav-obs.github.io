@@ -1,3 +1,7 @@
+**2025-05-12: Release of version 9.3.5 is available**
+
+The version 9.3.5 is available. Some improvements and some bugs fixed
+
 **2025-05-08: Release of version 9.3.4 is available**
 
 The version 9.3.4 is available. Some bugs fixed
@@ -13,8 +17,4 @@ The version 9.3.1 is available. Some bugs fixed and coding maps improved. See ht
 **2025-04-02: Release of version 9.2.3 is available**
 
 The version 9.2.3 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
-
-**2025-03-28: Release of version 9.2.2 is available**
-
-The version 9.2.2 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
 
