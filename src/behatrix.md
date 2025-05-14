@@ -39,7 +39,7 @@ and can also be used as a standalone program.
 -   Flow diagram generation with transitions significativity
 -   Behavioral sequences distances: **Levenshtein distances** and **Needleman-Wunsch identities**
 
-The flow diagram generation requires the the [Graphviz](https://graphviz.org/) open source graph visualization software.
+The flow diagram generation requires the [Graphviz](https://graphviz.org/) open source graph visualization software.
 
 
 
