@@ -1,5 +1,16 @@
 {
 
+"110":
+{
+"id": "tag:www.boris.unito.it,2025-05-29",
+"title": "2025-06-12: Release of version 9.5 is available",
+"summary": "The version 9.4.1 is available. Introduced the possibility to use R plugins for analysis.",
+"content": "The version 9.4.1 is available. Introduced the possibility to use R plugins for analysis.",
+"updated": "'2025-06-12 18:00:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "109":
 {
 "id": "tag:www.boris.unito.it,2025-05-29",
