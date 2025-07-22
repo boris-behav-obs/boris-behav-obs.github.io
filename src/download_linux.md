@@ -70,7 +70,7 @@ BORIS requires the installation of:
 
 ## Run BORIS
 
-#### Download the [BORIS AppImage 64-bit v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/BORIS-x86_64.AppImage)
+#### Download the [BORIS AppImage 64-bit v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/BORIS-{{ boris.version }}-x86_64.AppImage)
 
 
 #### Make it executable (1) { .annotate }

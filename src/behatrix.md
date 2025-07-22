@@ -39,7 +39,9 @@ and can also be used as a standalone program.
 -   Flow diagram generation with transitions significativity
 -   Behavioral sequences distances: **Levenshtein distances** and **Needleman-Wunsch identities**
 
-The flow diagram generation requires the the [Graphviz](https://graphviz.org/) open source graph visualization software.
+The flow diagram generation requires the [Graphviz](https://graphviz.org/) open source graph visualization software.
+
+
 
 
 # User guide
@@ -47,9 +49,8 @@ The flow diagram generation requires the the [Graphviz](https://graphviz.org/) o
 [Usage of Behatrix](https://github.com/olivierfriard/behatrix/blob/master/user_guide.md)
 
 
-# Download Behatrix
 
 
-[Latest release on GitHub repository](https://github.com/olivierfriard/behatrix/releases/latest)
+[Behatrix GitHub repository](https://github.com/olivierfriard/behatrix)
 
-[Issues and feature request](https://github.com/olivierfriard/behatrix/issues) on GitHub
+Please report [issues and feature request](https://github.com/olivierfriard/behatrix/issues) on GitHub

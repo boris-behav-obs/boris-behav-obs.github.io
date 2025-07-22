@@ -1,20 +1,20 @@
-**2025-04-08: Release of version 9.3.1 is available**
+**2025-06-12: Release of version 9.5 is available**
 
-The version 9.3.1 is available. Some bugs fixed and coding maps improved. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
+The version 9.4.1 is available. Introduced the possibility to use R plugins for analysis.
 
-**2025-04-02: Release of version 9.2.3 is available**
+**2025-05-29: Release of version 9.4.1 is available**
 
-The version 9.2.3 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
+The version 9.4.1 is available. bug #864 fixed
 
-**2025-03-28: Release of version 9.2.2 is available**
+**2025-05-12: Release of version 9.4 is available**
 
-The version 9.2.2 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
+The version 9.4 is available. Some improvements and some bugs fixed
 
-**2025-03-18: Release of version 9.2.1 is available**
+**2025-05-12: Release of version 9.3.5 is available**
 
-The version 9.2.1 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
+The version 9.3.5 is available. Some improvements and some bugs fixed
 
-**2025-03-13: Release of version 9.1.1 is available**
+**2025-05-08: Release of version 9.3.4 is available**
 
-The version 9.1.1 is available. https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
+The version 9.3.4 is available. Some bugs fixed
 

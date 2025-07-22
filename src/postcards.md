@@ -17,6 +17,10 @@ Via dell'Accademia Albertina, 13
 I-10123 TORINO (ITALY)  
 
 
+![postcard38_b.jpg](postcards/postcard38_b.jpg){width="512px"}
+
+![postcard38_a.jpg](postcards/postcard38_a.jpg){width="512px"}
+
 
 ![postcard37_b.jpg](postcards/postcard37_b.jpg){width="512px"}
 
