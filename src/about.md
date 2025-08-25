@@ -56,3 +56,11 @@ For suggestion and feature request please use the [GitHub repository](https://gi
 ## Credits
 
 {% include 'credits.md' %}
+
+
+## License
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+[GNU General Public License v.3](https://www.gnu.org/licenses/gpl-3.0.html) for more details.

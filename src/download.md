@@ -41,6 +41,12 @@ Kindly acknowledge and properly cite this software and its authors when using th
 If you find this software useful, please send me a [nice postcard](postcards.md) of the place where do you live.
 
 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+[GNU General Public License v.3](https://www.gnu.org/licenses/gpl-3.0.html) for more details.
+
+
 
 ## [![Tux logo](images/tux_128px.png){width=64px} GNU-Linux](download_linux.md)
 

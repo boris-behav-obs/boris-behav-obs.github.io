@@ -19,6 +19,13 @@ Kindly acknowledge and properly cite this software and its authors when using th
 
 {% include 'citation.md' %}
 
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+[GNU General Public License v.3](https://www.gnu.org/licenses/gpl-3.0.html) for more details.
+
+
 ## General information
 
 The [**user guide**](http://www.boris.unito.it/user_guide) is available, so take a look before asking ;-)
