@@ -1,5 +1,16 @@
 {
 
+"111":
+{
+"id": "tag:www.boris.unito.it,2025-08-05",
+"title": "2025-06-12: Release of version 9.6.2 is available",
+"summary": "The version 9.6.2 is available. Fixed bugs #883 and #885. Added 4 plugins with new implementations of the IRR Cohen's kappa (weighted and unweighted, with or without modifiers) See https://github.com/olivierfriard/BORIS/tree/master/boris/analysis_plugins",
+"content": "The version 9.6.2 is available. Fixed bugs #883 and #885. Added 4 plugins with new implementations of the IRR Cohen's kappa (weighted and unweighted, with or without modifiers) See https://github.com/olivierfriard/BORIS/tree/master/boris/analysis_plugins",
+"updated": "'2025-08-05 18:00:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "110":
 {
 "id": "tag:www.boris.unito.it,2025-05-29",
