@@ -1,3 +1,7 @@
+**2025-08-29: Release of version 9.6.4 is available**
+
+The version 9.6.4 is available. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
+
 **2025-08-26: Release of version 9.6.3 is available**
 
 The version 9.6.3 is available. Fixed bugs #875 and #886
@@ -13,8 +17,4 @@ The version 9.4.1 is available. Introduced the possibility to use R plugins for 
 **2025-05-29: Release of version 9.4.1 is available**
 
 The version 9.4.1 is available. bug #864 fixed
-
-**2025-05-12: Release of version 9.4 is available**
-
-The version 9.4 is available. Some improvements and some bugs fixed
 
