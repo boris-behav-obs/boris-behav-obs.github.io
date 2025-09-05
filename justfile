@@ -16,7 +16,7 @@ simple_build:
 
 
 simple_build_push: simple_build
-    git add docs src
+    git add src
     git commit -am "web site update"
     git push
     
@@ -63,7 +63,7 @@ build version date: add_news
 
 # push web site to github repo
 push version date:
-    git add docs src
+    git add src
     git commit -am "web site for version {{version}} ({{date}})"
     git push
 

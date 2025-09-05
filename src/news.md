@@ -1,3 +1,7 @@
+**2025-09-02: Release of version 9.6.5 is available**
+
+The version 9.6.5 is available. The IRR Cohen's kappa plugins were improved: a value for rounding times can now be selected
+
 **2025-08-29: Release of version 9.6.4 is available**
 
 The version 9.6.4 is available. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8
@@ -13,8 +17,4 @@ The version 9.6.2 is available. Fixed bugs #883 and #885. Added 4 plugins with n
 **2025-06-12: Release of version 9.5 is available**
 
 The version 9.4.1 is available. Introduced the possibility to use R plugins for analysis.
-
-**2025-05-29: Release of version 9.4.1 is available**
-
-The version 9.4.1 is available. bug #864 fixed
 

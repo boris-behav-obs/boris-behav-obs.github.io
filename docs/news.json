@@ -1,5 +1,16 @@
 {
 
+"114":
+{
+"id": "tag:www.boris.unito.it,2025-09-02",
+"title": "2025-09-02: Release of version 9.6.5 is available",
+"summary": "The version 9.6.5 is available. The IRR Cohen's kappa plugins were improved: a value for rounding times can now be selected",
+"content": "The version 9.6.5 is available. The IRR Cohen's kappa plugins were improved: a value for rounding times can now be selected",
+"updated": "'2025-09-02 18:00:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "113":
 {
 "id": "tag:www.boris.unito.it,2025-08-29",
