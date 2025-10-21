@@ -9,10 +9,11 @@ title: BORIS web site
 glightbox: false
 ---
 
-
+<!--
 [![](images/unocha.webp)](https://www.unocha.org/news/un-relief-chief-says-gaza-famine-must-spur-world-urgent-action)
 
 # **UN Relief Chief says Gaza famine “must spur the world to urgent action” [Gaza Strip: Acute Food Insecurity Situation](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1159696/)**
+-->
 
 ![BORIS logo](images/logo_boris.svg){width=200px}
 
@@ -58,4 +59,3 @@ DOI: [10.1111/2041-210X.12584](http://onlinelibrary.wiley.com/doi/10.1111/2041-2
 
 
 {% include 'news.md' %}
-

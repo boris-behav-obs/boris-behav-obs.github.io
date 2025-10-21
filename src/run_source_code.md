@@ -43,9 +43,9 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 
 
     ``` sh
-    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 
+    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0
 
-    # your password will be required 
+    # your password will be required
     ```
 
 
@@ -77,7 +77,7 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 
     !!! Note
 
-        **winget** (Windows Package Manager) is a command-line tool for installing, updating, configuring, and managing software on Windows. 
+        **winget** (Windows Package Manager) is a command-line tool for installing, updating, configuring, and managing software on Windows.
 
 
 
@@ -86,10 +86,9 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 # Run BORIS
 
 
-## Install the uv Python package and project manager from Astral
+## Install the uv Python package and project manager from [Astral](https://docs.astral.sh/uv/getting-started/installation/)
 
-See https://docs.astral.sh/uv/getting-started/installation/
-
+[uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K starts on [GitHub](https://github.com/astral-sh/uv)
 
 ## Launch BORIS
 
@@ -134,7 +133,7 @@ BORIS will launch, do **not** close the terminal while BORIS is running.
 
 
 !!! Warning "Additional libraries"
-   
+
 
     On **Ubuntu 20.04** it can be necessary to install the following libraries:
 
