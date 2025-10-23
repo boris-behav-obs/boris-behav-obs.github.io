@@ -62,7 +62,7 @@ Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to 
 
 ### Install **Homebrew** if not already installed from [https://brew.sh](https://brew.sh)
 
-Homebrew is "The Missing Package Manager for macOS" and has more then 45K starts on [GitHub](https://github.com/Homebrew/brew).
+Homebrew is "The Missing Package Manager for macOS" and has more then 45K stars on [GitHub](https://github.com/Homebrew/brew).
 
 
 ### Install **FFmpeg** with Homebrew
@@ -114,7 +114,7 @@ Python’s ctypes and many C-based Python packages like [mpv](https://pypi.org/p
 
 ### Install the uv Python package and project manager from [Astral](https://docs.astral.sh/uv/getting-started/installation/)
 
-[uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K starts on [GitHub](https://github.com/astral-sh/uv)
+[uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K stars on [GitHub](https://github.com/astral-sh/uv)
 
 ### Install and launch BORIS with uvx
 
