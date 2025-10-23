@@ -29,7 +29,7 @@ add_news:
 # create the raw_citations.md file
 add_citations:
     #if [ locate -b 'boris_citations.db' ]; then 
-    sqlite3 $(locate -b 'boris_citations.db') 'SELECT printf("%s. %s. %s (%s) %s(%s).%shttps://doi.org/%s%s", authors, title, journal, SUBSTRING(cover_date, 1,4), volume, issue, CHAR(10), doi, CHAR(10)) FROM citations ORDER BY cover_date DESC' > src/raw_citations.md 
+    sqlite3 $HOME/gdrive_sync/src/python/pyobserver/deployment/boris_citations.db 'SELECT printf("%s. %s. %s (%s) %s(%s).%shttps://doi.org/%s%s", authors, title, journal, SUBSTRING(cover_date, 1,4), volume, issue, CHAR(10), doi, CHAR(10)) FROM citations ORDER BY cover_date DESC' > src/raw_citations.md 
     #else
     #echo 'File boris_citations.db not found'
     #fi

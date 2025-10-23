@@ -42,7 +42,7 @@ See the [how to report a bug](report_a_bug.md) page
 
 ## Notes / caveats on macOS Support before installing
 
-On Linux and Windows, BORIS embeds mpv directly into the Qt interface using the libmpv render API.
+On Linux and Windows, BORIS embeds mpv (the media player [web site](https://mpv.io/)) directly into the Qt interface using the libmpv render API.
 
 Unfortunately, on macOS this is not yet possible because:
 - Apple does not provide native OpenGL beyond version 4.1, and is deprecating it in favor of Metal.
@@ -52,7 +52,7 @@ Unfortunately, on macOS this is not yet possible because:
 Because of this limitation, this macOS version of BORIS uses a **floating mpv window** launched alongside the BORIS GUI. This allows full scoring and analysis functionality, but the video window is separate rather than integrated.
 When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, integration inside the Qt window on macOS may become possible.
 
-Therefore the wrapper has mpv open alongside BORIS where you start video in mpv player then **click back to BORIS window** and score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.
+Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to click on the BORIS window** to score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.
 
 
 ## How to install and run on MacOS
@@ -138,7 +138,7 @@ To launch a specific version of BORIS:
 
 
 
-
+Remember that it is **VERY IMPORTANT to click on the BORIS window** to score your media file otherwise the key press will **NOT** be recorded.
 
 
 

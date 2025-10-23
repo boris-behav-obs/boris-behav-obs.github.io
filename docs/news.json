@@ -1,5 +1,15 @@
 {
 
+"115":
+{
+"id": "tag:www.boris.unito.it,2025-10-22",
+"title": "2025-10-22: Release of version 9.7.1",
+"summary": "The version 9.7.1 is available. This version should run om macOS natively with some limits. See https://www.boris.unito.it/download_mac",
+"content": "The version 9.7.1 is available. This version should run om macOS natively with some limits. See https://www.boris.unito.it/download_mac",
+"updated": "'2025-10-22 22:00:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
 "114":
 {
 "id": "tag:www.boris.unito.it,2025-09-02",
@@ -15,8 +25,8 @@
 {
 "id": "tag:www.boris.unito.it,2025-08-29",
 "title": "2025-08-29: Release of version 9.6.4 is available",
-"summary": "The version 9.6.4 is available. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8",
-"content": "The version 9.6.4 is available. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8",
+"summary": "The version 9.6.4 is available. See [changelog](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8)",
+"content": "The version 9.6.4 is available. See [changelog](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8)",
 "updated": "'2025-08-29 18:00:00+02:00'",
 "link": "https://www.boris.unito.it/download"
 },

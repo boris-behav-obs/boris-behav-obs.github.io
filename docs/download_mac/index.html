@@ -586,62 +586,139 @@ DOI: 10.1111/2041-210X.12584
 http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract
 </code></pre></div>
 <h1 id="general-information">General information</h1>
-<p><strong>BORIS v.9.6.5 is not yet available for MacOS.</strong></p>
+<p><strong>An EXPERIMENTAL version of BORIS  is available for MacOS (v.9.7.1).</strong></p>
+<p>The author would like to thank <a href="https://github.com/dsanmiguel">dsanmiguel</a> for his initial work on making BORIS run on macOS.
+Most of the following material was written by him.</p>
+<p>Please report any issues or caveats related to the installation or use of BORIS on macOS.
+See the <a href="../report_a_bug/">how to report a bug</a> page</p>
+<div class="admonition danger">
+<p class="admonition-title"><strong>EXTREMELY IMPORTANT</strong></p>
+<p>This is an <strong>experimental</strong> version and BORIS is distributed <strong>WITHOUT ANY WARRANTY</strong>.</p>
+<p>Please remember that it is extremely important to regularly back up your project files to prevent data loss.
+While software can be reinstalled, your data might be lost forever if not properly backed up.
+Use an external drive and/or a cloud service for your backups.
+Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).</p>
+</div>
+<h2 id="notes-caveats-on-macos-support-before-installing">Notes / caveats on macOS Support before installing</h2>
+<p>On Linux and Windows, BORIS embeds mpv (the media player <a href="https://mpv.io/">web site</a>) directly into the Qt interface using the libmpv render API.</p>
+<p>Unfortunately, on macOS this is not yet possible because:
+- Apple does not provide native OpenGL beyond version 4.1, and is deprecating it in favor of Metal.
+- mpv’s embedded render API (vo=libmpv) only supports OpenGL, not Vulkan or Metal.
+- mpv’s newer GPU backends (vo=gpu, vo=gpu-next) do support Metal/Vulkan through libplacebo and MoltenVK, but those only work in mpv’s own floating window — they cannot currently be embedded inside a Qt widget.</p>
+<p>Because of this limitation, this macOS version of BORIS uses a <strong>floating mpv window</strong> launched alongside the BORIS GUI. This allows full scoring and analysis functionality, but the video window is separate rather than integrated.
+When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, integration inside the Qt window on macOS may become possible.</p>
+<p>Therefore the wrapper has mpv open alongside BORIS so it is <strong>VERY IMPORTANT to click on the BORIS window</strong> to score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.</p>
+<h2 id="how-to-install-and-run-on-macos">How to install and run on MacOS</h2>
+<h3 id="install-homebrew-if-not-already-installed-from-httpsbrewsh">Install homebrew if not already installed from <a href="https://brew.sh">https://brew.sh</a></h3>
+<p>Homebrew is "The Missing Package Manager for macOS" and has more then 45K starts on <a href="https://github.com/Homebrew/brew">GitHub</a>.</p>
+<h3 id="install-ffmpeg-with-homebrew">Install FFmpeg with Homebrew</h3>
+<p><a href="https://ffmpeg.org/">FFmpeg</a> is "a complete, cross-platform solution to record, convert and stream audio and video."</p>
+<p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
+<ol>
+<li>If you do not know how to open a terminal,
+    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
+</ol>
+<p><code>brew install ffmpeg</code></p>
+<h3 id="install-mpv-with-homebrew">Install mpv with Homebrew</h3>
+<p><a href="https://mpv.io/">mpv</a> is "a free, open source, and cross-platform media player".</p>
+<p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
+<ol>
+<li>If you do not know how to open a terminal,
+    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
+</ol>
+<p><code>brew install --HEAD mpv</code></p>
+<h3 id="3-symlink-libmpv-to-to-usrlocallib">3) Symlink libmpv to to /usr/local/lib</h3>
+<p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
+<ol>
+<li>If you do not know how to open a terminal,
+    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
+</ol>
+<p><code>sudo ln -s /opt/homebrew/lib/libmpv.dylib /usr/local/lib/libmpv.dylib</code></p>
+<p>When the password will be required, enter the password of your profile.</p>
+<p><strong><em>Why symlink?</em></strong>
+Python’s ctypes and many C-based Python packages like <a href="https://pypi.org/project/mpv/">mpv</a> don’t use Homebrew’s paths (/opt/homebrew/lib) unless explicitly told to. Instead, they search system library paths such as:</p>
+<ul>
+<li>/usr/lib</li>
+<li>/usr/local/lib</li>
+</ul>
+<h3 id="4-install-the-uv-python-package-and-project-manager-from-astral">4) Install the uv Python package and project manager from <a href="https://docs.astral.sh/uv/getting-started/installation/">Astral</a></h3>
+<p><a href="https://docs.astral.sh/uv/">uv</a> is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K starts on <a href="https://github.com/astral-sh/uv">GitHub</a></p>
+<h3 id="5-install-and-launch-boris-with-uvx">5) Install and launch BORIS with uvx</h3>
+<p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
+<ol>
+<li>If you do not know how to open a terminal,
+    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
+</ol>
+<p><code>uvx boris-behav-obs</code></p>
+<p>The next time you want to launch BORIS just open a terminal and type the command:</p>
+<p><code>uvx boris-behav-obs</code></p>
+<p>To launch a specific version of BORIS:</p>
+<p><code>uvx boris-behav-obs==9.6.6</code></p>
+<p>Remember that it is <strong>VERY IMPORTANT to click on the BORIS window</strong> to score your media file otherwise the key press will <strong>NOT</strong> be recorded.</p>
 <!--
-This situation is not due to the very restrictive Apple's policy, as described in the article "[Sideloading is a best cybercriminal's best friend](https://arstechnica.com/gadgets/2021/11/apples-federighi-delivers-dramatic-speech-on-dangers-of-sideloading/)", but rather due to a technical issue.
+This situation is not due to the very restrictive Apple's policy, but rather due to a technical issue.
+
+After switching to mpv (previously, the VLC media player was used until version 8), I have been unable to obtain a functioning libmpv library in order to run BORIS on MacOS.
+The fact of not having access to a physical computer with macOS, but only to virtual machines, makes solving the problem more difficult.
+All contributions for compiling and using this library are welcome.
+
+
+If you want to run v.9.7.1 on your MacOS you have various possibilities.
+
+For Mac computers with [Apple Silicon](https://support.apple.com/en-us/116943):
+
+- Use [VMWARE Fusion](https://drive.google.com/file/d/19DJJRuRmeUv6vYz1GYUax8SVLeTXbZsh/view?usp=sharing) to run a virtual machine. A
+    [Microsoft-Windows 11 virtual machine](https://drive.google.com/file/d/1A-jr8Up4x6p6pNk6B3ikVS2DflbStx-x/view?usp=drive_link) is available with BORIS already installed (password for encrypted volume: **h2MZZR+Ln7ZFVVh6** - Windows 11 credentials: **user/user**).
+
+
+-   Use [Parallels® Desktop for Mac](https://www.parallels.com/products/desktop) (proprietary software).
+     Take care to extract the BORIS archive in the Windows file system  _c:\Users\Bob_ for example)
+
+
+For Mac computers with Intel:
+
+
+- [Install a dual boot system](https://www.makeuseof.com/tag/install-linux-macbook-pro)
+([Why use Linux](https://itsfoss.com/why-use-linux/))
+
+
+
+- Use [UTM](https://mac.getutm.app) a virtual machine host based on
+    QEMU to run Linux or Windows as guest OS on your Mac.
+
+
+-   Use [Virtualbox](https://www.virtualbox.org) to run Linux or Windows
+    as guest OS on your Mac (free and open-source software). A Linux
+    virtual machine with BORIS installed is available. See [Linux virtual machine](virtual_machine.md)
+
+-   Use [Parallels® Desktop for Mac](https://www.parallels.com/products/desktop) (proprietary software).
+     Take care to extract the BORIS archive in the Windows file system  _c:\Users\Bob_ for example)
+
+
+-   [Boot Camp Assistant](https://support.apple.com/guide/bootcamp-assistant/welcome/mac)
+
+
+-   [Running GUI Linux in a virtual machine on a
+    Mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac)
+
+
+
+-   A docker image is available at <https://hub.docker.com/r/olivierfriard/boris> (see the
+    [start_macOS.command](https://github.com/olivierfriard/BORIS/blob/master/scripts/start_macOS.command) script)
+
+
+
+
+Refer to the [change log](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8) for a detailed summary of version updates.
+
+
+
+
+The last version of BORIS that is running natively on MacOS is [7.13.9](https://github.com/olivierfriard/BORIS/releases/tag/v7.13.9).
+This version is 2 years old and is no longer maintained. [Many bugs were fixed](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8) and [features were added](version8.md) in the current version.
+Please note that issues will only be accepted if you are using the latest version.
 -->
 
-<p>This situation is not due to the very restrictive Apple's policy, but rather due to a technical issue.</p>
-<p>After switching to mpv (previously, the VLC media player was used until version 8), I have been unable to obtain a functioning libmpv library in order to run BORIS on MacOS.
-The fact of not having access to a physical computer with macOS, but only to virtual machines, makes solving the problem more difficult.
-All contributions for compiling and using this library are welcome.</p>
-<p>If you want to run v.9.6.5 on your MacOS you have various possibilities.</p>
-<p>For Mac computers with <a href="https://support.apple.com/en-us/116943">Apple Silicon</a>:</p>
-<ul>
-<li>
-<p>Use <a href="https://drive.google.com/file/d/19DJJRuRmeUv6vYz1GYUax8SVLeTXbZsh/view?usp=sharing">VMWARE Fusion</a> to run a virtual machine. A 
-    <a href="https://drive.google.com/file/d/1A-jr8Up4x6p6pNk6B3ikVS2DflbStx-x/view?usp=drive_link">Microsoft-Windows 11 virtual machine</a> is available with BORIS already installed (password for encrypted volume: <strong>h2MZZR+Ln7ZFVVh6</strong> - Windows 11 credentials: <strong>user/user</strong>).</p>
-</li>
-<li>
-<p>Use <a href="https://www.parallels.com/products/desktop">Parallels® Desktop for Mac</a> (proprietary software).
-     Take care to extract the BORIS archive in the Windows file system  <em>c:\Users\Bob</em> for example)</p>
-</li>
-</ul>
-<p>For Mac computers with Intel:</p>
-<ul>
-<li>
-<p><a href="https://www.makeuseof.com/tag/install-linux-macbook-pro">Install a dual boot system</a> 
-(<a href="https://itsfoss.com/why-use-linux/">Why use Linux</a>)</p>
-</li>
-<li>
-<p>Use <a href="https://mac.getutm.app">UTM</a> a virtual machine host based on
-    QEMU to run Linux or Windows as guest OS on your Mac.</p>
-</li>
-<li>
-<p>Use <a href="https://www.virtualbox.org">Virtualbox</a> to run Linux or Windows
-    as guest OS on your Mac (free and open-source software). A Linux
-    virtual machine with BORIS installed is available. See <a href="../virtual_machine/">Linux virtual machine</a></p>
-</li>
-<li>
-<p>Use <a href="https://www.parallels.com/products/desktop">Parallels® Desktop for Mac</a> (proprietary software).
-     Take care to extract the BORIS archive in the Windows file system  <em>c:\Users\Bob</em> for example)</p>
-</li>
-<li>
-<p><a href="https://support.apple.com/guide/bootcamp-assistant/welcome/mac">Boot Camp Assistant</a></p>
-</li>
-<li>
-<p><a href="https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac">Running GUI Linux in a virtual machine on a
-    Mac</a></p>
-</li>
-<li>
-<p>A docker image is available at <a href="https://hub.docker.com/r/olivierfriard/boris">https://hub.docker.com/r/olivierfriard/boris</a> (see the
-    <a href="https://github.com/olivierfriard/BORIS/blob/master/scripts/start_macOS.command">start_macOS.command</a> script)</p>
-</li>
-</ul>
-<p>Refer to the <a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8">change log</a> for a detailed summary of version updates.</p>
-<p>The last version of BORIS that is running natively on MacOS is <a href="https://github.com/olivierfriard/BORIS/releases/tag/v7.13.9">7.13.9</a>.
-This version is 2 years old and is no longer maintained. <a href="https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8">Many bugs were fixed</a> and <a href="../version8/">features were added</a> in the current version.
-Please note that issues will only be accepted if you are using the latest version.</p>
 <h2 id="some-points-of-reflection-on-the-use-of-the-macos-operating-system-in-research">Some points of reflection on the use of the macOS operating system in research</h2>
 <ul>
 <li>
