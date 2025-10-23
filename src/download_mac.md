@@ -57,12 +57,12 @@ Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to 
 
 ## How to install and run on MacOS
 
-### Install homebrew if not already installed from [https://brew.sh](https://brew.sh)
+### Install **Homebrew** if not already installed from [https://brew.sh](https://brew.sh)
 
 Homebrew is "The Missing Package Manager for macOS" and has more then 45K starts on [GitHub](https://github.com/Homebrew/brew).
 
 
-### Install FFmpeg with Homebrew
+### Install **FFmpeg** with Homebrew
 
 [FFmpeg](https://ffmpeg.org/) is "a complete, cross-platform solution to record, convert and stream audio and video."
 
@@ -76,7 +76,7 @@ Open a macOS Terminal and type (or paste): (1)
 `brew install ffmpeg`
 
 
-### Install mpv with Homebrew
+### Install **mpv** with Homebrew
 
 [mpv](https://mpv.io/) is "a free, open source, and cross-platform media player".
 
@@ -89,7 +89,7 @@ Open a macOS Terminal and type (or paste): (1)
 
 `brew install --HEAD mpv`
 
-### 3) Symlink libmpv to to /usr/local/lib
+### Symlink libmpv to to /usr/local/lib
 
 Open a macOS Terminal and type (or paste): (1)
 { .annotate }
@@ -109,11 +109,11 @@ Python’s ctypes and many C-based Python packages like [mpv](https://pypi.org/p
 *	/usr/local/lib
 
 
-### 4) Install the uv Python package and project manager from [Astral](https://docs.astral.sh/uv/getting-started/installation/)
+### Install the uv Python package and project manager from [Astral](https://docs.astral.sh/uv/getting-started/installation/)
 
 [uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K starts on [GitHub](https://github.com/astral-sh/uv)
 
-### 5) Install and launch BORIS with uvx
+### Install and launch BORIS with uvx
 
 Open a macOS Terminal and type (or paste): (1)
 { .annotate }
