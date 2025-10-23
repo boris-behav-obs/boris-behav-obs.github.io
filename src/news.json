@@ -124,8 +124,8 @@
 {
 "id": "tag:www.boris.unito.it,2025-04-02",
 "title": "2025-04-08: Release of version 9.3.1 is available",
-"summary": "The version 9.3.1 is available. Some bugs fixed and coding maps improved. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8",
-"content": "The version 9.3.1 is available. Some bugs fixed and coding maps improved. See https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8",
+"summary": "The version 9.3.1 is available. Some bugs fixed and coding maps improved. See [change log](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8)",
+"content": "The version 9.3.1 is available. Some bugs fixed and coding maps improved. See [change log](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8)",
 "updated": "'2025-04-08 12:00:00+02:00'",
 "link": "https://www.boris.unito.it/download"
 },
