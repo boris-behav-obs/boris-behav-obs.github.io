@@ -55,6 +55,9 @@ When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, i
 Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to click on the BORIS window** to score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.
 
 
+![BORISS screenshot on macOS](images/macos_screenshot.png)
+
+
 ## How to install and run on MacOS
 
 ### Install **Homebrew** if not already installed from [https://brew.sh](https://brew.sh)
