@@ -90,7 +90,7 @@ Open a macOS Terminal and type (or paste): (1)
     see [macOS terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 
 
-`brew install --HEAD mpv`
+`brew install mpv`
 
 ### Symlink libmpv to to /usr/local/lib
 
