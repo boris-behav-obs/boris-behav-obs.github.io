@@ -1,6 +1,6 @@
 **2025-10-22: Release of version 9.7.1**
 
-The version 9.7.1 is available. This version should run om macOS natively with some limits. See https://www.boris.unito.it/download_mac
+The version 9.7.1 is available. This version should run om macOS natively with some limits. See [macOS version](https://www.boris.unito.it/download_mac)
 
 **2025-09-02: Release of version 9.6.5 is available**
 

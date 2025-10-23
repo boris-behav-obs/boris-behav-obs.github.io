@@ -4,8 +4,8 @@
 {
 "id": "tag:www.boris.unito.it,2025-10-22",
 "title": "2025-10-22: Release of version 9.7.1",
-"summary": "The version 9.7.1 is available. This version should run om macOS natively with some limits. See https://www.boris.unito.it/download_mac",
-"content": "The version 9.7.1 is available. This version should run om macOS natively with some limits. See https://www.boris.unito.it/download_mac",
+"summary": "The version 9.7.1 is available. This version should run om macOS natively with some limits. See [macOS version](https://www.boris.unito.it/download_mac)",
+"content": "The version 9.7.1 is available. This version should run om macOS natively with some limits. See [macOS version](https://www.boris.unito.it/download_mac)",
 "updated": "'2025-10-22 22:00:00+02:00'",
 "link": "https://www.boris.unito.it/download"
 },
