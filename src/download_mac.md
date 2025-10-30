@@ -65,21 +65,9 @@ Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to 
 Homebrew is "The Missing Package Manager for macOS" and has more then 45K stars on [GitHub](https://github.com/Homebrew/brew).
 
 
-### Install **FFmpeg** with Homebrew
+### Install the BORIS dependencies with Homebrew
 
 [FFmpeg](https://ffmpeg.org/) is "a complete, cross-platform solution to record, convert and stream audio and video."
-
-Open a macOS Terminal and type (or paste): (1)
-{ .annotate }
-
-1.  If you do not know how to open a terminal,
-    see [macOS terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)
-
-
-`brew install ffmpeg`
-
-
-### Install **mpv** with Homebrew
 
 [mpv](https://mpv.io/) is "a free, open source, and cross-platform media player".
 
@@ -90,52 +78,47 @@ Open a macOS Terminal and type (or paste): (1)
     see [macOS terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 
 
-`brew install mpv`
-
-### Symlink libmpv to to /usr/local/lib
-
-Open a macOS Terminal and type (or paste): (1)
-{ .annotate }
-
-1.  If you do not know how to open a terminal,
-    see [macOS terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)
-
-`sudo ln -s /opt/homebrew/lib/libmpv.dylib /usr/local/lib/libmpv.dylib`
-
-When the password will be required, enter the password of your profile.
+`brew install mpv ffmpeg pkg-config cmake gfortran openblas`
 
 
-***Why symlink?***
-Python’s ctypes and many C-based Python packages like [mpv](https://pypi.org/project/mpv/) don’t use Homebrew’s paths (/opt/homebrew/lib) unless explicitly told to. Instead, they search system library paths such as:
 
-*	/usr/lib
-*	/usr/local/lib
 
 
 ### Install the uv Python package and project manager from [Astral](https://docs.astral.sh/uv/getting-started/installation/)
 
 [uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K stars on [GitHub](https://github.com/astral-sh/uv)
 
+To activate uv, **close the terminal and reopen it**
+
+
+
 ### Install and launch BORIS with uvx
 
-Open a macOS Terminal and type (or paste): (1)
+In the macOS Terminal type (or paste): (1)
 { .annotate }
 
 1.  If you do not know how to open a terminal,
     see [macOS terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 
-`uvx boris-behav-obs`
+```
+export LDFLAGS="-L/usr/local/opt/openblas/lib"
+export CPPFLAGS="-I/usr/local/opt/openblas/include"
+export PKG_CONFIG_PATH="/usr/local/opt/openblas/lib/pkgconfig"
+export CMAKE_PREFIX_PATH="/usr/local/opt/openblas"
+
+uvx --python 3.12 boris-behav-obs@latest
+```
 
 
 The next time you want to launch BORIS just open a terminal and type the command:
 
 
-`uvx boris-behav-obs`
+`uvx --python 3.12 boris-behav-obs@latest`
 
 
 To launch a specific version of BORIS:
 
-`uvx boris-behav-obs==9.6.6`
+`uvx --python 3.12 boris-behav-obs==9.7.2`
 
 
 

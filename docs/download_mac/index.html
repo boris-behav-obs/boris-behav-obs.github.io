@@ -586,7 +586,7 @@ DOI: 10.1111/2041-210X.12584
 http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract
 </code></pre></div>
 <h1 id="general-information">General information</h1>
-<p><strong>An EXPERIMENTAL version of BORIS  is available for MacOS (v.9.7.1).</strong></p>
+<p><strong>An EXPERIMENTAL version of BORIS  is available for MacOS (v.9.7.2).</strong></p>
 <p>The author would like to thank <a href="https://github.com/dsanmiguel">dsanmiguel</a> for his initial work on making BORIS run on macOS.
 Most of the following material was written by him.</p>
 <p>Please report any issues or caveats related to the installation or use of BORIS on macOS.
@@ -612,49 +612,35 @@ When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, i
 <h2 id="how-to-install-and-run-on-macos">How to install and run on MacOS</h2>
 <h3 id="install-homebrew-if-not-already-installed-from-httpsbrewsh">Install <strong>Homebrew</strong> if not already installed from <a href="https://brew.sh">https://brew.sh</a></h3>
 <p>Homebrew is "The Missing Package Manager for macOS" and has more then 45K stars on <a href="https://github.com/Homebrew/brew">GitHub</a>.</p>
-<h3 id="install-ffmpeg-with-homebrew">Install <strong>FFmpeg</strong> with Homebrew</h3>
+<h3 id="install-the-boris-dependencies-with-homebrew">Install the BORIS dependencies with Homebrew</h3>
 <p><a href="https://ffmpeg.org/">FFmpeg</a> is "a complete, cross-platform solution to record, convert and stream audio and video."</p>
-<p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
-<ol>
-<li>If you do not know how to open a terminal,
-    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
-</ol>
-<p><code>brew install ffmpeg</code></p>
-<h3 id="install-mpv-with-homebrew">Install <strong>mpv</strong> with Homebrew</h3>
 <p><a href="https://mpv.io/">mpv</a> is "a free, open source, and cross-platform media player".</p>
 <p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
 <ol>
 <li>If you do not know how to open a terminal,
     see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
 </ol>
-<p><code>brew install mpv</code></p>
-<h3 id="symlink-libmpv-to-to-usrlocallib">Symlink libmpv to to /usr/local/lib</h3>
-<p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
-<ol>
-<li>If you do not know how to open a terminal,
-    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
-</ol>
-<p><code>sudo ln -s /opt/homebrew/lib/libmpv.dylib /usr/local/lib/libmpv.dylib</code></p>
-<p>When the password will be required, enter the password of your profile.</p>
-<p><strong><em>Why symlink?</em></strong>
-Python’s ctypes and many C-based Python packages like <a href="https://pypi.org/project/mpv/">mpv</a> don’t use Homebrew’s paths (/opt/homebrew/lib) unless explicitly told to. Instead, they search system library paths such as:</p>
-<ul>
-<li>/usr/lib</li>
-<li>/usr/local/lib</li>
-</ul>
+<p><code>brew install mpv ffmpeg pkg-config cmake gfortran openblas</code></p>
 <h3 id="install-the-uv-python-package-and-project-manager-from-astral">Install the uv Python package and project manager from <a href="https://docs.astral.sh/uv/getting-started/installation/">Astral</a></h3>
 <p><a href="https://docs.astral.sh/uv/">uv</a> is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K stars on <a href="https://github.com/astral-sh/uv">GitHub</a></p>
+<p>To activate uv, <strong>close the terminal and reopen it</strong></p>
 <h3 id="install-and-launch-boris-with-uvx">Install and launch BORIS with uvx</h3>
-<p class="annotate">Open a macOS Terminal and type (or paste): (1)</p>
+<p class="annotate">In the macOS Terminal type (or paste): (1)</p>
 <ol>
 <li>If you do not know how to open a terminal,
     see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">macOS terminal</a></li>
 </ol>
-<p><code>uvx boris-behav-obs</code></p>
+<div class="highlight"><pre><span></span><code>export LDFLAGS=&quot;-L/usr/local/opt/openblas/lib&quot;
+export CPPFLAGS=&quot;-I/usr/local/opt/openblas/include&quot;
+export PKG_CONFIG_PATH=&quot;/usr/local/opt/openblas/lib/pkgconfig&quot;
+export CMAKE_PREFIX_PATH=&quot;/usr/local/opt/openblas&quot;
+
+uvx --python 3.12 boris-behav-obs@latest
+</code></pre></div>
 <p>The next time you want to launch BORIS just open a terminal and type the command:</p>
-<p><code>uvx boris-behav-obs</code></p>
+<p><code>uvx --python 3.12 boris-behav-obs@latest</code></p>
 <p>To launch a specific version of BORIS:</p>
-<p><code>uvx boris-behav-obs==9.6.6</code></p>
+<p><code>uvx --python 3.12 boris-behav-obs==9.7.2</code></p>
 <p>Remember that it is <strong>VERY IMPORTANT to click on the BORIS window</strong> to score your media file otherwise the key press will <strong>NOT</strong> be recorded.</p>
 <!--
 This situation is not due to the very restrictive Apple's policy, but rather due to a technical issue.
@@ -664,7 +650,7 @@ The fact of not having access to a physical computer with macOS, but only to vir
 All contributions for compiling and using this library are welcome.
 
 
-If you want to run v.9.7.1 on your MacOS you have various possibilities.
+If you want to run v.9.7.2 on your MacOS you have various possibilities.
 
 For Mac computers with [Apple Silicon](https://support.apple.com/en-us/116943):
 
