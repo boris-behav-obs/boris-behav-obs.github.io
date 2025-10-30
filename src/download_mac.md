@@ -20,7 +20,7 @@ Please acknowledge and cite the use of this software and its authors when result
 # General information
 
 
-**An EXPERIMENTAL version of BORIS  is available for MacOS (v.{{ boris.version }}).**
+**An EXPERIMENTAL version of BORIS  is available for macOS (v.{{ boris.version }}).**
 
 The author would like to thank [dsanmiguel](https://github.com/dsanmiguel) for his initial work on making BORIS run on macOS.
 Most of the following material was written by him.
@@ -55,10 +55,10 @@ When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, i
 Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to click on the BORIS window** to score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.
 
 
-![BORISS screenshot on macOS](images/macos_screenshot.png)
+![BORIS screenshot on macOS](images/macos_screenshot.png)
 
 
-## How to install and run on MacOS
+## How to install and run on macOS
 
 ### Install **Homebrew** if not already installed from [https://brew.sh](https://brew.sh)
 
@@ -121,11 +121,16 @@ To launch a specific version of BORIS:
 `uvx --python 3.12 boris-behav-obs==9.7.2`
 
 
-
-
-
 Remember that it is **VERY IMPORTANT to click on the BORIS window** to score your media file otherwise the key press will **NOT** be recorded.
 
+
+###
+
+> BORIS was successfully tested on:
+>
+> * Mac min (Apple M2 Pro) with Sequoia  15.3.2
+>
+> * MacBook Pro (2.3 GHz 8-core Intel core i9) with Tahoe 26.0.1
 
 
 

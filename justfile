@@ -22,7 +22,7 @@ simple_build_push: simple_build
     
 
 add_news:
-    tilde src/news.json
+    sensible-editor src/news.json
     uv run python src/create_feed.py src/news.json src/static/atom.xml 5
 
 

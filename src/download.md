@@ -15,11 +15,11 @@ glightbox: false
 
 !!! danger "**EXTREMELY IMPORTANT**"
 
-    BORIS is distributed **WITHOUT ANY WARRANTY**.  
-      
-    Please remember that it is extremely important to regularly back up your project files to prevent data loss.  
-    While software can be reinstalled, your data might be lost forever if not properly backed up.  
-    Use an external drive and/or a cloud service for your backups.  
+    BORIS is distributed **WITHOUT ANY WARRANTY**.
+
+    Please remember that it is extremely important to regularly back up your project files to prevent data loss.
+    While software can be reinstalled, your data might be lost forever if not properly backed up.
+    Use an external drive and/or a cloud service for your backups.
     Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).
 
 
@@ -54,7 +54,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 ## [![microsoft windows logo](images/windows_logo.svg){width=72px} Microsoft-Windows](download_win.md)
 
 
-## [![macos logo](images/mac-os.svg){width=64px} MacOS](download_mac.md)
+## [![macos logo](images/mac-os.svg){width=64px} macOS](download_mac.md)
 
 
 ## [![Android logo](images/android_logo.png){width=60px} BORIS App for Android](download_android.md)
@@ -127,4 +127,3 @@ of a BORIS project is not guaranteed!
 ## Credits
 
 {% include 'credits.md' %}
-
