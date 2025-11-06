@@ -1,3 +1,7 @@
+**2025-11-05: Release of version 9.7.4**
+
+The version 9.7.4 is available.
+
 **2025-11-05: Release of version 9.7.3**
 
 The version 9.7.3 is available.
@@ -13,8 +17,4 @@ The version 9.7.1 is available. This version should run om macOS natively with s
 **2025-09-02: Release of version 9.6.5 is available**
 
 The version 9.6.5 is available. The IRR Cohen's kappa plugins were improved: a value for rounding times can now be selected
-
-**2025-08-29: Release of version 9.6.4 is available**
-
-The version 9.6.4 is available. See [changelog](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8)
 
