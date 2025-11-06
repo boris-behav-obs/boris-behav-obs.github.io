@@ -1,3 +1,7 @@
+**2025-11-05: Release of version 9.7.3**
+
+The version 9.7.3 is available.
+
 **2025-10-24: Release of version 9.7.2**
 
 The version 9.7.2 is available. Fixed issue #895 and improved the installation on macOS.
@@ -13,8 +17,4 @@ The version 9.6.5 is available. The IRR Cohen's kappa plugins were improved: a v
 **2025-08-29: Release of version 9.6.4 is available**
 
 The version 9.6.4 is available. See [changelog](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8)
-
-**2025-08-26: Release of version 9.6.3 is available**
-
-The version 9.6.3 is available. Fixed bugs #875 and #886
 
