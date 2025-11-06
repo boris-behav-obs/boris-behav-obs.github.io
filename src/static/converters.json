@@ -8,7 +8,7 @@
   "ISO8601_to_seconds":{
    "name":"ISO8601_to_seconds",
    "description":"Convert ISO8601 format to seconds since 1970-01-01 Input example: \"2018-01-18T12:31:40Z\"",
-   "code":"import datetime\nepoch = datetime.datetime.utcfromtimestamp(0)\ndatetime_format = \"%Y-%m-%dT%H:%M:%SZ\"\n\nOUTPUT = (datetime.datetime.strptime(INPUT, datetime_format) - epoch).total_seconds()"
+   "code":"from datetime import datetime, UTC\nepoch = datetime.fromtimestamp(0, UTC)\ndatetime_format = \"%Y-%m-%dT%H:%M:%SZ\"\n\nOUTPUT = (datetime.datetime.strptime(INPUT, datetime_format).replace(tzinfo=UTC) - epoch).total_seconds()"
   },
 "convert_time_ecg":{
    "name":"convert_time_ecg",
