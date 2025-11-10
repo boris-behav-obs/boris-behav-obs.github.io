@@ -53,10 +53,10 @@ copyright: Copyright &copy; 2012 - 2025 Olivier Friard
 
 extra:
   boris:
-    version: 9.7.4
-    release_date: 2025-11-06
+    version: 9.7.5
+    release_date: 2025-11-07
     citations_number:  2423
-    citations_date: 2025-11-06
+    citations_date: 2025-11-10
     app_version: 0.12
 
   generator: false
