@@ -1,4 +1,16 @@
 {
+"120":
+{
+"id": "tag:www.boris.unito.it,2025-11-13",
+"title": "2025-11-13: Release of version 9.7.6",
+"summary": "The version 9.7.6 is available. Fixed issue #907 and improved the macOS version",
+"content": "The version 9.7.6 is available. Fixed issue #907 and improved the macOS version.",
+"updated": "'2025-11-13 18:00:00+02:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
+
 "119":
 {
 "id": "tag:www.boris.unito.it,2025-11-07",
