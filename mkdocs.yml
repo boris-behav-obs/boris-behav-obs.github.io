@@ -55,8 +55,8 @@ extra:
   boris:
     version: 9.7.8
     release_date: 2025-11-19
-    citations_number:  2443
-    citations_date: 2025-11-19
+    citations_number:  2452
+    citations_date: 2025-11-20
     app_version: 0.12
 
   generator: false

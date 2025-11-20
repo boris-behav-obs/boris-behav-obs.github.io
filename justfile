@@ -1,7 +1,9 @@
 # justfile for the management of the BORIS web site
 
 
-
+# list of recipes
+default:
+	just --list
 
 
 # get version and version date on BORIS web site

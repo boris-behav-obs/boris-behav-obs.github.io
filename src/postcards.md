@@ -16,6 +16,10 @@ University of Torino
 Via dell'Accademia Albertina, 13  
 I-10123 TORINO (ITALY)  
 
+![postcard39_b.jpg](postcards/postcard39_b.jpg){width="512px"}
+
+![postcard39_a.jpg](postcards/postcard39_a.jpg){width="512px"}
+
 
 ![postcard38_b.jpg](postcards/postcard38_b.jpg){width="512px"}
 
