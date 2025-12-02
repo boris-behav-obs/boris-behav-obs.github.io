@@ -1,5 +1,14 @@
 
 {
+"123":
+{
+"id": "tag:www.boris.unito.it,2025-12-02",
+"title": "2025-12-02: Release of version 9.7.10",
+"summary": "The version 9.7.10 is available. Implemented #915",
+"content": "The version 9.7.10 is available. Implemented #915",
+"updated": "'2025-12-02 18:00:00+01:00'",
+"link": "https://www.boris.unito.it/download"
+},
 "122":
 {
 "id": "tag:www.boris.unito.it,2025-11-19",
