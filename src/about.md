@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+glightbox: false
 ---
 
 
@@ -11,7 +12,12 @@ hide:
 
 [Olivier Friard](http://penelope.unito.it/friard) and [Marco Gamba](https://www.unito.it/persone/marco.gamba).
 
-![logo dbios unito](images/dbios_unito.png)
+<!-- 
+![old logo dbios unito](images/dbios_unito.png)
+-->
+
+![logo dbios unito](images/logo_dbios.svg){width=300px}
+
 
 ## Contacts
 
