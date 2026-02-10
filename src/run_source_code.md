@@ -43,7 +43,7 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 
 
     ``` sh
-    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0
+    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
 
     # your password will be required
     ```
@@ -58,7 +58,7 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
     su
     # your root password will be required
 
-    apt install libmpv2 ffmpeg graphviz libxcb-cursor0
+    apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
     ```
 
 === "Microsoft Windows"
@@ -79,6 +79,22 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
 
         **winget** (Windows Package Manager) is a command-line tool for installing, updating, configuring, and managing software on Windows.
 
+=== "MacOS"
+
+    Install **Homebrew** if not already installed from https://brew.sh
+
+    Open a terminal and type: (1)
+    { .annotate }
+
+    1.  If you do not know how to open a terminal,
+        see [Open a terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
+
+
+
+
+    ``` sh
+    brew install mpv ffmpeg pkg-config cmake gfortran openblas
+    ```
 
 
 
@@ -104,9 +120,6 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
         [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
 
 
-    ``` sh
-    uvx boris-behav-obs
-    ```
 
 === "Microsoft Windows"
 
@@ -116,12 +129,19 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
     1.  If you do not know how to open a command prompt,
         see [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10        )
 
-    ``` sh
-    uvx boris-behav-obs
-    ```
+
+=== "MacOS"
+
+    Open a terminal and type: (1)
+    { .annotate }
+
+    1.  If you do not know how to open a command prompt,
+        see [Open a terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
 
 
-
+  ``` sh
+  uvx boris-behav-obs
+  ```
 
 
 
@@ -132,18 +152,64 @@ BORIS will launch, do **not** close the terminal while BORIS is running.
 
 
 
-!!! Warning "Additional libraries"
+
+# Test a pre-release of BORIS
+
+If you'd like to help with BORIS development, you can test a pre-release version and report any bugs you encounter.
 
 
-    On **Ubuntu 20.04** it can be necessary to install the following libraries:
+Check if pre-releases are available on [Python Package Index (PyPI)](https://pypi.org/project/boris-behav-obs/#history).
 
-        sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
-        (your password will be required)
 
-    and create a symbolic link to the **libffi.so.7** library. Open a terminal and type:
+Launch the pre-release version:
 
-        sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
-        (your root password will be required)
+=== "Linux"
+
+    Open a terminal and type: (1)
+    { .annotate }
+
+
+    1.  If you do not know how to open a terminal,
+        see [Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+        or
+        [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+
+
+
+=== "Microsoft Windows"
+
+    Open a command prompt or a PowerShell and type: (1)
+    { .annotate }
+
+    1.  If you do not know how to open a command prompt,
+        see [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10        )
+
+
+=== "MacOS"
+
+    Open a terminal and type: (1)
+    { .annotate }
+
+    1.  If you do not know how to open a terminal,
+        see [Open a terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
+
+
+``` sh
+uvx --prerelease allow boris-behav-obs
+```
+
+By default, the latest pre-release is launched. If no pre-releases are available, the current stable version of BORIS is used instead.
+
+To force the use of a specific pre-release, run:
+
+``` sh
+uvx --prerelease allow boris-behav-obs==x.y.z
+```
+
+
+
+
+
 
 
 {% include 'revision_history.md' %}

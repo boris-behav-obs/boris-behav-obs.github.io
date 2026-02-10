@@ -50,7 +50,7 @@ BORIS requires the installation of:
 
 
     ``` sh
-    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 
+    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
 
     # your password will be required 
     ```
@@ -65,7 +65,7 @@ BORIS requires the installation of:
     su
     # your root password will be required
 
-    apt install libmpv2 ffmpeg graphviz libxcb-cursor0
+    apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
     ```
 
 
@@ -101,22 +101,3 @@ This AppImage should run on recent versions of Linux. It was tested on the follo
 
 
 If the AppImage cannot be launched on your Linux distribution/version try to [run BORIS from source code](run_source_code.md)
-
-<!--
-## ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ubuntu_logoib.svg/240px-Ubuntu_logoib.svg.png){width="64px"} [Ubuntu](ubuntu.md)
-
-
-## ![Linux Mint logo](images/linux_mint_logo.svg){width="68px"} [Linux Mint](ubuntu.md)
-
-
-## ![Debian logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/194px-Openlogo-debianV2.svg.png){width="56px"} [Debian](debian.md)
-
-
-## ![Linux Lite logo](https://www.linuxliteos.com/assets/img/home/lite-news.png){width="80px"} [Linux Lite](linux_lite.md)
-
--->
-
-
-
-
-

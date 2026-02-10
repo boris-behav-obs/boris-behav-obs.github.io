@@ -5,6 +5,26 @@ hide:
 ---
 
 
+# I love BORIS! Is there a way I can participate in its development?
+
+You can give a [star](https://github.com/olivierfriard/BORIS) to the BORIS Github repository.
+
+You can also:
+
+* [test a pre-release of BORIS](run_source_code.md#test-a-pre-release-of-boris)
+
+* make a [pull request](https://github.com/olivierfriard/BORIS/pulls) with new features.
+
+* write a [plugin](https://www.boris.unito.it/user_guide/analysis/#plugins)
+
+* ...
+
+# I does not like BORIS!
+
+You can use another software like **Noldus Observer XT**, **ELAN**, **Mangold Interact** ...
+
+
+
 # What is the BORIS version I am using?
 
 Menu Help > About > Show details for versions of dependencies.
@@ -17,6 +37,9 @@ Use the **Check project integrity** function (Projects > Check project integrity
 If errors are found, please fix them and then retry the XYZ function.
 
 
+# 
+
+
 # My BORIS project file is corrupted and BORIS does not open it
 
 
@@ -26,7 +49,6 @@ If errors are found, please fix them and then retry the XYZ function.
     While software can be reinstalled, your data might be lost forever if not properly backed up.  
     Use an external drive and/or a cloud service for your backups.  
     Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).
-
 
 
 
@@ -87,6 +109,24 @@ If you are using an old version of Windows (<10) and have problem
 launching BORIS, you have to install the **Update for Universal C Runtime in Windows** See <https://support.microsoft.com/en-us/kb/2999226>
 
 
+# I am using Ubuntu 20.04 and BORIS does not launch
+
+
+On **Ubuntu 20.04** it can be necessary to install the following libraries:
+
+Open a terminal and type:
+
+``` sh
+sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
+(your password will be required)
+```
+
+and create a symbolic link to the **libffi.so.7** library. Open a terminal and type:
+
+``` sh
+sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
+(your root password will be required)
+```
 
 
 # Can BORIS automatically track my animals/individuals/objects?
