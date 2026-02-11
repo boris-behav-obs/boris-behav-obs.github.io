@@ -28,7 +28,7 @@ BORIS requires the installation of:
 
 
 
-=== "Ubuntu and ubuntu flavors, Linux Mint, Raspberry OS ..."
+=== "Ubuntu and Ubuntu flavors, Linux Mint, Raspberry Pi OS ..."
 
     Open a terminal (1) and type:
     { .annotate }
@@ -36,7 +36,7 @@ BORIS requires the installation of:
 
     1.  See [Open the Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
         or
-        Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+        [Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
 
 
     ``` sh
@@ -45,7 +45,7 @@ BORIS requires the installation of:
     # your password will be required
     ```
 
-    BORIS was successfully tested on Ubuntu > 20.04
+    BORIS was successfully tested on Ubuntu 20.10+
 
 
 
@@ -66,7 +66,7 @@ BORIS requires the installation of:
 
 
 
-=== "Debian, "
+=== "Debian"
 
     Open a terminal and type:
 
@@ -77,6 +77,8 @@ BORIS requires the installation of:
     apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
     ```
 
+    
+    BORIS was successfully tested on Debian 12+
 
 
 
@@ -128,7 +130,7 @@ BORIS requires the installation of:
 
 ## Install the uv Python package and project manager from [Astral](https://docs.astral.sh/uv/getting-started/installation/)
 
-[uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 79K starts on [GitHub](https://github.com/astral-sh/uv)
+[uv](https://docs.astral.sh/uv/) is "an extremely fast Python package and project manager, written in Rust" and has more than 79K stars on [GitHub](https://github.com/astral-sh/uv)
 
 
 
@@ -138,7 +140,7 @@ BORIS requires the installation of:
     { .annotate }
 
     1.  
-        See [Open a Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+        See [Open an Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
         ,
         [Open a Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
         or
@@ -184,6 +186,8 @@ BORIS requires the installation of:
         or
         [Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
 
+    
+
 
 
 === "Microsoft Windows"
@@ -195,17 +199,20 @@ BORIS requires the installation of:
         [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10)
 
 
-=== "MacOS"
+
+=== "macOS"
 
     Open a terminal (1) and type:
     { .annotate }
 
-    1.  see [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
+    1.  See [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
 
 
-  ``` sh
-  uvx boris-behav-obs@latest
-  ```
+
+
+``` sh
+uvx boris-behav-obs@latest
+```
 
 
 
@@ -237,6 +244,10 @@ Launch the pre-release version:
         or
         [Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
 
+    ``` sh
+    uvx --prerelease allow boris-behav-obs@latest
+    ```
+
 
 
 === "Microsoft Windows"
@@ -247,18 +258,21 @@ Launch the pre-release version:
     1.  See [Open PowerShell](https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10) or
         [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10)
 
+    ``` sh
+    uvx --prerelease allow boris-behav-obs@latest
+    ```
 
-=== "MacOS"
+
+=== "macOS"
 
     Open a terminal (1) and type:
     { .annotate }
 
     1.  See [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 
-
-``` sh
-uvx --prerelease allow boris-behav-obs@latest
-```
+    ``` sh
+    uvx --prerelease allow boris-behav-obs@latest
+    ```
 
 By default, the latest pre-release is launched. If no pre-releases are available, the current stable version of BORIS is used instead.
 

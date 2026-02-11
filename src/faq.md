@@ -7,7 +7,7 @@ hide:
 
 # I love BORIS! Is there a way I can participate in its development?
 
-You can give a [star](https://github.com/olivierfriard/BORIS) to the BORIS Github repository.
+You can give a [star](https://github.com/olivierfriard/BORIS) to the BORIS GitHub repository.
 
 You can also:
 
@@ -19,7 +19,7 @@ You can also:
 
 * ...
 
-# I does not like BORIS!
+# I do not like BORIS!
 
 You can use another software like **Noldus Observer XT**, **ELAN**, **Mangold Interact** ...
 
@@ -37,9 +37,6 @@ Use the **Check project integrity** function (Projects > Check project integrity
 If errors are found, please fix them and then retry the XYZ function.
 
 
-# 
-
-
 # My BORIS project file is corrupted and BORIS does not open it
 
 
@@ -54,8 +51,8 @@ If errors are found, please fix them and then retry the XYZ function.
 
 
 The BORIS project file is in JSON format (<https://en.wikipedia.org/wiki/JSON>).
-If your corrupted project file is not empty you can open it with a text editor like NotePad++,
-Pluma, TextEdit, etc (not Microsoft-Word or Libreoffice Write that are text processors) and try to repair it.
+If your corrupted project file is not empty, you can open it with a text editor like Notepad++,
+Pluma, TextEdit, etc. (not Microsoft Word or LibreOffice Writer, which are word processors) and try to repair it.
 
 Another possibility is to use an on-line JSON validator like <https://jsonformatter.org> and try to repair it.
 
@@ -74,7 +71,7 @@ Set the **MPV player hardware video decoding** option to **No**. See Project > P
 
 Right-click on the menu bar and reactivate the widget visualization.
 
-if it does not work close BORIS and delete the BORIS configuration file.
+If it does not work, close BORIS and delete the BORIS configuration file.
 
 After this you will have to reset all the parameters of Preferences (File > Preferences)
 
@@ -86,10 +83,10 @@ for the name and location of the configuration file on your system.
 # My video does not play (well) with BORIS
 
 
-To be used with BORIS your video must play well with [mpv media player](https://mpv.io) because BORIS used the MPV library.
-The mpv libary is embedded in BORIS executable versions (except for Linux, you will have to install the libmpv package).
+To be used with BORIS, your video must play well with the [mpv media player](https://mpv.io) because BORIS uses the MPV library.
+The mpv library is embedded in BORIS executable versions (except for Linux, where you have to install the libmpv package).
 
-If your video do not play with mpv, you can try to re-encode it.
+If your video does not play with mpv, you can try to re-encode it.
 
 You can use the embedded tool in BORIS. See **Tools > Re-encode/resize video** and the [user guide](http://www.boris.unito.it/user_guide/tools/#re-encoding-and-resizing-a-video-file)
 
@@ -98,15 +95,15 @@ Various graphic interfaces are available:
 [QWinFF](http://qwinff.github.io),
 [HandBrake](https://handbrake.fr) ...
 
-If your video plays with mpv and not in BORIS you can contact me and send me your video.
+If your video plays with mpv and not in BORIS, you can contact me and send me your video.
 
 
 
 # I am using an old version of Windows and BORIS does not launch
 
 
-If you are using an old version of Windows (<10) and have problem
-launching BORIS, you have to install the **Update for Universal C Runtime in Windows** See <https://support.microsoft.com/en-us/kb/2999226>
+If you are using an old version of Windows (<10) and have problems
+launching BORIS, you have to install the **Update for Universal C Runtime in Windows**. See <https://support.microsoft.com/en-us/kb/2999226>.
 
 
 # I am using Ubuntu 20.04 and BORIS does not launch
@@ -118,15 +115,17 @@ Open a terminal and type:
 
 ``` sh
 sudo apt install libxcb-xinerama0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 libxcb-xkb1 libxkbcommon-x11-0
-(your password will be required)
 ```
+
+(your password will be required)
 
 and create a symbolic link to the **libffi.so.7** library. Open a terminal and type:
 
 ``` sh
 sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
-(your root password will be required)
 ```
+
+(your root password will be required)
 
 
 # Can BORIS automatically track my animals/individuals/objects?
@@ -142,7 +141,7 @@ You can also check my new project at a very early stage of development
 
 
 
-# Why this program is called BORIS?
+# Why is this program called BORIS?
 
 
 It is a tribute to [Boris Vian](https://en.wikipedia.org/wiki/Boris_Vian)

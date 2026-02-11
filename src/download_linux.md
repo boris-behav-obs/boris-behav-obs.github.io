@@ -34,7 +34,7 @@ BORIS requires the installation of:
 
 * the [FFmpeg](https://www.ffmpeg.org) framework
 
-* the [GraphViz](https://graphviz.org/) tool (Optional)
+* the [GraphViz](https://graphviz.org/) tool (optional)
 
 
 === "Ubuntu, Linux Mint"
@@ -52,7 +52,7 @@ BORIS requires the installation of:
     ``` sh
     sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
 
-    # your password will be required 
+    # your password will be required
     ```
 
 
@@ -92,7 +92,7 @@ This AppImage should run on recent versions of Linux. It was tested on the follo
 
 * Ubuntu 20.10+
 
-* Debian12+
+* Debian 12+
 
 * Linux Mint 21+
 
@@ -100,4 +100,4 @@ This AppImage should run on recent versions of Linux. It was tested on the follo
 
 
 
-If the AppImage cannot be launched on your Linux distribution/version try to [run BORIS from source code](run_source_code.md)
+If the AppImage cannot be launched on your Linux distribution/version, try to [run BORIS from source code](run_source_code.md).
