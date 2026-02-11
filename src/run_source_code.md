@@ -27,10 +27,8 @@ BORIS requires the installation of:
 ## Install requirements
 
 
-Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...
 
-
-=== "Ubuntu, Linux Mint, Raspberry OS"
+=== "Ubuntu, Kubuntu, Lubuntu, Ubuntu Mate, Xubuntu, Linux Mint, Raspberry OS ..."
 
     Open a terminal and type: (1)
     { .annotate }
@@ -48,9 +46,27 @@ Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint
     # your password will be required
     ```
 
+=== "Arch Linux, Manjaro ..."
 
 
-=== "Debian"
+    Open a terminal and type: (1)
+    { .annotate }
+
+
+    1.  If you do not know how to open a terminal,
+        see [Arch terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+
+    ``` sh
+    sudo pacman -Syu
+    sudo pacman -S libmpv ffmpeg graphviz
+    
+    # your password will be required
+    ```
+
+
+
+
+=== "Debian, "
 
     Open a terminal and type:
 
