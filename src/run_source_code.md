@@ -146,9 +146,16 @@ BORIS requires the installation of:
 
     ``` sh
     wget -qO- https://astral.sh/uv/install.sh | sh
-    
     source $HOME/.local/bin/env
     ```
+
+    or
+    
+    ``` sh
+    curl -LsSf https://astral.sh/uv/install.sh | sh
+    source $HOME/.local/bin/env
+    ```
+
 
 
 === "Microsoft Windows"
