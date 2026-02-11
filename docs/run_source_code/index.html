@@ -590,18 +590,25 @@
 </li>
 </ul>
 <h2 id="install-requirements">Install requirements</h2>
-<p>Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...</p>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:4"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio"><input id="__tabbed_1_2" name="__tabbed_1" type="radio"><input id="__tabbed_1_3" name="__tabbed_1" type="radio"><input id="__tabbed_1_4" name="__tabbed_1" type="radio"><div class="tabbed-labels"><label for="__tabbed_1_1">Ubuntu, Linux Mint, Raspberry OS</label><label for="__tabbed_1_2">Debian</label><label for="__tabbed_1_3">Microsoft Windows</label><label for="__tabbed_1_4">MacOS</label></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio"><input id="__tabbed_1_2" name="__tabbed_1" type="radio"><input id="__tabbed_1_3" name="__tabbed_1" type="radio"><input id="__tabbed_1_4" name="__tabbed_1" type="radio"><input id="__tabbed_1_5" name="__tabbed_1" type="radio"><div class="tabbed-labels"><label for="__tabbed_1_1">Ubuntu and ubuntu flavors, Linux Mint, Raspberry OS ...</label><label for="__tabbed_1_2">Arch Linux, Manjaro ...</label><label for="__tabbed_1_3">Debian, </label><label for="__tabbed_1_4">Microsoft Windows</label><label for="__tabbed_1_5">macOS</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
-<p class="annotate">Open a terminal and type: (1)</p>
+<p class="annotate">Open a terminal (1) and type:</p>
 <ol>
-<li>If you do not know how to open a terminal,
-    see <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Ubuntu terminal</a>
+<li>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open the Ubuntu terminal</a>
     or
-    <a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Linux Mint terminal</a></li>
+    Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)</li>
 </ol>
-<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>libmpv2<span class="w"> </span>ffmpeg<span class="w"> </span>graphviz<span class="w"> </span>libxcb-cursor0<span class="w"> </span>libopenblas-dev
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>libmpv2<span class="w"> </span>ffmpeg<span class="w"> </span>graphviz<span class="w"> </span>libxcb-cursor0<span class="w"> </span>
+
+<span class="c1"># your password will be required</span>
+</code></pre></div>
+<p>BORIS was successfully tested on Ubuntu &gt; 20.04</p>
+</div>
+<div class="tabbed-block">
+<p class="annotate">Open a terminal and type: </p>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>pacman<span class="w"> </span>-Syu
+sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>libmpv<span class="w"> </span>ffmpeg<span class="w"> </span>graphviz
 
 <span class="c1"># your password will be required</span>
 </code></pre></div>
@@ -615,10 +622,10 @@ apt<span class="w"> </span>install<span class="w"> </span>libmpv2<span class="w"
 </code></pre></div>
 </div>
 <div class="tabbed-block">
-<p class="annotate">Open a command prompt or a PowerShell and type: (1)</p>
+<p class="annotate">Open a PowerShell or a command prompt (1) and type: </p>
 <ol>
-<li>If you do not know how to open a command prompt,
-    see <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
+<li>See <a href="https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10">Open PowerShell</a> or
+    <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
 </ol>
 <div class="highlight"><pre><span></span><code>winget<span class="w"> </span>install<span class="w"> </span>ffmpeg
 winget<span class="w"> </span>install<span class="w"> </span>Graphviz.Graphviz
@@ -629,56 +636,86 @@ winget<span class="w"> </span>install<span class="w"> </span>Graphviz.Graphviz
 </div>
 </div>
 <div class="tabbed-block">
-<p>Install <strong>Homebrew</strong> if not already installed from https://brew.sh</p>
-<p class="annotate">Open a terminal and type: (1)</p>
+<p>Install <strong>Homebrew</strong> if not already installed from <a href="https://brew.sh">https://brew.sh</a></p>
+<p class="annotate">Open a terminal (1) and type: </p>
 <ol>
-<li>If you do not know how to open a terminal,
-    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">Open a terminal</a></li>
+<li>See <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">Open a terminal on macOS</a></li>
 </ol>
 <div class="highlight"><pre><span></span><code>brew<span class="w"> </span>install<span class="w"> </span>mpv<span class="w"> </span>ffmpeg<span class="w"> </span>pkg-config<span class="w"> </span>cmake<span class="w"> </span>gfortran<span class="w"> </span>openblas
 </code></pre></div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p><a href="https://brew.sh/"><strong>Homebrew</strong></a> is "The Missing Package Manager for macOS (or Linux)"</p>
+</div>
 </div>
 </div>
 </div>
 <h1 id="run-boris">Run BORIS</h1>
 <h2 id="install-the-uv-python-package-and-project-manager-from-astral">Install the uv Python package and project manager from <a href="https://docs.astral.sh/uv/getting-started/installation/">Astral</a></h2>
-<p><a href="https://docs.astral.sh/uv/">uv</a> is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K starts on <a href="https://github.com/astral-sh/uv">GitHub</a></p>
-<h2 id="launch-boris">Launch BORIS</h2>
-<div class="tabbed-set tabbed-alternate" data-tabs="2:3"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio"><input id="__tabbed_2_2" name="__tabbed_2" type="radio"><input id="__tabbed_2_3" name="__tabbed_2" type="radio"><div class="tabbed-labels"><label for="__tabbed_2_1">Linux</label><label for="__tabbed_2_2">Microsoft Windows</label><label for="__tabbed_2_3">MacOS</label></div>
+<p><a href="https://docs.astral.sh/uv/">uv</a> is an "An extremely fast Python package and project manager, written in Rust" and has more than 79K starts on <a href="https://github.com/astral-sh/uv">GitHub</a></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio"><input id="__tabbed_2_2" name="__tabbed_2" type="radio"><div class="tabbed-labels"><label for="__tabbed_2_1">Linux and macOS</label><label for="__tabbed_2_2">Microsoft Windows</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
-<p class="annotate">Open a terminal and type: (1)</p>
+<p class="annotate">Open a terminal (1) and type: </p>
 <ol>
-<li>If you do not know how to open a terminal,
-    see <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Ubuntu terminal</a>
+<li>
+<p>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open a Ubuntu terminal</a>
+,
+<a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Open a Linux Mint terminal</a>
+or
+<a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">Open a macOS terminal</a></p>
+</li>
+</ol>
+<div class="highlight"><pre><span></span><code>wget<span class="w"> </span>-qO-<span class="w"> </span>https://astral.sh/uv/install.sh<span class="w"> </span><span class="p">|</span><span class="w"> </span>sh
+
+<span class="nb">source</span><span class="w"> </span><span class="nv">$HOME</span>/.local/bin/env
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<p class="annotate">Open a PowerShell or a command prompt (1) and type: </p>
+<ol>
+<li>See <a href="https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10">Open PowerShell</a> or
+    <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
+</ol>
+<div class="highlight"><pre><span></span><code>powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+</code></pre></div>
+</div>
+</div>
+</div>
+<h2 id="launch-boris">Launch BORIS</h2>
+<div class="tabbed-set tabbed-alternate" data-tabs="3:3"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio"><input id="__tabbed_3_2" name="__tabbed_3" type="radio"><input id="__tabbed_3_3" name="__tabbed_3" type="radio"><div class="tabbed-labels"><label for="__tabbed_3_1">Linux</label><label for="__tabbed_3_2">Microsoft Windows</label><label for="__tabbed_3_3">MacOS</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p class="annotate">Open a terminal (1) and type: </p>
+<ol>
+<li>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open the Ubuntu terminal</a>
     or
-    <a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Linux Mint terminal</a></li>
+    <a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Open the Linux Mint terminal</a></li>
 </ol>
 </div>
 <div class="tabbed-block">
-<p class="annotate">Open a command prompt or a PowerShell and type: (1)</p>
+<p class="annotate">Open a PowerShell or a command prompt (1) and type: </p>
 <ol>
-<li>If you do not know how to open a command prompt,
-    see <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
+<li>See <a href="https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10">Open PowerShell</a> or
+    <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
 </ol>
 </div>
 <div class="tabbed-block">
-<p class="annotate">Open a terminal and type: (1)</p>
+<p class="annotate">Open a terminal (1) and type:</p>
 <ol>
-<li>If you do not know how to open a command prompt,
-    see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">Open a terminal</a></li>
+<li>see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">Open a terminal on macOS</a></li>
 </ol>
 </div>
 </div>
 </div>
-<div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>boris-behav-obs
+<div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>boris-behav-obs@latest
 </code></pre></div>
 <p>BORIS will launch, do <strong>not</strong> close the terminal while BORIS is running.</p>
 <h1 id="test-a-pre-release-of-boris">Test a pre-release of BORIS</h1>
 <p>If you'd like to help with BORIS development, you can test a pre-release version and report any bugs you encounter.</p>
 <p>Check if pre-releases are available on <a href="https://pypi.org/project/boris-behav-obs/#history">Python Package Index (PyPI)</a>.</p>
 <p>Launch the pre-release version:</p>
-<div class="tabbed-set tabbed-alternate" data-tabs="3:3"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio"><input id="__tabbed_3_2" name="__tabbed_3" type="radio"><input id="__tabbed_3_3" name="__tabbed_3" type="radio"><div class="tabbed-labels"><label for="__tabbed_3_1">Linux</label><label for="__tabbed_3_2">Microsoft Windows</label><label for="__tabbed_3_3">MacOS</label></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="4:3"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio"><input id="__tabbed_4_2" name="__tabbed_4" type="radio"><input id="__tabbed_4_3" name="__tabbed_4" type="radio"><div class="tabbed-labels"><label for="__tabbed_4_1">Linux</label><label for="__tabbed_4_2">Microsoft Windows</label><label for="__tabbed_4_3">MacOS</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
 <p class="annotate">Open a terminal and type: (1)</p>
@@ -690,10 +727,10 @@ winget<span class="w"> </span>install<span class="w"> </span>Graphviz.Graphviz
 </ol>
 </div>
 <div class="tabbed-block">
-<p class="annotate">Open a command prompt or a PowerShell and type: (1)</p>
+<p class="annotate">Open a PowerShell or a command prompt (1) and type: </p>
 <ol>
-<li>If you do not know how to open a command prompt,
-    see <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
+<li>See <a href="https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10">Open PowerShell</a> or
+    <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
 </ol>
 </div>
 <div class="tabbed-block">

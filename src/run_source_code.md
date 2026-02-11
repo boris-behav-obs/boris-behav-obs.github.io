@@ -28,33 +28,33 @@ BORIS requires the installation of:
 
 
 
-=== "Ubuntu, Kubuntu, Lubuntu, Ubuntu Mate, Xubuntu, Linux Mint, Raspberry OS ..."
+=== "Ubuntu and ubuntu flavors, Linux Mint, Raspberry OS ..."
 
-    Open a terminal and type: (1)
+    Open a terminal (1) and type:
     { .annotate }
 
 
-    1.  If you do not know how to open a terminal,
-        see [Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+    1.  See [Open the Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
         or
-        [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+        Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
 
 
     ``` sh
-    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
+    sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0 
 
     # your password will be required
     ```
 
+    BORIS was successfully tested on Ubuntu > 20.04
+
+
+
 === "Arch Linux, Manjaro ..."
 
 
-    Open a terminal and type: (1)
+    Open a terminal and type: 
     { .annotate }
 
-
-    1.  If you do not know how to open a terminal,
-        see [Arch terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
 
     ``` sh
     sudo pacman -Syu
@@ -77,14 +77,18 @@ BORIS requires the installation of:
     apt install libmpv2 ffmpeg graphviz libxcb-cursor0 libopenblas-dev
     ```
 
+
+
+
+
 === "Microsoft Windows"
 
-    Open a command prompt or a PowerShell and type: (1)
+    Open a PowerShell or a command prompt (1) and type: 
     { .annotate }
 
-    1.  If you do not know how to open a command prompt,
-        see [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10        )
-
+    1.  See [Open PowerShell](https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10) or
+        [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10)
+        
 
     ``` sh
     winget install ffmpeg
@@ -95,16 +99,18 @@ BORIS requires the installation of:
 
         **winget** (Windows Package Manager) is a command-line tool for installing, updating, configuring, and managing software on Windows.
 
-=== "MacOS"
 
-    Install **Homebrew** if not already installed from https://brew.sh
 
-    Open a terminal and type: (1)
+
+
+=== "macOS"
+
+    Install **Homebrew** if not already installed from [https://brew.sh](https://brew.sh)
+
+    Open a terminal (1) and type: 
     { .annotate }
 
-    1.  If you do not know how to open a terminal,
-        see [Open a terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
-
+    1.  See [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
 
 
 
@@ -112,7 +118,9 @@ BORIS requires the installation of:
     brew install mpv ffmpeg pkg-config cmake gfortran openblas
     ```
 
-
+    !!! Note
+    
+        [**Homebrew**](https://brew.sh/) is "The Missing Package Manager for macOS (or Linux)"
 
 
 # Run BORIS
@@ -120,43 +128,76 @@ BORIS requires the installation of:
 
 ## Install the uv Python package and project manager from [Astral](https://docs.astral.sh/uv/getting-started/installation/)
 
-[uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 70K starts on [GitHub](https://github.com/astral-sh/uv)
+[uv](https://docs.astral.sh/uv/) is an "An extremely fast Python package and project manager, written in Rust" and has more than 79K starts on [GitHub](https://github.com/astral-sh/uv)
+
+
+
+=== "Linux and macOS"
+
+    Open a terminal (1) and type: 
+    { .annotate }
+
+    1.  
+        See [Open a Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+        ,
+        [Open a Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+        or
+        [Open a macOS terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
+
+    ``` sh
+    wget -qO- https://astral.sh/uv/install.sh | sh
+    
+    source $HOME/.local/bin/env
+    ```
+
+
+=== "Microsoft Windows"
+
+    Open a PowerShell or a command prompt (1) and type: 
+    { .annotate }
+
+    1.  See [Open PowerShell](https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10) or
+        [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10)
+        
+
+
+    ```
+    powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+    ```
+
 
 ## Launch BORIS
 
 === "Linux"
 
-    Open a terminal and type: (1)
+    Open a terminal (1) and type: 
     { .annotate }
 
-
-    1.  If you do not know how to open a terminal,
-        see [Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+    1. See [Open the Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
         or
-        [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+        [Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
 
 
 
 === "Microsoft Windows"
 
-    Open a command prompt or a PowerShell and type: (1)
+    Open a PowerShell or a command prompt (1) and type: 
     { .annotate }
 
-    1.  If you do not know how to open a command prompt,
-        see [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10        )
+    1.  See [Open PowerShell](https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10) or
+        [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10)
 
 
 === "MacOS"
 
-    Open a terminal and type: (1)
+    Open a terminal (1) and type:
     { .annotate }
 
-    1.  If you do not know how to open a command prompt,
-        see [Open a terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
+    1.  see [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
 
 
   ``` sh
-  uvx boris-behav-obs
+  uvx boris-behav-obs@latest
   ```
 
 
@@ -194,11 +235,11 @@ Launch the pre-release version:
 
 === "Microsoft Windows"
 
-    Open a command prompt or a PowerShell and type: (1)
+    Open a PowerShell or a command prompt (1) and type: 
     { .annotate }
 
-    1.  If you do not know how to open a command prompt,
-        see [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10        )
+    1.  See [Open PowerShell](https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10) or
+        [Open a command prompt](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10)
 
 
 === "MacOS"
