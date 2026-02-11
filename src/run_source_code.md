@@ -246,7 +246,7 @@ Launch the pre-release version:
     Open a terminal (1) and type:
     { .annotate }
 
-    1.  See [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
+    1.  See [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 
 
 ``` sh
