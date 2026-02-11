@@ -222,14 +222,13 @@ Launch the pre-release version:
 
 === "Linux"
 
-    Open a terminal and type: (1)
+    Open a terminal (1) and type: 
     { .annotate }
 
 
-    1.  If you do not know how to open a terminal,
-        see [Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
+    1.  See [Open the Ubuntu terminal](https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux)
         or
-        [Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
+        [Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)
 
 
 
@@ -247,12 +246,11 @@ Launch the pre-release version:
     Open a terminal and type: (1)
     { .annotate }
 
-    1.  If you do not know how to open a terminal,
-        see [Open a terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
+    1.  See [Open a terminal on macOS](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac  )
 
 
 ``` sh
-uvx --prerelease allow boris-behav-obs
+uvx --prerelease allow boris-behav-obs@latest
 ```
 
 By default, the latest pre-release is launched. If no pre-releases are available, the current stable version of BORIS is used instead.
