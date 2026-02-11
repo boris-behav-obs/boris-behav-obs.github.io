@@ -4,7 +4,6 @@ site_name: BORIS
 repo_name: olivierfriard/BORIS
 repo_url: https://github.com/olivierfriard/BORIS
 
-
 docs_dir: src
 site_dir: docs
 
@@ -17,7 +16,6 @@ nav:
   - Documentation: documentation.md
   - Other software: other_software.md
   - About BORIS: about.md
-
 
 markdown_extensions:
   - toc:
@@ -34,7 +32,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.superfences
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 theme:
@@ -43,6 +41,7 @@ theme:
     - navigation.top
     - navigation.path
     - navigation.tabs
+    - content.code.copy
   logo: images/logo_boris.svg
   palette:
     scheme: default
@@ -55,7 +54,7 @@ extra:
   boris:
     version: 9.8.5
     release_date: 2026-02-06
-    citations_number:  2559
+    citations_number: 2559
     citations_date: 2026-02-11
     app_version: 0.12
 
@@ -74,10 +73,7 @@ extra:
       link: https://pypi.org/project/boris-behav-obs/
 
 plugins:
-    - macros:
-        include_dir: src
-    - search
-    - glightbox
-
-
-
+  - macros:
+      include_dir: src
+  - search
+  - glightbox
