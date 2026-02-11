@@ -590,20 +590,20 @@
 </li>
 </ul>
 <h2 id="install-requirements">Install requirements</h2>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio"><input id="__tabbed_1_2" name="__tabbed_1" type="radio"><input id="__tabbed_1_3" name="__tabbed_1" type="radio"><input id="__tabbed_1_4" name="__tabbed_1" type="radio"><input id="__tabbed_1_5" name="__tabbed_1" type="radio"><div class="tabbed-labels"><label for="__tabbed_1_1">Ubuntu and ubuntu flavors, Linux Mint, Raspberry OS ...</label><label for="__tabbed_1_2">Arch Linux, Manjaro ...</label><label for="__tabbed_1_3">Debian, </label><label for="__tabbed_1_4">Microsoft Windows</label><label for="__tabbed_1_5">macOS</label></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio"><input id="__tabbed_1_2" name="__tabbed_1" type="radio"><input id="__tabbed_1_3" name="__tabbed_1" type="radio"><input id="__tabbed_1_4" name="__tabbed_1" type="radio"><input id="__tabbed_1_5" name="__tabbed_1" type="radio"><div class="tabbed-labels"><label for="__tabbed_1_1">Ubuntu and Ubuntu flavors, Linux Mint, Raspberry Pi OS ...</label><label for="__tabbed_1_2">Arch Linux, Manjaro ...</label><label for="__tabbed_1_3">Debian</label><label for="__tabbed_1_4">Microsoft Windows</label><label for="__tabbed_1_5">macOS</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
 <p class="annotate">Open a terminal (1) and type:</p>
 <ol>
 <li>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open the Ubuntu terminal</a>
     or
-    Open the Linux Mint terminal](https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint)</li>
+    <a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Open the Linux Mint terminal</a></li>
 </ol>
 <div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>libmpv2<span class="w"> </span>ffmpeg<span class="w"> </span>graphviz<span class="w"> </span>libxcb-cursor0<span class="w"> </span>
 
 <span class="c1"># your password will be required</span>
 </code></pre></div>
-<p>BORIS was successfully tested on Ubuntu &gt; 20.04</p>
+<p>BORIS was successfully tested on Ubuntu 20.10+</p>
 </div>
 <div class="tabbed-block">
 <p class="annotate">Open a terminal and type: </p>
@@ -620,6 +620,7 @@ sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </s
 
 apt<span class="w"> </span>install<span class="w"> </span>libmpv2<span class="w"> </span>ffmpeg<span class="w"> </span>graphviz<span class="w"> </span>libxcb-cursor0<span class="w"> </span>libopenblas-dev
 </code></pre></div>
+<p>BORIS was successfully tested on Debian 12+</p>
 </div>
 <div class="tabbed-block">
 <p class="annotate">Open a PowerShell or a command prompt (1) and type: </p>
@@ -652,14 +653,14 @@ winget<span class="w"> </span>install<span class="w"> </span>Graphviz.Graphviz
 </div>
 <h1 id="run-boris">Run BORIS</h1>
 <h2 id="install-the-uv-python-package-and-project-manager-from-astral">Install the uv Python package and project manager from <a href="https://docs.astral.sh/uv/getting-started/installation/">Astral</a></h2>
-<p><a href="https://docs.astral.sh/uv/">uv</a> is an "An extremely fast Python package and project manager, written in Rust" and has more than 79K starts on <a href="https://github.com/astral-sh/uv">GitHub</a></p>
+<p><a href="https://docs.astral.sh/uv/">uv</a> is "an extremely fast Python package and project manager, written in Rust" and has more than 79K stars on <a href="https://github.com/astral-sh/uv">GitHub</a></p>
 <div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio"><input id="__tabbed_2_2" name="__tabbed_2" type="radio"><div class="tabbed-labels"><label for="__tabbed_2_1">Linux and macOS</label><label for="__tabbed_2_2">Microsoft Windows</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
 <p class="annotate">Open a terminal (1) and type: </p>
 <ol>
 <li>
-<p>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open a Ubuntu terminal</a>
+<p>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open an Ubuntu terminal</a>
 ,
 <a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Open a Linux Mint terminal</a>
 or
@@ -686,39 +687,7 @@ or
 </div>
 </div>
 <h2 id="launch-boris">Launch BORIS</h2>
-<div class="tabbed-set tabbed-alternate" data-tabs="3:3"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio"><input id="__tabbed_3_2" name="__tabbed_3" type="radio"><input id="__tabbed_3_3" name="__tabbed_3" type="radio"><div class="tabbed-labels"><label for="__tabbed_3_1">Linux</label><label for="__tabbed_3_2">Microsoft Windows</label><label for="__tabbed_3_3">MacOS</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block">
-<p class="annotate">Open a terminal (1) and type: </p>
-<ol>
-<li>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open the Ubuntu terminal</a>
-    or
-    <a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Open the Linux Mint terminal</a></li>
-</ol>
-</div>
-<div class="tabbed-block">
-<p class="annotate">Open a PowerShell or a command prompt (1) and type: </p>
-<ol>
-<li>See <a href="https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10">Open PowerShell</a> or
-    <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
-</ol>
-</div>
-<div class="tabbed-block">
-<p class="annotate">Open a terminal (1) and type:</p>
-<ol>
-<li>see <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">Open a terminal on macOS</a></li>
-</ol>
-</div>
-</div>
-</div>
-<div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>boris-behav-obs@latest
-</code></pre></div>
-<p>BORIS will launch, do <strong>not</strong> close the terminal while BORIS is running.</p>
-<h1 id="test-a-pre-release-of-boris">Test a pre-release of BORIS</h1>
-<p>If you'd like to help with BORIS development, you can test a pre-release version and report any bugs you encounter.</p>
-<p>Check if pre-releases are available on <a href="https://pypi.org/project/boris-behav-obs/#history">Python Package Index (PyPI)</a>.</p>
-<p>Launch the pre-release version:</p>
-<div class="tabbed-set tabbed-alternate" data-tabs="4:3"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio"><input id="__tabbed_4_2" name="__tabbed_4" type="radio"><input id="__tabbed_4_3" name="__tabbed_4" type="radio"><div class="tabbed-labels"><label for="__tabbed_4_1">Linux</label><label for="__tabbed_4_2">Microsoft Windows</label><label for="__tabbed_4_3">MacOS</label></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="3:3"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio"><input id="__tabbed_3_2" name="__tabbed_3" type="radio"><input id="__tabbed_3_3" name="__tabbed_3" type="radio"><div class="tabbed-labels"><label for="__tabbed_3_1">Linux</label><label for="__tabbed_3_2">Microsoft Windows</label><label for="__tabbed_3_3">macOS</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
 <p class="annotate">Open a terminal (1) and type: </p>
@@ -743,8 +712,44 @@ or
 </div>
 </div>
 </div>
+<div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>boris-behav-obs@latest
+</code></pre></div>
+<p>BORIS will launch, do <strong>not</strong> close the terminal while BORIS is running.</p>
+<h1 id="test-a-pre-release-of-boris">Test a pre-release of BORIS</h1>
+<p>If you'd like to help with BORIS development, you can test a pre-release version and report any bugs you encounter.</p>
+<p>Check if pre-releases are available on <a href="https://pypi.org/project/boris-behav-obs/#history">Python Package Index (PyPI)</a>.</p>
+<p>Launch the pre-release version:</p>
+<div class="tabbed-set tabbed-alternate" data-tabs="4:3"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio"><input id="__tabbed_4_2" name="__tabbed_4" type="radio"><input id="__tabbed_4_3" name="__tabbed_4" type="radio"><div class="tabbed-labels"><label for="__tabbed_4_1">Linux</label><label for="__tabbed_4_2">Microsoft Windows</label><label for="__tabbed_4_3">macOS</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p class="annotate">Open a terminal (1) and type: </p>
+<ol>
+<li>See <a href="https://www.howtogeek.com/686955/how-to-launch-a-terminal-window-on-ubuntu-linux">Open the Ubuntu terminal</a>
+    or
+    <a href="https://linuxways.net/mint/how-to-open-a-terminal-in-linux-mint">Open the Linux Mint terminal</a></li>
+</ol>
 <div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>--prerelease<span class="w"> </span>allow<span class="w"> </span>boris-behav-obs@latest
 </code></pre></div>
+</div>
+<div class="tabbed-block">
+<p class="annotate">Open a PowerShell or a command prompt (1) and type: </p>
+<ol>
+<li>See <a href="https://www.howtogeek.com/662611/9-ways-to-open-powershell-in-windows-10">Open PowerShell</a> or
+    <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10">Open a command prompt</a></li>
+</ol>
+<div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>--prerelease<span class="w"> </span>allow<span class="w"> </span>boris-behav-obs@latest
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<p class="annotate">Open a terminal (1) and type:</p>
+<ol>
+<li>See <a href="https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac">Open a terminal on macOS</a></li>
+</ol>
+<div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>--prerelease<span class="w"> </span>allow<span class="w"> </span>boris-behav-obs@latest
+</code></pre></div>
+</div>
+</div>
+</div>
 <p>By default, the latest pre-release is launched. If no pre-releases are available, the current stable version of BORIS is used instead.</p>
 <p>To force the use of a specific pre-release, run:</p>
 <div class="highlight"><pre><span></span><code>uvx<span class="w"> </span>--prerelease<span class="w"> </span>allow<span class="w"> </span>boris-behav-obs<span class="o">==</span>x.y.z

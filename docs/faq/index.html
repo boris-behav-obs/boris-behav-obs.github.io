@@ -574,7 +574,7 @@
 
 
 <h1 id="i-love-boris-is-there-a-way-i-can-participate-in-its-development">I love BORIS! Is there a way I can participate in its development?</h1>
-<p>You can give a <a href="https://github.com/olivierfriard/BORIS">star</a> to the BORIS Github repository.</p>
+<p>You can give a <a href="https://github.com/olivierfriard/BORIS">star</a> to the BORIS GitHub repository.</p>
 <p>You can also:</p>
 <ul>
 <li>
@@ -590,14 +590,13 @@
 <p>...</p>
 </li>
 </ul>
-<h1 id="i-does-not-like-boris">I does not like BORIS!</h1>
+<h1 id="i-do-not-like-boris">I do not like BORIS!</h1>
 <p>You can use another software like <strong>Noldus Observer XT</strong>, <strong>ELAN</strong>, <strong>Mangold Interact</strong> ...</p>
 <h1 id="what-is-the-boris-version-i-am-using">What is the BORIS version I am using?</h1>
 <p>Menu Help &gt; About &gt; Show details for versions of dependencies.</p>
 <h1 id="the-function-xyz-is-not-working">The function XYZ is not working</h1>
 <p>Use the <strong>Check project integrity</strong> function (Projects &gt; Check project integrity) to verify if your project contains any errors.
 If errors are found, please fix them and then retry the XYZ function.</p>
-<h1 id="_1"></h1>
 <h1 id="my-boris-project-file-is-corrupted-and-boris-does-not-open-it">My BORIS project file is corrupted and BORIS does not open it</h1>
 <div class="admonition danger">
 <p class="admonition-title"><strong>EXTREMELY IMPORTANT</strong></p>
@@ -607,40 +606,40 @@ Use an external drive and/or a cloud service for your backups.<br>
 Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).</p>
 </div>
 <p>The BORIS project file is in JSON format (<a href="https://en.wikipedia.org/wiki/JSON">https://en.wikipedia.org/wiki/JSON</a>).
-If your corrupted project file is not empty you can open it with a text editor like NotePad++,
-Pluma, TextEdit, etc (not Microsoft-Word or Libreoffice Write that are text processors) and try to repair it.</p>
+If your corrupted project file is not empty, you can open it with a text editor like Notepad++,
+Pluma, TextEdit, etc. (not Microsoft Word or LibreOffice Writer, which are word processors) and try to repair it.</p>
 <p>Another possibility is to use an on-line JSON validator like <a href="https://jsonformatter.org">https://jsonformatter.org</a> and try to repair it.</p>
 <h1 id="boris-crashes-when-i-load-a-video-and-does-not-generate-any-error-message">BORIS crashes when I load a video and does not generate any error message</h1>
 <p>Set the <strong>MPV player hardware video decoding</strong> option to <strong>No</strong>. See Project &gt; Preferences</p>
 <h1 id="one-or-more-widgets-ethogram-subjects-list-events-list-are-not-visible-during-the-observation">One or more widgets (ethogram, subject's list, event's list ...) are not visible during the observation</h1>
 <p>Right-click on the menu bar and reactivate the widget visualization.</p>
-<p>if it does not work close BORIS and delete the BORIS configuration file.</p>
+<p>If it does not work, close BORIS and delete the BORIS configuration file.</p>
 <p>After this you will have to reset all the parameters of Preferences (File &gt; Preferences)</p>
 <p>See the <a href="http://www.boris.unito.it/user_guide/various/#configuration-files">user guide</a>
 for the name and location of the configuration file on your system.</p>
 <h1 id="my-video-does-not-play-well-with-boris">My video does not play (well) with BORIS</h1>
-<p>To be used with BORIS your video must play well with <a href="https://mpv.io">mpv media player</a> because BORIS used the MPV library.
-The mpv libary is embedded in BORIS executable versions (except for Linux, you will have to install the libmpv package).</p>
-<p>If your video do not play with mpv, you can try to re-encode it.</p>
+<p>To be used with BORIS, your video must play well with the <a href="https://mpv.io">mpv media player</a> because BORIS uses the MPV library.
+The mpv library is embedded in BORIS executable versions (except for Linux, where you have to install the libmpv package).</p>
+<p>If your video does not play with mpv, you can try to re-encode it.</p>
 <p>You can use the embedded tool in BORIS. See <strong>Tools &gt; Re-encode/resize video</strong> and the <a href="http://www.boris.unito.it/user_guide/tools/#re-encoding-and-resizing-a-video-file">user guide</a></p>
 <p>For more parameters you can directly use the <a href="https://www.ffmpeg.org">FFmpeg framework</a>.
 Various graphic interfaces are available:
 <a href="http://qwinff.github.io">QWinFF</a>,
 <a href="https://handbrake.fr">HandBrake</a> ...</p>
-<p>If your video plays with mpv and not in BORIS you can contact me and send me your video.</p>
+<p>If your video plays with mpv and not in BORIS, you can contact me and send me your video.</p>
 <h1 id="i-am-using-an-old-version-of-windows-and-boris-does-not-launch">I am using an old version of Windows and BORIS does not launch</h1>
-<p>If you are using an old version of Windows (&lt;10) and have problem
-launching BORIS, you have to install the <strong>Update for Universal C Runtime in Windows</strong> See <a href="https://support.microsoft.com/en-us/kb/2999226">https://support.microsoft.com/en-us/kb/2999226</a></p>
+<p>If you are using an old version of Windows (&lt;10) and have problems
+launching BORIS, you have to install the <strong>Update for Universal C Runtime in Windows</strong>. See <a href="https://support.microsoft.com/en-us/kb/2999226">https://support.microsoft.com/en-us/kb/2999226</a>.</p>
 <h1 id="i-am-using-ubuntu-2004-and-boris-does-not-launch">I am using Ubuntu 20.04 and BORIS does not launch</h1>
 <p>On <strong>Ubuntu 20.04</strong> it can be necessary to install the following libraries:</p>
 <p>Open a terminal and type:</p>
 <div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>apt<span class="w"> </span>install<span class="w"> </span>libxcb-xinerama0<span class="w"> </span>libxcb-icccm4<span class="w"> </span>libxcb-image0<span class="w"> </span>libxcb-keysyms1<span class="w"> </span>libxcb-render-util0<span class="w"> </span>libxcb-xkb1<span class="w"> </span>libxkbcommon-x11-0
-<span class="o">(</span>your<span class="w"> </span>password<span class="w"> </span>will<span class="w"> </span>be<span class="w"> </span>required<span class="o">)</span>
 </code></pre></div>
+<p>(your password will be required)</p>
 <p>and create a symbolic link to the <strong>libffi.so.7</strong> library. Open a terminal and type:</p>
 <div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>ln<span class="w"> </span>-s<span class="w"> </span>/usr/lib/x86_64-linux-gnu/libffi.so.7<span class="w"> </span>/usr/lib/x86_64-linux-gnu/libffi.so.6
-<span class="o">(</span>your<span class="w"> </span>root<span class="w"> </span>password<span class="w"> </span>will<span class="w"> </span>be<span class="w"> </span>required<span class="o">)</span>
 </code></pre></div>
+<p>(your root password will be required)</p>
 <h1 id="can-boris-automatically-track-my-animalsindividualsobjects">Can BORIS automatically track my animals/individuals/objects?</h1>
 <p><strong>No.</strong> For this feature you have to use a video tracking software like
 <a href="http://www.noldus.com/animal-behavior-research/products/ethovision-xt">Ethovision XT</a>
@@ -648,7 +647,7 @@ launching BORIS, you have to install the <strong>Update for Universal C Runtime 
 <a href="https://idtracker.ai">idtracker.ai</a> ...</p>
 <p>You can also check my new project at a very early stage of development
 <a href="https://github.com/olivierfriard/DORIS">DORIS</a>.</p>
-<h1 id="why-this-program-is-called-boris">Why this program is called BORIS?</h1>
+<h1 id="why-is-this-program-called-boris">Why is this program called BORIS?</h1>
 <p>It is a tribute to <a href="https://en.wikipedia.org/wiki/Boris_Vian">Boris Vian</a></p>
 
 
