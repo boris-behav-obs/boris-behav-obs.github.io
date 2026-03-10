@@ -1,3 +1,7 @@
+**2026-03-09: Release of version 9.8.6**
+
+The version 9.8.6 is available. Improved spectrogram and waveform visualization. Now each player can display spectrogram and waveform
+
 **2026-02-06: Release of version 9.8.5**
 
 The version 9.8.5 is available. Fixed some bugs and improved usability with MacOS
@@ -13,8 +17,4 @@ The version 9.7.10 is available. Implemented #915
 **2025-11-19: Release of version 9.7.8**
 
 The version 9.7.8 is available. Fixed issue #911
-
-**2025-11-13: Release of version 9.7.7**
-
-The version 9.7.7 is available. Improved the macOS version (still experimental).
 

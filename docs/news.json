@@ -1,6 +1,17 @@
 
 {
 
+"126":
+{
+"id": "tag:www.boris.unito.it,2026-03-09",
+"title": "2026-03-09: Release of version 9.8.6",
+"summary": "The version 9.8.6 is available. Improved spectrogram and waveform visualization. Now each player can display spectrogram and waveform",
+"content": "The version 9.8.6 is available. Improved spectrogram and waveform visualization. Now each player can display spectrogram and waveform",
+"updated": "'2026-03-09 12:00:00+01:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "125":
 {
 "id": "tag:www.boris.unito.it,2026-02-06",
