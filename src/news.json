@@ -1,6 +1,17 @@
 
 {
 
+"127":
+{
+"id": "tag:www.boris.unito.it,2026-03-30",
+"title": "2026-03-30: Release of version 9.9",
+"summary": "The version 9.9 is available. Added possibility to use combinations of keys (like CTRL+K, Alt+A ...) for coding (behavior and subject).",
+"content": "The version 9.9 is available. Added possibility to use combinations of keys (like CTRL+K, Alt+A ...) for coding (behavior and subject).",
+"updated": "'2026-03-30 12:00:00+01:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "126":
 {
 "id": "tag:www.boris.unito.it,2026-03-09",
