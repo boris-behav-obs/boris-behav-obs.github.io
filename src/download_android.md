@@ -21,7 +21,7 @@ The current version of the **BORIS App** is {{ boris.app_version }}.
 
 This app is designed for live observations and runs on Android.
 
-[BORIS App user guide](http://boris-app.readthedocs.io)
+[BORIS App user guide](https://www.boris.unito.it/app_user_guide)
 
 Some [screenshots](screenshots_android.md) of BORIS App are available.
 
