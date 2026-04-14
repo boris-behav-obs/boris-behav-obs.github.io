@@ -1,3 +1,7 @@
+**2026-04-13: Release of version 9.10**
+
+The version 9.10 is available. Added a plugin for behavior latency.
+
 **2026-03-30: Release of version 9.9**
 
 The version 9.9 is available. Added possibility to use combinations of keys (like CTRL+K, Alt+A ...) for coding (behavior and subject).
@@ -13,8 +17,4 @@ The version 9.8.5 is available. Fixed some bugs and improved usability with MacO
 **2025-12-03: Release of version 9.7.11**
 
 The version 9.7.11 is available. Implemented #917
-
-**2025-12-02: Release of version 9.7.10**
-
-The version 9.7.10 is available. Implemented #915
 

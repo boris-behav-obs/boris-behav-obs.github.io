@@ -1,6 +1,17 @@
 
 {
 
+"128":
+{
+"id": "tag:www.boris.unito.it,2026-04-13",
+"title": "2026-04-13: Release of version 9.10",
+"summary": "The version 9.10 is available. Added a plugin for behavior latency.",
+"content": "The version 9.10 is available. Added a plugin for behavior latency.",
+"updated": "'2026-04-13 18:00:00+01:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
 "127":
 {
 "id": "tag:www.boris.unito.it,2026-03-30",
