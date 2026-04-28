@@ -1,3 +1,7 @@
+**2026-04-28: Release of version 9.10.1**
+
+The version 9.10.1 is available. Fixed bug in previous/next media function
+
 **2026-04-13: Release of version 9.10**
 
 The version 9.10 is available. Added a plugin for behavior latency.
@@ -13,8 +17,4 @@ The version 9.8.6 is available. Improved spectrogram and waveform visualization.
 **2026-02-06: Release of version 9.8.5**
 
 The version 9.8.5 is available. Fixed some bugs and improved usability with MacOS
-
-**2025-12-03: Release of version 9.7.11**
-
-The version 9.7.11 is available. Implemented #917
 
