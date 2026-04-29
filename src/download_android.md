@@ -12,6 +12,10 @@ title: Download App for Android
 ![Android logo](images/android_logo.png){width="120px"}
 
 
+[WARNING! Your Android phone is about to stop being yours!](https://keepandroidopen.org/en)
+
+
+
 # Download BORIS App for Android
 
 
