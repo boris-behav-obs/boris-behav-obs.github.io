@@ -1,3 +1,7 @@
+**2026-04-28: Release of version 9.11.0**
+
+The version 9.11.0 is available. Plugins can be downloaded from the official GitHub repo: https://github.com/olivierfriard/BORIS_plugins
+
 **2026-04-28: Release of version 9.10.1**
 
 The version 9.10.1 is available. Fixed bug in previous/next media function
@@ -13,8 +17,4 @@ The version 9.9 is available. Added possibility to use combinations of keys (lik
 **2026-03-09: Release of version 9.8.6**
 
 The version 9.8.6 is available. Improved spectrogram and waveform visualization. Now each player can display spectrogram and waveform
-
-**2026-02-06: Release of version 9.8.5**
-
-The version 9.8.5 is available. Fixed some bugs and improved usability with MacOS
 
