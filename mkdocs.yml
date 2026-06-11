@@ -55,7 +55,7 @@ extra:
     version: 9.11.0
     release_date: 2026-06-09
     citations_number:  2755
-    citations_date: 2026-06-10
+    citations_date: 2026-06-11
     app_version: 0.13
 
   generator: false
