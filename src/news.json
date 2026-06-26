@@ -1,10 +1,19 @@
 
 {
+"131":
+{
+"id": "tag:www.boris.unito.it,2026-06-09",
+"title": "2026-06-26: Release of version 9.12.1",
+"summary": "The version 9.12.1 is available. Introduced version control in plugins",
+"content": "The version 9.12.1 is available. Introduced version control in plugins",
+"updated": "'2026-06-26 19:00:00+01:00'",
+"link": "https://www.boris.unito.it/download"
+},
 
 "130":
 {
 "id": "tag:www.boris.unito.it,2026-06-09",
-"title": "2026-04-28: Release of version 9.11.0",
+"title": "2026-06-09: Release of version 9.11.0",
 "summary": "The version 9.11.0 is available. Plugins can be downloaded from the official GitHub repo: https://github.com/olivierfriard/BORIS_plugins",
 "content": "The version 9.11.0 is available. Plugins can be downloaded from the official GitHub repo: https://github.com/olivierfriard/BORIS_plugins",
 "updated": "'2026-06-09 18:00:00+01:00'",

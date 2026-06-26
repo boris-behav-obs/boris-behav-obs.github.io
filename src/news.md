@@ -1,4 +1,8 @@
-**2026-04-28: Release of version 9.11.0**
+**2026-06-26: Release of version 9.12.1**
+
+The version 9.12.1 is available. Introduced version control in plugins
+
+**2026-06-09: Release of version 9.11.0**
 
 The version 9.11.0 is available. Plugins can be downloaded from the official GitHub repo: https://github.com/olivierfriard/BORIS_plugins
 
@@ -13,8 +17,4 @@ The version 9.10 is available. Added a plugin for behavior latency.
 **2026-03-30: Release of version 9.9**
 
 The version 9.9 is available. Added possibility to use combinations of keys (like CTRL+K, Alt+A ...) for coding (behavior and subject).
-
-**2026-03-09: Release of version 9.8.6**
-
-The version 9.8.6 is available. Improved spectrogram and waveform visualization. Now each player can display spectrogram and waveform
 
