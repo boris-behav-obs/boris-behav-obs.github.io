@@ -1,3 +1,7 @@
+**2026-06-26: Release of version 9.12.3**
+
+The version 9.12.3 is available. Fixed various bugs
+
 **2026-06-26: Release of version 9.12.1**
 
 The version 9.12.1 is available. Introduced version control in plugins
@@ -13,8 +17,4 @@ The version 9.10.1 is available. Fixed bug in previous/next media function
 **2026-04-13: Release of version 9.10**
 
 The version 9.10 is available. Added a plugin for behavior latency.
-
-**2026-03-30: Release of version 9.9**
-
-The version 9.9 is available. Added possibility to use combinations of keys (like CTRL+K, Alt+A ...) for coding (behavior and subject).
 
