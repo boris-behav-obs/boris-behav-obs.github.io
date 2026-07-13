@@ -1,3 +1,7 @@
+**2026-07-10: Release of version 9.12.4**
+
+The version 9.12.4 is available. Fixed bug in plugin manager
+
 **2026-06-26: Release of version 9.12.3**
 
 The version 9.12.3 is available. Fixed various bugs
@@ -13,8 +17,4 @@ The version 9.11.0 is available. Plugins can be downloaded from the official Git
 **2026-04-28: Release of version 9.10.1**
 
 The version 9.10.1 is available. Fixed bug in previous/next media function
-
-**2026-04-13: Release of version 9.10**
-
-The version 9.10 is available. Added a plugin for behavior latency.
 
