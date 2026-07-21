@@ -1,5 +1,17 @@
 
 {
+"135":
+{
+"id": "tag:www.boris.unito.it,2026-07-21",
+"title": "2026-07-21: Release of version 9.13.0",
+"summary": "The version 9.13.0 is available. Plugins removed from BORIS repository, Bug #983 fixed",
+"content": "The version 9.13.0 is available. Plugins removed from BORIS repository, Bug #983 fixed",
+"updated": "'2026-07-21 14:00:00+01:00'",
+"link": "https://www.boris.unito.it/download"
+},
+
+
+
 "134":
 {
 "id": "tag:www.boris.unito.it,2026-07-14",
