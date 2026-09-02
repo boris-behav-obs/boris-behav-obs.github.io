@@ -15,6 +15,7 @@ nav:
   - User guide: http://www.boris.unito.it/user_guide
   - Documentation: documentation.md
   - Other software: other_software.md
+  - Useful resources: useful_resources.md
   - About BORIS: about.md
 
 markdown_extensions:

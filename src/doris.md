@@ -9,6 +9,12 @@ title: DORIS
 
 ![DORIS logo](images/doris_logo.256px.png){ .off-glb }
 
+!!! warning "**This program is no longer maintained**"
+
+    Several excellent automatic tracking tools are available, including [idtracker.ai](https://idtracker.ai), [TRex](https://trex.run), etc
+
+
+
 # Detection of Object and Tracking
 
 
@@ -16,8 +22,6 @@ title: DORIS
 software with a graphical user interface.
 
 DORIS is a free and open-source software available for GNU/Linux, Microsoft-Windows and macOS.
-
-DORIS is no more developed, if you need a more powerfull tracking softwae you can use [idtracker.ai](https://idtracker.ai) for example.
 
 
 [DORIS user guide](https://github.com/olivierfriard/DORIS)
