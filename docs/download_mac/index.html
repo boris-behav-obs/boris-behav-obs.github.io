@@ -622,7 +622,7 @@ DOI: 10.1111/2041-210X.12584
 http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12584/abstract
 </code></pre></div>
 <h1 id="general-information">General information</h1>
-<p><strong>An EXPERIMENTAL version of BORIS  is available for macOS (v.9.15.0).</strong></p>
+<p><strong>An EXPERIMENTAL version of BORIS is available for macOS (v.10.0.2).</strong></p>
 <p>The author would like to thank <a href="https://github.com/dsanmiguel">dsanmiguel</a> for his initial work on making BORIS run on macOS.
 Most of the following material was written by him.</p>
 <p>Please report any issues or caveats related to the installation or use of BORIS on macOS.
@@ -635,16 +635,25 @@ While software can be reinstalled, your data might be lost forever if not proper
 Use an external drive and/or a cloud service for your backups.
 Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).</p>
 </div>
-<h2 id="notes-caveats-on-macos-support-before-installing">Notes / caveats on macOS Support before installing</h2>
-<p>On Linux and Windows, BORIS embeds mpv (the media player <a href="https://mpv.io/">web site</a>) directly into the Qt interface using the libmpv render API.</p>
-<p>Unfortunately, on macOS this is not yet possible because:
+<!--
+## Notes / caveats on macOS Support before installing
+
+On Linux and Windows, BORIS embeds mpv (the media player [web site](https://mpv.io/)) directly into the Qt interface using the libmpv render API.
+
+Unfortunately, on macOS this is not yet possible because:
 - Apple does not provide native OpenGL beyond version 4.1, and is deprecating it in favor of Metal.
 - mpv’s embedded render API (vo=libmpv) only supports OpenGL, not Vulkan or Metal.
-- mpv’s newer GPU backends (vo=gpu, vo=gpu-next) do support Metal/Vulkan through libplacebo and MoltenVK, but those only work in mpv’s own floating window — they cannot currently be embedded inside a Qt widget.</p>
-<p>Because of this limitation, this macOS version of BORIS uses a <strong>floating mpv window</strong> launched alongside the BORIS GUI. This allows full scoring and analysis functionality, but the video window is separate rather than integrated.
-When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, integration inside the Qt window on macOS may become possible.</p>
-<p>Therefore the wrapper has mpv open alongside BORIS so it is <strong>VERY IMPORTANT to click on the BORIS window</strong> to score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/macos_screenshot.png" data-desc-position="bottom"><img alt="BORIS screenshot on macOS" src="../images/macos_screenshot.png"></a></p>
+- mpv’s newer GPU backends (vo=gpu, vo=gpu-next) do support Metal/Vulkan through libplacebo and MoltenVK, but those only work in mpv’s own floating window — they cannot currently be embedded inside a Qt widget.
+
+Because of this limitation, this macOS version of BORIS uses a **floating mpv window** launched alongside the BORIS GUI. This allows full scoring and analysis functionality, but the video window is separate rather than integrated.
+When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, integration inside the Qt window on macOS may become possible.
+
+Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to click on the BORIS window** to score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.
+
+
+![BORIS screenshot on macOS](images/macos_screenshot.png)
+-->
+
 <h2 id="how-to-install-and-run-on-macos">How to install and run on macOS</h2>
 <h3 id="install-homebrew-if-not-already-installed-from-httpsbrewsh">Install <strong>Homebrew</strong> if not already installed from <a href="https://brew.sh">https://brew.sh</a></h3>
 <p>Homebrew is "The Missing Package Manager for macOS" and has more then 45K stars on <a href="https://github.com/Homebrew/brew">GitHub</a>.</p>
@@ -671,19 +680,19 @@ export CPPFLAGS="-I/usr/local/opt/openblas/include"
 export PKG_CONFIG_PATH="/usr/local/opt/openblas/lib/pkgconfig"
 export CMAKE_PREFIX_PATH="/usr/local/opt/openblas"
 
-uvx --python 3.12 boris-behav-obs@latest
+uvx --python 3.13 boris-behav-obs@latest
 </code></pre></div>
 <p>The next time you want to launch BORIS just open a terminal and type the command:</p>
-<p><code>uvx --python 3.12 boris-behav-obs@latest</code></p>
+<p><code>uvx --python 3.13 boris-behav-obs@latest</code></p>
 <p>To launch a specific version of BORIS:</p>
-<p><code>uvx --python 3.12 boris-behav-obs==9.7.2</code></p>
+<p><code>uvx --python 3.13 boris-behav-obs==10.0.2</code></p>
 <p>Remember that it is <strong>VERY IMPORTANT to click on the BORIS window</strong> to score your media file otherwise the key press will <strong>NOT</strong> be recorded.</p>
 <h3 id="_1"></h3>
 <blockquote>
 <p>BORIS was successfully tested on:</p>
 <ul>
 <li>
-<p>Mac min (Apple M2 Pro) with Sequoia  15.3.2</p>
+<p>Mac min (Apple M2 Pro) with Sequoia 15.3.2</p>
 </li>
 <li>
 <p>MacBook Pro (2.3 GHz 8-core Intel core i9) with Tahoe 26.0.1</p>
@@ -698,7 +707,7 @@ The fact of not having access to a physical computer with macOS, but only to vir
 All contributions for compiling and using this library are welcome.
 
 
-If you want to run v.9.15.0 on your MacOS you have various possibilities.
+If you want to run v.10.0.2 on your MacOS you have various possibilities.
 
 For Mac computers with [Apple Silicon](https://support.apple.com/en-us/116943):
 
