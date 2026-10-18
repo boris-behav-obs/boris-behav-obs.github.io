@@ -15,41 +15,10 @@ Please acknowledge and cite the use of this software and its authors when result
 
 # General information
 
-**An EXPERIMENTAL version of BORIS is available for macOS (v.{{ boris.version }}).**
-
-The author would like to thank [dsanmiguel](https://github.com/dsanmiguel) for his initial work on making BORIS run on macOS.
-Most of the following material was written by him.
+The author would like to thank [dsanmiguel](https://github.com/dsanmiguel) for his decisive work on making BORIS run on macOS.
 
 Please report any issues or caveats related to the installation or use of BORIS on macOS.
 See the [how to report a bug](report_a_bug.md) page
-
-!!! danger "**EXTREMELY IMPORTANT**"
-
-    This is an **experimental** version and BORIS is distributed **WITHOUT ANY WARRANTY**.
-
-    Please remember that it is extremely important to regularly back up your project files to prevent data loss.
-    While software can be reinstalled, your data might be lost forever if not properly backed up.
-    Use an external drive and/or a cloud service for your backups.
-    Include a timestamp in the file name to avoid overwriting previous backups (e.g., my_project.YYYY-MM-DD.boris).
-
-<!--
-## Notes / caveats on macOS Support before installing
-
-On Linux and Windows, BORIS embeds mpv (the media player [web site](https://mpv.io/)) directly into the Qt interface using the libmpv render API.
-
-Unfortunately, on macOS this is not yet possible because:
-- Apple does not provide native OpenGL beyond version 4.1, and is deprecating it in favor of Metal.
-- mpv’s embedded render API (vo=libmpv) only supports OpenGL, not Vulkan or Metal.
-- mpv’s newer GPU backends (vo=gpu, vo=gpu-next) do support Metal/Vulkan through libplacebo and MoltenVK, but those only work in mpv’s own floating window — they cannot currently be embedded inside a Qt widget.
-
-Because of this limitation, this macOS version of BORIS uses a **floating mpv window** launched alongside the BORIS GUI. This allows full scoring and analysis functionality, but the video window is separate rather than integrated.
-When upstream mpv (or libplacebo) adds Vulkan/Metal support to the render API, integration inside the Qt window on macOS may become possible.
-
-Therefore the wrapper has mpv open alongside BORIS so it is **VERY IMPORTANT to click on the BORIS window** to score as usual. BORIS is aware of the floating mpv window and will keep track of appropriate time elapsed.
-
-
-![BORIS screenshot on macOS](images/macos_screenshot.png)
--->
 
 ## How to install and run on macOS
 
@@ -102,8 +71,6 @@ To launch a specific version of BORIS:
 
 `uvx --python 3.13 boris-behav-obs==10.0.2`
 
-Remember that it is **VERY IMPORTANT to click on the BORIS window** to score your media file otherwise the key press will **NOT** be recorded.
-
 ###
 
 > BORIS was successfully tested on:
@@ -111,66 +78,6 @@ Remember that it is **VERY IMPORTANT to click on the BORIS window** to score you
 > - Mac min (Apple M2 Pro) with Sequoia 15.3.2
 >
 > - MacBook Pro (2.3 GHz 8-core Intel core i9) with Tahoe 26.0.1
-
-<!--
-This situation is not due to the very restrictive Apple's policy, but rather due to a technical issue.
-
-After switching to mpv (previously, the VLC media player was used until version 8), I have been unable to obtain a functioning libmpv library in order to run BORIS on MacOS.
-The fact of not having access to a physical computer with macOS, but only to virtual machines, makes solving the problem more difficult.
-All contributions for compiling and using this library are welcome.
-
-
-If you want to run v.{{ boris.version }} on your MacOS you have various possibilities.
-
-For Mac computers with [Apple Silicon](https://support.apple.com/en-us/116943):
-
-- Use [VMWARE Fusion](https://drive.google.com/file/d/19DJJRuRmeUv6vYz1GYUax8SVLeTXbZsh/view?usp=sharing) to run a virtual machine. A
-    [Microsoft-Windows 11 virtual machine](https://drive.google.com/file/d/1A-jr8Up4x6p6pNk6B3ikVS2DflbStx-x/view?usp=drive_link) is available with BORIS already installed (password for encrypted volume: **h2MZZR+Ln7ZFVVh6** - Windows 11 credentials: **user/user**).
-
-
--   Use [Parallels® Desktop for Mac](https://www.parallels.com/products/desktop) (proprietary software).
-     Take care to extract the BORIS archive in the Windows file system  _c:\Users\Bob_ for example)
-
-
-For Mac computers with Intel:
-
-
-- [Install a dual boot system](https://www.makeuseof.com/tag/install-linux-macbook-pro)
-([Why use Linux](https://itsfoss.com/why-use-linux/))
-
-
-
-- Use [UTM](https://mac.getutm.app) a virtual machine host based on
-    QEMU to run Linux or Windows as guest OS on your Mac.
-
-
--   Use [Virtualbox](https://www.virtualbox.org) to run Linux or Windows
-    as guest OS on your Mac (free and open-source software). A Linux
-    virtual machine with BORIS installed is available. See [Linux virtual machine](virtual_machine.md)
-
--   Use [Parallels® Desktop for Mac](https://www.parallels.com/products/desktop) (proprietary software).
-     Take care to extract the BORIS archive in the Windows file system  _c:\Users\Bob_ for example)
-
-
--   [Boot Camp Assistant](https://support.apple.com/guide/bootcamp-assistant/welcome/mac)
-
-
--   [Running GUI Linux in a virtual machine on a
-    Mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac)
-
-
-
--   A docker image is available at <https://hub.docker.com/r/olivierfriard/boris> (see the
-    [start_macOS.command](https://github.com/olivierfriard/BORIS/blob/master/scripts/start_macOS.command) script)
-
-
-{% include 'revision_history.md' %}
-
-
-The last version of BORIS that is running natively on MacOS is [7.13.9](https://github.com/olivierfriard/BORIS/releases/tag/v7.13.9).
-This version is 2 years old and is no longer maintained. [Many bugs were fixed](https://github.com/olivierfriard/BORIS/wiki/BORIS-change-log-v.8) and [features were added](version8.md) in the current version.
-Please note that issues will only be accepted if you are using the latest version.
--->
 
 ## Some points of reflection on the use of the macOS operating system in research
 
