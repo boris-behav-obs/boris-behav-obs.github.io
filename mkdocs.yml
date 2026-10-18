@@ -55,7 +55,7 @@ extra:
   boris:
     version: 10.0.2
     release_date: 2026-10-16
-    citations_number: 
+    citations_number:  3007
     citations_date: 2026-10-18
     app_version: 0.13
 
