@@ -1,11 +1,1151 @@
+Lorenzo Ragazzi; Angel Moldes-Anaya; Sondre Jordbræk; Vegard Heimly Brun; Kirsten Brun Kjelstrup. A novel behavioral paradigm for innate predator fear memory in rats. Journal of Neuroscience Methods (2027) 437().
+https://doi.org/10.1016/j.jneumeth.2026.110886
+
+Ryan Y. Wong; Brooklynn K. Schmidt; Cherylynn R. Gibson; Peter D. Dijkstra. Antioxidant modulation of stress behavior depends on stress coping style: A role for N-acetylcysteine amide. Pharmacology Biochemistry and Behavior (2027) 270().
+https://doi.org/10.1016/j.pbb.2026.174278
+
+Charline Pichon; Pierrick Kersante; Guillaume Le Reste; Christelle Jozet-Alves; Anne-Sophie Darmaillacq. Familiarisation and amino acid supplementation differentially affect feeding responses in Penaeus vannamei shrimp. Aquaculture Reports (2026) 51().
+https://doi.org/10.1016/j.aqrep.2026.103819
+
+Andrea Sommese; Ádám Miklósi; Silvia Nostri; Andrea Temesi; Claudia Fugazza. Toy exploration in gifted word learner dogs and typical dogs. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02047-3
+
+Camille A. Troisi; Alizée Vernouillet; Reinoud Allaert; Sophia Knoch; An Martel; Luc Lens; Frederick Verbruggen. Unpacking response Inhibition in animals – part 2: an empirical test. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-025-02033-1
+
+Tudor Selescu; Ramona-Andreea Bivoleanu; Violeta-Maria Caragea; Mirela Iodi Carstens; Alexandra Manolache; Debora-Elena Huțanu; Rathej Meerupally; Edward T. Wei; Earl Carstens; Katharina Zimmermann; Alexandru Babes. Cold- and TRPM8-dependent shaking in mammals and birds. Communications Biology (2026) 9(1).
+https://doi.org/10.1038/s42003-025-09370-4
+
+Samir H. Patel; Ryan Munnelly; Kate Choate; Leah M. Crowe; Farrell Davis; Erin Fischell; Joshua Hatch; Victoria Oriole; Rick Rogers; Nathan Shivers; Heather L. Haas. Leatherback sea turtles (Dermochelys coriacea) react to impulsive sounds. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-38178-3
+
+Catalina Costiuc; Elias Latchem; Sigal Balshine. Stress in the spotlight: impacts of stress on learning and memory in a cichlid fish. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-025-02030-4
+
+Marie Hirel; Michele Marziliano; Hélène Meunier; Hannes Rakoczy; Julia Fischer; Stefanie Keupp. Social evaluation of skilfulness in Tonkean macaques (Macaca tonkeana) and brown capuchins (Sapajus apella). Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-025-02039-9
+
+Lian van Vemde; Karine Verschueren; Hilde Colpin; Jochem Thijs; Minke Krijnen; Lisette Hornstra. More conflict and less closeness: The mediating role of dyadic interactions in explaining lower teacher–student relationship quality for low SES and ethnic minority students. Social Psychology of Education (2026) 29(1).
+https://doi.org/10.1007/s11218-026-10175-4
+
+Gilbert Audira; Chung-Hsin Huang; Mahmood Yousaf; I-Min Tso; Chung-Ping Lin; Chung-Der Hsiao. Quantitative measurement of stag beetle behaviors in low light and complex background conditions using DAMM (detect any mouse model). Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-51559-y
+
+Rogério Bertani. Is predation by ants driving the evolution of tarantulas? First report of tarantulas (Araneae, Theraphosidae) actively using urticating setae against invertebrates. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-64167-7
+
+Lev Shestakov. Variability of Different Courtship Song Elements of the Stink Bug Carpocoris purpureipennis. Journal of Insect Behavior (2026) 39(2).
+https://doi.org/10.1007/s10905-026-09923-3
+
+Dana L.M. Campbell; Caroline Lee. A transient negative affective state reduces motivation to explore a novel environment in laying hens. Applied Animal Behaviour Science (2026) 305().
+https://doi.org/10.1016/j.applanim.2026.107198
+
+Stephanie Buijs; Richard Mott; Nicola Mitchell. Meeting growing pigs’ needs with different bedding materials. Applied Animal Behaviour Science (2026) 305().
+https://doi.org/10.1016/j.applanim.2026.107201
+
+Chunmiao Mai; Guillaume Lio; Maude Beaudoin-Gobert; Chen Qu; Liuba Papeo; Michel Desmurget; Jean-Réné Duhamel; Irene Cristofori; Angela Sirigu. Revisiting our primate roots in infants grooming. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-39909-2
+
+Zoe McLeish; Sarah E. Berry; Dana L.M. Campbell; Greg J. Coman; Artur N. Rombenso. Feeding behaviour of broodstock Penaeus monodon fed live and frozen polychaetes. Veterinary and Animal Science (2026) 34().
+https://doi.org/10.1016/j.vas.2026.100838
+
+Raul Oliveira; Nuno Cruz Garcia; José Ricardo Paula. Semi-automated detection of cleaning interactions using supervised machine learning. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-56200-6
+
+Océane Amichaud; Julie Lemarchand; Fabien Cornilleau; Vitor H. B. Ferreira; Ludovic Calandreau; Léa Lansade. Cows react to human emotions displayed in videos and use this information to guide subsequent interaction choices. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-51623-7
+
+Luis G. Quijano-Cuervo; Mauricio Olvera Pale; Luis F. García Hernández; Dulce Rodríguez-Morales. Are Female Pardosa Spiders (Araneae: Lycosidae) Inhabiting Agricultural Environments More Efficient Than Males in Capturing a Standard Prey of Various Sizes?. Journal of Insect Behavior (2026) 39(2).
+https://doi.org/10.1007/s10905-026-09912-6
+
+Giovanna Marliani; Gionata Stancher; Maria Loconsole. Reversed sound–shape association in tortoises (Testudo marginata). Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02087-9
+
+Gaia De Russi; Mattia Lanzoni; Giuseppe Castaldelli; Cristiano Bertolucci; Angelo Bisazza; Tyrone Lucon-Xiccato. Individual differences in inhibitory control may influence how endangered eels deal with river barriers during migration. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02056-2
+
+Chiara Canori; Giulia Pedretti; Tiziano Travain; Chiara Annoni; Laura Sabbadini; Paola Valsecchi. Can you read my poker-face? Adapting the still-face paradigm to explore dog’s interspecific communication. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02059-z
+
+Corentin Nelias; Sarah Ghanayem; David Wolf; Marcel Moor; Danai Nikolantonaki; Eda Dilara Turgut; Max F. Scheller; Valery Grinevich; Jonathan R. Reinwald; Wolfgang Kelsch. Stable clique membership in male mouse societies requires oxytocin-enabled social sensory states. Nature Communications (2026) 17(1).
+https://doi.org/10.1038/s41467-026-76841-5
+
+Ostner; Honnavara; Bruchmann; Schülke. Spontaneous eye blink rate indicates increased attention during grooming in female Barbary macaques. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-53538-9
+
+Jillian Hendricks; Thomas Leroy; Michael T. Mendl; Benjamin Lecorps. Calves fed more milk prioritise play over feeding in a hole-board test. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-47403-y
+
+Anita Szabó; Alice Exnerová. To pull or push? Performance of four passerine species in the lever-pulling task. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02072-2
+
+Miriam Scriba; Jessy Auerswald; Linnea Lehnen; Jutta M. Schneider. Choosing courtship over caution: male jumping spiders delay anti-predator responses. Frontiers in Zoology (2026) 23(1).
+https://doi.org/10.1186/s12983-026-00604-7
+
+Shaorong Ma; Kuan Hong Wang; Yi Zuo. Targeting insulo-frontal pathway to reduce stress-evoked cognitive rigidity. Nature Communications (2026) 17(1).
+https://doi.org/10.1038/s41467-026-72221-1
+
+Svenja Capitain; Gwendolyn Wirobski; Catherine-Noémie Alexandrina Guran; Andreas Berghänel; Claus Lamm; Sarah Marshall-Pescini; Friederike Range. Invisible attitudes have visible effects on the behaviour of animals in scientific studies. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02085-x
+
+Elsbeth A. Akanzinge; John W. Long; John E. Hayes. Differential roles of oral physiology and oral processing behaviors on eating rate and snack intake in adults with healthy dentition. Physiology and Behavior (2026) 317().
+https://doi.org/10.1016/j.physbeh.2026.115499
+
+Elizabeth E. Manning; Elizabeth A. Crummy; Jamie L. Pierson; Zoe LaPalombara; Xiaojun Li; Samyuktha Manikandan; Susanne E. Ahmari. Male Sapap3 knockout mice show threat bias under conflict during platform-mediated avoidance task: effects of extinction with response prevention and implications for obsessive compulsive disorder. Translational Psychiatry (2026) 16(1).
+https://doi.org/10.1038/s41398-026-04057-8
+
+Svenja Capitain; Sarah Marshall-Pescini; Friederike Range. Human-socialized dogs and wolves show similar behavioural reactions to human fear odour. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02083-z
+
+Ana Eguiguren; David Gaspard; Christine M. K. Clarke; Hal Whitehead. Inferring sperm whale (Physeter macrocephalus) sex and developmental stage using aerial photogrammetry. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-46248-9
+
+James Cordery; Nick A. R. Jones; Cait Newport. Differential captivity and experiential conditions and its impact on the behaviour and cognition of Picasso triggerfish (Rhinecanthus aculeatus). Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02057-1
+
+Manal Tabbaa; Alexis Gamez; A’di Dust; Maja Matarić; Pat Levitt. Offspring genetic diversity regulates rearing experiences that predict differential susceptibility to Chd8 haploinsufficiency. Communications Biology (2026) 9(1).
+https://doi.org/10.1038/s42003-026-09908-0
+
+Kelly Cheung; Selena Gangaram; Michael Pei Xue Ge; Jenny Sung; Kenneth Wong; Liam Howatson; Alison Lai; Steven Li; Benjamin Tsang; Robert Gerlai. The effect of experimenter experience on behavioural measures in zebrafish: Comparison of observation-based and video-tracking methods. Current Research in Behavioral Sciences (2026) 11().
+https://doi.org/10.1016/j.crbeha.2026.100216
+
+Avalos; Hoyo-Alvarez; Rodriguez-Lopez; Teodósio; Arechavala-Lopez. Signatures of individuality in European seabass: Behaviour, cognition and telencephalic gene expression. Physiology and Behavior (2026) 317().
+https://doi.org/10.1016/j.physbeh.2026.115491
+
+Minke A. Krijnen; Bjorn G.J. Wansink; Lian van Vemde; Yvonne H.M. van den Berg; Tim Mainhard. Teacher closeness and conflict shape citizenship behaviors in ethnically diverse classrooms. Journal of School Psychology (2026) 119().
+https://doi.org/10.1016/j.jsp.2026.101615
+
+Debottam Bhattacharjee; Tonko W. Zijlstra; Tom S. Roth; Elena Belli; Sophie Calis; Paula Escriche Chova; Eythan Cousin; Jolanda A. de Jong; Edwin J. A. M. de Laat; Aníta Rut Guðjónsdóttir; Karline R. L. Janmaat; Elja J. Jeunink; Charlotte E. Kluiver; Penny E. N. Kuijer; Esmee Middelburg; Lena S. Pflüger; Veera I. Schroderus; Eva S. J. van Dijk; Jonas Verspeek; Sophie Waasdorp; Adam N. Zeeman; Elisabeth H. M. Sterck; Edwin J. C. van Leeuwen; Jorg J. M. Massen. Despotism promotes dyadic cooperation through enhanced interdependencies in non-human primate societies. Nature Communications (2026) 17(1).
+https://doi.org/10.1038/s41467-026-71168-7
+
+Laura Stangl; Anna Bludau; Virginie Rappeneau; Rohit Menon. Paternal social fear conditioning drives sex-specific behavioral alterations and septal gene regulation. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-71393-6
+
+Tatiana B. Demidova; Alexander V. Kuptsov; Konstantin A. Rogovin. Male conspicuous coloration covaries with aggression but not with exploration in the short-lived annual fish Nothobranchius guentheri. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-51986-x
+
+Varpu Pärssinen; Kaj Hulthén; R. Brian Langerhans; P. Anders Nilsson. Divergent ecological adaptation in allopatry leads to behavioral isolation through female resistance. BMC Ecology and Evolution (2026) 26(1).
+https://doi.org/10.1186/s12862-026-02504-0
+
+Thibaut Roost; Erin Campbell-Hooper; Frédéric Zuberer; Ricardo Beldade; Therésa M. Jones; Suzanne C. Mills; Stephen E. Swearer. Beyond the curfew: Diurnal coral reef fish and mesopredator behavioural modifications under artificial light at night in the wild intensifies nocturnal predator-prey interactions. Marine Pollution Bulletin (2026) 233().
+https://doi.org/10.1016/j.marpolbul.2026.120232
+
+Laurie Castro; Raymond Nowak; Valérie Dufour. Performance of sheep and goats in a delay of gratification task. Animal Cognition (2026) 29(1).
+https://doi.org/10.1007/s10071-026-02071-3
+
+Zoltán Tóth; Brigitta Juhász; Zsolt Kárpáti; Patrick Schultheiss; Sabine S. Nooten. Heat waves impair foraging initiation and directional movement toward a floral scent in the buff-tailed bumblebee (Bombus terrestris). Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-53492-6
+
+Clara Pérez-Gozalbo; Sandra Sanahuja-Irene; Fernando Martínez-García; María José Sánchez Catalán. Role of the tail of the ventral tegmental area in the regulation of maternal behaviour: a pharmacological study in postpartum rats. Neuropharmacology (2026) 300().
+https://doi.org/10.1016/j.neuropharm.2026.111147
+
+Sandra J. Poulson; Aleksandrina Skvortsova; Fatama Tuz Zahra; Damien C. Boorman; Seyed Asaad Karimi; Lisiê V. Paz; Wanning Cui; Antonietta Mandatori; Jacob Burek; Zahra Siddiqi; Maryam I. Fazili; Shivani R. Gami; Oakley B. Morgan; Mélanie Di Maria; Anton Dinh; Lianfang Liang; Robert Contofalsky; Jeffrey S. Mogil; Loren J. Martin. Cholecystokinin input from the anterior cingulate cortex to the lateral periaqueductal gray mediates nocebo pain behavior in mice. Nature Communications (2026) 17(1).
+https://doi.org/10.1038/s41467-026-73266-y
+
+Johannes Hartig; Maximilian Uwe Friedrich; Jérémy Signoret-Genest; Maria Gruber; Sawako Tabuchi; Hamidreza Alimohammadi; Max Leuschner; Nina Schöneberg; Robert Peach; Dennis Doll; Tobias Petschner; Amélie Neumann; Susanne Knorr; Jens Volkmann; Philip Tovote; Chi Wang Ip. Vestibular nucleus stimulation for ameliorating locomotor dynamics in a Parkinsonian mouse model. Nature Communications (2026) 17(1).
+https://doi.org/10.1038/s41467-026-76183-2
+
+Alyssa J. Sargent; Ana Melisa Fernandes; Aeris E. Clarkson; Samantha-Lynn Martinez; Alexandra Coenen; Laney Hansell; Yash P. Talwekar; Miguel Angel Muñoz Amaya; Nicolás Téllez-Colmenares; Rosalee Elting; Yutong Sun; Olivia A. Cartwright; Marialejandra Castro Farias; Nicole Büttner; Alejandro Rico-Guevara. Variable evidence of radio-tag backpacks affecting hummingbird time budgets in captivity. Animal Biotelemetry (2026) 14(1).
+https://doi.org/10.1186/s40317-026-00446-4
+
+Paolo Gamberoni; Mirko Bögner; Eva Kreuz; Matthew James Slater; David Bierbach; Sven Wuertz. Impact of different stocking densities on growth performance, welfare and physiology of Litopenaeus vannamei in RAS. Scientific Reports (2026) 16(1).
+https://doi.org/10.1038/s41598-026-42332-2
+
+Yujia Jin; Yating Lv; Xinye Wu; Chengjia Liu; Wanjun Guo; Yihui Cui; Yiyan Dong; Lusha Tong. Targeting the posterior thalamic hub: hemispheric-specific encoding of pain-depression comorbidity after hemorrhagic stroke. BMC Medicine (2026) 24(1).
+https://doi.org/10.1186/s12916-026-05014-4
+
+Dana L.M. Campbell; Greg J. Coman; Chris Stratford; Pushkar Mandrekar; Caroline Lee; Neil Bagnall; Artur N. Rombenso. Behavioural impacts of unilateral eyestalk ablation in female broodstock black tiger prawns (Penaeus monodon). Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107139
+
+Marie Krenger; Jeanne Bagnoud; Catherine Thevenot. The Evolution of Finger Counting Strategies in Addition: A Three-Year Longitudinal Study in Young Children. Developmental Science (2026) 29(6).
+https://doi.org/10.1111/desc.70293
+
+Viviane F. de Oliveira; Sérgio Luiz G. Nogueira-Filho; Selene S. da C. Nogueira. Evaluation of environmental enrichment stimuli for captive chestnut-bellied seed-finch (Sporophila angolensis) through behavioral indicators. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107147
+
+Elizabeth T. Hallers-Haalboom; Paul Lodder; Marieke G. M. Vorstenbosch-Hamers; Elisabeth H. M. Sterck; Paul L. C. van Geert; Marjolijn M. Vermande. Capturing Behavior Patterns of Dyadic Interaction Processes: An Illustrative Study of Young Children's Strategies and Responses in a Resource Inequality Situation. Social Development (2026) 35(4).
+https://doi.org/10.1111/sode.70096
+
+Sofie E. van Nieuwamerongen - de Koning; Alice J. Scaillierez; Iris J.M.M. Boumans; Rik P.P.J. van der Tol; Sabine K. Schnabel; Eddie A.M. Bokkers. Effects of a dynamic light schedule on sustainability indicators in finishing pig production. Livestock Science (2026) 313().
+https://doi.org/10.1016/j.livsci.2026.106041
+
+Tanner T Mierow; Myroslava Zelenchuk; Alexandra C N Kingston. Species-specific behaviors drive the initiation and maintenance of snapping shrimp-goby mutualisms. Behavioral Ecology (2026) 37(6).
+https://doi.org/10.1093/beheco/arag117
+
+Mathilde Coutant; Leslie Foldager; Lene J. Pedersen; Mona L.V. Larsen; Marianne Kaiser. Prepartum postural patterns and farrowing outcomes in sows with and without postpartum dysgalactia syndrome in crated and loose housing systems. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107123
+
+Felipe Munafó; Laura A. Rial; Fabricio Carballo; Mariana Bentosela. Social buffering in domestic dogs: Are the owners able to decrease dogs’ frustration during a non-social task?. Behavioural Processes (2026) 242().
+https://doi.org/10.1016/j.beproc.2026.105439
+
+Rachael E. Coon; Vinicius A. Camargo; Edmond A. Pajor. Predicting behaviours of beef calves from accelerometer data: A machine learning framework. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107143
+
+Alan de Aguiar; Michaella Pereira Andrade; Charles Morphy D. Santos; João Paulo Gois. HideAndSeg: an AI-driven approach to monitoring benthic octopuses in the wild. Marine Biology (2026) 173(11).
+https://doi.org/10.1007/s00227-026-04971-x
+
+Moritz Wiehler; Eva Millesi; Matthias Nemeth. Analysis of short-term and long-term repeatability of behaviour in guinea pigs. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107141
+
+Blandine Charrat; Guillaume Meiffren; Dominique Allainé; Isabelle Amat; Emmanuel Desouhant. Same-Sex Sexual Behaviours in a Wasp: Links With Reproductive Success and Potential Chemical Cues for Sex Recognition. Entomologia Experimentalis Et Applicata (2026) 174(11).
+https://doi.org/10.1111/eea.70193
+
+Jade Fountain; Journie Yee; Susan J. Hazel; Todd J. McWhorter; Tyler McNutt; Timothy L. Edwards. Effects of feeding on dogs’ frustration-related behaviours during a laboratory-based scent detection task. Behavioural Processes (2026) 242().
+https://doi.org/10.1016/j.beproc.2026.105430
+
+Laura A. Rial; Magdalena Jousset; Sol M. Ortiz; Mariana Bentosela. Still-face phenomenon in domestic dogs: Does familiarity matter?. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107128
+
+Sandra Liliana Ospina Rios; Caroline Lee; Sarah J. Andrewartha; Megan Verdon. The effect of pasture-based dam-rearing on object recognition memory in dairy heifers. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107144
+
+Romane Gillet; Christina Umstätter; Eberhard Hartung; Kerstin Barth. Stepwise reduction of calf access to the dam prior to separation: Effects on weaning-related distress behavior and performance of dairy cow-calf pairs. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107142
+
+Caroline M. Maia; Esther Hoyo-Alvarez; Pablo Arechavala-Lopez. Social context overrides individual preference for structural enrichment of juvenile European seabass. Applied Animal Behaviour Science (2026) 304().
+https://doi.org/10.1016/j.applanim.2026.107145
+
+Steven Janz; Caroline Müller; Pragya Singh. Nutrient variation shapes survival without altering activity or social interaction networks in a sawfly. Behavioral Ecology (2026) 37(6).
+https://doi.org/10.1093/beheco/arag102
+
+Catherine T.Y. Nguyen; Wendy Saltzman. Effects of age at first fatherhood on parental behavior and offspring outcomes in the biparental California mouse. Behavioural Processes (2026) 242().
+https://doi.org/10.1016/j.beproc.2026.105435
+
+Paige M. Cunningham; John E. Hayes. Water intake, switching between bites and sips, and drinking behavior are associated with food intake across meals varying in spiciness: A secondary analysis of two randomized crossover studies. Appetite (2026) 226().
+https://doi.org/10.1016/j.appet.2026.108698
+
+Marie-Laure Veys; Eve Jourdain; Seán O'Callaghan; Juliette Berthier; Carla Freitas. Female-centred decision making and social interactions in killer whales revealed by drone-based observations. Animal Behaviour (2026) 241().
+https://doi.org/10.1016/j.anbehav.2026.123732
+
+Maurizio Casarrubea; Giuseppe Di Giovanni; Teresa Pasqua; Stefania Aiello; Giuseppe Crescimanno; Magnus S. Magnusson. Time as the language of behavior: Events, sequences, patterns and meanings. Journal of Neuroscience Methods (2026) 435().
+https://doi.org/10.1016/j.jneumeth.2026.110846
+
+Martina Bellio; Helle Alvarstein; Lynne U. Sneddon; Ruth C. Newberry; Marco A. Vindas. Behavioural and neuroendocrine correlates of swimming exercise choice in juvenile Atlantic salmon. Hormones and Behavior (2026) 186().
+https://doi.org/10.1016/j.yhbeh.2026.106001
+
+Marta C. Soares; Ana Carolina dos Santos Gauy; Júlia Macieira; Bianca Cambiaghi e Silva; Filipe Banha; Manuel Gesto; Eliane Gonçalves-de-Freitas; Margarida Saavedra. Tactile stimulation enrichment affects behavioural and physiological responses of a marine commercial fish species, the gilthead seabream Sparus aurata. Aquaculture (2026) 625().
+https://doi.org/10.1016/j.aquaculture.2026.744343
+
+Daniela Kuncicka; Simona Ondrackova; Karin Estokova; Dominika Radostova; Daniela Cernotova; Frantisek Staud; Hana Brozka; Ales Stuchlik. Prenatal exposure to high- but not low-molecular-weight poly(I:C) produces selective sociability deficits in offspring. Behavioural Brain Research (2026) 514().
+https://doi.org/10.1016/j.bbr.2026.116357
+
+Mona Lilian Vestbjerg Larsen; Dong Liu; Guilherme Amorim Franchi; Tomas Norton; Lene Juul Pedersen. Computer vision and ethological methods to produce large-scale data on feeding and drinking behaviour in finishing pigs. Applied Animal Behaviour Science (2026) 303().
+https://doi.org/10.1016/j.applanim.2026.107101
+
+Mathilde Guillon; Léa Naudin; Noëlle Cochet-Faivre; Emmanuelle Titeux; Caroline Gilbert. Exploring Normal to Abnormal Variations of Grooming Behaviours in Cats. Veterinary Dermatology (2026) 37(5).
+https://doi.org/10.1111/vde.70109
+
+Leslie Ann Ormenita; Alberto Barrion; Jose Isagani Janairo; Dionisio Alvindia; Thaddeus Carvajal; Divina Amalin. Oviposition Behavior of Helopeltis bakeri Poppius (Hemiptera: Miridae). Entomologia Experimentalis Et Applicata (2026) 174(10).
+https://doi.org/10.1111/eea.70139
+
+Nobuaki Mizumoto; Clement Het Kaliang; Taisuke Kanao. Hidden role plasticity of the reproductive caste in a morphologically differentiated termite society. Oikos (2026) 2026(10).
+https://doi.org/10.1002/oik.12492
+
+Diego Fernández-Regueras; M. Cristina Guerrero-Escagedo; Ana Calero-Elvira; Eduardo Estrada. Quantifying the dyadic interaction: A methodological framework for conducting observational moment-by-moment research. Behavior Research Methods (2026) 58(10).
+https://doi.org/10.3758/s13428-026-03162-2
+
+Matthew E. Brock; Sara M. Martin; Tzu-Jung Lin; Hannah Kovacich; Hui Jiang; Ann A. O’Connell; Katherine M. Anderson; Emily France; Hoda Hashemi; Sarah E. Hudler; Steven Hunt; Genevieve Hurlburt; Kaitlyn Viera; Menglin Xu. Recess for Students With Extensive Support Needs: A Missed Opportunity for Meaningful Inclusion. Exceptional Children (2026) 93(1).
+https://doi.org/10.1177/00144029261425846
+
+Contreras-Jodar; Vidal-Cardos; Felip; Bagaria; Dalmau; Velarde. Effect of stocking density and crate height on the welfare of fattening rabbits during transport to the slaughterhouse under mild Mediterranean summer conditions. Animal (2026) 20(10).
+https://doi.org/10.1016/j.animal.2026.101945
+
+Hu; Xie; Bracke; Wang; Koerkamp; Aarnink. Preliminary study to automatically train growing pigs to use a toilet. Animal (2026) 20(10).
+https://doi.org/10.1016/j.animal.2026.101938
+
+Sandra Sanahuja-Irene; Cinta Navarro-Moreno; Manuela Barneo-Muñoz; Clara Pérez-Gozalbo; María José Sánchez-Catalán; Fernando Martínez-García. Motherhood reshapes detection and response to male-derived chemosignals. From attraction to aversion?. Physiology and Behavior (2026) 314().
+https://doi.org/10.1016/j.physbeh.2026.115356
+
+Jéssica Karasek; Daniel Danilewicz; Ticiana Fettermann; Carla Cavassani; Lucas Lima de Oliveira; Yvonnick Le Pendu. Respiration Patterns of Southern Right Whale (Eubalaena australis) Mothers and Calves in Southern Brazil. Marine Mammal Science (2026) 42(4).
+https://doi.org/10.1111/mms.70270
+
+Daniele Romeo; Maddalena Ranucci; Melanie Court; Beatriz P. Pereira; José Ricardo Paula; Celia Schunter. Interspecific variation in cleaning and cheating behaviours among coral reef cleaner fishes. Coral Reefs (2026) 45(5).
+https://doi.org/10.1007/s00338-026-02906-y
+
+Alice Di Prete; Jacqueline Blissett; Laura Shapiro; Elsa Addessi; Francesca Bellagamba; Rachel Batchelor; Shefu Islam; Charlotte Webber; Claire Farrow. Exploring the role of infant temperament in the relationship between self-feeding and parental responsiveness. Appetite (2026) 225().
+https://doi.org/10.1016/j.appet.2026.108588
+
+Colbourne; Beck; Tebbich; Auersperg. From the “sticker” to the “seed” slide: Challenges testing concurrent tooling in Goffin's cockatoos. Acta Psychologica (2026) 270().
+https://doi.org/10.1016/j.actpsy.2026.107787
+
+Karley A.C. Levaggi; Michelle Campbell-Ward; Michelle E. Shaw; Catherine A. Herbert; Valentina S.A. Mella. Training koalas for syringe feeding: Factors influencing acceptance and behaviour. Applied Animal Behaviour Science (2026) 303().
+https://doi.org/10.1016/j.applanim.2026.107087
+
+Michelle Pingitore; Jose Luis Crespo Picazo; Laura Romeo; Oriol Talló Parra; Damianos Chatzievangelou; Nathan J. Robinson. Effect of bio-logger attachment and retention on the behavior and welfare of loggerhead and green turtles in captivity. Journal of Experimental Marine Biology and Ecology (2026) 603().
+https://doi.org/10.1016/j.jembe.2026.152217
+
+Matheus S. Monteiro; Bruno B. D. Muro; Marcos V. B. Nicolino; Ana L. B. Mezzina; Giovanni L. S. França; Rafaella F. Carnevale; Fernanda M. dos Santos; Ana C. R. Oliveira; Nádia A. C. Gomes; Caroline Veloso; Flávio A. de Coelho; José E. Martinez; Cecília A. F. Melo; Erich H. C. Inácio; Ana V. H. S. Escaler; Flávia S.S. Tavares; Gabriel T. Takita; Lidiane C. Costa; Thiago Bernardino; Cesar A. P. Garbossa. Effects of different volumes of a water-soluble and biodegradable nesting material on behavior, pain, glycemia, farrowing traits, and performance in crated sows. Veterinary Research Communications (2026) 50(5).
+https://doi.org/10.1007/s11259-026-11451-6
+
+Ayland C. Letsinger; Bryan N. Ochoa; Jessica J. Wu; Kayen U. Tang; Diane Youngstrom; Shaohua Wang; Matt Bridge; Guohong Cui; Jerrel L. Yakel. Methods for measuring neural activity during voluntary wheel running. Journal of Neuroscience Methods (2026) 434().
+https://doi.org/10.1016/j.jneumeth.2026.110839
+
+María Alborja-Valado; Marcos López-Patiño; Frode Oppedal; Meredith Burke; Sonia Rey Planellas; Jesús M. Míguez; Mauro Chivite-Alcalde. Behavioural thermoregulation modulates circadian clock gene expression in juvenile Atlantic salmon (Salmo salar). Journal of Thermal Biology (2026) 141().
+https://doi.org/10.1016/j.jtherbio.2026.104577
+
+Gaute Alexander Nedberg Helberg; Håkon Elvevold Andreassen; Marianna Anichini; Chris Noble; Bjørn-Steinar Sæther; Jelena Kolarevic. Characterising sounds associated with Atlantic salmon (Salmo salar) surface activity in tanks and their implications for behavioural monitoring using passive acoustics. Applied Animal Behaviour Science (2026) 303().
+https://doi.org/10.1016/j.applanim.2026.107066
+
+Eszter MATRAI; Shaw Ting KWOK; Iris Ziying TAN; Keith CHENG; Ákos POGÁNY; Paolo MARTELLI. Long-term cognitive enrichment research provides insight into the change of dolphins' social organisation. Applied Animal Behaviour Science (2026) 303().
+https://doi.org/10.1016/j.applanim.2026.107102
+
+Annemiek Hermans; Jeroen Hubert; Antonio P. Chiovaro; Eva Witsen; Tom Spanings; Hendrik V. Winter; Edwin M. Foekema. Tails and fins: Subtle changes in growth following chronic embryonic exposure to AC electromagnetic fields in elasmobranchs. Marine Pollution Bulletin (2026) 231().
+https://doi.org/10.1016/j.marpolbul.2026.119937
+
+Lisa Vergin; Jesper Madsen; Hans Linssen; Bart A. Nolet; Kevin Kuhlmann Clausen. Habitat Loss Through Renewable Energy Infrastructure: Budgeting the Energetic Consequences for Wintering Geese. Environmental Management (2026) 76(10).
+https://doi.org/10.1007/s00267-026-02632-9
+
+Martha Fox; Lorraine Scott; Isabella Capellini. How do insects pollinate flowers? Behaviour during visitation determines high pollination efficiency by a generalist insect. Functional Ecology (2026) 40(10).
+https://doi.org/10.1111/1365-2435.70426
+
+Hailley Danielson-Owczynsky; Allert I. Bijleveld; Ran Nathan; Sivan Toledo; Roeland A. Bom. Time-stressed Bar-tailed Godwits exploit novel prey during migratory fuelling. Ibis (2026) 168(4).
+https://doi.org/10.1111/ibi.70075
+
+Yuan Cheng; Yusi Chen; Myungji Kwak; Ross P. Kempner; Rudramani Singha; Jared Winslow; Runqi Liu; Umais Khan; Tessa Spangler; Alvi Khan; Talmo Pereira; Matthew Whiteway; Evan S. Schaffer; Nuttida Rungratsameetaweemana; Nan Yang; Herbert Zheng Wu. Asymmetric prefrontal representations for leader–follower dynamics. Nature (2026) 658(8134).
+https://doi.org/10.1038/s41586-026-10900-1
+
+Ammie K. Kalan; Mimi Arandjelovic; Hjalmar Kuehl; Skye Bartel-Ens; Amy Christensen; Julia Whelan; Anthony Agbor; Paula Dieguez; Juan Lapuente; Amelia C. Meier; Fotios Alexandros Karakostis. Sticks and Stones: Hand Preference and Grip in Wild Chimpanzee Tool-Use. American Journal of Biological Anthropology (2026) 191(2).
+https://doi.org/10.1002/ajpa.70364
+
+Jackson R. Ham; Sergio M. Pellis; Vivien C. Pellis; E.J. Marijke Achterberg. Evaluating the play fighting of rats: A sociological perspective. Journal of Neuroscience Methods (2026) 434().
+https://doi.org/10.1016/j.jneumeth.2026.110836
+
+Nada El Mahmoudi; Francesca Lanzarini; Farzad Ziaie Nezhad; Deepak Surendran; Jean Laurens. Experience-dependent emergence of multi-scale spatial organization during foraging in freely moving marmosets. Iscience (2026) 29(9).
+https://doi.org/10.1016/j.isci.2026.117294
+
+Shota Ichizawa; Jana Caspers; Reiko Uenoyama; Yuria Ito; Tamako Miyazaki; Mizuki Morisasa; Naoko Goto-Inoue; Yusuke Suzuki; Nozomi Nakanishi; Yasuyuki Endo; Masako Izawa; Tetsuro Yamashita; Beatriz Ortiz-Guisado; Elisa María Espinosa-López; Guadalupe Gómez-Baena; Stefan Schulz; Masao Miyazaki. Signatures of branched-chain fatty acids derived from a kidney reservoir confer stable chemical individuality on domestic cats. Current Biology (2026) 36(17).
+https://doi.org/10.1016/j.cub.2026.07.045
+
+Tommaso Saccà; Elisa Protopapa; Adrian V. Jaeggi; Sofia I. F. Forss. Cognitive abilities show distinct developmental trajectories in wild meerkats. Proceedings of the Royal Society B Biological Sciences (2026) 293(2078).
+https://doi.org/10.1098/rspb.2026.1638
+
+Patrick T. Piantadosi; Kendall M. Coden; Hyesun Choi; Sarah J. Perry; Marcelle Halfeld; Julia A. Schaffer; Jeff P. Goff; Nathen A. Spitz; Nicole R. Schwab; Rodrigo Sandon; Shanzeh Sadiq; Maddison M. Devine; Vincent D. Costa; Daniel da Silva; Andrew Holmes. Risk reshapes amygdala representation of choice. Neuron (2026) 114(17).
+https://doi.org/10.1016/j.neuron.2026.03.033
+
+Maricel Quispe; Benjamín Silva Rochefort; María José Rojas; Irene Alburquerque; Natalia I. Márquez; Camila P. Villavicencio; René Quispe; João F. Botelho; Manuel Maliqueo; Gonzalo Marín; Jorge Mpodozis; Macarena Faunes. Photoperiod modulates courtship behavior and plasma testosterone in a short-day passerine. Journal of Avian Biology (2026) 2026(5).
+https://doi.org/10.1002/jav.03712
+
+Nicole Freitag; Kareem El-Tawil; Aaron Crane; Vanessa Hilo; George Saad; Ada Eban-Rothschild. Sleep loss overrides sleep-preparatory behavior to promote sleep. Sleep (2026) 49(9).
+https://doi.org/10.1093/sleep/zsag133
+
+T. Yuji Teoi; Leonardo Tórtoro Pereira; Claudio Fabiano Motta Toledo. Adapting a content orchestrator across game genres: From top-down adventure to 2D platformer. Entertainment Computing (2026) 58().
+https://doi.org/10.1016/j.entcom.2026.101148
+
+Mendoza-García; Alessandroni; Moreno-Núñez. Parents Adaptively Adjust Timing and Musical Complexity in Object-Use Demonstrations During Early Triadic Interactions. Infant and Child Development (2026) 35(5).
+https://doi.org/10.1002/icd.70140
+
+Tomás Eloy González-Chinnici; Mateo Miró; Camila Belén Saldaña; Walter Marcelo Farina. Olfactory Information Transfer in Bumblebees and Its Variation According to the Food Resource. Insects (2026) 17(9).
+https://doi.org/10.3390/insects17090924
+
+Kirsten Sheehy; Jonathan Aguiñaga; Mary Janecka; Jessica Stephenson; Kate L. Laskowski. Differences in Parasite Infection Status and Behavior Between a Clonal Fish and Her Sexually Reproducing Heterospecifics. Ecology and Evolution (2026) 16(9).
+https://doi.org/10.1002/ece3.74288
+
+Simo Siltanen; Kirsi Hämäläinen; Minna Blomqvist; Reijo Bottas; Arja Sääkslahti. Supporting Athlete-Centred Coaching Through Formal Coach Education: A Mixed-Methods Study of a Vocational Coach Education Programme. International Sport Coaching Journal (2026) 13(3).
+https://doi.org/10.1123/iscj.2025-0077
+
+Olivia. M. Galloway; Christine. L. Madliger; Britney. L. Firth; Justin. A. Chiotti; Trevor. E. Pitcher. Effects of simulated hard and soft release after transport on the stress physiology, metabolic rate and activity levels of juvenile lake sturgeon. Environmental Biology of Fishes (2026) 109(3).
+https://doi.org/10.1007/s10641-026-01897-7
+
+Kimberly Brosche; Ariane Veit; Marianne Wondrak; Rosa Rugani. Pigs rely on spatial rather than numerical cues in an ordinal foraging task. Animal Behaviour (2026) 239().
+https://doi.org/10.1016/j.anbehav.2026.123666
+
+Olivia M. Law; Jonathan C. Gewirtz; Jessica L. Verpeut. Spontaneous oxycodone withdrawal alters behavior and oligodendrocyte-related gene expression in mice. Pharmacology Biochemistry and Behavior (2026) 266().
+https://doi.org/10.1016/j.pbb.2026.174229
+
+Marta Luiz; Marta C. Soares; Gonçalo Brito; Pedro Anastácio; Manuel Gesto; Filipe Banha. Behavioural and Physiological Responses of a Native Iberian Minnow Species to Heatwaves in the Presence of Invasive Species. Freshwater Biology (2026) 71(9).
+https://doi.org/10.1111/fwb.70309
+
+Meluveettil S Vinitha; Palissery Sheeba; Ambalaparambil V Sudhikumar. Does slime facilitate invasion? Differences in exploratory behaviour to slime cues in native Tanychlamys indica and invasive Lissachatina fulica. Journal of Molluscan Studies (2026) 92(3).
+https://doi.org/10.1093/mollus/eyag026
+
+Lisa A. Macdonald; Rasmus Praefke; Sabine Frühwirth; Angela S. Stoeger. First Insights into the Breeding Behaviour of an Ex Situ Population of Northern Rockhopper Penguins (Eudyptes moseleyi). Journal of Zoological and Botanical Gardens (2026) 7(3).
+https://doi.org/10.3390/jzbg7030037
+
+Marta Kowal; Jakub Jędrusiak; Jakub Krasucki; Anna Kusztal; Maja Nowakowska; Julia Szaran; Magdalena Kurowska; Klaudia Fuławka; Aleksandra Nowacka; Julia Góreczna; Marta Tarasiewicz; Grzegorz Jankiewicz; Ksawery Łakomy; Amelia Ciniawska; Piotr Jędrusik. When No One Is Watching: No Effects of Brief Social Media Model Exposure on Young Women’s Appearance-Enhancing Behaviors. Quarterly Journal of Experimental Psychology (2026) 79(9).
+https://doi.org/10.1177/17470218261442099
+
+Zoë Goldsborough; Meredith K.W. Carlson; Leonie S. Reetz; Evelyn Del Rosario-Vargas; Margaret C. Crofoot; Brendan J. Barrett. Development and social dynamics of stone tool use in wild white-faced capuchin monkeys. Animal Behaviour (2026) 239().
+https://doi.org/10.1016/j.anbehav.2026.123673
+
+Niloofar Goharbakhsh; Louisa Kulke. Can You Feel My Pain? Neural-Behavioural Changes in Caregiver–Infant Dyads During Ostracism. Developmental Science (2026) 29(5).
+https://doi.org/10.1111/desc.70269
+
+Julie Fleitz; Clémence Furic; Charli S. Davies; Jenna Palttala; Valentina Giongo; Loan Hognon; Suvi Ruuskanen; Sophie Reichert. Impacts of early-life thermal challenge on development, survival, and physiology in wild great tits. Biology Open (2026) 15(9).
+https://doi.org/10.1242/bio.062670
+
+Madeleine E. Zuercher; Debra M. Shier; Gregory F. Grether. Sniffing out risk: effects of domestic dog scent on grey fox behaviour at the wildland–urban interface. Animal Behaviour (2026) 239().
+https://doi.org/10.1016/j.anbehav.2026.123667
+
+Green; Turner; Ball. Assessment strategy varies with resource ownership, individual and species identity in mantis shrimp. Behavioral Ecology (2026) 37(5).
+https://doi.org/10.1093/beheco/arag072
+
+Dany; Lacomme; Guionneau; Ramaru; Prugnolle; Petit; Rougeron. Anthropogenic effects on activity patterns and vigilance in Cape chacma baboons (Papio ursinus ursinus) in the Garden Route, South Africa. Global Ecology and Conservation (2026) 69().
+https://doi.org/10.1016/j.gecco.2026.e04310
+
+Erika Polgár; Maria Gutierrez-Mecinas; Allen C. Dickie; Mai Abu Hajer; Andrew H. Cooper; Greg A. Weir; Andrew J. Todd. Chemogenetic inhibition of Grpr- and/or Npff-expressing spinal neurons in mice suppresses chloroquine-evoked itch but not signs of mechanical allodynia in a neuropathic pain model. Pain (2026) 167(9).
+https://doi.org/10.1097/j.pain.0000000000004024
+
+Huailiang Guo; Dianne Brunton; Ibrahim M Hegab; Ahmed A Ali; Kang An; Zhicheng Wang; Zongxi Zhao; Weihong Ji; Junhu Su. Anti-predator behavioral divergence between subterranean and aboveground foraging small mammals. Behavioral Ecology (2026) 37(5).
+https://doi.org/10.1093/beheco/arag075
+
+Mikko Haavisto; Tomi Jaakkola. Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications. Instructional Science (2026) 54(2).
+https://doi.org/10.1007/s11251-026-09817-z
+
+Anna M. Zhou; Madison R. Tetzlaff; Laura M. Glynn; Curt A. Sandman; Hal S. Stern; Tallie Z. Baram; Elysia Poggi Davis. Loss of pleasure (Anhedonia): A sex-dependent, cross-species consequence of unpredictable signals to the perinatal brain. Neurobiology of Stress (2026) 44().
+https://doi.org/10.1016/j.ynstr.2026.100842
+
+Elke Schüttler; Natalia Rojas-Troncoso; Nicolás Berrios; Jaime E. Jiménez. Is the Cat–Owner Relationship Related to Cat–Wildlife Conflicts?. Animals (2026) 16(17).
+https://doi.org/10.3390/ani16172777
+
+Jai Lake; Geoffrey M While; Alexander G Ophir; Dustin R Rubenstein; Lynea Witczak Oldfather; Martin J Whiting. Vasotocin influences mother–offspring associations in a facultatively family-living lizard. Behavioral Ecology (2026) 37(5).
+https://doi.org/10.1093/beheco/arag082
+
+Jay Kirkham; Kimberley T.A. Davies; Heather J. Foley; Chris Zadra; Rhyl Frith; Paolo S. Segre; Sarah M.E. Fortune. Open wide: Identifying North Atlantic right whale feeding behaviour using camera-validated kinematic data and machine learning. Plos One (2026) 21(9 September).
+https://doi.org/10.1371/journal.pone.0352346
+
+Kate N Fergusson; Stephanie L Hannington; Jack A Brand; James L Tanner; Amanda K Pettersen; Celine T Goulet; Josefin Sundin; Minna Saaristo; Michael G Bertram; Bob B M Wong; Jake M Martin. No effect of a widespread pharmaceutical pollutant on behavior, physiology, or morphology in guppies. Behavioral Ecology (2026) 37(5).
+https://doi.org/10.1093/beheco/arag080
+
+Valeria Mazza; Giorgia Scrivano; Gianluca Piovesan; Alberto Garofalo; Daniele Canestrelli; Claudio Carere. Responses to novel stimuli of free-ranging small mammals along a gradient of human disturbance. Biological Conservation (2026) 321().
+https://doi.org/10.1016/j.biocon.2026.112003
+
+Christine Barry; Luciana C. Ferreira; Adrian C. Gleiss; Mark G. Meekan; Misty Paig-Tran; Robert Harcourt; Michele Thums. An ethogram for the whale shark (Rhincodon typus) with insights into foraging plasticity. Marine Biology (2026) 173(9).
+https://doi.org/10.1007/s00227-026-04900-y
+
+Chiara Canori; Eleonora Biffi; Tiziano Travain; Paola Valsecchi. Blinking together: the modulation of eye blinking in dog–human social contexts. Royal Society Open Science (2026) 13(8).
+https://doi.org/10.1098/rsos.260512
+
+Mélanie Bey; Naomi Jeanne Luna Alex; Lisa Maczkowicz; Yoann Pellen; Joel Vizueta; Volker Nehring. Exposure to non-nestmate odors changes the odorant receptor profile in Acromyrmex echinatior leaf-cutting ants. Iscience (2026) 29(8).
+https://doi.org/10.1016/j.isci.2026.116665
+
+Loanne Pichot; Maevatiana Ratsimbazafindranahaka; Salomé Martin-Marin; Chloé Huetz; Olivier Adam; Isabelle Charrier; Charlotte Curé. To flee or not to flee: anti-predator response of humpback whales on their breeding ground. Iscience (2026) 29(8).
+https://doi.org/10.1016/j.isci.2026.116953
+
+Océane Schmitt; David Schmitz-Lamping; Gesine Lühken; Gerriet Trei; Uta König von Borstel. An exploratory study comparing the social behavior of intersex and female goats. Frontiers in Veterinary Science (2026) 13().
+https://doi.org/10.3389/fvets.2026.1895618
+
+Umut Burak Agan; Mattis Macq; Estelle Descout; Marcel Bassayi Abalo; Alessandro Cozzi; Manon Chasles. Crossing the comfort zone: rabbit appeasing pheromone enhances acclimation to a novel environment. Frontiers in Veterinary Science (2026) 13().
+https://doi.org/10.3389/fvets.2026.1929577
+
+Taishi Kono; Kouta Kanno. Linking quantity and acoustic properties of courtship vocalizations in male mice. Behavioural Brain Research (2026) 511().
+https://doi.org/10.1016/j.bbr.2026.116279
+
+Johanna Henke-von der Malsburg; Jonathan S. Reeves; Tomos Proffitt; Tiago Falótico; Henrique Rufo; Lydia V. Luncz. Social cues on stone tools outweigh raw material properties in wild primates. Proceedings of the Royal Society B Biological Sciences (2026) 293(2076).
+https://doi.org/10.1098/rspb.2026.0416
+
+Monika Maciag; Vardan T. Karamyan. Development of a deep learning-based grid walking test for assessing post-stroke motor function in mice. Frontiers in Behavioral Neuroscience (2026) 20().
+https://doi.org/10.3389/fnbeh.2026.1873231
+
+Christopher B. Rillahan; Sally Roman; David Rudders; Pingguo He. Seeing what the dredge misses: Assessing density-dependent catchability of a scallop survey dredge using direct video estimates. Fisheries Research (2026) 300().
+https://doi.org/10.1016/j.fishres.2026.107799
+
+Zhengyu Fu; Yiming Gong; Wenyue Hou; Li Li; Hongping Zhang. Acoustic Features of Pain-Induced Vocalisations Are Associated with Subsequent Growth and Temperament Following Thermal Disbudding in Goat Kids: A Preliminary Study. Animals (2026) 16(16).
+https://doi.org/10.3390/ani16162530
+
+Hannah Petit; Vivian Stansell; Louis Perrotti; Justin T Richard. Determining behavioral proxies of preference: mate choice and the New England Cottontail (Sylvilagus transitionalis). Journal of Mammalogy (2026) 107(4).
+https://doi.org/10.1093/jmammal/gyag023
+
+Daniel Campioni-Norman; Aimee K. Gardner; Stella Mavroveli; Dylan J. Grisell; Piers Boshier; Noosha D. Deravi; Ahmad Hider; Courtney Collins; Johanna Brandenburg; Ozanan R. Meireles; Martin Wagner; Brent Matthews; Nicole D. Bouvy; Liane S. Feldman; E. Matthew Ritter; George B. Hanna. Joint EAES-SAGES framework for developing procedure-specific surgical quality assessment tools. Surgical Endoscopy (2026) 40(8).
+https://doi.org/10.1007/s00464-026-12986-0
+
+Plotine Jardat; Juliette Cognié; Aurore Avarguès-Weber; Fabrice Reigner; Ludovic Calandreau; Léa Lansade. Horses’ cross-modal recognition of human emotions extends to fear vs joy. Applied Animal Behaviour Science (2026) 301().
+https://doi.org/10.1016/j.applanim.2026.107022
+
+Misha K. Rowell; Tasmin L. Rymer. Is the Cognitive Ability of Fawn-Footed Mosaic-Tailed Rat Melomys cervinipes Offspring Related to Mothers’ Care or Cognitive Abilities?. Journal of Experimental Zoology Part A Ecological and Integrative Physiology (2026) 345(7).
+https://doi.org/10.1002/jez.70111
+
+Julian Navarro-Pagan; Paola Figueroa-Colon; Alexander Figueroa-Negron; Luis Perez-Fabregat; Antonio Morales-Cintrón; Jean Mendoza-Anduce; Alondra Ortiz-Franco; Robert A. Kozol; Roberto Rodriguez-Morales. The resident effect dominates over previous winner/loser experience in surface fish of the Mexican tetra. Animal Behaviour (2026) 238().
+https://doi.org/10.1016/j.anbehav.2026.123636
+
+Melitta Csepregi; Beáta Korcsok; Judit Abdai; Ádám Miklósi; Bence Ferdinandy; Tímea Kovács; Sára Roszik; Márta Gácsi. Taking candy from a robot: Attitudes toward an autonomous non-humanoid service robot at real-life events. Computers in Human Behavior Reports (2026) 23().
+https://doi.org/10.1016/j.chbr.2026.101204
+
+Dana L.M. Campbell; Aénor Pomarede; Artur N. Rombenso; Caroline Lee. Individual behavioural variation in adaptation to a novel environment in female broodstock prawns (Penaeus monodon). Applied Animal Behaviour Science (2026) 301().
+https://doi.org/10.1016/j.applanim.2026.107042
+
+Jessica T. Kelly; Ellen A. Knowles; Jessy L. Thomas; Emily Hermann; McKensey Berg; Patti Berg-Poppe; Whitney Lucas Molitor; Matthew A. Barker; Staci Wietfeld; BreAnne A. Danzi. Development of Interactional Synchrony: Examining the Role of Maternal Emotion Dysregulation. Behavioral Sciences (2026) 16(8).
+https://doi.org/10.3390/bs16081326
+
+Chiara R. Angori; Romy C. Kadrić; Eva Millesi; Matthias Nemeth. Behavioral and physiological changes during the estrous cycle of socially housed female guinea pigs. Behavioural Processes (2026) 240().
+https://doi.org/10.1016/j.beproc.2026.105408
+
+Bing Xie; Cédric Sueur; Elodie F. Briefer. Plains zebra (Equus quagga) group movement decisions are associated with visual and tactile behaviours performed by initiators, followers and non-followers. Behavioral Ecology and Sociobiology (2026) 80(8).
+https://doi.org/10.1007/s00265-026-03783-9
+
+Theresa V. Heinen; Julia Schmidgen; Stephan Bender; Kerstin Konrad. Parietal signatures of urge control in paediatric tic disorders: Hyperactivation and salience-biased coupling. European Child and Adolescent Psychiatry (2026) 35(8).
+https://doi.org/10.1007/s00787-026-03029-z
+
+Hela Boughdiri; Grant C. McDonald; Tamás Székely; András Kosztolányi. No Evidence That Nest Cover Shapes Incubation Schedules in a Mediterranean Shorebird Population. Ecology and Evolution (2026) 16(8).
+https://doi.org/10.1002/ece3.74225
+
+Taylor B. Irvine; D. Ashley Monks. Effects of peripubertal onset of hyperandrogenism on sociosexual behavior of mice modeling polyendocrine metabolic ovarian syndrome. Hormones and Behavior (2026) 184().
+https://doi.org/10.1016/j.yhbeh.2026.105982
+
+Joshua Bowman; Jamie M. Cornelius; Alexandra Schoen; Mauricio Cantor; Taylor K. Chapple. Behavioral Evidence for a Chemical Disturbance Cue in Bat Rays (Myliobatis californica). Journal of Experimental Zoology Part A Ecological and Integrative Physiology (2026) 345(7).
+https://doi.org/10.1002/jez.70102
+
+Kansuke Hasunuma; Kengo Horie; Masahide Yoshida; Katsuhiko Nishimori; Tatsushi Onaka; Nobuya Sato. Oxytocin receptor or vasopressin 1a receptor knockout suppresses same-sex conspecific aggression without affecting partner preference in male prairie voles (Microtus ochrogaster). Hormones and Behavior (2026) 184().
+https://doi.org/10.1016/j.yhbeh.2026.105968
+
+Arad Sarig; Evyatar Sar-Shalom; Ebrima S M Kolley; Elad Shmuel Yonah; Lee Benjamin Lamdan; Ariel Roselin Lewin; Tamir Partosh; Gur Pines; Jonathan D Bohbot; Philippos Aris Papathanos. An OpIE2-DsRed marker disrupts female blood-feeding and shortens lifespan in the malaria vector Anopheles gambiae. Genetics (2026) 233(4).
+https://doi.org/10.1093/genetics/iyaf280
+
+Elizabeth M. Danes; Elizabeth A. Chadwick; Kirsten J. Oliver; Melanie A. Findlay; Patrick J. C. White. Approximating the age of Eurasian otter (Lutra lutra) cubs from camera trap footage using proportional body measurements. European Journal of Wildlife Research (2026) 72(4).
+https://doi.org/10.1007/s10344-026-02127-2
+
+Hong Viet Duong; Gamaliel Simanungkalit; Derek Schneider; Frances Cowley; David Lamb; Stephen Ives; Jamie Barwick. A machine learning approach to developing behaviour classification models of grazing cattle using Global Navigation Satellite System (GNSS) data. Smart Agricultural Technology (2026) 14().
+https://doi.org/10.1016/j.atech.2026.102182
+
+Anupama Nayak Manel; James Jonathan Foster; Anna Stöckl. Strong negative reinforcement interferes with visual learning in a solitary pollinator. Animal Behaviour (2026) 238().
+https://doi.org/10.1016/j.anbehav.2026.123624
+
+Alex Blanche; Michael R. Conover; S. Nicole Frey. Avian Scavengers Modify Vigilance Across Visits to Foraging Sites. Ethology (2026) 132(8).
+https://doi.org/10.1111/eth.70082
+
+Hagedoorn; Tschirren; ter Avest; Tyson; Snijders; Griffith; Naguib; Loning. Communication networks of wild zebra finches, Taeniopygiacastanotis. Animal Behaviour (2026) 238().
+https://doi.org/10.1016/j.anbehav.2026.123641
+
+Yuval Zukerman; Tania Bird; Oded Berger-Tal. The impacts of different visitor management strategies on wildlife activity in a popular desert nature reserve. Conservation Science and Practice (2026) 8(8).
+https://doi.org/10.1111/csp2.70342
+
+Michelina Pusceddu; Irene Ciabattini Bolla; Alessia Vinci; Ignazio Floris; Luca Ruiu; Alberto Satta. Holistic assessment of acute exposure to Bacillus velezensis on honey bee behaviour and flight performance. Ecotoxicology and Environmental Safety (2026) 321().
+https://doi.org/10.1016/j.ecoenv.2026.120413
+
+Theresa Schabacker; Mirjam Knörnschild. Chiroptera Personality—A Guide for Assessing Personality Variation in Bats: Ecological, Methodological and Statistical Considerations. Ecology and Evolution (2026) 16(8).
+https://doi.org/10.1002/ece3.74108
+
+Ségolène Delaitre; Jessica L. Graham; Bruno Buatois; Christophe de Franceschi; Pablo Giovannini; Annick Lucas; Francesco Bonadonna; Samuel P. Caro. Effects of Herbivore-Induced Plant Volatiles on Behaviors and Reproduction in a Common Songbird. American Naturalist (2026) 208(2).
+https://doi.org/10.1086/741159
+
+John F. McEvoy; Catherine Ressijac; Rosana N. Moraes; Dolores Reed; Tara Buk; Jared A. Stabach; Peter Leimgruber; Melissa Songer; Katherine Mertes. Evaluating novel attachment methods for tracking devices on terrestrial mammals. Journal of Wildlife Management (2026) 90(6).
+https://doi.org/10.1002/jwmg.70246
+
+Hannah M. Anderson; Emily Elsasser; James B. Barnett; Sigal Balshine. The Effects of Suspended Sediments, Dye, and Their Variation on Fish Behavior. Ecology and Evolution (2026) 16(8).
+https://doi.org/10.1002/ece3.74157
+
+Natasha D. Marosi; Darren P. Croft; David M. P. Jacoby; Samuel Ellis; Andrew M. Griffiths. Is Blood Thicker Than Water? The Influence of Kin Within a Bull Shark Social Network. Ecology and Evolution (2026) 16(8).
+https://doi.org/10.1002/ece3.74050
+
+Lucie Bouly; Lisa Jacquin; Séverine Paris-Palacios; Camille Pasquet; Jean-Marc Bonmatin; Océane Delos; Lara Galès; Justine Bertrand-Michel; Floriant Bellvert; Marion Vivant; Pascal Laffaille; Anthony Lemarié; Laurence Huc; Séverine Jean. Fluopyram induces behavioural, hepatotoxic and metabolic alterations in fish at environmentally relevant concentrations. Journal of Hazardous Materials (2026) 514().
+https://doi.org/10.1016/j.jhazmat.2026.142925
+
+Elena V. Kozlova; Gwendolyn M. Gonzalez; Maximillian E. Denys; Anthony E. Bishay; Roberto Gutierrez; Jack Reid; Julia M. Krum; Gregory Lampel; Naran Luvsanravdan; Kayhon M. Rabbani; Jordan Tu; Luis Campoy; Laura M. Anchondo; Crystal N. Luna; Duraan S. Olomi; Eduardo Monarrez; Valeria Carrillo; Jasmin D. Tran; Damon Platt; Yash Korde; Bhuvaneswari D. Chinthirla; Maher Blaibel; Simon Kim; Gladys Chompre; Allison L. Phillips; Heather M. Stapleton; Bernhard Henkelmann; Karl-Werner Schramm; Margarita C. Curras-Collazo. Enduring autism-like phenotypes and deregulated hypothalamic prosocial peptides after early-life exposure to indoor flame retardants in male C57BL/6 mice. Journal of Neuroendocrinology (2026) 38(8).
+https://doi.org/10.1111/jne.70237
+
+Quynh T.N. Nguyen; Jean Giacomotto. Zebrafish behavioral phenotyping: Current assays, automated platforms, and the emerging need for AI in neuroscience, drug discovery and toxicology. Neuroscience and Biobehavioral Reviews (2026) 187().
+https://doi.org/10.1016/j.neubiorev.2026.106774
+
+Geraldine Porras-Rivera; Konrad Górski; Gustavo Chiang; Macarena Carrillo; Nicole Colin. Chemical pollution alters detoxification capacity and behavior in the native freshwater fish Galaxias maculatus under in situ exposure. Environmental Pollution (2026) 401().
+https://doi.org/10.1016/j.envpol.2026.128300
+
+Jenny Clarkson; Michael R. Perkinson; Tapasya Pal; Isaiah Cheong; H. James McQuillan; Judith M. Swart; Joon S. Kim; Emmet M. Power; David R. Grattan; Rosemary S.E. Brown. A prolactin-receptive neural circuit drives maternal interactions with pups in mice. Science Advances (2026) 12(28).
+https://doi.org/10.1126/sciadv.ady6498
+
+Petra Buursma; Annemiek Mostert; Esther M.M. van den Bergh; Natasja Dors; Marijke C. Kars; Peter M. Hoogerbrugge; Martha A. Grootenhuis; Sasja A. Schepers. Patient-centered communication during diagnostic conversations in relation to parental psychosocial outcomes: An exploratory observational study in pediatric leukemia. Patient Education and Counseling (2026) 148().
+https://doi.org/10.1016/j.pec.2026.109553
+
+Silje Marquardsen Lund; Cino Pertoldi; John Frikke; Christian Sonne; Aage Kristian Olsen Alstrup. Behavior Classification of Cattle in a Virtual Fencing System Using Tri-Axial Accelerometers and Machine Learning. Animals (2026) 16(13).
+https://doi.org/10.3390/ani16132022
+
+Filippo La Greca; Elisa Zianni; Ilaria Cerchiaro; Michela Gusmini; Giulia Coccia; Alexandre Carrea; Silvia Pelucchi; Carlo Castoldi; Davide Maggioni; Elena Marcello; Bianca Ambrogina Silva; Fabrizio Gardoni; Monica DiLuca; Diego Scheggia. Individual differences in prosocial learning are represented in the hippocampal dorsal CA1. Nature Neuroscience (2026) 29(7).
+https://doi.org/10.1038/s41593-026-02292-2
+
+Hyo Gun Lee; Ju Lu; Yi Zuo. Adolescent Social Isolation Induces Persistent Impairments in Emotional Discrimination and Helping Behavior. Eneuro (2026) 13(7).
+https://doi.org/10.1523/ENEURO.0441-25.2026
+
+Jana Deutsch; Steve Lebing; Anja Eggert; Christian Nawroth. Goats who stare at wolves - identifying natural response stimuli for an affect-driven attention bias test in small ruminants. Applied Animal Behaviour Science (2026) 300().
+https://doi.org/10.1016/j.applanim.2026.106989
+
+DiBenedetto; Rowell; Rymer. Do fawn-footed mosaic-tailed rats experience age-related cognitive decline in novel object recognition?. Journal of Zoology (2026) 329(3).
+https://doi.org/10.1111/jzo.70135
+
+Nancy Rebout; Audrey Besegher; Sara Hoummady. Caring About Dogs, Filming Dogs, Watching Dogs: How Far Does the Human–Dog Relationship Travel Through Cultural Production? A Case Study of Good Boy (2025). Animals (2026) 16(14).
+https://doi.org/10.3390/ani16142168
+
+Federico Sánchez Vargas; Sai Rakshith Potluri; Jacob Abernethy; Marcela E. Benítez. CapuchinAI 1.0: Development of a Machine Learning-Based Touchscreen Paradigm to Test Cognition in Wild Capuchins. American Journal of Primatology (2026) 88(7).
+https://doi.org/10.1002/ajp.70194
+
+Nahayo Viateur; Litao Wan; Yuanyuan Fu; Hao Wang; Wenjun Xu; Jie He. Size-Dependent Agonistic Interaction Patterns in Juvenile Male Swimming Crabs (Portunus trituberculatus). Animals (2026) 16(13).
+https://doi.org/10.3390/ani16131958
+
+Alycia M. Drwencke; Sarah J.J. Adcock; Cassandra B. Tucker. Behaviors 3 and 6 weeks after caustic paste disbudding in dairy calves. Applied Animal Behaviour Science (2026) 300().
+https://doi.org/10.1016/j.applanim.2026.106991
+
+Beatriz Deo Sorigotto; Isabel Marian Hartmann de Quadros; Karina Possa Abrahao. Alcohol or Stress Exposure During Late Adolescence Impairs Risk Assessment Later in Life, Disrupting the Ethological Structure of Behavior in Mice. Alcohol Clinical and Experimental Research (2026) 50(7).
+https://doi.org/10.1111/acer.70328
+
+Facundo Fernandez-Duque; Abby Stiefvater; Saieshwar Chikoti; Erika Y. Huerta; Jules Chabain; Thomas J. Benson; Mark E. Hauber. Adaptive value of habitat-dependent male provisioning behaviour under predation risk in a sexually dichromatic species. Animal Behaviour (2026) 237().
+https://doi.org/10.1016/j.anbehav.2026.123605
+
+Sophia C. Anner; Rowan G. Ward; Brianna Neubacher; Alycia C.R. Lackey. Mutual visual displays and female signals underpin mating success in Rhagoletis pomonella flies. Animal Behaviour (2026) 237().
+https://doi.org/10.1016/j.anbehav.2026.123619
+
+Patrik Reiske; Marcus N. Boon; Niek Andresen; Sole Traverso; Marieatou Daniels; Katharina Hohlbaum; Lars Lewejohann; Christa Thöne-Reineke; Olaf Hellwich; Henning Sprekeler. Mouse Lockbox Dataset: Behavior Recognition for Mice Solving Lockboxes. International Journal of Computer Vision (2026) 134(7).
+https://doi.org/10.1007/s11263-026-02908-x
+
+Guillaume Dillenseger; Justine Delautre; Ankitha Jayanth; Zora Marchal; Petr Veselý; Vojtěch Kubelka. Predator-guild-specific parental responses mitigate higher predation risk on ground nests close to forest patches in a mosaic landscape. Journal of Animal Ecology (2026) 95(7).
+https://doi.org/10.1111/1365-2656.70278
+
+Josie McPherson; Julien G A Martin; Lauriane Bégué; Noëlle Tschirren; Patrick Walsh; Eva Ringler. Predation risk shapes among- and within-individual variation in behavior in poison frog tadpoles. Behavioral Ecology (2026) 37(4).
+https://doi.org/10.1093/beheco/arag041
+
+Fernando González-Almansa Laredo; Lilian Rodrigues Ferreira de Melo; Mario Vallejo-Marín. Intra-individual variation in pollen availability: an experimental analysis of its impact on plant–pollinator interactions. Annals of Botany (2026) 137(7).
+https://doi.org/10.1093/aob/mcag073
+
+Gabrielle R Jarvis; Peter B Banks; Tanya Latty; Malcolm Possell; Cristian Gabriel Orlando; Clare McArthur. A phantom decoy shifts wild forager decisions in a natural environment. Behavioral Ecology (2026) 37(4).
+https://doi.org/10.1093/beheco/arag059
+
+Sara Isgate; Caitlin Honus; Gabriel Casanova; Bailey Betcher; Julian Avery; Jason Keagy. Eastern bluebird cognitive performance is resilient to acute anthropogenic noise disturbance. Behavioral Ecology (2026) 37(4).
+https://doi.org/10.1093/beheco/arag058
+
+Romain P Boisseau; Douglas J Emlen. Exaggerated male hindlegs function as pure weapons of male–male combat in thorny devil stick insects. Evolution (2026) 80(7).
+https://doi.org/10.1093/evolut/qpag079
+
+Elisa Pasquini; David Baracchi; Andrea Messina; Elisa Frasnelli. Behavioural and molecular evidence of GABAergic modulation of nocifensive behaviours in Bombusterrestris. Animal Behaviour (2026) 237().
+https://doi.org/10.1016/j.anbehav.2026.123606
+
+Yuan Tang; Ruixinzhu Shao; Liuxinyu Luo; Liqiang Liao; Xiaoyu Wang; Hangfei Zhu; Xiong Xiao; Hanfei Deng. A brainstem pathway underlying vagal modulation of somatic pain and affective states. Nature Neuroscience (2026) 29(7).
+https://doi.org/10.1038/s41593-026-02313-0
+
+Kirstin Gaffney; Megan E Bartlett; Theresa Rueger. Pay-to-stay drives the evolution of helping independent of kin selection in anemonefish societies. Behavioral Ecology (2026) 37(4).
+https://doi.org/10.1093/beheco/arag061
+
+Reimert; Franchi; Bagaria; Canario; Elizabeth Bolhuis; Düpjan; Verbeek; Fàbrega; Pedersen; Telkänranta; Eggert; Moscovice. Teaming up for welfare: a cross-institute approach to identify robust indicators of emotion in pigs. Animal (2026) 20(7).
+https://doi.org/10.1016/j.animal.2026.101871
+
+Marcia C. Chavez; Jessica T. Tremblay; Megan Zajkowski; Maria Ragusa; Madeline M. Jones; Alyssa R. Whaley; Trevor M. Pounders; Billy Y. Lau; Kalynn M. Schulz. Prenatal stress history modifies adolescent stress effects on adult social behavior and basolateral amygdala GABAergic neurons with perineuronal nets. Brain Research (2026) 1882().
+https://doi.org/10.1016/j.brainres.2026.150264
+
+Zoe Johnson-Ulrich; Charles Robbins; Jennifer Vonk. Brains over brawn? Brown bears (Ursus arctos) demonstrate behavioral flexibility on a multi-access box and other tasks. Acta Psychologica (2026) 267().
+https://doi.org/10.1016/j.actpsy.2026.107078
+
+Isela Hernández-Plata; Jair Santiago-Salazar; María Soledad Mendoza-Trejo; Jonathan Sánchez-Yépez; Eduardo A. Garza-Villarreal; Verónica M. Rodríguez. Gestational and lactational exposure to glyphosate and a glyphosate-based herbicide causes sex-dependent effects on neurodevelopment and monoaminergic markers in rats. Neurotoxicology (2026) 115().
+https://doi.org/10.1016/j.neuro.2026.103500
+
+Michel Baguette; Glenn Le Floch; Eleanor Lacassagne; Vincent Bels; Léa Ribeiro; Nicolas Schtickzelle. Beak elongation as a candidate key innovation underlying ecological transitions in shorebirds. Frontiers in Ecology and Evolution (2026) 14().
+https://doi.org/10.3389/fevo.2026.1775883
+
+Flannery Hope Currin; Guadalupe Camacho-Arias; Meredith Onions; Tiffany M Michels; Summer Schmuecker; Hannah Cargo; Josephine Geiger-Lee; Delaney Norris; Juan Pablo Hourcade. Evaluating Supports for Group Play-Based Therapy with Social Validity. Idc 2026 Proceedings the 25th Annual ACM Interaction Design and Children Conference (2026) ().
+https://doi.org/10.1145/3773077.3810977
+
+Mahesh Shivarama Shetty; Junko Kasuya; Xiuping Fu; Marisol Carmela Lauffer; Satya Murthy Tadinada; Tania Chatterjee Chowdhury; Zeru Peterson; Knute D. Carter; Jay M. Baraban; Ted Abel. Genetic inactivation of Translin/Trax RNase disrupts miRNAs, hippocampal synaptic plasticity, and memory. Iscience (2026) 29(6).
+https://doi.org/10.1016/j.isci.2026.116188
+
+Lea Adenauer; Ginevra Contini; Kristian Reichelt; Nuno Pires; Heinz Beck; Thoralf Opitz. Targeting diaschisis to alleviate memory deficits after experimental stroke. Neurobiology of Disease (2026) 224().
+https://doi.org/10.1016/j.nbd.2026.107401
+
+Adithya Sarma; Camilla Paraciani; Junfei Cao; Evgeniya Tyumeneva; Caterina Stacchiola; Elroy L. Meijer; Nienke de Vries; Soraya Smit; Fleur Meijer; Marit Bonne; Jean-Christophe Billeter; Peter Meerlo; Robbert Havekes. Restoring access to long-term social recognition memories disrupted by sleep deprivation. Science Advances (2026) 12(24).
+https://doi.org/10.1126/sciadv.adu9805
+
+Emma R. Hammond; Patrick K. Monari; Elsa M. Luebke; Aimee K. Johnson; Anthony P. Auger; Catherine A. Marler. Affiliative behavioural phenotype and microglial activation predict social decision-making following immune activation. Behavioural Brain Research (2026) 507().
+https://doi.org/10.1016/j.bbr.2026.116194
+
+Catherine T. Y. Nguyen; Debra M. Shier. Sex-specific effects of maternal predator exposure on offspring antipredator behavior in an endangered mammal. Frontiers in Conservation Science (2026) 7().
+https://doi.org/10.3389/fcosc.2026.1783876
+
+Ellen L. Hayward; Filipa I. P. Samarra; Paul J. Wensveen; Anokhi Saha; Giorgia Giovannini; Kagari Aoki; Katsufumi Sato; Patrick J. O. Miller. Characterization of cooperative feeding dynamics and a novel acoustic indicator of prey capture in herring-eating killer whales. Royal Society Open Science (2026) 13(6).
+https://doi.org/10.1098/rsos.260065
+
+Robert E. Wray; Sophie A. Barton; Erin E. Hecht. Assessing canine attachment: Divergence between C-BARQ scores and observed behavior in a laboratory test. Applied Animal Behaviour Science (2026) 299().
+https://doi.org/10.1016/j.applanim.2026.106959
+
+Denise Werchan; Annie Aitken; Lissete Giménez; Stephen Braren; Natalie H. Brito. Unpredictable caregiving is associated with disrupted neurophysiological measures of attention and autonomic function in three-month-old infants. Developmental Cognitive Neuroscience (2026) 79().
+https://doi.org/10.1016/j.dcn.2026.101688
+
+Monica Ogawa; Evgeny A. Podolskiy. Inuit hunt as a platform for observing narwhals (Monodon monoceros) in Inglefield Bredning (Kangerlussuaq), Greenland. Polar Biology (2026) 49(2).
+https://doi.org/10.1007/s00300-026-03470-5
+
+Maya M. McElfish; Avery A. McDaniel; Sacha E. O’Connor; August D. Robinette; Rita S. Mehta. Morays need to get a grip!—The California moray (Gymnothorax mordax) uses its body and the environment for leverage during feeding. Environmental Biology of Fishes (2026) 109(2).
+https://doi.org/10.1007/s10641-026-01832-w
+
+Maxence Denu; Fabien Mangione; Pierre David; Camille Devos; Aurélie Landry. From Cooperation to Collaboration: A Game-Changing Use of Cobots in Circular Manufacturing Toward Industry 5.0?. International Journal of Social Robotics (2026) 18(5).
+https://doi.org/10.1007/s12369-026-01403-0
+
+Francesca Terranova; Francesca D'Orazio; Cristina Pilenga; Luigi Baciadonna; David Reby; Livio Favaro. Sound Guides Object Size Choices in African Penguins Through Pitch–Size Association. Annals of the New York Academy of Sciences (2026) 1560(1).
+https://doi.org/10.1111/nyas.70313
+
+Yosra Znazen; Marwa Gaddes; Geert P. J. Janssens; Madiha Hadj Ayed. Dried Black Soldier Fly (Hermetia illucens) Larvae in a Sustainable Diet for Laying Hens: Effects on Welfare and Behavior. Animals (2026) 16(11).
+https://doi.org/10.3390/ani16111724
+
+Georgie D. Puffer; Aicha Louriqate; Tamra C. Mendelson. Consistent individual differences in threat response in tessellated darters, Etheostoma olmstedi. Animal Behaviour (2026) 236().
+https://doi.org/10.1016/j.anbehav.2026.123589
+
+Spiro Schramm; Joe M. Kaser; Hannah J. Broadley; Steven Sipolski; Xingeng Wang. Foraging Behaviors by the Nymphal Parasitoid Dryinus sinicus (Hymenoptera: Dryinidae), A Promising Biological Control Agent for Spotted Lanternfly. Journal of Insect Behavior (2026) 39(1).
+https://doi.org/10.1007/s10905-026-09906-4
+
+Yacine Khalid Hefied; Dorsaf Aribi; Guillaume Demesure; Hind Bril El-Haouzi. A data-driven approach for tailored fatigue modeling in the context of production planning and control. Computers and Industrial Engineering (2026) 216().
+https://doi.org/10.1016/j.cie.2026.111997
+
+Brigitta Juhász; Zsolt Bertók; Magdolna O. Szelényi; Zsolt Kárpáti; Zoltán Tóth. Flupyradifurone-based insecticide influences foraging behaviour but does not alter chemosensory orientation of Bombus terrestris. Apidologie (2026) 57(3).
+https://doi.org/10.1007/s13592-026-01276-2
+
+Justina Panchuk; Nelson Ferretti; Dante Poy; MartÃ­n RamÃ­rez; Peter Michalik. Micro-CT analysis reveals directional genital asymmetry in a mygalomorph spider with two different sperm-storage organs (Araneae: Mecicobothriidae). Zoological Journal of the Linnean Society (2026) 207(2).
+https://doi.org/10.1093/zoolinnean/zlag075
+
+Kaunert; Spear; Brown; Kennedy; Popescu. Water quality influences paternal care behaviors and nest fate in Eastern Hellbender salamanders. Journal of Zoology (2026) 329(2).
+https://doi.org/10.1111/jzo.70115
+
+Mingyuan Song; Isaac McKie; Allison Su; Vishal Win; Isabellah Nikitah; Mika Yamamoto; Pranali Bendale; Freud-Williams Maignan; Keita Fogus; Maya Opendak. Postpartum adversity in rats creates a hypervigilant maternal state through selective salience-circuit recruitment. Neurobiology of Stress (2026) 42().
+https://doi.org/10.1016/j.ynstr.2026.100795
+
+Marta Luiz; Filipe Banha; Gonçalo Brito; Bianca Cambiaghi e Silva; Pedro Anastácio; Manuel Gesto; Marta C. Soares. Behavioral and physiological dynamics of a native minnow exposed to invasive fish species. Physiology and Behavior (2026) 310().
+https://doi.org/10.1016/j.physbeh.2026.115298
+
+Burke; Krajcovic; Leonetti; Murray; Ali; McCormick. Aromatase inhibition in adolescence impairs sexual performance in adulthood without affecting anxiety-like behaviour in male rats. Hormones and Behavior (2026) 182().
+https://doi.org/10.1016/j.yhbeh.2026.105939
+
+Jade Fountain; Todd J. McWhorter; Marie-Claire Seeley; Aidan D. Bindoff; Kimberley Handley; Robert Hewings; Susan J. Hazel. Heart rate variability and behaviour in dogs during and after scent work. Applied Animal Behaviour Science (2026) 299().
+https://doi.org/10.1016/j.applanim.2026.106986
+
+Victoria Kent; Juergen Liebig. Consistent Cuticular Hydrocarbon Discrimination of Alkane Mixtures with Proportional Differences in the Ant Camponotus floridanus. Journal of Chemical Ecology (2026) 52(3).
+https://doi.org/10.1007/s10886-026-01708-4
+
+Bastien E. Clémot; Simon J. Connolly; Christina J. Painting. Impact of Female Mating Status on Male Courtship Behaviour in a Sexually Cannibalistic New Zealand Fishing Spider. Ethology (2026) 132(6).
+https://doi.org/10.1111/eth.70064
+
+Renee Mapa; Stefan Choy; Solomia Lapko; Allison Kimmel; Isabel Carino-Bazan; Johanna E. Kowalko. Automated Profiling of Social Behaviors to Assess the Genetic Basis of Evolution of Aggressive Behaviors in Astyanax mexicanus. Journal of Experimental Zoology Part A Ecological and Integrative Physiology (2026) 345(5).
+https://doi.org/10.1002/jez.70082
+
+Annaëlle Surreault-Châble; Aurélie Verjat; Gérard Leboucher. Are you talking to me? Captive Asian elephants react to voice familiarity and Elephant-Directed speech. Behavioural Processes (2026) 239().
+https://doi.org/10.1016/j.beproc.2026.105389
+
+Facundo Fernandez-Duque; Sara E. Lipshutz; Jérôme P. Plumier; Frédéric Angelier; Erika Y. Huerta; Shelby L. Lawson; Saieshwar Chikoti; Abby Stiefvater; Kiran K. Soma; Mark E. Hauber. Stage-structured multihormone phenotypes and a shared endocrine milieu underlie facultative male care in a biparental songbird. Hormones and Behavior (2026) 182().
+https://doi.org/10.1016/j.yhbeh.2026.105937
+
+Amy Q. Friemoth; Brendan E. Enochs; Maggie M. Hantak. Behavioral Responses of Two Common Woodland Salamanders to Novel Urban Stimuli. Ethology (2026) 132(6).
+https://doi.org/10.1111/eth.70070
+
+Giulia Senna; Jacopo Gobbato; Yohan Didier Louis; Giorgia Gobbato; Federico Cerri; Jana Pažin; Andrea Parmegiani; Rossella Nicolai; Shazla Mohamed; Paolo Galli. Expanding the Toolbox: Mangrove Use by Spotted Eagle Rays (Aetobatus ocellatus) in the Maldives Revealed Through Drone-Based Observation. Ecology and Evolution (2026) 16(6).
+https://doi.org/10.1002/ece3.73832
+
+Vittorio Ferrero; Olivier Friard; Marco Gamba. Tracking Spatial and Activity Patterns in Captive Reptiles Using Deep Learning. Conservation (2026) 6(2).
+https://doi.org/10.3390/conservation6020061
+
+Mihaela Taranu; Eva Eriksson. Designing for collaboration mediated by digital games among neurodiverse children in special education. International Journal of Child Computer Interaction (2026) 48().
+https://doi.org/10.1016/j.ijcci.2026.100829
+
+Hannah M. Anderson; Sigal Balshine. How stable versus fluctuating suspended sediments affect fish behavior. Environmental Biology of Fishes (2026) 109(2).
+https://doi.org/10.1007/s10641-026-01842-8
+
+Lalitta Suriya-Arunroj; Tanatcha Huntula; Motee Chimngam; Nutchanat Suttisan; Nopparat Kongsombat; Pongpun Suwannachat. Cortisol as a Stress Indicator of Environmental Change in Captive Cynomolgus Macaques (Macaca fascicularis). International Journal of Primatology (2026) 47(3).
+https://doi.org/10.1007/s10764-026-00557-y
+
+Rebecca Turco; Rachele Malavasi; Maria Elena Miletto Petrazzini. Challenging horses' hierarchy of needs: less food from a friendly human is preferred. Animal Behaviour (2026) 236().
+https://doi.org/10.1016/j.anbehav.2026.123576
+
+Alexandra Ulans; Leonie Jacobs. Impacts of Enrichment Type (Hut vs. Platform) on Chronic Stress and Anxiety in Six Fast- and Slow-Growing Broiler Strains. Animals (2026) 16(11).
+https://doi.org/10.3390/ani16111657
+
+Kiki E. Spoelstra; Jennifer Vonk; Evy van Berlo; José Kok; Mariska E. Kret. Purr-ceiving feelings: domestic cats respond to intraspecific cues of emotion. Peerj (2026) 2026(5).
+https://doi.org/10.7717/peerj.21292
+
+Natacha Rossi; Mario Vallejo-Marin; Elizabeth Nicholls. First direct quantification of floral handling costs in bees. Proceedings of the Royal Society B Biological Sciences (2026) 293(2071).
+https://doi.org/10.1098/rspb.2026.0206
+
+Cindy Reinger; Laura Blackie; Alexandra M. Medeiros; Hugo Gillet; Carolin Kring; Pedro Gaspar; Dafni Hadjieconomou; Michèle Sickmann; Markus Affolter; Irene Miguel-Aliaga; Martin Mülle; Anissa Kempf. Intestinal obstruction impairs feeding and promotes sleep in Drosophila melanogaster. Science Advances (2026) 12(21).
+https://doi.org/10.1126/sciadv.ady2183
+
+Romy C. Kadrić; Chiara R. Angori; Eva Millesi; Matthias Nemeth. Physiological and behavioral traits in female guinea pigs: estrous cycle effects and repeatability. Physiology and Behavior (2026) 309().
+https://doi.org/10.1016/j.physbeh.2026.115279
+
+Manon Chasles; Hans Adriaensen; Anne-Lyse Laine; Diane Dufour-Rainfray; Paolo Giacobini; Yves Tillet. Prenatal androgen exposure induces perturbation of sexual behavior in ewes. Physiology and Behavior (2026) 309().
+https://doi.org/10.1016/j.physbeh.2026.115276
+
+Leticia Souza Pichinin; Myrna Guernelli; Marianna Nogueira Cecyn; Beatriz Deo Sorigotto; Karina Possa Abrahao. Repeated early-adolescent ethanol intoxication promotes riskier decision-making in adult male mice and increases drinking in adult female mice. Physiology and Behavior (2026) 309().
+https://doi.org/10.1016/j.physbeh.2026.115277
+
+Aaron R. Glick; Ella L. Vezina; Kristine H. Onishi; Aparna S. Nadig. Does engagement predict preschoolers' learning from on-screen interactions? A comparison of behavioral and holistic engagement measures. Frontiers in Developmental Psychology (2026) 4().
+https://doi.org/10.3389/fdpys.2026.1812543
+
+Marta López-Darias; Jorge Fernando Saavedra Bolaños; José Miguel Sánchez Rivero; Andrea Castro Martín; Julien C. Piquet; Borja Maestresalas; Ramón Gallo-Barneto. Towards the design of a selective trap for an invasive snake. Journal of Environmental Management (2026) 408().
+https://doi.org/10.1016/j.jenvman.2026.129887
+
+Francesca Lo Bello; Massimo De Agro; Giorgio Vallortigara. Antlion larvae follow optimality rules in body orientation during sand tossing. Journal of Experimental Biology (2026) 229(9).
+https://doi.org/10.1242/jeb.252138
+
+Diego Alonso-Resta; Carla Osterburg; Alfonso Hartasánchez; María del Mar Delgado; Enrique González-Bernardo; Rafael Benjumea; Juan Díaz García; David Cañedo; Héctor Ruiz-Villar; Ana Morales-González; Luca Francesco Russo; Vincenzo Penteriani. Conspecific density at marking sites influences the intensity and activity patterns of chemical and visual communication in brown bears. Royal Society Open Science (2026) 13(5).
+https://doi.org/10.1098/rsos.252013
+
+Swantje Grätsch; Alessandro Dorigo; Vaishnavi Agarwal; Ash V. Parker; Isabela Hernández Murcia; Manuel Stemmer; Abdelrahman Adel; Alex Jordan; Herwig Baier. Cognitive ethology of nest building in a shell-dwelling cichlid. Current Biology (2026) 36(9).
+https://doi.org/10.1016/j.cub.2026.03.035
+
+Rachael E. Coon; Vinicius A. Camargo; Christy A. Goldhawk; Edmond A. Pajor. Validation of proximity loggers worn by beef calves to detect the presence of cows with respect to pair orientation. Applied Animal Behaviour Science (2026) 298().
+https://doi.org/10.1016/j.applanim.2026.106954
+
+Shauna N.D. King; Alison L. Greggor; Debra M. Shier. Effects of forage-based enrichment on the ex-situ nightly activity budget of the endangered Pacific pocket mouse, Perognathus longimembris pacificus. Applied Animal Behaviour Science (2026) 298().
+https://doi.org/10.1016/j.applanim.2026.106938
+
+Xiaowen Ma; Vrinda Ambike; Valentina Bongiorno; Jacquelyn A. Jacobs; Janice C. Swanson; Tina M. Widowski; Janice M. Siegford. Fowl play: Do age and aviary design affect play in cage-free laying hens?. Applied Animal Behaviour Science (2026) 298().
+https://doi.org/10.1016/j.applanim.2026.106960
+
+Rozaria Jeleva; Carmen Denecke Muhr; Alina P. Liebisch; Florence M. Bareyre. Differential plasticity of excitatory and inhibitory reticulospinal fibers after spinal cord injury: Implication for recovery. Neural Regeneration Research (2026) 21(5).
+https://doi.org/10.4103/NRR.NRR-D-24-01060
+
+Maílis Carrilho; Joaquim T. Tapisso; Guilherme Aparício; Luís Marques; Maria da Luz Mathias; Sophie von Merten. Influence of caging conditions on captive behaviour and recapture rates of wild wood mice (Apodemus sylvaticus). Applied Animal Behaviour Science (2026) 298().
+https://doi.org/10.1016/j.applanim.2026.106956
+
+Sandra Trigo; Beatriz C. Saldanha; Pedro Oliveira; Paulo A. Silva; Marta C. Soares. Corticosterone effects on aggression in a passerine species, the common waxbill Estrilda astrild. Physiology and Behavior (2026) 308().
+https://doi.org/10.1016/j.physbeh.2026.115264
+
+Maria Loconsole; Elisa Tedaldi; Lucia Regolin. Distinct early-life mechanisms of quantity discrimination in domestic chicks. Plos One (2026) 21(5 May).
+https://doi.org/10.1371/journal.pone.0349870
+
+Anustup Bandyopadhyay; Fragkiskos Darmis; Anja Guenther; Alexandros Vezyrakis. Alternative reproductive tactics affect spatial cognition and innovative problem solving in male house mice. Animal Behaviour (2026) 235().
+https://doi.org/10.1016/j.anbehav.2026.123544
+
+Nikola Falk; Stuart K Watson; Vanessa Rüegg; Marta B Manser. Exploring mechanisms underlying heterospecific alarm call responses in meerkats and yellow mongooses. Behavioral Ecology (2026) 37(3).
+https://doi.org/10.1093/beheco/arag031
+
+Mábia B. Cera; Guilbert Araujo; Helena F. Lima; Mateus Oka; Vinícius Andrietta; Patrícia Izar. Monkey Meltdowns: Do Tantrums Influence Maternal Investment in Bearded Capuchin Monkeys?. Developmental Psychobiology (2026) 68(3).
+https://doi.org/10.1002/dev.70157
+
+Nadja Geiger; Chiara Hirschkorn; Marie E. Herberstein; Mikkel Roald-Arbøl; Daniela C. Rößler. Context-dependent abdomen bobbing in a jumping spider: a dynamic visual signal. Behavioral Ecology and Sociobiology (2026) 80(5).
+https://doi.org/10.1007/s00265-026-03745-1
+
+Jan Stenum; Elizabeth Eiler; Ryan T. Roemmich; Rebecca Landa; Rachel Reetzke. Quantifying Repetitive Hand Flapping Kinematics in Autistic and Non-Autistic Toddlers Using Video-Based Pose Estimation. Developmental Science (2026) 29(3).
+https://doi.org/10.1111/desc.70176
+
+Lara A. Wood; Claire Sutherland; Jing Xu; Bruce Rawlings; Sarah Pope-Caldwell; Olivier Mboumba; Armel Elenga Ondaye; Grace Revenant Ngoma; Roger Ndenguele; Eve Holden; Sheina Lew-Levy. Naturalistic Observations of Children and Adolescents in Diverse Contexts: Methods, Challenges and Recommendations. Infant and Child Development (2026) 35(3).
+https://doi.org/10.1002/icd.70114
+
+Melina Kurzawe; Yannis König; Isabel Seyrling; Max Hahn-Klimroth; Gaby Schneider; Paul Wilhelm Dierkes. Behavioral Patterns of Zoo-housed Lowland (Tapirus terrestris) and Malayan tapirs (Tapirus indicus), With a Focus on Sleeping Behavior. Zoo Biology (2026) 45(3).
+https://doi.org/10.1002/zoo.70059
+
+Hasriadi Hasriadi; Peththa Wadu Dasuni Wasana; Boonchoo Sritularak; Opa Vajragupta; Pornchai Rojsitthisak; Pasarapa Towiwat. Dendrophenol Mitigates Inflammatory Sickness Behaviors and Maintains CNS Function in Murine Models. Medicine in Drug Discovery (2026) 30().
+https://doi.org/10.1016/j.medidd.2026.100255
+
+Valentina Truppa; Ilaria Soraci; Luca Antonio Marino; Dorothy M. Fragaszy; Patrícia Izar; Elisabetta Visalberghi. Bimanual Coordination and Right-Hand Bias in Extractive Foraging by Wild Sapajus libidinosus. American Journal of Primatology (2026) 88(5).
+https://doi.org/10.1002/ajp.70165
+
+Océane Amichaud; Julie Lemarchand; Fabien Cornilleau; Plotine Jardat; Vitor H.B. Ferreira; Ludovic Calandreau; Léa Lansade. Cows visually discriminate and cross-modally recognise familiar and unfamiliar human faces in videos. Plos One (2026) 21(5 May).
+https://doi.org/10.1371/journal.pone.0329529
+
+Francis E. Tillman; James S. Adelman. Hard to handle: infected house finches do not prefer easier-to-consume food. Animal Behaviour (2026) 235().
+https://doi.org/10.1016/j.anbehav.2026.123555
+
+Mutovina; Sapronova; Mezhevalova; Airiyants; Yu. A. Ryabushkina; Salman; Bondar. The Development of Pathological Aggression in Mice during Prolonged Experience of Aggression: Behavioral and Molecular Changes. Neuroscience and Behavioral Physiology (2026) 56(4).
+https://doi.org/10.1007/s11055-026-02006-y
+
+Reuven Dukas. Genetic influence on the dynamics of social group formation. Animal Behaviour (2026) 235().
+https://doi.org/10.1016/j.anbehav.2026.123549
+
+Clara Garcia-Co; Ian van Riel; Frederick Verbruggen; Judith Morales; Wendt Müller. Born to aggressive mothers: are certain chicks more susceptible to early-life exposure to aggression?. Animal Behaviour (2026) 235().
+https://doi.org/10.1016/j.anbehav.2026.123558
+
+Bastien Berrand; Emmanuelle Baudry; Elsa Bonnaud. Personality Matters: Owner-Ascribed Personality Predicts Range Size Tendencies and Predation Behavior in Domestic Cats. Ecology and Evolution (2026) 16(5).
+https://doi.org/10.1002/ece3.73520
+
+Amanda Viving; Léa Daupagne; David Wheatcroft; Niclas Kolm; John L. Fitzpatrick. Inbreeding strategies under social and sexual complexity: insights from female and male guppies. Behavioral Ecology (2026) 37(3).
+https://doi.org/10.1093/beheco/arag017
+
+Benjamin A. Ellis; Tonje K. Sørdalen; Mark Briffa; Anne Berit Skiftesvik; Alexander D.M. Wilson; Kim A.T. Halvorsen. Visual cues elicit differential aggression towards female and female mimics in the corkwing wrasse. Behavioral Ecology (2026) 37(3).
+https://doi.org/10.1093/beheco/arag022
+
+Euijin You; Youngcheon Lim; Joonhee Lee; WooJu Jang; Gyuhyeong Goh; Si Hyeock Lee; Young Ho Kim. Exposure to field-realistic levels of flupyradifurone and thiamethoxam reduces nursing behavior and accelerates foraging onset in Apis mellifera. Pesticide Biochemistry and Physiology (2026) 220().
+https://doi.org/10.1016/j.pestbp.2026.107078
+
+Maximilian F. Bolder; Jannik S. Möllmann; Thomas J. Colgan; Romain Libbrecht. Unmated Queens Show Worker-Like Behaviour and Gene Expression in Polygynous Colonies of the Ant Stigmatomma pallipes. Molecular Ecology (2026) 35(9).
+https://doi.org/10.1111/mec.70360
+
+Bianca Fusani; Sara D. Cardoso; Andreia Ramos; David Gonçalves. Nonapeptide modulation of looming-induced responses in male Betta splendens. General and Comparative Endocrinology (2026) 382().
+https://doi.org/10.1016/j.ygcen.2026.114965
+
+Julia Penndorf; Brendan J. Barrett; Sonja Wild; John M. Martin; Lucy M. Aplin. Wild parrots exhibit age-dependent conformity when learning about novel food. Plos Biology (2026) 24(4).
+https://doi.org/10.1371/journal.pbio.3003741
+
+HaiJuan Han; MingYuan Zhao; ChunYan Liu; YaKai Zhang; Zhao Wang; Zhou Deng. Mining and Optimization of Teaching Behavior Patterns in Physical Education Classes Based on GSEQ Technology. Proceedings of 2025 4th International Conference on Artificial Intelligence and Education Icaie 2025 (2026) ().
+https://doi.org/10.1145/3797552.3797793
+
+Jackson R. Ham; Robert J. McDonald. Divergent behavioral strategies in Wistar and Wistar-Kyoto rats in a naturalistic task reveal mood disorder phenotypes. Iscience (2026) 29(4).
+https://doi.org/10.1016/j.isci.2026.115459
+
+Vatsal Mehta; Somil Urmil Shah; Lubaina Malvi; Willem Shak; Felix Sims; Sarah Woodruff; Rebecca Kleinberger. Outfoxed: Design and Evaluation of a Modular Interactive Puzzle for Cognitive Enrichment of Zoo Animals. Conference on Human Factors in Computing Systems Proceedings (2026) ().
+https://doi.org/10.1145/3772318.3791644
+
+Huyen Nguyen; Zofia Samsel; Clément Cormi; Belkacem Acidi; Eric Vibert; Christian Sandor. Studying the Implications of Augmented Reality for Teamwork in Open Liver Surgery. Conference on Human Factors in Computing Systems Proceedings (2026) ().
+https://doi.org/10.1145/3772318.3791396
+
+Arushi Aggarwal; Sarah Woodruff; Jas Brooks; Rebecca Kleinberger. BearBubbles: Interactive Olfactory Enrichment to Encourage Foraging in Zoo Animals. Conference on Human Factors in Computing Systems Proceedings (2026) ().
+https://doi.org/10.1145/3772318.3790842
+
+Janet G. Johnson; Ruijie Sophia Huang; Khoa Nguyen; Ji Young Nam; Michael Nebeling. "i Felt Bad after We Ignored Her": Understanding How Interface-Driven Social Prominence Shapes Group Discussions with GenAI. Conference on Human Factors in Computing Systems Proceedings (2026) ().
+https://doi.org/10.1145/3772318.3791881
+
+Danna F. Masri; William J. Frazier; Melanie G. Kimball; Christine R. Lattin. Beak wiping stereotypies are correlated with neophobia and lack of enrichment in captive house sparrows (Passer domesticus). Behavioural Brain Research (2026) 503().
+https://doi.org/10.1016/j.bbr.2026.116075
+
+Jules Brochon; Floriane Fournier; Baptiste Mulot; Isabelle Charrier; Gérard Coureaud. Differential behavioural responses of pinnipeds to airborne food odours using two experimental paradigms. Journal of Experimental Marine Biology and Ecology (2026) 597().
+https://doi.org/10.1016/j.jembe.2026.152179
+
+Michal Zatrak; Kirsty J. Shaw; Matthew Geary; Richard Ilderton; Robyn A. Grant. Behavioural and faecal cortisol metabolite monitoring of harbour (Phoca vitulina) and grey seal pups (Halichoerus grypus) in rehabilitation centres. Applied Animal Behaviour Science (2026) 297().
+https://doi.org/10.1016/j.applanim.2026.106910
+
+Deyatima Ghosh; Vishal Kumar Prasad; Amaël Borzée. Life stage and interspecies variation in salamander quantity discrimination, and incipient learning. Behavioural Processes (2026) 237().
+https://doi.org/10.1016/j.beproc.2026.105360
+
+Geraldine Porras-Rivera; Konrad Górski; Gustavo Chiang; Macarena Carrillo; Nicole Colin. Neurotoxic effect and loss of schooling cohesion in the gregarious native fish Galaxias maculatus under environmental concentrations of 2,4 dichlorophenol. Environmental Toxicology and Pharmacology (2026) 123().
+https://doi.org/10.1016/j.etap.2026.104961
+
+Darcy Neilson; Nicola Cutting; Emma C. Tecwyn. Can object exploration or explanation-generation facilitate innovative problem-solving in 5–7-year-olds?. Acta Psychologica (2026) 264().
+https://doi.org/10.1016/j.actpsy.2026.106396
+
+Amandine Bourhis; Philippe Brun; Regis Thouvarecq. Beyond the court: Evolution of the emotion regulation in autistic children through inclusive tennis practice. Research in Autism (2026) 132().
+https://doi.org/10.1016/j.reia.2026.202847
+
+Guilherme Azambuja; Samara Silva de Souza; Carina Brunehilde Silva; Igor Luis Kaefer; Adalberto Luis Val; Daiani Kochhann. Combined impacts of warming and methomyl on neurophysiological and behavioral responses in Amazonian frog tadpoles. Ecotoxicology (2026) 35(3).
+https://doi.org/10.1007/s10646-025-03022-3
+
+Javiera Calderón-Amor; Benjamin Lecorps; Daniela Luna; Mauricio Soto-Gamboa; Francisca Ovando; Enzo Ruiz; María Jesús Montero; Tamara Tadich. Environmental downgrading to battery cages induces depression-like states in hens. Applied Animal Behaviour Science (2026) 297().
+https://doi.org/10.1016/j.applanim.2025.106908
+
+Nobuaki Mizumoto; Kôichi Arimoto; Clement Het Kaliang; Taisuke Kanao. Independent evolution of a living bridge in the old world army ant lineage. Science of Nature (2026) 113(2).
+https://doi.org/10.1007/s00114-026-02085-4
+
+Miya L. Ball; Benjamin M. Titus; Dan A. Exton; Eleanor M. Caves. Hunger affects cleaning, signalling and signal reliability in the cleaner shrimp Ancylomenes pedersoni. Animal Behaviour (2026) 234().
+https://doi.org/10.1016/j.anbehav.2026.123516
+
+Gemma C. Sansom; Bertram Ostendorf; David A. Taggart. Prey naivety in southern hairy-nosed wombats(Lasiorhinus latifrons) isolated from dingoes (Canis familiaris) for over 80 years. Australian Mammalogy (2026) 48(1).
+https://doi.org/10.1071/AM25034
+
+Samierra Arora; Emily Kieson; Christine Rudd; Peter A. Gloor. Multi-Modal Feature Fusion and Hierarchical Classification for Automated Equine–Human Interaction Behavior Recognition. Sensors (2026) 26(7).
+https://doi.org/10.3390/s26072202
+
+Natasha E. Tay; Bob Du; Todd A. Gillam; Melissa L. Thomas; Dave Algar; Patricia A. Fleming. Feral Cat Responses to Silver Vine: Implications for Feral Cat Management. Journal of Chemical Ecology (2026) 52(2).
+https://doi.org/10.1007/s10886-026-01707-5
+
+Ugne Simanaviciute; Aybeniz Ece Cetin; Julien Guy; Helen Tams; Jochen Staiger; Robyn A. Grant. Whisking Behaviour Reveals Stronger Evidence of Habituation in Homozygous Reeler Mice Compared to Controls. Genes Brain and Behavior (2026) 25(2).
+https://doi.org/10.1111/gbb.70049
+
+Rishi Vanukuru; Krithik Ranjan; Ada Yi Zhao; David Lindero; Gunilla H. Berndtsson; Gregoire Phillips; Amy Banić; Mark D. Gross; Ellen Yi-Luen Do. Studying Mobile Spatial Collaboration across Video Calls and Augmented Reality. Proceedings of the ACM on Human Computer Interaction (2026) 10(2).
+https://doi.org/10.1145/3788073
+
+Marcos Roberto Fanton; Mateus Mazzaferro; Karine Maria Porpino Viana; Danilo Micali; Vinicius Oliveira Santana; Ana C. C. Milani; Ivaldo Silva; Hugo Cogo-Moreira; Cristiane S. Duarte; Jonathan Posner; Andrea P. Jackowski. Maternal adverse childhood experiences, postnatal depression, and early parenting behaviors: a study of microcoded mother–infant interaction in early infancy. Frontiers in Child and Adolescent Psychiatry (2026) 5().
+https://doi.org/10.3389/frcha.2026.1772342
+
+Gunn; Obst; Vetter. Response and Plasticity of a Cleaning Mutualism Following Short Term Reductions in Habitat Availability. Ecology and Evolution (2026) 16(4).
+https://doi.org/10.1002/ece3.73348
+
+Corné de Groot; Rori E Wijnhorst; Ådne M Nafstad; Alastair J Wilson; Yimen G Araya-Ajoy; Henrik Jensen; Jonathan Wright; Niels J Dingemanse. Among-trait covariance and cross-year repeatability for direct and indirect individual effects in producer–scrounger behaviour in wild house sparrows. Journal of Evolutionary Biology (2026) 39(4).
+https://doi.org/10.1093/jeb/voag003
+
+Kseniya Avimova; Dmitry Sandakov. Darkness during behavioral tests induces exploratory activity and decreases anxiety-related behavior in male mice. Laboratory Animals (2026) 60(2).
+https://doi.org/10.1177/00236772261418962
+
+Sarah C. Paul; Alice B. Dennis; Lisa Johanna Tewes; Jeanne Friedrichs; Pragya Singh; Caroline Müller. Fighting for Chemicals: Pharmacophagy-Induced Contest Behaviour and Its Molecular Signatures in a Sawfly. Molecular Ecology (2026) 35(8).
+https://doi.org/10.1111/mec.70345
+
+Caroline H. Hertweck; Chase A. Carter; Sarah S. McDaniel; Pierre Llorach; Hayleigh E. Tilton; Anish Kodali; Daniel J. Christoffel; Jessica J. Walsh. Repeated Stress Escalates Aggression and Activity in Fronto-Limbic Regions in Cntnap2−/− Mice. Genes Brain and Behavior (2026) 25(2).
+https://doi.org/10.1111/gbb.70048
+
+Z Morgan Benowitz-Fredericks; Alexis P. Will; Sierra N. Pete; Stephanie M. Walsh; Shannon Whelan; Alexander S. Kitaysky. Disentangling bidirectional relationships between glucocorticoids and behavior: Experimentally elevated corticosterone levels correlate with rapid, sex-specific changes in food-acquisition behaviors of food-limited seabird chicks. Hormones and Behavior (2026) 180().
+https://doi.org/10.1016/j.yhbeh.2026.105918
+
+Pushkar Wagh; Saumitra Dhere; Maria Thaker; Kadaba Shamanna Seshadri. Tough toad ahead: ontogenetic variation in thermal tolerance defines life-stage vulnerability in Duttaphrynus melanostictus. Journal of Thermal Biology (2026) 137().
+https://doi.org/10.1016/j.jtherbio.2026.104441
+
+Raoul Manenti; Veronica Zampieri; Filippomaria Cassarino; Damiano Brognoli; Edgardo Mauri; Giorgia Terraneo; Elia Lo Parrino; Raffaele Bruschi; Valentina Balestra; Stefano Lapadula; Matteo Galbiati; Valeria Messina; Mattia Falaschi; Benedetta Barzaghi; Gentile Francesco Ficetola; Andrea Melotto. Living at the Interface: Behavioral, Evolutionary and Ecological Insights of Spring Use by Highly Mobile Stygobiont Crustaceans, Troglocaris planinensis (Decapoda: Atyidae). Ecology and Evolution (2026) 16(4).
+https://doi.org/10.1002/ece3.73338
+
+Natasha D. Marosi; Samuel Ellis; David M.P. Jacoby; Juerg M. Brunnschweiler; Darren P. Croft. Rolling in the deep: drivers of social preferences and social interactions within a bull shark aggregation in Fiji. Animal Behaviour (2026) 234().
+https://doi.org/10.1016/j.anbehav.2026.123511
+
+Habib-Dassetto; Best; Cauzinille; Marques; Adet; Portes; Lemasson; Montant. Multi-interaction: a new open-access approach for studying multimodal communication and interactions across species. Animal Behaviour (2026) 234().
+https://doi.org/10.1016/j.anbehav.2026.123526
+
+Zineb Bouargane; Francisco E. Olucha-Bordonau; Mohammed Bennis; Saadia Ba-M’hamed; Fatima-Zahra Lamghari-Moubarrad. Comparative analysis of BORIS, Ethovision, DeepLabCut, and SimBA for quantifying autism spectrum disorder-like behaviors in the valproic acid mouse model. Neuroscience Letters (2026) 875().
+https://doi.org/10.1016/j.neulet.2026.138542
+
+Anna Ratsika; Cristian A. Bergmann; Benjamin Valderrama; Thomaz F.S. Bastiaanssen; Brendan L. Sharvin; Ingrid B. Renes; Jan Knol; Eoin Gunnigle; Gerard Clarke; John F. Cryan. Early-life microbiota disruption-induced deficits in the social brain are sensitive to diet. Iscience (2026) 29(3).
+https://doi.org/10.1016/j.isci.2026.114968
+
+Marianthi Tangili; Michael Briga; Simon Verhulst. Begging efficiency rather than food received causes brood size effect on growth in zebra finches. Behaviour (2026) 163(2).
+https://doi.org/10.1163/1568539X-bja10358
+
+Rasha Salman; Polina Ritter; Yuliya Ryabushkina; Julia Khantakova; Natalya Bondar. The effect of chronic stress on sensitivity to dexamethasone treatment of HPA axis gene expression in C57Bl/6 mice. Behavioural Brain Research (2026) 500().
+https://doi.org/10.1016/j.bbr.2025.116000
+
+Hannah R. Broad; Guillam E. McIvor; Alex Thornton. Socially learnt predator recognition in nestling jackdaws. Biology Letters (2026) 22(3).
+https://doi.org/10.1098/rsbl.2025.0770
+
+Bruno Camargo-Dos-Santos; Barbara Taborsky. Sibling number and early interactions shape social competence for life. Proceedings of the National Academy of Sciences of the United States of America (2026) 123(9).
+https://doi.org/10.1073/pnas.2527981123
+
+Mathilde Coutant; Juliette Michel; Lene J. Pedersen; Mona L.V. Larsen. Space density affects resting location and proximity of fattening pigs at night. Livestock Science (2026) 305().
+https://doi.org/10.1016/j.livsci.2026.105913
+
+Dana L.M. Campbell; Greg J. Coman; Chris Stratford; Pushkar Mandrekar; Troy Kalinowski; Caroline Lee; Artur N. Rombenso. Use of artificial shelter structures by individual Penaeus monodon broodstock prawns. Applied Animal Behaviour Science (2026) 296().
+https://doi.org/10.1016/j.applanim.2025.106896
+
+Madeleine G. Thomson; Mackenzie B. Woods; Sigal Balshine; Francis Juanes. Movement propensity differs in two morphs of the plainfin midshipman, Porichthys notatus. Environmental Biology of Fishes (2026) 109(1).
+https://doi.org/10.1007/s10641-025-01795-4
+
+Giovanna Marliani; Martina Lamanna; Giovanni Buonaiuto; Damiano Cavallini; Pier Attilio Accorsi. Coping styles in Holstein Heifers: Relationship between proactivity and habituation to automatic milking system. Biosystems Engineering (2026) 263().
+https://doi.org/10.1016/j.biosystemseng.2026.104394
+
+Aïsha Sahaï; Onoriu Puscasu; Marie Niepceron; Thomas Jacquet; Natacha Métayer. Hazard warning lights or pictogram on a display? Investigating drivers' mental workload, behavior, and signal preference while overtaking a robotaxi equipped with rear communication systems during passenger drop-off. Transportation Research Part F Traffic Psychology and Behaviour (2026) 118().
+https://doi.org/10.1016/j.trf.2026.103533
+
+Fumio Takeshita; Chiaki I. Yasuda. Dear enemy phenomenon in fiddler crabs: escalation of fights with unfamiliar individuals rather than familiar neighbours. Animal Behaviour (2026) 233().
+https://doi.org/10.1016/j.anbehav.2026.123470
+
+Olivia O’Callaghan; Whitehouse; Rees; Waller. Direction and expressivity of faces impact third-party social attention in rhesus macaques. Animal Behaviour (2026) 233().
+https://doi.org/10.1016/j.anbehav.2026.123492
+
+Stefan ter Haar; Gabriele B. Uhl; Monika J. B. Eberhard. No Appeasement Through Vibrations: Male Vibratory Pre-Copulatory Courtship in the Cursorial Spider Pisaura mirabilis Does Not Affect Female Predatory Response. Ethology (2026) 132(3).
+https://doi.org/10.1111/eth.70042
+
+Arezo Shamsgovara; Lennart Winkler; Alvin Sellin; David Wheatcroft; Niclas Kolm; John L. Fitzpatrick. Male Strategic Association With Mating Partners Under Varying Social Contexts in a Livebearing Fish. Ecology and Evolution (2026) 16(3).
+https://doi.org/10.1002/ece3.73175
+
+Sojung Kwon; Dain Kim; Taewon Kim. Don't tread on me: human trampling on a sandy beach alters behavior of the ghost crab, Ocypode stimpsoni. Marine Pollution Bulletin (2026) 224().
+https://doi.org/10.1016/j.marpolbul.2025.119154
+
+Caitlin F. Evans; Laura A. Kelley. Male great bowerbirds upregulate multiple sexual signals following bower wall removal. Animal Behaviour (2026) 233().
+https://doi.org/10.1016/j.anbehav.2026.123480
+
+Melitta Csepregi; Anna Ágnes Moravcsik; Ádám Miklósi; Márta Gácsi. Dogs’ behaviour is more similar to that of children than to that of cats in a prosocial problem situation. Animal Behaviour (2026) 233().
+https://doi.org/10.1016/j.anbehav.2026.123488
+
+Justine Chartrain; K. Emily Knott; Łukasz Michalczyk; Sara Calhim. Sperm storage ability is associated with oviposition but not mating behaviour differences in macrobiotid tardigrades. Animal Behaviour (2026) 233().
+https://doi.org/10.1016/j.anbehav.2026.123485
+
+Prathik Amin; Joachim G. Frommen; Jade Newton-Youens. The Effect of Background Colour on Behaviour and Development of Golden Mantella (Mantella aurantiaca) Tadpoles. Ethology (2026) 132(3).
+https://doi.org/10.1111/eth.70046
+
+Chloé Souques; Jeremy Dykstra; Yann Voituron; Loïc Teulier; Grant B. McClelland; François-Xavier Dechaume-Moncharmont; Sigal Balshine. Testing a personality-dispersal hypothesis: behavioural comparisons along a round goby invasion gradient. Biological Invasions (2026) 28(3).
+https://doi.org/10.1007/s10530-026-03771-0
+
+Mark A. Ditmer; Katherine A. Zeller; Heather N. Abernathy; James Wilder; Ashley Egan; Julia N.D. Daniell; Jesse R. Barber; William L. Rice; Michael K. Schwartz; George Wittemyer. The landscape of no worries? Increased recreation exposure decreases the landscape of human fear in wildlife. Biological Conservation (2026) 315().
+https://doi.org/10.1016/j.biocon.2026.111718
+
+Emma Webster; Leslie Ng; Kit Prendergast; Scarlett R. Howard. The effects of temperature, urbanisation, and artificial light on phototaxis in eusocial and non-eusocial bees. Journal of Insect Physiology (2026) 169().
+https://doi.org/10.1016/j.jinsphys.2025.104927
+
+Melanie Ferguson; Talveen Sahot; Cathy Sucher. “Don’t Assume I’m Too Old!”: Assessment of Digital Literacy in a Clinical Sample of Adults With Hearing Loss. American Journal of Audiology (2026) 35(1).
+https://doi.org/10.1044/2025_AJA-25-00160
+
+Alessandro Cozzi; Miriam Marcet-Rius; Eva Teruel; Philippe Monneret; Fanny Menuge; Pietro Asproni; Patrick Pageat. Enhanced environmental acclimation of cats using an innovative passive diffuser of the facial-marking pheromone (F3). Journal of Feline Medicine and Surgery (2026) 28(3).
+https://doi.org/10.1177/1098612X261422953
+
+Yuko Hattori; Pavel Voinov; Makiko Uchikoshi. Combinatorial Instrumental Sound-Making in a Captive Chimpanzee: Evolution of Vocal Externalization. Annals of the New York Academy of Sciences (2026) 1557(1).
+https://doi.org/10.1111/nyas.70239
+
+Aloyce Bunyaga; Rene Corner-Thomas; Ina Draganova; Paul Kenyon; Lucy Burkitt. The Behaviour of Sheep Around a Natural Waterway and the Impact on Water Quality During Summer in New Zealand: A Case Study. Ruminants (2026) 6(1).
+https://doi.org/10.3390/ruminants6010014
+
+Angela K. Goff-Riley; Jennifer L. Grindstaff. Paternal deprivation in biparental zebra finches (Taeniopygia guttata) affects care of offspring with consequences for adult stress-induced corticosterone levels. Hormones and Behavior (2026) 179().
+https://doi.org/10.1016/j.yhbeh.2026.105900
+
+Jaemy Romero-Herrada; Eduardo Nycander; Bruno Díaz; César Arana; Letty Salinas. Temporal Dynamics of Parental Behavior and Nest Use in Ara chloropterus and Ara macao at an Artificial Nest Box in Peru. Birds (2026) 7(1).
+https://doi.org/10.3390/birds7010009
+
+Martina Francesconi; Erica Masciarelli; Virginia Schianini; Michael Job; Eve Davidian; Oliver Patrick Höner; Elisabetta Palagi. Eyes, ears, and play in the wild: flexible use of sensory channels in spotted hyena communication. Behavioral Ecology and Sociobiology (2026) 80(3).
+https://doi.org/10.1007/s00265-026-03711-x
+
+Max Mühlenhaupt; Henry J. Bohny; Maria Moiron; Manuela Schmidt; Laura Schulte; Barbara A. Caspers. The bright, the bold and the toxic: do coloration, personality, and toxicity represent an integrated phenotype in fire salamanders?. Behavioral Ecology and Sociobiology (2026) 80(3).
+https://doi.org/10.1007/S00265-026-03701-Z
+
+Anna V. Klenova; Benjamin Lang; Anne Jaap; Christa Thöne-Reineke; Lars Lewejohann; Paul Mieske. Female mice in established social groups use different ultrasonic vocalizations during peaceful and aggressive interactions. Behavioural Brain Research (2026) 498().
+https://doi.org/10.1016/j.bbr.2025.115904
+
+Keren Ruzal; Estherina Trachtenberg; Ben Kantor; Hila Flumin; Adin Roemer; Andres Crespo; Johannes Kohl; Inbal Ben-Ami Bartal. Dissociating neural circuits of social and prosocial reward in rat helping behavior. Iscience (2026) 29(2).
+https://doi.org/10.1016/j.isci.2026.114694
+
+Thomas H. Naragon; Joani W. Viliunas; Mina Yousefelahiyeh; Adrian Brückner; Julian M. Wagner; K. Esther Okamoto; Hannah M. Ryon; Danny Collinson; Sheila A. Kitchen; Reto S. Wijker; Alex L. Sessions; Joseph Parker. Symbiotic entrenchment through ecological Catch-22. Cell (2026) 189(4).
+https://doi.org/10.1016/j.cell.2025.12.041
+
+Hayato M. Yamanouchi; Ryosuke F. Takeuchi; Naoya Chiba; Koichi Hashimoto; Takashi Shimizu; Fumitaka Osakada; Ryoya Tanaka; Azusa Kamikouchi. YORU:Animal behavior detection with object-based approach for real-time closed-loop feedback. Science Advances (2026) 12(7).
+https://doi.org/10.1126/sciadv.adw2109
+
+Millie R. Bhaskara; Alex MacKay; Mackenzie R. Hartley; Pouria Valipour Karimi; Paula Torres Muñoz; Tamara B. Franklin. Chronic psychological stress during adolescence induces altered postpartum behaviours and intergenerational effects in mice. Behavioural Brain Research (2026) 497().
+https://doi.org/10.1016/j.bbr.2025.115880
+
+Cristiana I. Iosif; Robert A.R. Drake; Richard Apps; Zafar I. Bashir; Jasmine Pickford. Bidirectional Modulation of Beam Traversal Performance by Acetylcholine in the Cerebellar Nuclei. Journal of Neuroscience (2026) 46(5).
+https://doi.org/10.1523/JNEUROSCI.1529-25.2026
+
 Meijing An; Xiyao Liu; Nan Wu; Qianling Zhou. Association between caregivers' responsive feeding practices and the intake of fruit and vegetable among children aged 6–36 months: the mediating role of children's enjoyment of food. Appetite (2026) 217().
 https://doi.org/10.1016/j.appet.2025.108325
+
+Olga Procenko; Alice D. Bridges; Amelia Kowalewska; Mikko Juusola; Lars Chittka. Bumble bee string-pulling skill spreads between colonies under open diffusion conditions. Animal Behaviour (2026) 232().
+https://doi.org/10.1016/j.anbehav.2025.123439
+
+Héloïse Brotier; Pablo Alba-Gonzalez; Prameek Kannan; Eli Geffen; Amiyaal Ilany; Lee Koren. Developing objective tools to study rock hyrax (Procavia capensis) behaviour in the field. Plos One (2026) 21(2 February).
+https://doi.org/10.1371/journal.pone.0343302
+
+Zimbábwe Osório-Santos; J. Levi Byrd; Mattie T. DeHaven; Heather W. Neave. Preferences of dairy cows for different types of grooming brushes. Journal of Dairy Science (2026) 109(2).
+https://doi.org/10.3168/jds.2025-27263
+
+Yasemin Salgırlı Demirbaş; Kaan Kerman; Durmuş Atılgan; Melis Ünler; Tolga Yildirim; Selenay Şimşek. Greeting Vocalizations in Domestic Cats Are More Frequent With Male Caregivers. Ethology (2026) 132(2).
+https://doi.org/10.1111/eth.70033
+
+Silvia Perzolli; Giulio Bertamini; Paola Venuti; Arianna Bentenuto. Father-child interactions in autism: A multivariate analysis of behavioral patterns in Italian dyads. Research in Developmental Disabilities (2026) 169().
+https://doi.org/10.1016/j.ridd.2025.105196
+
+Amalia P.M. Bastos; Gavin R. Foster; Patrick M. Wood; Christopher Krupenye. Do dogs rationally infer the causes of failed actions?. Plos One (2026) 21(2 February).
+https://doi.org/10.1371/journal.pone.0341872
+
+Rodrigo Mendes Aguiar; Nicolas Châline; Cristiano Schetini de Azevedo. Environmental enrichment improves behavior and welfare in captive cockatiels. Applied Animal Behaviour Science (2026) 295().
+https://doi.org/10.1016/j.applanim.2025.106888
+
+Anjana Madhavan; Martina Schiano-Visconte; Lauren Dutton; Mattia Cantalupo; Luigi Balasco; Alessia Mavillonio; Gabriele Chelini; Yuri Bozzi; Luca Pangrazzi. Astaxanthin improves behavioural and immune dysfunction in the Shank3b mouse model of autism spectrum disorder. Biomedicine and Pharmacotherapy (2026) 195().
+https://doi.org/10.1016/j.biopha.2026.119051
+
+Olle Lindestad; Johan Ehrlén; Marie Neri; Kristoffer Hylander. Distribution drivers in a globally invasive plant: Climate dominates at large scales, human presence at local scales. Ecosphere (2026) 17(2).
+https://doi.org/10.1002/ecs2.70552
+
+Rhea L. Storlund; David A. S. Rosen; Martin Haulena; William K. Milsom; Robert E. Shadwick; Andrew W. Trites. Heart rates of Steller sea lions drop slowly and oscillate while diving. Journal of Comparative Physiology B Biochemical Systemic and Environmental Physiology (2026) 196(1).
+https://doi.org/10.1007/s00360-025-01645-w
+
+Melanie Denommé; Glenn J. Tattersall. Try before you buy: Preferences for naturalistic-style enclosures are influenced by experience in bearded dragons (Pogona vitticeps). Applied Animal Behaviour Science (2026) 295().
+https://doi.org/10.1016/j.applanim.2025.106887
+
+Ioanna Gavriilidi; Elina Trafali; Panayiotis Pafilis; Raoul Van Damme. Relationship between cognitive and thermoregulatory performance in the common wall lizard. Journal of Thermal Biology (2026) 136().
+https://doi.org/10.1016/j.jtherbio.2026.104393
+
+Megan Walker; Jessica Bush; Laura M. Hurley. A Squeak Is Not Enough: Female Presence and Vocal Playback Have Contrasting Effects on c-Fos Expression by Dorsal Raphé Neurons in Lab Mice. Brain Sciences (2026) 16(2).
+https://doi.org/10.3390/brainsci16020148
+
+Joel A. Tripp; Keerthana Raghuraman; Ritika V. Bhalla; Steven M. Phelps. Leptin promotes social context-specific increase in advertisement song effort of male Alston's singing mice. Hormones and Behavior (2026) 178().
+https://doi.org/10.1016/j.yhbeh.2025.105874
+
+Chiara Agabiti; Federica Restelli; Daniela Freggi; Pasquale Salvemini; Paolo Luschi; Paolo Casale. Sea turtle breathing patterns and involved factors investigated through animal-borne camera and sensors. Marine Biology (2026) 173(2).
+https://doi.org/10.1007/s00227-025-04783-5
+
+Julia L. Self; Andrés Camacho-Alpízar; Priya Binwal; Umama Mir; Stefan Stanescu; Benjamin A. Whittaker; Lauren M. Guillette. Conformity and individual preference shape nest material use in zebra finches (Taeniopygia guttata). Plos One (2026) 21(2 February).
+https://doi.org/10.1371/journal.pone.0342277
+
+Heswall; Cain; Friesen; Gaskett. King penguins and gentoo penguins prefer to behaviourally interact with white plastics over other colours. Applied Animal Behaviour Science (2026) 295().
+https://doi.org/10.1016/j.applanim.2025.106891
+
+Delyse McCaffrey; Yasmine Kostoglou; Alan Tao; Raymond J. Chan; Janette L. Vardy; Alexandre Chan; Teri M. Furlong; Adam J. Lawther; Cynthia Shannon Weickert; Adam K. Walker. Candesartan, an angiotensin receptor blocker, prevents cognitive impairment in female mice with mammary cancer. Brain Behavior and Immunity (2026) 132().
+https://doi.org/10.1016/j.bbi.2025.106205
+
+Kathryn Willcox; Alizée Vernouillet; Birgit Szabo; An Martel; Luc Lens; Frederick Verbruggen. Early-life social instability affects aggression, but not response inhibition, in chickens. Acta Ethologica (2026) 29(1).
+https://doi.org/10.1007/s10211-025-00477-9
+
+Dörper; Nicolai; Gort; de Jong; van Harn; Veldkamp; Dicke. Feeding live or processed black soldier fly larvae to slow-growing broilers impacts their behaviour differently. Animal (2026) 20(2).
+https://doi.org/10.1016/j.animal.2025.101748
+
+Karolina Hruza; Daniela Cernotova; Kristyna Maleninska; Jan Svoboda; David Levcik; Ales Stuchlik. Task-Specific Effects of mGlu2/3 Receptor Agonist LY379268 on MK-801-Induced Behavioral and Neural Dysfunctions in Rats. Physiological Research (2026) 75(1).
+https://doi.org/10.33549/physiolres.935715
+
+Joyce F. Benenson; Sophia C. Scott; Owen O'Connor. Young children exhibit sex-biased strategies to obtain resources. Proceedings of the Royal Society B Biological Sciences (2026) 293(2063).
+https://doi.org/10.1098/rspb.2025.2558
+
+Andrea Meltzer; Eli D. Strauss; Vlad Demartsev; Michael Griesser. Siberian jays help conspecifics in distress regardless of social familiarity. Royal Society Open Science (2026) 13(1).
+https://doi.org/10.1098/rsos.250960
+
+Corinna S. Oswell; Sophie A. Rogers; Justin G. James; Nora M. McCall; Alex I. Hsu; Gregory J. Salimando; Malaika Mahmood; Lisa M. Wooldridge; Meghan Wachira; Adrienne Y. Jo; Raquel Adaia Sandoval Ortega; Jessica A. Wojick; Katherine Beattie; Sofia A. Farinas; Samar N. Chehimi; Amrith Rodrigues; Jacqueline W. K. Wu; Lindsay L. Ejoh; Blake A. Kimmey; Emily Lo; Ghalia Azouz; Jose J. Vasquez; Matthew R. Banghart; Kevin T. Beier; Kate Townsend Creasy; Richard C. Crist; Charu Ramakrishnan; Benjamin C. Reiner; Karl Deisseroth; Eric A. Yttri; Gregory Corder. Mimicking opioid analgesia in cortical pain circuits. Nature (2026) 649(8098).
+https://doi.org/10.1038/s41586-025-09908-w
 
 Daniela Černotová; Kristýna Malenínská; Anna Horáková; Veronika Rudolfová; Aleš Stuchlík; Jan Svoboda. Social interaction deficits and anxiety-like behavioral changes in the TgF344-AD rat model of Alzheimer's disease. Behavioural Brain Research (2026) 496().
 https://doi.org/10.1016/j.bbr.2025.115820
 
 Sarah Dagher; Darcie DeAngelo; Ren Y. Sato; Hiroaki Norimoto; Tsuyoshi Koide; Shimpei Ishiyama. Comparative analysis of tickling and conspecific play in tame mice and golden hamsters. Behavioural Brain Research (2026) 496().
 https://doi.org/10.1016/j.bbr.2025.115849
+
+Baumbach; Mui; Leonetti; Martin. Corticosterone regulates the balance between freezing and rearing in defensive responses to predator threat. Progress in Neuro Psychopharmacology and Biological Psychiatry (2026) 144().
+https://doi.org/10.1016/j.pnpbp.2025.111579
 
 Katie L. Edwards; Abigail Pickard; Claire Farrow; Emma Haycraft; Moritz Herle; Clare Llewellyn; Helen Croker; Jacqueline Blissett. Parental use of distraction and portioning to reduce snack intake by children with avid eating behaviour: An experimental laboratory study. Appetite (2026) 216().
 https://doi.org/10.1016/j.appet.2025.108257
@@ -22,8 +1162,383 @@ https://doi.org/10.1016/j.biocon.2025.111561
 Menchén-Márquez; Valero; Gasalla; Gámiz; Gallo; Dwyer. Palatability changes during attenuation of flavor neophobia assessed with licking microstructure and taste reactivity. Appetite (2026) 216().
 https://doi.org/10.1016/j.appet.2025.108305
 
+Elyse Letts; Damien Masson; Joyce Obeid. iPlayer: An Open-Source Tool for Time-Windowed Video Annotation of Human Physical Activity and Behavior. Journal for the Measurement of Physical Behaviour (2026) 9(1).
+https://doi.org/10.1123/jmpb.2025-0040
+
+Lydiane Aubé; Bruno Meunier; Romain Lardy. Measuring shade use of dairy cattle at pasture with an on-cow light sensor: a case study. Computers and Electronics in Agriculture (2026) 240().
+https://doi.org/10.1016/j.compag.2025.111152
+
+Simon H. Elwen; Rebecca Hannén; Steve Benjamin; Claudio Velasquez Rojas; Rachel Probert; Tess Gridley. Underwater Behavior of Southern Hemisphere Humpback Whales (Megaptera novaeangliae) Feeding in Super-Groups, From Video Footage. Marine Mammal Science (2026) 42(1).
+https://doi.org/10.1111/mms.70096
+
+Ori Meiraz; Shlomi Laufer; Robert Spector; Itay Or; Gil Bolotin; Tom Friedman. Enhancing open-surgery gesture recognition using 3D pose estimation. International Journal of Computer Assisted Radiology and Surgery (2026) ().
+https://doi.org/10.1007/s11548-025-03564-1
+
+Elena Osipova; Natalia Pankova; Vera Pavlova; Daniil Sizov; Svetlana Zhdanova; Artem Dushko; Evgeny Izvekov; Viacheslav V. Krylov. Rhythm in the vertical distribution of Danio rerio under photic and magnetic zeitgebers. Chronobiology International (2026) ().
+https://doi.org/10.1080/07420528.2026.2621243
+
+Ronald F. van Toor; Ruth C. Butler; Ashley N. Mortensen; Aliesha M. Kean; Sam Read; Melanie K. Walker; Thomas E. S. Sullivan; Lisa M. Watkins; Lloyd D. Stringer; Theo van Noort. Predation behaviour of the pseudoscorpion, Chelifer cancroides, against Varroa destructor in the presence and absence of alternative prey and Apis mellifera. Journal of Apicultural Research (2026) ().
+https://doi.org/10.1080/00218839.2025.2582286
+
+Jewoong Moon; Idowu Awoyemi; Stephen Abu; Raissa Marchiori; Siyuan Song. Decoding immersive learning States: A reproducible microgenetic pipeline for behavioral data in virtual reality safety training. Behaviormetrika (2026) ().
+https://doi.org/10.1007/s41237-025-00286-1
+
+Myriam Knöpfle; Alex Jordan. Tactile behaviour in a marine producer–scrounger feeding aggregation. Animal Behaviour (2026) ().
+https://doi.org/10.1016/j.anbehav.2026.123487
+
+Junye Ge; Baijun Chen; Jinwei Xu; Pengfei Ren; Jialong Li; Tangna Sun; Shengxi Wu; Ying Zang; Wenting Wang. Diverse Neuronal Activity in Barrel Cortex During Self-Grooming and Whisking in Mice. Neuroscience Bulletin (2026) ().
+https://doi.org/10.1007/s12264-025-01583-1
+
+Musadiq Idris; Megan Sullivan; John B. Gaughan; Clive J. C. Phillips. The Impact of Heat Load on Behaviour and Physiology of Beef Cattle: Preliminary Validation of Non-Invasive Diagnostic Indicators. Animals (2026) 16(2).
+https://doi.org/10.3390/ani16020308
+
+Ryohei Tanabe; Yoko Iwata; Noriyosi Sato. Male ejaculate volume is adjusted according to sperm stock and not influenced by female reproductive potential or mating status in Japanese pygmy squid. Journal of Ethology (2026) 44(1).
+https://doi.org/10.1007/s10164-025-00863-7
+
+Nseabasi S. Udondian; Daniel Ogbuigwe; Mostafa Mahmoud Selim; Ahmed Abdelmoamen Ahmed; Madison E. Bacon; Courtney L. Daigle. A Machine Learning Framework for Large-Scale Behavioral Monitoring to Assess Thermotolerance in Dairy Cows. IEEE Access (2026) 14().
+https://doi.org/10.1109/ACCESS.2025.3648965
+
+Maya M. McElfish; Nicholas A. Hess; Helena B. Lewis; Sacha E. O’Connor; Rita S. Mehta. Chemical cues facilitate foraging across the water-land interface in a resident predatory fish. Behavioral Ecology (2026) 37(1).
+https://doi.org/10.1093/beheco/araf148
+
+Jennifer Meier; Hildegard Just; Matthias Steinfath; Carola Fischer-Tenhagen. Assessing Physiological and Behavioral Stress Parameters in Trained Goats During Repeated Blood Sampling. Animals (2026) 16(1).
+https://doi.org/10.3390/ani16010105
+
+Xian Zhou; Zhuxi Ge; Jinpeng Liu; Xin Nie; Xuemin Gao; Jin Ge; Xianhui Wang. Winning promotes both perceived and actual fighting ability in dominance contests among bumblebee workers. Insect Science (2026) ().
+https://doi.org/10.1111/1744-7917.70242
+
+Trent O. Hill; Lisa A. Shipley; Steven N. Winter; Holly R. Drankhan; Kong Moua; Margaret A. Wild. Use of Leg-Mounted Monitors to Assess the Effects of Treponeme-Associated Hoof Disease on Elk (Cervus canadensis) Activity. Animals (2026) 16(2).
+https://doi.org/10.3390/ani16020306
+
+Bijay Bashyal; Narayan Prasad Koju; Lila Paudel; Paul Buzzard; Randall C. Kyes. Activity Budget and Behavioral Patterns of Himalayan Musk Deer in Gaurishankar Conservation Area, Nepal. Ecology and Evolution (2026) 16(1).
+https://doi.org/10.1002/ece3.72766
+
+Renée Veenstra; Mohamed Henriques; Timo Keuning; Jeroen Onrust; Matty P. Berg; Theunis Piersma. Free-living Black-tailed Godwits maintain constant intake rates across varying grassland habitat conditions by adjusting their foraging behaviour. Ibis (2026) ().
+https://doi.org/10.1111/ibi.70031
+
+Elisa Torretta; Eleonora Frigerio; Giulia Ruffoni; Erika Bergantin; Achaz von Hardenberg. Human Disturbance but Not Predation Risk Is Associated With Increased Vigilance in Roe Deer. Ethology (2026) ().
+https://doi.org/10.1111/eth.70059
+
+Grace Ogundeji; Elias Latchem; Sigal Balshine. Influence of familiarity and sex on social learning in a group living fish. Behavioural Processes (2026) 234().
+https://doi.org/10.1016/j.beproc.2025.105307
+
+Louisa Kosin; Emily O'Hara; Alex R. Johnston; Helen Brown; Lindsay J. Henderson; Simone L. Meddle. The effect of light during incubation and dark shelter enrichment on chick growth and behavior. Poultry Science (2026) 105(1).
+https://doi.org/10.1016/j.psj.2025.106144
+
+Marissa Raskin; Marcelle Olvera; Kylee A. Smith; Roberto Cofresí; Jason Shumake; Michael J. Telch; Michael W. Otto; Jasper A. J. Smits; Rueben Gonzales; Hongjoo J. Lee; Marie-H. Monfils. CO2 Reactivity but Not CO2-Induced Orexin/c-Fos Colocalization Differentially Predicts Alcohol-Seeking Behaviour After Extinction and Retrieval-Extinction in Rats. Addiction Biology (2026) 31(1).
+https://doi.org/10.1111/adb.70116
+
+Edoardo Fiorilla; Alice Cartoni Mancinelli; Laura Ozella; Elisabetta Macchi; Isabella Manenti; Silvia Mioletti; Marco Birolo; Cecilia Mugnai. Welfare and behaviour in slow-growing chickens: the role of farming system and genotype. Italian Journal of Animal Science (2026) 25(1).
+https://doi.org/10.1080/1828051X.2026.2615471
+
+Oceane Schmitt; Suzanne Truong; Winfried Otten; Hana Volkmann; Julia Greiner; Marlies Dolezal; Karin Hummel; Attilio Rocchi; Jean-Loup Rault. The inner dynamics of positive human-animal interactions: Investigating the roles of oxytocin, opioids, dopamine, serotonin and the proteome. Psychoneuroendocrinology (2026) 183().
+https://doi.org/10.1016/j.psyneuen.2025.107678
+
+Bryan W. Jenkins; Cerina Pang; Robbie Y. Kuang; Elise M. Weerts; Catherine F. Moore. Effects of oral cannabidiol (CBD) on spontaneous opioid withdrawal in male and female rats.. Experimental and Clinical Psychopharmacology (2026) ().
+https://doi.org/10.1037/pha0000826
+
+Christopher H. Taylor; David J.G. Watson; Francis Gilbert; David J. Pritchard; John Skelhorn; Tom Reader. Unlearned responses of chicks, Gallus gallus domesticus, towards aposematic insect-like stimuli. Animal Behaviour (2026) ().
+https://doi.org/10.1016/j.anbehav.2026.123479
+
+Andrea Ford; Marianne Elmquist; Lizbeth Finestack; Danika Pfeiffer; Carrie Rountrey; Audra Sterling. Practical methods for incorporating open science into your speech-language-hearing science research workflow across study designs. Evidence Based Communication Assessment and Intervention (2026) ().
+https://doi.org/10.1080/17489539.2025.2592070
+
+Anna Ryba; Philipp Brand; Rory T. Coleman; Yarden Greenfeld; Yael N. Tsitohay; Florian Hollunder; Katharine R. Keller; Murtaza Hathiyari; Tianyi Wei; Paolo Emilio Barbano; Vanessa Ruta. Strain variation identifies a neural substrate for behavioral evolution in Drosophila. Current Biology (2026) ().
+https://doi.org/10.1016/j.cub.2026.01.071
+
+Audrey N. Chrisman; Chiho Sugimoto; Hanna Butler-Struben; Vanessa A. Minie; Andrew L. Eagle; Daniela Anderson; Natalia Duque-Wilckens; Ashley Ramos; Yasmine I. Lewis; Sinéad C. Archdeacon; Alfred J. Robison; Brian C. Trainor. Oxytocin neurons in the anterior and posterior paraventricular nucleus have distinct behavioral functions and electrophysiological profiles. Neuropsychopharmacology (2026) ().
+https://doi.org/10.1038/s41386-026-02352-y
+
+Nadine Schubert; Carolin Stober; Maibrit Born; Francis Mwanguhya; Robert Businge; Solomon Kyabulima; Kenneth Mwesige; Michael A. Cant; Hazel J. Nichols; Jamie C. Winternitz. Banded mongooses discriminate relatedness and MHC diversity in unfamiliar conspecifics. Behavioral Ecology (2026) 37(1).
+https://doi.org/10.1093/beheco/araf144
+
+Timothy McGowan; Mette Væver; Marianne Thode Krogh; Susanne Harder; Jonathan Delafield-Butt. Narrative Development in Infant−Mother Interaction. Annals of the New York Academy of Sciences (2026) 1555(1).
+https://doi.org/10.1111/nyas.70192
+
+Jory E. Litt-Jukes; Christy A. Morrissey. Seasonal activity and behavioural responses to artificial light at night in migratory and non-migratory sparrows. Journal of Avian Biology (2026) 2026(1).
+https://doi.org/10.1002/jav.03539
+
+Tianrui Li; Na Hu; Xiaoping Shi; Jiahe Zhang; Dan Cai. Maternal scaffolding and children's mathematical ability: A longitudinal moderated mediation study. Journal of Applied Developmental Psychology (2026) 102().
+https://doi.org/10.1016/j.appdev.2025.101907
+
+Fiona C. Dale; Rachel A. Casey; Charlotte C. Burn. Efficacy of advice for preventing separation-related behaviors in puppies: A video trial and separation test. Journal of Veterinary Behavior (2026) 83().
+https://doi.org/10.1016/j.jveb.2025.11.002
+
+Cecilie Ravn Skovlund; Niels Munch Corneliussen; Laura Benoni Kofod; Isabella Thybo Mejlstrup; Peter Sandøe; Björn Forkman. Companionship counts: Investigating social housing conditions and welfare in privately owned rabbits. Applied Animal Behaviour Science (2026) 294().
+https://doi.org/10.1016/j.applanim.2025.106864
+
+Tessa C. Black; Greg E. Demas; Cara L. Wellman; Jessica A. Cusick. Getting Over It: Maternal Stress and Gut Microbiome Manipulations Do Not Affect Rates of Offspring Habituation During Long Bouts of Stress. Journal of Experimental Zoology Part A Ecological and Integrative Physiology (2026) ().
+https://doi.org/10.1002/jez.70057
+
+Arden Blumenthal; Deona Harris; Bret A. Moore; Edward F. Melvin; Esteban Fernández-Juricic. Effects of a high-power laser eye exposure on avian foraging behaviour: implications for the safety of laser bird deterrents. Conservation Physiology (2026) 14(1).
+https://doi.org/10.1093/conphys/coag004
+
+Brynna T. Webb; Hieu Trinh; Emily A. Breach; Kendall M. Foote; Erica Binelli; Geoffrey T. Swanson. Pathological gain-of-function human variants in the GRIK2 kainate receptor gene cause wide-ranging behavioral dysfunction and seizures in mouse models. Neurobiology of Disease (2026) 218().
+https://doi.org/10.1016/j.nbd.2025.107226
+
+Rachael E. Hokenson; Kiara L. Rodríguez-Acevedo; Yuncai Chen; Annabel K. Short; Sara A. Samrari; Brinda Devireddy; Brittany J. Jensen; Julia J. Winter; Christine M. Gall; Kiran K. Soma; Elizabeth A. Heller; Tallie Z. Baram. Hippocampal estrogen levels, receptor types, and epigenetics contribute to sex-specific memory vulnerabilities to concurrent acute stresses. Neuron (2026) ().
+https://doi.org/10.1016/j.neuron.2025.12.037
+
+Matthew Harwood; Casey J. Broom; Angus Van Wyk; Rowshyra A. Castañeda; Marian Y.L. Wong; Anthony T.F. Bernard; Paul D. Stebbing; Alison M. Dunn; Josie South. Application, development and opportunities of Remote Underwater Video for freshwater fisheries management. Knowledge and Management of Aquatic Ecosystems (2026) (427).
+https://doi.org/10.1051/kmae/2026001
+
+Weiran Zhang; Kenny Q. Zhu. Praat++: Multimedia Annotation System for Speech and Vocalization. Proceedings of the Annual Meeting of the Association for Computational Linguistics (2026) 3().
+https://doi.org/10.18653/v1/2026.acl-demo.80
+
+Claire P.M. Smith; Gareth R. Hopkins. Negative relationship between caudal fin size and burst swimming speed in artificially selected Betta fish. Ethology Ecology and Evolution (2026) 38(4).
+https://doi.org/10.1080/03949370.2026.2658495
+
+Susan W. Margulis; Domenic Romanello. Data coding, measurement error, and reliability. Encyclopedia of Animal Behavior (2026) ().
+https://doi.org/10.1016/B978-0-443-29068-8.00106-9
+
+Alexandria Ambrose; Daphne Munroe. Documenting habitat usage on a shallow estuary hard clam Mercenaria mercenaria farm in Barnegat Bay, USA. Aquaculture Environment Interactions (2026) 18().
+https://doi.org/10.3354/aei00531
+
+Jonathan Cueva; Wilson Iñiguez; Gregory Marshall; Christian Sevilla; Andrea Coloma; Lorena Venegas; Gustavo Jiménez-Uzcátegui. BEHAVIORAL INSIGHTS INTO THE GALAPAGOS PENGUIN SPHENISCUS MENDICULUS: A DAY IN HIS LIFE—AN ETHOLOGICAL PORTRAIT. Marine Ornithology (2026) 54(1).
+https://doi.org/10.5038/2074-1235.54.1.1691
+
+Tyler R. Johnson; Katherine D. Zerefos; Dawn M. Taylor. A user-friendly graphical user interface for paw touch classification in rodent cylinder testing. Frontiers in Neuroscience (2026) 20().
+https://doi.org/10.3389/fnins.2026.1803569
+
+Arik Dorfman; Shachaf Avraham; Inon Scharf; Aziz Subach. Mating and fighting in broad moonlight: evidence for male aggregations in wild Anderson’s gerbil (Gerbillus andersoni). Behaviour (2026) 163(10).
+https://doi.org/10.1163/1568539X-bja10381
+
+Elisabetta Macchi; Edoardo Fiorilla; Alessia Lai; Isabella Manenti; Ugo Ala; Laura Ozella. Behavioral and Cortisol-Based Evaluation of Stress in Dogs During Agility Training. Journal of Applied Animal Welfare Science (2026) ().
+https://doi.org/10.1080/10888705.2026.2644847
+
+Benjamin A. Whittaker; Henry R. Swartwood García; Simran K. Gill; Julia L. Self; Lauren M. Guillette. Repeatable colour preferences predict information use in nest-building birds. Learning and Behavior (2026) ().
+https://doi.org/10.3758/s13420-026-00723-5
+
+Olga Procenko; Vivek Nityananda. Acute Stress Modulates Early Visual Perception and Decision-Making Speed in Bees. Journal of Experimental Biology (2026) 229(11).
+https://doi.org/10.1242/jeb.251716
+
+Jaini Gandhi; Bhavjot Singh; Hung-Jen Kuo; Sriram Narayanan; Rajiv Ranganathan. Segmentation Strategies in Motor Sequences: A Real-World Example Using Sewing. Journal of Motor Behavior (2026) ().
+https://doi.org/10.1080/00222895.2026.2729270
+
+Mark S. MacDougall; Lloyd D. Stringer; Ximena J. Nelson. Vibrational duetting and mating behaviour of the passion-vine hopper Scolypopa australis (Walker) (Hemiptera: Ricaniidae). Journal of Natural History (2026) 60(13-16).
+https://doi.org/10.1080/00222933.2026.2631722
+
+Dongmei Liu; Yujie Wen; Meijing An; Nan Wu; Xiaojing Ren; Xiyao Liu; Jie Huang; Qianling Zhou. Responsive Feeding Practices Among Caregivers of Children Aged 6–35 Months in China: Descriptive Study Involving Survey and Video Observation Methods. Jmir Pediatrics and Parenting (2026) 9().
+https://doi.org/10.2196/78028
+
+Annarita Ghosh; Rikke Groth Olsen; Tamim Haidari; Lars Konge; Morten Bo Søndergaard Svendsen; Flemming Bjerrum; René Horsleben Petersen. Decoding surgical competence: surgical gesture analysis can determine competence in simulated VATS lobectomy, a validation study. Surgical Endoscopy (2026) ().
+https://doi.org/10.1007/s00464-026-13375-3
+
+Idowu David Awoyemi; Jewoong Moon; Stephen Abu; Siyuan Song. From experience to action: sequential dynamics of experiential learning in immersive virtual reality-supported safety training. Interactive Learning Environments (2026) ().
+https://doi.org/10.1080/10494820.2026.2709674
+
+Rio Ikeda; Maaya Saito; Yuki Iwata; Takumi Ozono; Tsige Tadesse Alemayoh; Takatomi Kubo; Ei-Ichi Izawa; Koichi Fujiwara; Toshitaka Yamakawa; Kazunori Ohno; Takefumi Kikusui; Miho Nagasawa. Dogs display context-dependent behavioral responses to subtle owner-derived multimodal stimuli. Frontiers in Veterinary Science (2026) 13().
+https://doi.org/10.3389/fvets.2026.1916007
+
+Eric Arredondo; Brendon Byrd; Laura Stein. Predator Communities With Invasive Pike Are Associated With Changes in Parental Care and Brain Gene Expression in Wild Alaskan Stickleback. Integrative and Comparative Biology (2026) 66().
+https://doi.org/10.1093/icb/icag130
+
+Michaela M. Rogers; Jennifer K. Hellmann. Chronic Predation Risk Induces Sex-Specific Effects in Behavior but Does Not Induce Long-Term Oxidative Damage in the Threespined Stickleback. Journal of Zoology (2026) ().
+https://doi.org/10.1111/jzo.70163
+
+Engliana. Translating in the Digital Age: Two Cases of Technology-Assisted Strategies for Humor Translation. Dynamics of Cultural Mediation in Translation (2026) ().
+https://doi.org/10.4018/979-8-3373-5037-0.ch009
+
+Alexandra M.D. Reinhardt; Russell C. Wyeth. Navigational behaviour of Hermissenda crassicornis in natural wave-affected flow conditions. Journal of Experimental Biology (2026) 229(18).
+https://doi.org/10.1242/jeb.252174
+
+Tellervo Härkki. Nudging dialogic pedagogical design of peer feedback towards exploratory collaboration: a four-year educational design research study. European Journal of Teacher Education (2026) ().
+https://doi.org/10.1080/02619768.2026.2689642
+
+Rafaela Thaler; Ana G. Salva; Viviana Juárez-Heredia; Cecilia I. Robles. Visual displays in agonistic encounters in male Liolaemus salinicola lizards. Ethology Ecology and Evolution (2026) ().
+https://doi.org/10.1080/03949370.2026.2675992
+
+Annaliese Chang; Matthew Peroš; Anastasia Martashvili; Sofia Taherkhani; William Magee; Andrew Claros; Peter D. Dijkstra; Sebastian G. Alvarado. Visual environment shapes the social dynamics of coloration and competition in an African cichlid fish. Journal of Experimental Biology (2026) 229(14).
+https://doi.org/10.1242/jeb.251636
+
+Theresa Muraca; Kiyoko M. Gotanda. The Effect of Variant Diet on Growth and Boldness in Juvenile Trinidadian Guppies (Poecilia Reticulata). Zebrafish (2026) ().
+https://doi.org/10.1177/15458547261491044
+
+Lindsay L. Sailer; Amit Hanadari-Levy; Alexander G. Ophir. Adolescent social instability stress alters social processes in male prairie voles. Frontiers in Behavioral Neuroscience (2026) 20().
+https://doi.org/10.3389/fnbeh.2026.1761549
+
+Gina Montalto; Jennifer Vonk; Victoria L. O’Connor; Lauren Velazquez; Cameron Ferguson. “Whoooo said that?”: responses of captive owls (Strigiformes) to the voices of familiar caregivers. Peerj (2026) 14().
+https://doi.org/10.7717/peerj.21421
+
+Anastasiia Vladimirovna Bakhchina; Karina Rollandovna Arutyunova; Maksim Vladislavovich Varenov; Roman Andreevich Vlasov; Andrei Viktorovich Filimonov; Ivan Sergeevich Shishalov. The dynamics of driving performance in non-optimal human states: Drowsiness, high cognitive load, and acute stress. Traffic Injury Prevention (2026) ().
+https://doi.org/10.1080/15389588.2026.2638535
+
+Emilie Mauduit; Sarah M. Matheson; Jayne E. Yack. Tiny caterpillars assess threats by the footsteps of their enemies. Journal of Experimental Biology (2026) 229(11).
+https://doi.org/10.1242/jeb.252329
+
+Sara A. Berzosa; Thomas Noack; Andreas Hermann; Andrea M. Milanelli; Francisco Flores; Jasper Van Vlasselaer; Flemming Dahlke; Daniel Stepputtis. Designing pot entrances for flatfish: behavioural responses of European plaice (Pleuronectes platessa) and implications for fisheries. Aquaculture and Fisheries (2026) ().
+https://doi.org/10.1016/j.aaf.2026.07.004
+
+Alena Fišerová; Matěj Máca; Max Linus Jankovic; Lucie Radová; Eliška Malcová; Petra Hurtová; Ondřej Fišer; Michaela Syrová; Roman Fuchs; Petr Veselý. From rivals to neighbours: how time reduces aggression in two woodpecker species. Journal of Ornithology (2026) ().
+https://doi.org/10.1007/s10336-026-02399-0
+
+Simón Maldonado; M. Fernanda Sánchez-Méndez; Pablo Oyarzun-Ruiz; Luis Vargas-Chacoff; Juan G. Navedo; José O. Valdebenito. Parasite egg shedding rhythms are independent of feeding habits in a small shorebird host. Parasitology (2026) ().
+https://doi.org/10.1017/S0031182026101851
+
+Praachi Tiwari; Bryan W. Jenkins; Catherine F. Moore; Hudson Zhou; Tylaah George; David B. Yaden; Elise M. Weerts. Beyond head-twitch response: Acute psilocybin affects spontaneous behaviors in rats in a dose-dependent manner. Journal of Psychopharmacology (2026) ().
+https://doi.org/10.1177/02698811261478600
+
+Veronika A. Rohr-Bender; Udit Nair; Lina M. Giraldo-Deck; Krisztina Kupán; Rebecca Pederson; Clemens Küpper. Behavioural repertoire and the onset of precocious sexual behaviours in juvenile ruffs (Calidris pugnax). Ethology Ecology and Evolution (2026) 38(4).
+https://doi.org/10.1080/03949370.2026.2648232
+
+Mutovina; Sapronova; Mezhevalova; Airiyants; Ryabushkina; Salman; Bondar. THE DEVELOPMENT OF PATHOLOGICAL AGGRESSION IN MICE DURING PROLONGED EXPERIENCE OF AGGRESSION: BEHAVIORAL AND MOLECULAR CHANGES. Zhurnal Vysshei Nervnoi Deyatelnosti Imeni I P Pavlova (2026) 76(1).
+https://doi.org/10.7868/S3034531626010084
+
+Juan Olvido Perea-García; Anna Szala; Elif Duran; Michelle Spierings; Theresa Matzinger; Ece Karagül; Feyzanur Atakul; Angelo Delliponti; Aleksandra Szczepańska; Svetlana Kuleshova; Slawomir Wacewicz. Pygmy marmosets (Cebuella pygmaea) do not differentially react to images of conspecifics varying in their ocular appearance. Evolutionary Human Sciences (2026) ().
+https://doi.org/10.1017/ehs.2026.10066
+
+Nibraas Khan; Leslie Davidson; Nilanjan Sarkar; Keith R. Cole. Toward assessing functional decline in mild cognitive impairment using wearable sensors and explainable machine learning. Digital Health (2026) 12().
+https://doi.org/10.1177/20552076261444097
+
+Hanafy M. Ismail; Nga Tsing Tang; Jeff Jones; Kyle Walker; Jonathan Thornton; Mark Paine; Stephan Karl; Lisa Reimer; Rasmita Raval. Multimodal platform for ITN efficacy: Surface chemistry, bioavailability, and mosquito behavior. Science Advances (2026) 12(15).
+https://doi.org/10.1126/sciadv.aeb2023
+
+Stoilova; Andreasson; Aldvén; Meshinska; Greenberg. Novel ‘dancing rods’ behavioural guidance for out-migrating Atlantic salmon smolts. Journal of Ecohydraulics (2026) ().
+https://doi.org/10.1080/24705357.2026.2708353
+
+Junwen Wu; Hongli Zhang; Ruijie Li; Zihao Wang; Sha Liu; Feng He; Jianzhi Wang; Lingling Xu; Jingjing Zhang. Frame-Level Temporal Action Segmentation in Non-Human Primates by Fusing Skeleton and Visual Modalities. IEEE Transactions on Automation Science and Engineering (2026) 23().
+https://doi.org/10.1109/TASE.2026.3673914
+
+Náyade Álvarez-Quintero; Gil G. Rosenthal. Individual behavioural variation and growth in female sheepshead swordtails, Xiphophorus birchmanni. Behaviour (2026) ().
+https://doi.org/10.1163/1568539X-bja10357
+
+Carlie B. Ochoa; Ashley M. Loeven; Debra Ann Fadool; Emily Moriarty Lemmon. Neural and behavioral responses to reproductive signals in male chorus frogs. Journal of Experimental Biology (2026) 229(8).
+https://doi.org/10.1242/jeb.251686
+
+Lima Vieira; Bianchi; Fiuza; Châline. Practice makes perfect? Experience boosts foraging performance in a ponerine ant. Insectes Sociaux (2026) ().
+https://doi.org/10.1007/s00040-026-01091-z
+
+Sydney Fearnley; Neelima Vaddadi; Emilie Dumontier; Jean-François Cloutier. Kirrel3 homophilic adhesion function is required for male-directed aggression and vomeronasal acuity to urine chemosignals. Frontiers in Cellular Neuroscience (2026) 20().
+https://doi.org/10.3389/fncel.2026.1926504
+
+Jorg J.M. Massen; Kate E. Malone; Roos E.M. de Vries; Mandy H.C. Beekmans; Yvonne R.A. van Zeeland; Christine H.Y. Oei. Do birds enjoy flying? An analysis of affect after flight in galah (Eolophus roseicapilla). Behaviour (2026) ().
+https://doi.org/10.1163/1568539X-bja10370
+
+Richard E. Griffioen; Sandra C. Haven-Pross; Hannah Verkuil. Equine-assisted coaching in formerly incarcerated men with histories of substance abuse: a 12-week exploratory study of anger regulation, quality of life, human–horse synchrony, and equine behavior. Frontiers in Psychology (2026) 17().
+https://doi.org/10.3389/fpsyg.2026.1832096
+
+Giada Spadavecchia; Rachele Nieri; Gaia Guaragno; Vincenzo Verrastro; Valerio Mazzoni; Daniele Cornara. Impact of the vibroscape on spittlebug–plant interaction. Insect Science (2026) ().
+https://doi.org/10.1111/1744-7917.70296
+
+Juana C.C. Chagas; Emy Vu; Torbjörn Lundh; Ylva C.B. Sjunnesson; Magdalena Presto Åkerfeldt. Metabolism of isoflavones and effect on reproductive performance of sows fed red clover (Trifolium pratense). Acta Agriculturae Scandinavica Section A Animal Science (2026) 75(2).
+https://doi.org/10.1080/09064702.2026.2707072
+
+Ricardo Riveros-Canessa; Francisco Ibacache-Carrión; Anita Behn; Ximena C. Lizana; Claudio C. Ramírez. Drought tolerance increases aphid resistance innative potato genotypes. Ecological Entomology (2026) ().
+https://doi.org/10.1111/een.70151
+
+Ye-Jin Kim; Young-A Lee. Modulatory effects of Hizikia fusiformis on the dopaminergic system in a neonatal habenular lesion-induced attention-deficit hyperactivity disorder-like rodent model. Nutrition Research and Practice (2026) 20(1).
+https://doi.org/10.4162/nrp.2026.20.1.31
+
+Kara M. Million; Yseult Héjja-Brichard; Mamoona Nasir; Shreya Tuckley; Tamra C. Mendelson. Assessing the dual utility of nuptial patterning in the rainbow darter (Etheostoma caeruleum). Ethology Ecology and Evolution (2026) 38(2).
+https://doi.org/10.1080/03949370.2026.2630783
+
+Matthew S Rudolph; Sarah L. Jacobson; Katherine Canter; Celine Persad; Shermin de Silva; Joshua M Plotnik. Do conspecific olfactory cues guide problem solving in Asian elephants?. Behaviour (2026) ().
+https://doi.org/10.1163/1568539X-bja10389
+
+Emily C. Nazario; Max F. Czapanskiy; Malin L. Pinsky; Dennis R. Christen; Katherine L. Flammer; Kelsey A. Ford; Traci L. Kendall; Bryan Tom; Sam Bartosik-Velez; Joshua Allyn; Fanny R. Sánchez Villarreal; Terrie M. Williams. Effects of carbon dioxide accumulation on post-dive physiological recovery in odontocetes. Journal of Experimental Biology (2026) 229(7).
+https://doi.org/10.1242/jeb.251853
+
+Deborah Ho; April Robin Martinig; Andrew G. McAdam; Stan Boutin; Jeffrey E. Lane; Ben Dantzer. Peer Pressure: Do the Fitness Benefits of Animal Behavioral Traits Vary With Conspecific Density?. Ethology (2026) ().
+https://doi.org/10.1111/eth.70104
+
+Quentin J.-B. Horta-Lacueva; Sigurður S Snorrason; Cécile M Rayssac; Marie P Sciannamea; Rebecca L K Lesdalons; Zophonías O Jónsson; Chloé C M Chavoix; Kalina H Kapralova. Asymmetric reproductive isolation in sympatric Arctic charr morphs revealed by a comprehensive examination of reproductive barriers. Evolutionary Journal of the Linnean Society (2026) 5(1).
+https://doi.org/10.1093/evolinnean/kzag005
+
+Wondimu Ersino Ayano; Zsolt Végvári; Tamás Székely. Environmental drivers of incubation routine in a sex-role reversed shorebird. Ostrich (2026) ().
+https://doi.org/10.2989/00306525.2026.2699397
+
+Niveditha Sankar; Brooke R. Andel; Rachel E. Cohen. Spatial Mapping of Rapid Cell Turnover in the Reptilian Brain. Acta Cytologica (2026) ().
+https://doi.org/10.1159/000553564
+
+Hannah M. Anderson; Jessica Qiu; James B. Barnett; Sigal Balshine. Effects of reduced visibility on fish behavior: low light is not equivalent to suspended sediments. Hydrobiologia (2026) ().
+https://doi.org/10.1007/s10750-026-06171-6
+
+Valentina López-Velasco; Juan C. Cepeda-Duque; Carlos A. Agudelo Henao; Jorge A. Astwood-Romero; Edwin Valencia; Rosalino Ortiz; Daniel Rodríguez. Cues in the mist: intersexual patterns of scent-marking behavior in the Andean bear (Tremarctos ornatus) and temporal relationships with free-ranging dogs’ activity in cloud forests of southern Huila, Colombia. Ethology Ecology and Evolution (2026) 38(2).
+https://doi.org/10.1080/03949370.2026.2630807
+
+Svenja Capitain; Sarah Marshall-Pescini; Gwendolyn Wirobski; Tabea Teichmann; Friederike Range. Deference or sociability? Insights from dogs’ and wolves’ human-directed behavior in a food-conflict task. Frontiers in Psychology (2026) 17().
+https://doi.org/10.3389/fpsyg.2026.1854682
+
+Linn Vassvik; Anders Nielsen; Michael P.D. Garratt; Bjørn Arild Hatteland; Joseph D. Chipperfield; Jørund Johansen; Silje Maria Midthjell Høydal; Erik T. Aschehoug. POLLINATION SUCCESS IN APPLES IS DEPENDENT UPON WILD BEES AND ORCHARD DESIGN. Journal of Pollination Ecology (2026) 40(Special issue).
+https://doi.org/10.26786/1920-7603(2026)878
+
+Rick O Hernandez; Luiz F Brito; MaryKate Harrod Byrd; Hui Wen; Jay S Johnson. A preliminary assessment of the effects of summer transport on behavioral and physiological stress biomarkers in cull sows selected for heat stress tolerance or sensitivity in the F1 generation. Journal of Animal Science (2026) 104().
+https://doi.org/10.1093/jas/skag142
+
+Maha K. Alaskar; Mona Alonazi; Abir Ben Bacha; Abdulaziz M. Alamri; Sameera Abuaish; Hisham S. Aloudah; Mohammed Fahad Alahmed; Ahmad Tayseer AlMnaizel; Afaf K. El-Ansary. A comparative study of the impact of maternal immune activation and valproic acid on autism-like behavior in rats. Translational Neuroscience (2026) 17(1).
+https://doi.org/10.1515/tnsci-2025-0402
+
+Lysanne Snijders; Stefan Krause; Alan Novaes Tump; Michael Breuker; Indar W. Ramnarine; Ralf H. J. M. Kurvers; Jens Krause. Ephemeral resources promote adaptive sociality in wild guppies. Oikos (2026) ().
+https://doi.org/10.1002/oik.12639
+
+Sydney F. Hope; Sarah L. Jacobson; Sangpa Dittakul; Gillian Schmitt; Mananya Pla-ard; Marnoch Yindee; Taweepoke Angkawanish; Joshua M. Plotnik. Asian elephants (Elephas maximus) demonstrate inhibitory control in a detour task. Plos One (2026) 21(9).
+https://doi.org/10.1371/journal.pone.0356549
+
+Evelyn J. Alexander; Bethany L. Clark; Kelly M. Atkins; Hannah Meinertzhagen; Liam P. Langley; John P.Y. Arnould; Melanie R. Wells; Lisa Morgan; Greg Morgan; Robin Freeman; Peter I. Miller; Paul G. Fernandes; Stephen C. Votier. Sociality and seabird diving: lower dive effort for solitary gannets compared with those in groups and at fishing boats. Marine Ecology Progress Series (2026) 778().
+https://doi.org/10.3354/meps15049
+
+María Mallo Robla; Alejandra Zarzo-Arias; Luca Francesco Russo; María del Mar Delgado; Rafael Benjumea; Enrique González-Bernardo; Erik Joaquín Torres-Romero; Ignacio de la Riva; Miguel Delibes; Diego Alonso-Resta; Vincenzo Penteriani. Behaviour of the Eurasian otter at latrines along a gradient of anthropogenic landscape context. Journal of Ethology (2026) ().
+https://doi.org/10.1007/s10164-026-00903-w
+
+Tara J Cronin; Nicholas C Williams; Sabrina M Fernandez; Megan N Taylor; Michael J Childress. Crayfish and Their Hidden Tenants: Direct and Indirect Effects of Ectosymbionts on Crayfish Behaviors and Health. Integrative and Comparative Biology (2026) 66().
+https://doi.org/10.1093/icb/icag116
+
+Or Burstein; Zipi Teshale Zevin; Or Lipschits; Ronny Geva. Mindfulness-Based Infant Parenting: A Feasibility Study of the Integrative Mindfulness-Based Infant Parenting Program. Mindfulness (2026) ().
+https://doi.org/10.1007/s12671-026-02954-z
+
+Daniel J. Gassen; Paige E. Stevens; Callie N. Lynn; Zachary Yap; Jamey D. Jacob; Jason N Bruck. A Novel Uncrewed Aircraft System for Small Cetacean Blow Collection: PHASM System Development and Dolphin Behavioral Responses. Aquatic Mammals (2026) 52(5).
+https://doi.org/10.1578/AM.52.5.2026.402
+
+Yanzhu Fan; Shaoxiang Ge; Lidi Lu; Wenjun Niu; Zhiyue Wang; Xiaoguo Jiao; Guangzhan Fang. Glutamatergic projections from the substantia nigra pars reticulata to the dorsal raphe nucleus regulate male social hierarchies. Plos Biology (2026) 24(3).
+https://doi.org/10.1371/journal.pbio.3003687
+
+Raiko Rafeeq; Upama Aich; Minna Saaristo; Bob B.M. Wong. Pharmaceutical pollutant reshapes behavioural variation in the eastern mosquitofish, Gambusia holbrooki. Animal Behaviour (2026) ().
+https://doi.org/10.1016/j.anbehav.2026.123718
+
+Elke Molenaar; Marc Naguib; Eline J. E. Weenink; Alexandra Bobric; Scott Krauts; Kat Bebbington; Ara Monadjem; Sjouke A. Kingma; Kevin D. Matson. Nest attendance and thermoregulation behaviors correlate with nest site microclimate in breeding dark-capped bulbul, Pycnonotus tricolor. Frontiers in Ecology and Evolution (2026) 14().
+https://doi.org/10.3389/fevo.2026.1869670
+
+Giacomo Riggio; Carmen Borrelli; Durmus Atilgan; Giulia Russo; Silvana Diverio; Chiara Mariti. Rethinking dog stress behaviours: contextual and physiological insights from the attachment framework. Veterinary Quarterly (2026) 46(1).
+https://doi.org/10.1080/01652176.2026.2682284
+
+Antoine Prunier; Lewis M. Sherer; Mariana Da Silva; Samantha Chong; Léa Bihl; R. Steven Stowers; Sarah J. Certel; Séverine Trannoy. An octopamine-glutamate cotransmitting neuron gates aggressive escalation through layered inhibition in Drosophila. Science Advances (2026) 12(33).
+https://doi.org/10.1126/sciadv.aec4153
+
+Shuimu Jin; Yingxiang Liu; Tianqi Wang; Xiaoxiao Shan; Jingmin Liu; Siyi Zhu; Tong Shen; Yilan Liang; Guo Wei; Yijing Cao; Xia Li; Shumin Duan; Hailan Hu; Zhengxiao Fan. Status-dependent competition engagement via mesocortical pathway. Neuron (2026) ().
+https://doi.org/10.1016/j.neuron.2026.07.020
+
+Maria Teresa Acosta; José Ángel Aibar; Celso Arango; Estibaliz Arce Cirauqui; Cristina Baeza; Elizabeth Berry-Kravis; Kim I. Bishop; Joan Busner; Chere Chapman; Boris Chaumette; Inés del Cerro; John Carlos Diaz; Georg Dorffner; Chris J. Edgar; Simona Giorgi; Sabine M. Hölter; Sarah Kittel-Schneider; Robert D. Latzman; Carmen Moreno; Stefano Pallanti; Carlotta Colzi; Carme Plasencia; Franziska Radtke; Kenneth Rockwood; Antonella Santuccione Chadha; Gunes Sevinc; Manpreet K. Singh; Suzanne H. Smith; Tandon; Daniella Tinoco; Eleonora Broggi; Sara Fontecha Morgan; Igor Magaraggia; Silvia Zaragoza Domingo. Outcome strategies for clinical trials in Neuropaediatric rare diseases. Neuroscience Applied (2026) 5().
+https://doi.org/10.1016/j.nsa.2026.107021
+
+Ahmad Al Saneh; Maria Fernanda Hermosillo Arrieta; Lionel Gissot; Madison O’Bryan; Rui Li; Gordon Buchanan; Christopher A. Ahern; Aislinn J. Williams. Nonsense-mediated decay influences position-dependent effects of SCN2A premature stop codons on neuronal excitability and behavior. Molecular Psychiatry (2026) ().
+https://doi.org/10.1038/s41380-026-03723-z
+
+Myung-chul Noh; Kelly A. Corrigan; Sean-Paul G. Williams; Cedric Peirs; Michael J. Leone; Daniel J. Headrick; Mustafa Guvercin; Suhjin Lee; BaDoi N. Phan; Xinyi Zhao; David A. Henry; Deepika Yeramosu; Sudhagar Babu; Ashley R. Brown; Robert Van De Weerd; Richard P. Dum; Hansruedi Mathys; Andreas R. Pfenning; Rebecca P. Seal. A molecular and spinal circuit basis for the functional segregation of itch and pain. Neuron (2026) ().
+https://doi.org/10.1016/j.neuron.2026.08.029
+
+Maria Ceraulo; Giuseppa Buscaino; Clarissa De Vita; Aiti Vizzini; Mirella Vazzana; Elena Papale; Francesco Longo; Francesco Paolo Faraone; Manuela Mauro. The Effects of Noise on the Juvenile Life Stage of Crustaceans: Behavioral, Cellular, and Molecular Responses in Procambarus clarkii. Integrative Zoology (2026) ().
+https://doi.org/10.1111/1749-4877.70093
+
 Krysten P. O’Hara; Savanna M. King; Rachel D. Penrod; Jennifer A. Rinker; Patrick J. Mulholland. Profiling of research domain criteria-based behaviors following single prolonged stress in male C57BL/6J mice. Stress (2025) 28(1).
 https://doi.org/10.1080/10253890.2025.2538466
+
+Nancy R. Mack; Tomohito Minakuchi; Ken Igarza; Pauline Wonnenberg; Stefan N. Oline; Annegret L. Falkner. An automated two-choice social operant task for probing moment-to-moment changes in social satiety. Iscience (2025) 28(12).
+https://doi.org/10.1016/j.isci.2025.114049
+
+Owen W. North; Lourdes Citlalli Maza-Castañeda; Aubrey E. Manning; Aakriti Rastogi; Andrew Gluesenkamp; Leah Gluesenkamp; Nathan Swanson; Jorge Hernández-Lozano; Marco A. Garduño-Sánchez; Jesús Alberto Díaz-Cruz; Johanna E. Kowalko; Suzanne E. McGaugh; Claudia Patricia Ornelas-García; Alex C. Keene. Widespread loss of sleep in independently evolved populations of wild-caught cavefish. Iscience (2025) 28(12).
+https://doi.org/10.1016/j.isci.2025.113940
+
+Diyang Zheng; Qiuhong Xin; Shuimu Jin; Anqi Zhou; Xiaoning Jia; Yi Tan; Hailan Hu. Neural mechanism of the sexually dimorphic winner effect in mice. Neuron (2025) 113(24).
+https://doi.org/10.1016/j.neuron.2025.09.029
+
+Samuel R. Matchette; Nadia M. Hamilton; Jeroen Schneider; Christian Drerup; Sandra Winters; Andrew N. Radford; James E. Herbert-Read. Predators hide against similarly coloured species to camouflage on the move. Proceedings of the Royal Society B Biological Sciences (2025) 292(2061).
+https://doi.org/10.1098/rspb.2025.2215
+
+Mingran Cao; Rachida Ammari; Maxwell X. Chen; Patty Wai; Bradley B. Jamieson; Swang Liang; Basma F. A. Husain; Aashna Sahni; Nathalie Legrave; Irene Salgarella; James MacRae; Molly Strom; Johannes Kohl. Integration of hunger and hormonal state gates infant-directed aggression. Nature (2025) 648(8092).
+https://doi.org/10.1038/s41586-025-09651-2
+
+Erin J. Holzscherer; Rhonda Kersten; Mathilde Bertrand; Jibran Y. Khokhar; Brian Edwin Cairns; J. Andrew Pruszynski; David A. Seminowicz. Developing a model of temporomandibular disorder in the common marmoset using nerve growth factor. Journal of Neurophysiology (2025) 134(6).
+https://doi.org/10.1152/jn.00459.2025
 
 Cid J. T. Cavalcante Neto; Sérgio L.G. Nogueira-Filho; André L. G. Nogueira; Ligia Ilg; Selene S. C. Nogueira. Impact of behavioral differences on white-lipped peccary reintroduction success in the Atlantic forest. Scientific Reports (2025) 15(1).
 https://doi.org/10.1038/s41598-025-90853-z
@@ -151,6 +1666,129 @@ https://doi.org/10.1038/s41598-025-14835-x
 Nuodi Zhang; Fengfeng ke; Chih-Pu Dai; Alex Barrett; Saptarshi Bhowmik; Sherry A. Southerland; Luke A. West; Xin Yuan. Enhancing responsive teaching through in-the-moment interpretations of student resources: A study in AI-supported virtual simulation. Computers and Education (2025) 239().
 https://doi.org/10.1016/j.compedu.2025.105449
 
+Korzeniowska; Root-Gutteridge; Reby; Simner. Sound symbolism facilitates interspecies communication between humans and domestic dogs (Canis familiaris). Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-22923-1
+
+Bianca Machado Righi; Laura Aguillar; Milton C. C. Marcondes; Yvonnick Le Pendu. The Hug of a Humpback Whale Mother: Protective Behaviors of a Calf Toward Escorts in a Competitive Group at Abrolhos Bank, Brazil. Animals (2025) 15(24).
+https://doi.org/10.3390/ani15243610
+
+Alexander Pergams; Mara Haus; Cristina Estrada; Joel Brown; Angeles Salles. Dinner Date: Opposite-Sex Pairs of Fruit Bats (Rousettus aegyptiacus) Forage More than Same-Sex Pairs. Biology (2025) 14(12).
+https://doi.org/10.3390/biology14121742
+
+Frederick; Wieland; Singh; Ewing; Steele; Somula; Mann. Effects of feeding colostrum volume at 6%, 8%, 10%, or 12% of birth body weight on efficiency of immunoglobulin G absorption, gastric emptying, and postfeeding behavior in Holstein calves. Journal of Dairy Science (2025) 108(12).
+https://doi.org/10.3168/jds.2025-27228
+
+Maha Ghazal; Cory J. D. Matthews; Nigel E. Hussey; Joseph Guay; Marianne Marcoux. Same-sex socio-sexual interactions among male narwhal. Behavioral Ecology and Sociobiology (2025) 79(12).
+https://doi.org/10.1007/s00265-025-03662-9
+
+Tímea Kovács; Veronika Szűcs; Márta Gácsi. Self-control is associated with the interaction of ADHD-like traits and training level in dogs. Veterinary Journal (2025) 314().
+https://doi.org/10.1016/j.tvjl.2025.106483
+
+Chloé Chabaud; Jean-François Le Galliard; Simon Agostini; Olivier Lourdais. Sensing danger: Energetic and hydric costs of chemoreception in a lizard. Functional Ecology (2025) 39(12).
+https://doi.org/10.1111/1365-2435.70214
+
+Venezia C. Roshko; Nicklas A. Gose; Aubrey M. Kelly. Inhibition of the lateral hypothalamus emboldens adult female spiny mice to huddle with an established group of novel peers. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-20283-4
+
+Kristin N. Engebretsen; Richard G. P. Evans; Darren DeBloois; Julie K. Young. Linking behavior and predation data improves inference on interspecific risk perception in carnivores. Ecosphere (2025) 16(12).
+https://doi.org/10.1002/ecs2.70503
+
+Ferenc Deutsch; Sándor Kecskeméti. The interplay of olfaction and vision in host plant selection by Anthrenus verbasci. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-22240-7
+
+Polina Ritter; Rasha Salman; Yuliya Ryabushkina; Natalya Bondar. Chronic Stress Segregates Mice into Distinct Behavioral Phenotypes Based on Glucocorticoid Sensitivity. International Journal of Molecular Sciences (2025) 26(23).
+https://doi.org/10.3390/ijms262311436
+
+Sajedeh Sarlak; Divya Ramesh; Ahmad Ashouri; Seyed Hossein Goldansaz; Alica Schwarz; Lena Seitz; Anja Weidenmüller; Vlad Demartsev; Christoph Kleineidam; Morgane Nouvian. Colony defence in bumblebees (Bombus terrestris). Plos One (2025) 20(12 December).
+https://doi.org/10.1371/journal.pone.0335136
+
+Ana M. Romero-Chacón; Manuela Cardona-Restrepo; Gabriela Pena-Bello; Adriana A. Maldonado-Chaparro. Female guinea pigs prefer familiar opposite-sex individuals but not familiar same-sex peers. Animal Behaviour (2025) 230().
+https://doi.org/10.1016/j.anbehav.2025.123384
+
+Victoria E. Lee; Guillam E. McIvor; Alex Thornton. Wild jackdaws recognise the contact calls of their mate. Animal Cognition (2025) 28(1).
+https://doi.org/10.1007/s10071-025-02020-6
+
+Marilou Poitras; Élodie A. Ouellette; Sergio M. Pellis; Hélène Plamondon. Playing or fighting? Home cage dynamics in crowding or social instability paradigms contribute to stress and reproductive impairments in adult female Wistar rats. Behavioural Processes (2025) 233().
+https://doi.org/10.1016/j.beproc.2025.105301
+
+Kiera McGarvey; Fábio G. Daura-Jorge; Alexandre M.S. Machado; Damien R. Farine; Emer Rogan; Mauricio Cantor. The influence of dolphin group coordination on cooperative foraging with humans. Current Zoology (2025) 71(6).
+https://doi.org/10.1093/cz/zoaf008
+
+Gilles De Meester; Dylan Brimaud; Markus Wollin; Jake M. Martin; Alexander Kotrschal; John L. Fitzpatrick; Niclas Kolm. Individual recognition in guppies does not require large brains. Behavioral Ecology and Sociobiology (2025) 79(12).
+https://doi.org/10.1007/s00265-025-03667-4
+
+Sarah M. E. Fortune; Xi Cheng; Keith Holmes; Andrew W. Trites. Cooperative foraging between dolphins and fish-eating killer whales. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-22718-4
+
+He-Bo Peng; Zhenchang Zhu; Chi-Yeung Choi; Tong Mu; Yingrong Huang; Jing Li; Weipan Lei; Tjeerd J. Bouma; David S. Melville; Zhengwang Zhang; Zhijun Ma; Guangchun Lei; Zhifeng Yang; Theunis Piersma. China’s intertidal mariculture as an unexpected lifeline sustaining the world’s most threatened shorebird flyway. Nature Communications (2025) 16(1).
+https://doi.org/10.1038/s41467-025-65948-w
+
+Felix Franke; Semih Ertürk; Johann G. Maass; Dominik Kamionek; Tim Schubert; Claudia Pitzer; Susanne Theiß; Christine Fischer; Rachel B. Gilmore; Eva Dwornicki; Colleen R. Bocke; Gina L. C. Yosten; Christian P. Schaaf; Ferdinand Althammer. In-depth behavioral characterization of a rat model of Schaaf-Yang syndrome. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-20958-y
+
+Ana Dudas; Ana Novak; Caroline Gora; Emmanuel Pecnard; Nicolas Azzopardi; Séverine Morisset-Lopez; Lucie P. Pellissier. Mixed genetic background better recapitulates developmental and psychiatric phenotypes and heterogeneity than inbred C57BL/6J mice. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-26215-6
+
+Jana Muschinski. Male-Male Greeting Behavior Observed in Chacma Baboons (Papio ursinus griseipes) in Gorongosa National Park, Mozambique. American Journal of Biological Anthropology (2025) 188(4).
+https://doi.org/10.1002/ajpa.70169
+
+Océane Vanessa Ferreira; Barbara Taborsky. Task allocation in a cooperative breeder reflects current needs, not early-life experience. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-20618-1
+
+Khatiwada; Seddaiu; Jaszczyk; Camerlink. Is social support mediated by social relationship strength in pigs?. Animal (2025) 19(12).
+https://doi.org/10.1016/j.animal.2025.101693
+
+Elif Karakoç; Richard Vogg; Michele Marziliano; Jacob von Petersdorff; Alexander S. Ecker; Peter M. Kappeler; Claudia Fichtel. Foraging competence and its impact on social relationships in a socially tolerant wild primate. Animal Cognition (2025) 28(1).
+https://doi.org/10.1007/s10071-025-02011-7
+
+Sam Hill-Cousins; Emma Chereskin; Simon J. Allen; Richard C. Connor; Michael Krützen; Danai Papageorgiou; Stephanie L. King. Allied male dolphins use synchronous displays to strengthen social bonds in a cooperative context. Movement Ecology (2025) 13(1).
+https://doi.org/10.1186/s40462-025-00603-z
+
+Kaitlyn Taylor; Sean van der Merwe; Francois Deacon; Andri Grobbelaar; Anton Baotic. Ecological Exposure History Shapes Giraffe Vigilance Responses to Anthropogenic Noise: A Multisite Playback Experiment. Ecology and Evolution (2025) 15(12).
+https://doi.org/10.1002/ece3.72763
+
+Izïa Larrigaldie; Fabrice Damon; Dylan Brimaud; Léa Lansade; Benoist Schaal; Alexandra Destrez. Behaviour of ewes and lambs in response to human emotional odours. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-29186-w
+
+Anastasia Mutovina; Anna Sapronova; Kseniya Ayriyants; Yulia Ryabushkina; Julia Khantakova; Polina Mezhevalova; Polina Ritter; Natalya Bondar. Prolonged Aggressive Experience Accelerates Resolution of Inflammation in Blood and Microglia After Repeated LPS Treatment. International Journal of Molecular Sciences (2025) 26(24).
+https://doi.org/10.3390/ijms262412007
+
+Cesar O. Estien; Lauren A. Stanton; Christopher J. Schell. Differential effects of human density, environmental health, and group size on urban coyote detection, boldness, and exploration. Scientific Reports (2025) 15(1).
+https://doi.org/10.1038/s41598-025-21946-y
+
+Marleen Schumacher; Peter M. Kappeler; Claudia Fichtel. The effect of age on antipredator behaviour of Verreaux's sifakas, Propithecus verreauxi. Animal Behaviour (2025) 230().
+https://doi.org/10.1016/j.anbehav.2025.123385
+
+Oakleigh M. Folkes; Meaghan Donahue; Sung Eun Wang; Paola N. Negrón-Moreno; Nicole Xinyen Oo; Sheng-Nan Qiao; Xiaoming Wang; Yong-Hui Jiang. Deficiency of Shank3 in the nucleus accumbens reveals a loss of social-specific motivation. Communications Biology (2025) 8(1).
+https://doi.org/10.1038/s42003-025-08942-8
+
+Hongjian Cao; Nancy Eisenberg; Nan Zhou; Shaofan Wang; Jinhui Qiao. Parental responses to children's positive emotions: An integrative, heuristic framework and literature review. Developmental Review (2025) 78().
+https://doi.org/10.1016/j.dr.2025.101233
+
+Frank A. Drews; Jeanmarie Mayer; Molly Leecaster; Lindsay Visonvsky; Tavis Huber; Matthew H. Samore. Infection prevention behaviors and perceptions of nurses in a medical intensive care unit. Antimicrobial Stewardship and Healthcare Epidemiology (2025) 5(1).
+https://doi.org/10.1017/ash.2025.10231
+
+Urša Blenkuš; Friederike Range; Debora Prince; Corisande Abiven; Giulia Cimarelli; Sarah Marshall-Pescini. Personality traits in free-ranging dogs: Do experimental tests mirror natural behavior?. Iscience (2025) 28(11).
+https://doi.org/10.1016/j.isci.2025.113856
+
+Leah Houri-Zeevi; Madison M. Walker; Jacopo Razzauti; Anurag Sharma; H. Amalia Pasolli; Leslie B. Vosshall. A rapidly evolving female-controlled lock-and-key mechanism determines Aedes mosquito mating success. Current Biology (2025) 35(22).
+https://doi.org/10.1016/j.cub.2025.09.066
+
+Alayna G. Mackiewicz; Abigail M. Glazener; Kayla M. Goforth; Dana S. Lim; Catherine M.F. Lohmann; Kenneth J. Lohmann. Disruption of the sea turtle magnetic map sense by a magnetic pulse. Journal of Experimental Biology (2025) 228(22).
+https://doi.org/10.1242/jeb.251243
+
+Céline M. I. Rémy; Christophoros Zikos; Laura Ann Kelley; Neeltje Janna Boogert. Herring gulls respond to the acoustic properties of men's voices. Biology Letters (2025) 21(11).
+https://doi.org/10.1098/rsbl.2025.0394
+
+Charlotte Parker; Ryan Nolan; Clare P. Andrews; Melissa Bateson. Ability to predict irregular periods of food depriviation improves body-weight regulation and reduces weight gain in food-insecure starlings. Royal Society Open Science (2025) 12(11).
+https://doi.org/10.1098/rsos.250917
+
+Marissa M. Langager; Alicia G. Arneson; Dana M. Hawley. In sickness and in health: Group-living augments behavioural responses to food and predation risk for sick house finches (Haemorhous mexicanus). Royal Society Open Science (2025) 12(11).
+https://doi.org/10.1098/rsos.251715
+
+Monica McCard; Karla Alujević; Nathan McCard; Gareth Arnott; Louise Kregting; Jaimie T. A. Dick; Josie South. Personality, predation and group size: Unravelling behavioural drivers of lionfish (Pterois volitans) invasion success. Royal Society Open Science (2025) 12(11).
+https://doi.org/10.1098/rsos.251158
+
 Karen Lockey-Kennedy; Amy West-Brownbill; Juliane Kaminski. Ontogeny of dogs’ sensitivity to the human's attentional state: Do the eyes have it?. Applied Animal Behaviour Science (2025) 292().
 https://doi.org/10.1016/j.applanim.2025.106778
 
@@ -211,6 +1849,39 @@ https://doi.org/10.1016/j.anbehav.2025.123339
 Navina D. Liebermann-Lilie; Benedikt Schniedermeyer; Anabel Kröhnert; Sepand Riyahi; Sylvia Kaiser; Tim Schmoll; Peter Korsten. Adjustment of paternal care in response to experimental variation in extra-pair mating opportunity in male zebra finches. Hormones and Behavior (2025) 176().
 https://doi.org/10.1016/j.yhbeh.2025.105834
 
+Elin N. Hirsch; Belén Navarro Rivero; Maria Andersson. Cats in a Cat Café: Individual Cat Behavior and Interactions with Humans. Animals (2025) 15(22).
+https://doi.org/10.3390/ani15223233
+
+Lucia Yllan; Theresa Rueger. ‘What Does the Anemonefish Say?’: Investigating Amphiprion percula's Acoustic Behaviour. Ecology and Evolution (2025) 15(11).
+https://doi.org/10.1002/ece3.72479
+
+Karli R. Chudeau; Sophie Guarasci; Bethany Krebs; Cara Field; Jason V. Watters. Anticipatory Behavior and Enrichment: Insights into Assessing and Managing Harbor Seal (Phoca vitulina richardii) Pup Welfare in a Wildlife Rehabilitation Setting. Animals (2025) 15(22).
+https://doi.org/10.3390/ani15223237
+
+Denise Dalbosco Dell’Aglio; Owen McMillan; Stephen Montgomery. Heliconiini butterflies display flight behaviours reminiscent of orientation flights when using new floral sources. Journal of Experimental Biology (2025) 228(21).
+https://doi.org/10.1242/jeb.250975
+
+Michael J. Roast; Grant C. McDonald; Tamás Székely; András Kosztolányi; Ivan Maggini. No detectable deployment impacts of solar-powered GPS devices for long-term use on a small shorebird. Journal of Avian Biology (2025) 2025(6).
+https://doi.org/10.1002/jav.03508
+
+Brendan L McEwen; Justin Yeager; Ana Veneat; James B Barnett. Larger frogs are better mimics but are more risk-averse in a nontoxic poison frog. Behavioral Ecology (2025) 36(6).
+https://doi.org/10.1093/beheco/araf117
+
+Travis I. Moore; William G. Bright; William E. Bell; Tessa K. Solomon-Lane; Sebastian G. Alvarado; Peter D. Dijkstra. Background color matching affects sexual behavior, growth, and mortality rate in an African cichlid. Behavioral Ecology (2025) 36(6).
+https://doi.org/10.1093/beheco/araf120
+
+Robin Van Iersel; Rianne Pinxten; Marcel Eens. Is aggression related to inhibitory control in a free-living female songbird?. Behavioral Ecology (2025) 36(6).
+https://doi.org/10.1093/beheco/araf126
+
+Theresa Rössler; Mark O’Hara; Berenika Mioduszewska; Remco Folkertsma; Roger Mundry; Alice M.I. Auersperg. Seizing opportunities: Object neophobia as a factor mediating technical innovation in Goffin's cockatoos?. Plos One (2025) 20(11 November).
+https://doi.org/10.1371/journal.pone.0335028
+
+Rebecca Figge-Schlensok; Anne Petzold; Nele Hugger; Alisa Bakhareva; Ali Taleb Abdallah; Chantal Wissing; Hanna Elin van den Munkhof; Marla Yasmin Witt; Deema Imad Awad; Tatiana Korotkova. A lateral hypothalamic neuronal population expressing leptin receptors counteracts anxiety to enable adaptive behavioral responses. Nature Neuroscience (2025) 28(11).
+https://doi.org/10.1038/s41593-025-02078-y
+
+Melina C. Acosta; Ian D. Warren; Wendy Saltzman; Khaleel A. Razak. Sex-Specific Effects of Experience With Pups on Perineuronal Net Expression in the Biparental California Mouse (Peromyscus californicus). Journal of Comparative Neurology (2025) 533(11).
+https://doi.org/10.1002/cne.70104
+
 Marco Boschiero; Chiara Facca; Francesco Cavraro; Matilde Tonolli; Stefano Malavasi; Piero Franzoi. Feeding strategies of the invasive blue crab (Callinectes sapidus) on manila clam (Ruditapes philippinarum): Implications for aquaculture. Estuarine Coastal and Shelf Science (2025) 325().
 https://doi.org/10.1016/j.ecss.2025.109486
 
@@ -223,11 +1894,17 @@ https://doi.org/10.1016/j.isci.2025.113581
 Susana C.M. Ferreira; Fabiana De Angelis; Sarah Ambruosi; Giulia Ferroni; Matteo Chincarini; Charlotte Goursot. Bridging human and animal personality: A behavioral test to assess reward sensitivity. Iscience (2025) 28(10).
 https://doi.org/10.1016/j.isci.2025.113487
 
+Juan Pablo Hourcade; Catalina Suárez; Eugenia Vázquez; Ewelina Bakala; Anaclara Gerosa; Flannery Hope Currin. Stories and Voice Agents to Support Social Roleplay for Preschool Children. Proceedings of the ACM on Human Computer Interaction (2025) 9(7).
+https://doi.org/10.1145/3757506
+
 Lauren Powell; Kathryn Graham; Laura Grant; Olivia Lenz; Chelsea L. Reinhard; Holly Yost; Elena Anderson; Brittany Watson. Insights into shelter dog outcomes using behavioral and biological stress markers. Physiology and Behavior (2025) 300().
 https://doi.org/10.1016/j.physbeh.2025.115040
 
 Elizabeth M. Myles; M. Elizabeth O'Leary; Isaac D. Romkey; Sara I. Hamm; Laura Dauphinee; Amanda Piano; Stéphane Bronner; Tara S. Perrot. Lactobacillus helveticus R0052 and Bifidobacterium longum R0175 administration to Long–Evans rats has interactive effects with sex and diet on anxiety-related feeding behaviors and specific endocrine outcomes. Physiology and Behavior (2025) 300().
 https://doi.org/10.1016/j.physbeh.2025.115030
+
+Rachael Miller; Vedrana Šlipogor; Kai R. Caspar; Jimena Lois-Milevicich; Carl Soulsbury; Stephan A. Reber; Claudia Mettke-Hofmann; Megan Lambert; Benjamin J. Ashton; Alice M.I. Auersperg; Melissa Bateson; Solenne Belle; Boris Bilčík; Laura M. Biondi; Francesco Bonadonna; Desiree Brucks; Michael W. Butler; Samuel P. Caro; Marion Charrier; Tiffany Chatelin; Johnathan Ching; Nicola S. Clayton; Benjamin J. Cluver; Ella B. Cochran; Francesca Cornero; Emily Danby; Samara Danel; Martina Darwich; James R. Davies; Alicia de la Colina; Dominik Fischer; Ondřej Fišer; Florencia Foitzick; Edward C. Galluccio; Clara Garcia-Co; Elias Garcia-Pelegrin; Isabelle George; Kai-Philipp Gladow; Raúl O. Gómez; Anna Grewer; Katie Grice; Lauren M. Guillette; Devon C. Hallihan; Katie J. Harrington; Frauke Heer; Chloe Henry; Vladimira Hodova; Marisa Hoeschele; Cécilia Houdelier; Paula Ibáñez de Aldecoa; Oluwaseun Serah Iyasere; Yuka Kanemitsu; Mina Khodadadi; Duc Khong; Melanie G. Kimball; Ariana N. Klappert; Lucy N. Koch; Uta U. König von Borstel; Lubor Košt’ál; Anastasia Krasheninnikova; Lubica Kubikova; Connor T. Lambert; Daan W. Laméris; Courtenay G. Lampert; Oceane Larousse; Christine R. Lattin; Zhongqiu Li; Michael Lindenmeier; Delia A. Lister; Julia A. Mackenzie; Selina Mainz; Danna Masri; Jorg J.M. Massen; Laurenz Mohr; Wendt Müller; Paul M. Nealen; Andreas Nieder; Aurèle Novac; Nínive Paes Cavalcante; Kristina Pascual; Carla Pascual-Guàrdia; Ayushi Patel; Katarína Pichová; Cristina Pilenga; Laurent Prétôt; John L. Quinn; Elena Račevska; Juan C. Reboreda; Sam Reynolds; Amanda R. Ridley; Theresa Rössler; Francisco Ruiz-Raya; Marina Salas; Beatriz C. Saldanha; Sebastián M. Santiago; Nikola Schlöglová; Gia Seatriz; Eva Serrano-Davies; Eva G. Shair Ali; Janja Sirovnik; Zuzana Skalná; Katie E. Slocombe; Masayo Soma; Tiziana Srdoc; Stefan Stanescu; Michaela Syrová; Alex H. Taylor; Christopher N. Templeton; Karlie Thompson; Sandra Trigo; Camille A. Troisi; Utku Urhan; Maurice Valbert; Kees van Oers; Alberto Velando; Frederick Verbruggen; Jorrit W. Verkleij; Alizée Vernouillet; Jonas Verspeek; Petr Veselý; Auguste M.P. von Bayern; Eline Waalders; Benjamin A. Whittaker; Ella R. Williamson; Vanessa A.D. Wilson; Michelle A. Winfield; Neslihan Wittek; Karen K.L. Yeung; Jade A. Zanutto. A large-scale study across the avian clade identifies ecological drivers of neophobia. Plos Biology (2025) 23(10).
+https://doi.org/10.1371/journal.pbio.3003394
 
 Léo Perrier; Lény Lego; Tristan Cladière; Martin Blanchard; Lindelani Makuya; Wiebke Berns; Aurélie Pradeau; Carsten Schradin; Michael D. Greenfield; Nicolas Mathevon; Florence Levréro. Ultrasonic signals support a large-scale communication landscape in wild mice. Current Biology (2025) 35(19).
 https://doi.org/10.1016/j.cub.2025.08.028
@@ -282,6 +1959,21 @@ https://doi.org/10.1007/s10530-025-03674-6
 
 Camila C. Portugal; Evelyn C.S. Santos; Ana Monteiro-Pacheco; Sara Costa-Pinto; Tiago O. Almeida; Joana Tedim-Moreira; Dora Gavin; Teresa Canedo; Fabiana Oliveira; Isabel Cardoso; Teresa Summavielle; Sandra H. Vaz; Renato Socodato; João B. Relvas. Enhancing microglial antioxidant capacity via the ascorbate transporter SVCT2 delays onset and modifies disease progression in mouse models of Alzheimer's disease. Redox Biology (2025) 86().
 https://doi.org/10.1016/j.redox.2025.103851
+
+Alex Blanche; Michael R. Conover; S. Nicole Frey. Competitive interactions among Gymnogyps californianus (California Condor) and other avian scavengers in southern Utah. Ornithology (2025) 142(4).
+https://doi.org/10.1093/ornithology/ukaf024
+
+Gabriele Schino; Guendalina Francesconi; Elsa Addessi. Does Knowledge of the Partner's Need Affect Food Sharing in Tufted Capuchin Monkeys?. American Journal of Primatology (2025) 87(10).
+https://doi.org/10.1002/ajp.70083
+
+Sarah Kappel; Emeline Nogues; Daniel M. Weary; Marina A.G. von Keyserlingk. Exploring dairy heifers’ consistency in social motivation in the absence or presence of conspecifics. Plos One (2025) 20(10 October).
+https://doi.org/10.1371/journal.pone.0334000
+
+Federica Amici; Manuela Ersson-Lembeck; Manfred Holodynski; Katja Liebal. Initiation of Affiliative Interactions and Visual Engagement During Mother-Infant Interactions in Humans, Great Apes and Small Apes. International Journal of Primatology (2025) 46(5).
+https://doi.org/10.1007/s10764-025-00516-z
+
+Surojit Sural; Zion Walker; Oliver Hobert. Gut epithelium modifies enteric behaviors during nutritional adversity via distinct peptidergic signaling axes. Science Advances (2025) 11(39).
+https://doi.org/10.1126/sciadv.adw1270
 
 Martina Lazzaroni; Giulia Cimarelli; Manon Delaunay; Friederike Range; Sarah Marshall-Pescini. Object-directed behaviors and human-directed sociability are linked in free-ranging dog puppies. Iscience (2025) 28(9).
 https://doi.org/10.1016/j.isci.2025.113231
@@ -354,6 +2046,9 @@ https://doi.org/10.1111/1365-2664.70128
 
 Molly J. Goodfellow; Amanda L. Hrdlick; Boris Piskoun; Julie L. Proctor; Parisa Rangghran; Michael C. Shaughness; Alexandra Vesselinov; Su Xu; Rao P. Gullapalli; Ulrich H. Leiste; William L. Fourney; Catriona H. T. Miller; Jody C. Cantu; Gary Fiskum. Characterization of a Ferret Model of Traumatic Brain Injury due to Under-Vehicle Blast, Controlled Cortical Impact, or Blast Plus Impact. Journal of Neuroscience Research (2025) 103(9).
 https://doi.org/10.1002/jnr.70081
+
+Jack L. Manera; Jake M. Martin; Maria M. Palacios; Rachel T. Mason; Mark I. McCormick; Bob B.M. Wong. Boat noise alters individual behaviors but not communication between partners in a fish-shrimp mutualism. Behavioral Ecology (2025) 36(5).
+https://doi.org/10.1093/beheco/araf110
 
 Marie Hirel; Hélène Meunier; Hannes Rakoczy; Julia Fischer; Stefanie Keupp. Tonkean macaques do not prefer the helper or the hinderer in the hill paradigm. Royal Society Open Science (2025) 12(8).
 https://doi.org/10.1098/rsos.250488
@@ -750,6 +2445,9 @@ https://doi.org/10.1242/jeb.249936
 
 Leonie Pethig; Claudia Fichtel; Amrei Pfaff; Peter M. Kappeler. Age-dependent drivers of sex-specific disappearance in wild redfronted lemurs: the role of behavior. Behavioral Ecology and Sociobiology (2025) 79(4).
 https://doi.org/10.1007/s00265-025-03592-6
+
+Krishan Lala; Sheri Johnson. Elevated Temperatures Enhance Movement and Aggression in an Intertidal Fish. Biological Bulletin (2025) 248(2-3).
+https://doi.org/10.1086/741237
 
 Barkha J. Yadav-Samudrala; Aryan P. Yadav; Rahul P. Patel; Sylvia Fitting. HIV-1 Tat protein alters medial prefrontal cortex neuronal activity and recognition memory. iScience (2025) 28(3).
 https://doi.org/10.1016/j.isci.2025.112075
@@ -1374,6 +3072,84 @@ https://doi.org/10.1007/s12264-025-01506-0
 
 Jesús Servando Medel-Matus; Cesar Santana-Gomez; Ruby G. Escalante; Dominique Duncan; Pedro F. Viana; Giulia Sofia Cereda; Naoto Kuroda; Aristea S. Galanopoulou. Artificial intelligence in preclinical epilepsy research: Current state, potential, and challenges. Epilepsia Open (2025) ().
 https://doi.org/10.1002/epi4.70137
+
+Sharline Cully; Nancy Rebout; Lucy V. Kemp; Samara Danel. Mirror, Mirror on the Wall: Preventing Shadow Boxing through Habituation A Pilot Study. International Journal of Comparative Psychology (2025) 38().
+https://doi.org/10.46867/ijcp.48963
+
+Marie Krenger; Catherine Thevenot. Finger Counting Is Not a Dead End: Early Finger Use as a Marker of Arithmetic Development. Journal of Cognition and Development (2025) ().
+https://doi.org/10.1080/15248372.2025.2606280
+
+Ana M. Pereira; Núria Teixeira; Tomás Torrão; Jade Ferbus; Margarida Silva; Joana I. Robalo. Invasive potential of Phymactis papillosa: assessing environmental tolerance and ecological impact on the Portuguese intertidal ecosystems. Neobiota (2025) (102).
+https://doi.org/10.3897/neobiota.102.148042
+
+Butler; van Heerden; Farthing; Childs; Potts. The behavioural response of an estuarine teleost (Cape stumpnose Rhabdosargus holubi) to angler bait collection in two adjacent Eastern Cape estuaries, South Africa. African Journal of Marine Science (2025) 47(4).
+https://doi.org/10.2989/1814232X.2025.2552320
+
+Deyatima Ghosh; Vishal Kumar Prasad; Dallin B. Kohler; Amaël Borzée. First Evidence of Diverse Inhibitory Control Abilities in Pre- and Post-Metamorphic Salamanders. Integrative Zoology (2025) ().
+https://doi.org/10.1111/1749-4877.70030
+
+Sofia Vilela; Peini Chen; So Murakami; Yusuke Tanabe; Shinya Yamamoto. Increase in left-side oriented behaviours associated to negative emotions in captive Asian elephants. Laterality (2025) 30(2-6).
+https://doi.org/10.1080/1357650X.2025.2573390
+
+Johanka Bláhová; Michaela Syrová; Václav Helebrant; Alena Fišerová; Ondřej Fišer; Jan Špička; Veronika Boháčová; Petr Veselý. Common Ringed Plover (Charadrius hiaticula) is able to adjust the nest defense to perceived risk. Journal of Ornithology (2025) ().
+https://doi.org/10.1007/s10336-025-02336-7
+
+Deijah D. Bradley; Elianna J. Schimke; Alyssa P. Alvey; Hans A. Hofmann; Tessa K. Solomon-Lane. Tagging Very Small Fish: Two Effective and Low Impact Methods. Journal of Experimental Zoology Part A Ecological and Integrative Physiology (2025) ().
+https://doi.org/10.1002/jez.70058
+
+Megan Woodrum Setser; Daniel Brown; Joao HC Costa; Katherine Creutzinger. Taste aversion as a motivation test of hunger in dairy calves. Frontiers in Animal Science (2025) 6().
+https://doi.org/10.3389/fanim.2025.1602011
+
+Armstrong. EARLY RELATIONAL INTERVENTION THROUGH DYADIC ART THERAPY WITH INFANTS AND CAREGIVERS. Routledge International Handbook of Art Therapy Practice (2025) ().
+https://doi.org/10.4324/9781032624457-4
+
+Bram K. M. van der Schoot; Nico K. Michiels. Improved predator detection through illumination with red fluorescence by a small benthic fish. Does it work?. Frontiers in Ecology and Evolution (2025) 13().
+https://doi.org/10.3389/fevo.2025.1728992
+
+Yvonne Kortsmit; Margarita Sklavounou; Marcel Dicke; Joop J.A. Van Loon. Influence of diet on initial mating behaviour in the black soldier fly (Hermetia illucens). Journal of Insects as Food and Feed (2025) ().
+https://doi.org/10.1163/23524588-bja10342
+
+Sophia Schumann; Velizara Stoilova; Elisabetta Piva; David Aldvén; Stephanie Müller; Emil Nordström; Patrik Andreasson; Karin A. Nilsson; Ann Erlandson; Larry Greenberg; Andrea Marion; Daniela Bertotto; Gianfranco Santovito. Physiological and behavioral responses of Atlantic Salmon smolts to jet injector flow for downstream guidance. Hydrobiologia (2025) ().
+https://doi.org/10.1007/s10750-025-06068-w
+
+Linda Marie Backeman Hannius; Linda Keeling; Anna Wallenbeck. Under pressure: effect of first-parity sows’ early social experience and genetic line on behavior and lesions in a paired interaction test with an older sow. Frontiers in Animal Science (2025) 6().
+https://doi.org/10.3389/fanim.2025.1711609
+
+Jaap; Kahnau; Lewejohann. In search of a conditioned place preference test for mice to assess the severity of experimental procedures. Behaviour (2025) 162(13-14).
+https://doi.org/10.1163/1568539X-bja10332
+
+Gunn; Michiels. Quantifying the links between behavioural and ecological variables influencing marine cleaning mutualisms. Aquatic Biology (2025) 34().
+https://doi.org/10.3354/ab00774
+
+Manon Themelin; Kathleen M. Dudzinski. Bottlenose dolphins (Tursiops truncatus) pair swimming positions in non-mother-calf dyads. Behaviour (2025) 162(13-14).
+https://doi.org/10.1163/1568539X-bja10333
+
+Bilge Büyükdemirtaş; Milan Benn; Han Bin Kwon; Ellie Rosen; Laverne Camille Melón. Adolescent binge drinking causes sex-specific deficits in behavioral reactivity, endocrine recovery from stress and altered expression of hypothalamic KCC2 in males. Psychopharmacology (2025) ().
+https://doi.org/10.1007/s00213-025-06969-7
+
+Mathes; Cunningham; Johnson; Kuchta; Brown; Kaunert; Popescu. Complex demographic, developmental, fitness, and physiological responses of larval eastern hellbenders to elevated water conductivity. Journal of Zoology (2025) ().
+https://doi.org/10.1111/jzo.70097
+
+Margherita Greco; Annalaura Lopez; Vittorio Maria Moretti; Silvana Mattiello; Beatrice Marcolli; Stefania Celozzi; Federica Bellagamba. Preliminary study on the milk producing ability of Ciuta sheep. Frontiers in Animal Science (2025) 6().
+https://doi.org/10.3389/fanim.2025.1698620
+
+Angeles Romina Arena; Mara Roxana Rubinstein; Ana María Genaro; Vera Tifner; Denise Mariel Risnik; Jhon Esteban López-Carvajal; Federico Manuel Daray; Eugenio Antonio Carrera Silva; Andrea Emilse Errasti. Ketamine reduces microglial activation and brain monocyte infiltration and promotes peripheral regulatory immune cells, relieving lipopolysaccharide (LPS)-induced depressive-like behavior in mice. Molecular Psychiatry (2025) ().
+https://doi.org/10.1038/s41380-025-03338-w
+
+Clara N. Bird; Enrico Pirotta; Leslie New; Jamie M. Cornelius; James L. Sumich; Kate M. Colson; Bierlich; Lisa Hildebrand; Alejandro Apolo Fernández Ajó; Annie Doron; Leigh G. Torres. Size and body condition drive the energetic cost of a baleen whale foraging in shallow habitat. Peerj (2025) ().
+https://doi.org/10.7717/peerj.20247
+
+Abhishek Singh; Prabhat Sharma; Mansha Jain; Pranati Mahajan; Jasmine Bajaj; Vaidehi Gupta; Niels Dingemanse; Bittu Kaveri Rajaraman. State or personality trait: determinants of boldness and shoal size preference in adult zebrafish. Ethology Ecology and Evolution (2025) 37(6).
+https://doi.org/10.1080/03949370.2025.2563567
+
+Justin L. Shobe; Elham Ghanbarian; Robert Bain; Rajat Saxena; Meenakshi Chandrasekaran; Bruce L. McNaughton. Cognitive enrichment improves spatial memory and alters hippocampal synaptic connectivity in a mouse model for early-life stress. Frontiers in Cellular Neuroscience (2025) 19().
+https://doi.org/10.3389/fncel.2025.1646883
+
+Emma Woolgar; Yegang Du; Steven Errington; Benjamin Slater; Toshimi Ogawa; Yukiko Kikuchi. Behavioral Effects of AI-generated Synthetic Vocalizations in Free-Moving Marmosets. Proceedings 2025 IEEE Cyber Science and Technology Congress Cyberscitech 2025 (2025) ().
+https://doi.org/10.1109/CyberSciTech68397.2025.00122
+
+James W. E. Dickey; Julian W. Zeller; Elizabetha Briski; Jonathan M. Jeschke; Gareth Arnott. Food fight: Gammarus tigrinus demonstrate competitive advantage over native G. duebeni. Neobiota (2025) (97).
+https://doi.org/10.3897/neobiota.97.141901
 
 Camilla Mancini; Lucy Babicola; Gilda Chila; Matteo Di Segni; Diana Municchi; Sebastian Luca D'Addario; Elena Spoleti; Alice Passeri; Carlo Cifani; Diego Andolina; Simona Cabib; Fabio Ferlazzo; Marco Iosa; Rodolfo Rossi; Giorgio Di Lorenzo; Massimiliano Renzi; Rossella Ventura. Secure attachment to caregiver prevents adult depressive symptoms in a sex-dependent manner: A translational study. iScience (2024) 27(12).
 https://doi.org/10.1016/j.isci.2024.111328
