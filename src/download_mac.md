@@ -60,16 +60,16 @@ export CPPFLAGS="-I/usr/local/opt/openblas/include"
 export PKG_CONFIG_PATH="/usr/local/opt/openblas/lib/pkgconfig"
 export CMAKE_PREFIX_PATH="/usr/local/opt/openblas"
 
-uvx --python 3.13 boris-behav-obs@latest
+uvx --python 3.13 boris@latest
 ```
 
 The next time you want to launch BORIS just open a terminal and type the command:
 
-`uvx --python 3.13 boris-behav-obs@latest`
+`uvx --python 3.13 boris@latest`
 
 To launch a specific version of BORIS:
 
-`uvx --python 3.13 boris-behav-obs==10.0.2`
+`uvx --python 3.13 boris==10.0.2`
 
 ###
 

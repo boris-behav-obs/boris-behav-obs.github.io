@@ -3,26 +3,21 @@ hide:
   - navigation
   - toc
 author:
-- Olivier Friard
-title: 'BORIS from source code'
+  - Olivier Friard
+title: "BORIS from source code"
 ---
-
-
 
 # Requirements
 
-
 BORIS requires the installation of:
 
-* the [mpv video player library](https://www.mpv.io) (libmpv1 or libmpv2)
+- the [mpv video player library](https://www.mpv.io) (libmpv1 or libmpv2)
 
-* the [FFmpeg](https://www.ffmpeg.org) framework
+- the [FFmpeg](https://www.ffmpeg.org) framework
 
-* the [GraphViz](https://graphviz.org/) tool (Optional)
-
+- the [GraphViz](https://graphviz.org/) tool (Optional)
 
 ## Install requirements for Debian based distributions
-
 
 Example for Debian based distributions like Ubuntu, Kubuntu, Xubuntu, Linux Mint ...
 
@@ -38,8 +33,6 @@ for Ubuntu, Linux Mint:
     sudo apt install libmpv2 ffmpeg graphviz libxcb-cursor0
     (your root password will be required)
 
-
-
 ## Install requirements for Microsoft-Windows
 
 Open a command prompt and type:
@@ -47,63 +40,46 @@ Open a command prompt and type:
     winget install ffmpeg
     winget install Graphviz.Graphviz
 
-
-
 # Install and run BORIS
-
 
 ## Linux
 
 Open a terminal and type:
 
-    wget -qO- http://www.boris.unito.it/static/boris.sh | sh 
-
+    wget -qO- http://www.boris.unito.it/static/boris.sh | sh
 
 ## Microsoft-Windows
-
-
 
 # Hard way
 
 ## Install the uv Python package manager
 
-
 See [Installing uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 After installing uv you should close and re-open your terminal / Command prompt
-
 
 ## Create a new Python project
 
 Open a terminal and type:
 
-    uv init --python 3.12 BORIS
+    uv init --python 3.13 BORIS
     cd BORIS
-    uv add boris-behav-obs
+    uv add boris
 
 To start BORIS:
 
-    uv run boris-behav-obs
+    uv run boris
 
-
-##  Start BORIS
+## Start BORIS
 
 To start again type once it is installed:
 
     cd BORIS
-    uv run boris-behav-obs
-
-
-
+    uv run boris
 
 BORIS will launch, do **not** close the terminal whhile BORIS is running.
 
-
-
-
-
 !!! Warning "Additional libraries"
-   
 
     On **Ubuntu 20.04** it can be necessary to install the following libraries:
 
@@ -115,12 +91,9 @@ BORIS will launch, do **not** close the terminal whhile BORIS is running.
         sudo ln -s /usr/lib/x86_64-linux-gnu/libffi.so.7 /usr/lib/x86_64-linux-gnu/libffi.so.6
         (your root password will be required)
 
-
 {% include 'revision_history.md' %}
 
-
 If you want to report a bug, see the [how to report a bug](report_a_bug.md) page.
-
 
 ## Debian 11 (Bullseye)
 
@@ -133,8 +106,6 @@ and use one of the following methods to install it.
 Download the [BORIS deb package 64-bit libmpv2
 v.{{ boris.version }}](https://github.com/olivierfriard/BORIS/releases/download/v{{ boris.version }}/boris_{{ boris.version }}-0_libmpv2.deb)
 and use one of the following methods to install it.
-
-
 
 ## Install BORIS with the Software Installer
 
@@ -149,8 +120,6 @@ In a terminal, type:
 
     su (you root password will be asked)
     apt install gnome-software
-
-
 
 ## Install BORIS with command-line (expert mode)
 
@@ -174,7 +143,6 @@ type:
 You should find the icon for starting BORIS in the **Education** menu,
 you do not need everything else.
 
-
 <!--
 
 ## Pre-release of BORIS
@@ -193,10 +161,6 @@ Download [BORIS PRE-RELEASE v. 9.0.5 libmpv2](https://github.com/olivierfriard/B
 
 -->
 
-
-
-
-
 ### Bug report, feature request and discussion
 
 See the [how to report a bug](report_a_bug.md) page.
@@ -206,18 +170,12 @@ See the [how to report a bug](report_a_bug.md) page.
 [Suggestions and general
 discussion](https://github.com/olivierfriard/BORIS/discussions)
 
-
-
 {% include 'revision_history.md' %}
-
 
 ### Older Debian
 
-
 Refer to the [Other Linux](other_linux.md) page
 
-
 ### Checksums
-
 
 {% include 'checksums.md' %}
