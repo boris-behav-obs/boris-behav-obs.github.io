@@ -1,6 +1,6 @@
 **2026-10-16: Release of version 10.0.2**
 
-The version 10.0.2 is available. The video player is noe embedded on macOS
+The version 10.0.2 is available. The video player is now embedded on macOS
 
 **2026-09-01: Release of version 9.15.0**
 

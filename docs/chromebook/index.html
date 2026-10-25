@@ -624,46 +624,41 @@ Python under this Linux (BORIS is coded in Python) as described at:
 </li>
 <li>
 <p>Find "Linux (Beta) under Settings - this will allow us to install a
-    Linux container within the Chrome OS (some Chromebooks may not have
-    this option).</p>
+  Linux container within the Chrome OS (some Chromebooks may not have
+  this option).</p>
 </li>
 </ul>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/chromebook_settings.png" data-desc-position="bottom"><img alt="Chromebook settings" src="../images/chromebook_settings.png"></a></p>
 <ul>
 <li>
 <p>Install the Linux using the "turn on"button - if not already turned
-    on. Then click install.</p>
+  on. Then click install.</p>
 </li>
 <li>
 <p>Once the Linux installation is complete, it automatically opens the
-    Linux terminal (or you can open this yourself).</p>
+  Linux terminal (or you can open this yourself).</p>
 </li>
 <li>
 <p>Upgrade the packages to the latest version by typing in the
-    terminal:</p>
-<pre><code>sudo apt update
-</code></pre>
+  terminal:</p>
+<p>sudo apt update</p>
 </li>
 <li>
 <p>Install VLC and FFmepg:</p>
-<pre><code>sudo apt install vlc ffmpeg libpulse-mainloop-glib0
-</code></pre>
+<p>sudo apt install vlc ffmpeg libpulse-mainloop-glib0</p>
 </li>
 <li>
 <p>The minimal version of Python for running Boris is 3.6. Check the
-    Python version:</p>
-<pre><code>python3 --version
-</code></pre>
+  Python version:</p>
+<p>python3 --version</p>
 </li>
 <li>
 <p>You need to install the python3-venv package:</p>
-<pre><code>sudo apt install python3-venv
-</code></pre>
+<p>sudo apt install python3-venv</p>
 </li>
 <li>
 <p>Create a virtual environment for installing BORIS:</p>
-<pre><code>python3 -m venv boris_venv
-</code></pre>
+<p>python3 -m venv boris_venv</p>
 </li>
 </ul>
 <p>You should see a new directory called "boris_venv" with the command: <code>ls -l</code></p>
@@ -672,8 +667,9 @@ environment:</p>
 <pre><code>source boris_venv/bin/activate
 </code></pre>
 <ul>
-<li>Install BORIS:<pre><code>pip3 install boris-behav-obs
-</code></pre>
+<li>
+<p>Install BORIS:</p>
+<p>pip3 install boris</p>
 </li>
 </ul>
 <p>For future BORIS launch, you will only have to activate your virtual

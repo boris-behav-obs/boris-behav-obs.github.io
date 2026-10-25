@@ -12,13 +12,13 @@ if ! command -v uv &> /dev/null; then
 else
     echo "The uv Python package manager is already installed"
     uv self update
-fi    
+fi
 
 
 
 if [ -d "$HOME/BORIS_program" ]; then
     cd $HOME/BORIS_program
-    uv run boris-behav-obs
+    uv run boris
 else
 
 
@@ -27,13 +27,11 @@ else
     # installation of BORIS
     echo "Directory $HOME/BORIS_program does not exist."
     echo "Creating the $HOME/BORIS_program project and install BORIS"
-    uv init --python 3.12 $HOME/BORIS_program
+    uv init --python 3.13 $HOME/BORIS_program
     cd $HOME/BORIS_program
-    uv add boris-behav-obs
+    uv add boris
 
-    uv run boris-behav-obs
+    uv run boris
 
 
 fi
-
-
